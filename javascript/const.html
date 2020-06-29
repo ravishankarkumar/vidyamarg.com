@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <meta name="google-site-verification" content="Xhw4a0jsVf3wK1Bs1Yv9AxC1SWe-XPLl6DVXNVR0INk" />
+
+  <title>JavaScript const| Ravi Shankar</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="../vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+  <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+  <!-- Prism CDN -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.16.0/themes/prism-tomorrow.min.css" rel="stylesheet" type="text/css">
+
+  <!-- Custom styles for this template -->
+  <link href="../css/clean-blog.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+    <div class="container">
+      <a class="navbar-brand" href="../index.html">Ravi Shankar</a>
+      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        Menu
+        <i class="fas fa-bars"></i>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="../index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../about.html">About</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="../doc/resume.pdf">Resume</a>
+          </li>
+          <!-- <li class="nav-item">
+            <a class="nav-link" href="../post.html">Sample Post</a>
+          </li> -->
+          <li class="nav-item">
+            <a class="nav-link" href="../contact.html">Contact</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Page Header -->
+  <header class="masthead" style="background-image: url('../img/js-background.jpg')">
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="site-heading">
+            <h1>Const in JavaScript</h1>
+            <span class="subheading">Const data is not immutable, only its reference is immutable</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  
+  <!-- Post Content -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-10 col-md-10 mx-auto">
+            <h2 class="section-heading">Const is not immutable</h2>
+            <p>This might take you with surprise, but yes, const is not immutable. Const just creates immutable binding, which means, the variables which has been defined as const cannot be reassigned. The value of the variable in not guaranteed to be immutable. See the example below:</p>
+<pre>
+<code class="language-js">const myObj = {};
+myObj.myName = 'UrbanClap';
+console.log(myObj.myName);
+
+//The output would be:
+//UrbanClap
+</code>
+</pre>
+
+          <p>Let's see a second example:</p>
+<pre>
+<code class="language-js">const myArr = [];
+myArr.push(10);
+console.log(myArr); 
+
+//The output would be:
+//[ 10 ]
+</code>
+</pre>
+          <h2 class="section-heading">How to make it immutable</h2>
+
+          <blockquote class="blockquote">The primitive types are already immutable.</blockquote>
+
+          <p>Example:</p>
+
+<pre>
+<code class="language-js">const myVar = 20;
+myVar = 30;
+console.log(myVar);
+//The you try to run the above program, it will throw an error
+//TypeError: Assignment to constant variable.
+</code>
+</pre>
+
+          <blockquote class="blockquote">Non-primitives are mutable</blockquote>
+
+          <p>See an example below.</p>
+
+<pre>
+<code class="language-js">const myArr = [30];
+const myObj = {
+  uc: 'UrbanClap'
+}
+myArr.push(20);
+Object.defineProperty(myObj, 'name', {
+  value: 'Ravi',
+  enumerable: true
+});
+console.log(myObj);
+console.log(myArr);
+
+//The output would be:
+//{ uc: 'UrbanClap', name: 'Ravi' }
+//[ 30, 20 ]
+</code>
+</pre>
+
+          <p>Notice how I defined name property on myObj, I will come back to it very soon.</p>
+
+          <blockquote class="blockquote">Making non-primitives immutable.</blockquote>
+          
+<pre>
+<code class="language-js">const myArr = [30];
+const myObj = {
+  uc: 'UrbanClap'
+}
+Object.freeze(myArr);
+Object.freeze(myObj);
+myArr.push(20);
+Object.defineProperty(myObj, 'name', {
+  value: 'Ravi',
+  enumerable: true
+});
+console.log(myObj);
+console.log(myArr);
+</code>
+</pre>
+
+          <p>The above program will give errors.</p>
+
+          <p>Since, almost everything in Javascript derives from Object, we can use Object.freeze to make it practically immutable. Please note that, Object.freeze shallow in nature, which means the object at the top level becomes immutable, but sub-objects will not. Let's see an example:</p>
+
+<pre>
+<code class="language-js">const myStudent = {
+  name: 'Navneet',
+  details: {
+    college: 'Ewing'
+  }
+}
+Object.freeze(myStudent);
+myStudent.details.course = 'B.Sc.'
+console.log(myStudent);
+
+//The output would be:
+//{ name: 'Navneet',
+//  details: { college: 'Ewing', course: 'B.Sc.' } }
+</code>
+</pre>
+
+          <h2 class="section-heading">Object.seal</h2>
+
+          <p>Object.seal seals the object for addition or deletion of any property, but unlike freeze, the existing properties can be reassigned or reconfigured.</p>
+
+<pre>
+<code class="language-js">
+const myObj = {
+  name: 'Ravi'
+};
+Object.seal(myObj);
+myObj.name = 'Student';//allowed
+myObj.newName = 'NewStudent';//will fail
+console.log(myObj)
+</code>
+</pre>
+
+          <h2 class="section-heading">Object.defineProperty</h2>
+
+          <p>To understand the concept better, let's look at Object.defineProperty. This method is used to define properties on an object. And it can take 6 parameters for defining a property.</p>
+
+          <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
+
+          <table style="width:100%">
+            <tr>
+              <th>property</th>
+              <th>description</th>
+            </tr>
+            <tr>
+              <td>value</td>
+              <td>The value to assign to the property</td>
+            </tr>
+            <tr>
+              <td>writable</td>
+              <td>Whether the value of the property can be assigned or not</td>
+            </tr>
+            <tr>
+              <td>enumerable</td>
+              <td>whether the property will be enumerated in for-in loop or not</td>
+            </tr>
+            <tr>
+              <td>configurable</td>
+              <td>whether it will be possible to redefine the property descriptor or not</td>
+            </tr>
+            <tr>
+              <td>get</td>
+              <td>A function to be called that will return the value of the array</td>
+            </tr>
+            <tr>
+              <td>set</td>
+              <td>A function to be called when the property is assigned a value</td>
+            </tr>
+          </table>
+
+          <p>A property on an object can be created or modified using this method. Let's say in the above case, I want to make the property 'name', read only. I would do the following.</p>
+
+<pre>
+<code class="language-js">
+const myStudent = {
+  name: 'Navneet',
+  details: {
+    college: 'Ewing'
+  }
+}
+myStudent.details.course = 'B.Sc.'
+Object.defineProperty(myStudent, 'name', {
+  writable: false
+})
+myStudent.name = 'NavneedModified';// This will silently fail
+console.log(myStudent)
+
+//The output would be:
+{ name: 'Navneet',
+  details: { college: 'Ewing', course: 'B.Sc.' } }
+</code>
+</pre>
+
+            <p>We can also make use of getters and setters to modify values.</p>
+
+<pre>
+<code class="language-js">
+const myObj = { };
+Object.defineProperty(myObj, 'newName', {
+  enumerable: true,
+  set: function(val) {
+    this.name = val + " Coin";
+  },
+  get: function () {
+    return this.name
+} })
+myObj.newName = "UC"
+console.log(myObj.newName)
+</code>
+</pre>
+
+        </div>
+      </div>
+    </div>
+  </article>
+
+
+  <hr>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <ul class="list-inline text-center">
+            <li class="list-inline-item">
+              <a href="https://twitter.com/hypernomics">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <li class="list-inline-item">
+              <a href="https://www.facebook.com/profile.php?id=100005107668320">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li>
+            <!-- <li class="list-inline-item">
+              <a href="https://www.facebook.com/Ravi-Shankar-Software-Trainer-301104487275771/">
+                <span class="fa-stack fa-lg">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </li> -->
+          </ul>
+          <p class="copyright text-muted">Copyright &copy; Ravi Shankar 2019-2020</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="../vendor/jquery/jquery.min.js"></script>
+  <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.16.0/prism.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="../js/clean-blog.min.js"></script>
+
+</body>
+
+</html>
