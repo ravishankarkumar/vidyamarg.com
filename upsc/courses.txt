@@ -1,6 +1,6 @@
 1:HL["/_next/static/css/60253b96a9dc9dc7.css",{"as":"style"}]
 0:[[["",{"children":["upsc",{"children":["courses",{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],"$L2",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/60253b96a9dc9dc7.css","precedence":"next"}]],["$L3",null]]]]
-4:I{"id":"1366","chunks":["990:static/chunks/990-13854a13e311a815.js","773:static/chunks/773-1ac012d2785a4c9e.js","791:static/chunks/791-e4fdcebae8bdb32c.js","185:static/chunks/app/layout-c9e8777beb28b282.js"],"name":"","async":false}
+4:I{"id":"1366","chunks":["990:static/chunks/990-13854a13e311a815.js","773:static/chunks/773-1ac012d2785a4c9e.js","791:static/chunks/791-e4fdcebae8bdb32c.js","185:static/chunks/app/layout-5a81a3c1461d2fc6.js"],"name":"","async":false}
 5:I{"id":"4463","chunks":["272:static/chunks/webpack-85efb2003c99be9d.js","667:static/chunks/2443530c-3eb0e913db104c8c.js","488:static/chunks/488-d89dcdb34652647a.js"],"name":"","async":false}
 6:I{"id":"1010","chunks":["272:static/chunks/webpack-85efb2003c99be9d.js","667:static/chunks/2443530c-3eb0e913db104c8c.js","488:static/chunks/488-d89dcdb34652647a.js"],"name":"","async":false}
 7:I{"id":"4143","chunks":["272:static/chunks/webpack-85efb2003c99be9d.js","667:static/chunks/2443530c-3eb0e913db104c8c.js","488:static/chunks/488-d89dcdb34652647a.js"],"name":"","async":false}
