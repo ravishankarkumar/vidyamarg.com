@@ -4,7 +4,7 @@ We only have lectures for Physics.
 
 ## Physics
 
-You can find the [youtube channel here](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u), and [Vidya Marg Physics page here](/jee-neet/physics)
+You can find the [youtube channel here](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u), and [Vidya Marg Physics page here](./physics/)
 
 <!-- **Input**
 
