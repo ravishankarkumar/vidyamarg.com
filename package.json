@@ -13,6 +13,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "vite": "^6.2.6",
     "vitepress": "^1.6.3"
   }
 }

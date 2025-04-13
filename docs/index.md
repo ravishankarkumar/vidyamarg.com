@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "Vidya Marg"
+  text: "A companion site for Vidya Marg youtube channel"
+  tagline: Simple language, great explanations
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Youtube
+      link: https://www.youtube.com/@VidyaMargbyRaviShankar-w9u
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Physics course page
+      link: /jee-neet/physics
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Hindi/Hinglish Language
+    details: Designed for people who primarly learn in Hindi/Hinglish and write the exam in English/Hindi
+  - title: Simple Language
+    details: We provide explanations/lessons in as simple a language as possible, so that everyone can understand
+  - title: Minimal assumption
+    details: We assume minimal prior assumption. Each of our lesson tries to be as complete as possible without compromising the quality
 ---
 
