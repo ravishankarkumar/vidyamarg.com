@@ -10,6 +10,8 @@ og:image: https://vidyamarg.com/og-physics-book.jpg
 
 **Note**: This is a beta version of the Physics Book. Full solutions, videos, and animations are coming soon! Share your feedback.
 
+**Beta Version**: Some equations may not render correctly. Solutions, videos, and animations coming soon! Share feedback.
+
 Welcome to the **Physics Book** by VidyaMarg, your definitive resource for mastering physics in **JEE Main, JEE Advanced, and NEET**. Designed for students preparing for competitive exams, our free book offers:
 
 - **Clear English Chapters**: In-depth, concise explanations of physics concepts in standard English.
