@@ -19,7 +19,7 @@ export default defineConfig({
       url: 'https://vidyamarg.com/books/physics',
       description: 'Free physics chapters with English explanations and MCQs for JEE and NEET.',
     })],
-    ['script', { src: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js', async: "true" }]
+    ['script', { src: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js', async: "true" }],
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

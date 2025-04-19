@@ -1,92 +1,243 @@
 ---
 title: Physics Book - Motion Along a Straight Line for JEE & NEET
-description: Learn kinematics in one dimension for JEE and NEET, covering position, velocity, acceleration, constant acceleration, and free-fall, with practice MCQs.
+description: Learn motion along a straight line for JEE and NEET, covering displacement, velocity, acceleration, kinematic equations, and free fall, with practice MCQs.
 slug: book/physics/motion-straight-line
-keywords: physics kinematics, JEE physics motion, NEET physics velocity, constant acceleration physics
+keywords: physics motion, JEE physics kinematics, NEET physics motion, kinematic equations
 og:image: https://vidyamarg.com/og-physics-motion-straight-line.jpg
 ---
 
 # Chapter 2: Motion Along a Straight Line
 
-Kinematics, the study of motion without considering its causes, is a cornerstone of physics. This chapter focuses on motion along a straight line, exploring concepts such as position, displacement, velocity, acceleration, constant acceleration, and free-fall. These principles are fundamental for JEE Main, JEE Advanced, and NEET, appearing in problems across mechanics, such as projectile motion, vehicle dynamics, and gravitational effects. With clear explanations, exam-focused examples, and rigorous problem-solving strategies, this chapter equips students to tackle numerical and conceptual challenges in competitive exams, ensuring precision and confidence.
+**Beta Version**: Some equations may not render correctly (try Chrome/Firefox, clear cache, or refresh). Solutions, videos, and animations coming soon!
 
-## 2.1 Position, Displacement, and Average Velocity
+Motion along a straight line, or **kinematics in one dimension**, is a foundational topic in physics, describing how objects move without considering the forces causing that motion. This chapter explores **displacement and distance**, **velocity**, **acceleration**, **kinematic equations for constant acceleration**, and **free fall**, essential for JEE Main, JEE Advanced, and NEET. These concepts appear in problems on motion of vehicles, falling objects, and relative motion. With detailed derivations, exam-focused examples, and robust problem-solving strategies, this chapter equips students to master kinematics for competitive exams, ensuring precision and conceptual clarity.
 
-### Position and Displacement
-Position defines an object’s location relative to a reference point, often represented as \( x \) on a straight line (e.g., a number line in meters). Displacement, a vector quantity, is the change in position, given by \( \Delta x = x_2 - x_1 \), where \( x_2 \) and \( x_1 \) are final and initial positions. Unlike distance (a scalar), displacement includes direction, critical for JEE/NEET problems involving motion analysis.
+## 2.1 Displacement, Distance, and Position
 
-**Solved Example**: A JEE problem involves a car moving from \( x_1 = 10 \, \text{m} \) to \( x_2 = -5 \, \text{m} \). Calculate the displacement.
-- **Solution**: \( \Delta x = x_2 - x_1 = -5 - 10 = -15 \, \text{m} \). The negative sign indicates motion in the negative direction, a common JEE kinematics question.
+**Displacement** is a vector quantity, defined as the change in position, $\Delta x = x_f - x_i$, where $x_f$ is the final position and $x_i$ is the initial position, measured in meters ($m$). **Distance** is the scalar total path length traveled, always positive. For example, a car moving 5 m east then 3 m west has a distance of 8 m but a displacement of 2 m east. **Position** ($x$) is the location relative to a reference point (origin). JEE/NEET problems often involve distinguishing displacement from distance and calculating position. *Fundamentals of Physics* emphasizes the vector nature of displacement.
 
-### Average Velocity
-Average velocity, a vector, is defined as displacement divided by time interval: \( v_{\text{avg}} = \frac{\Delta x}{\Delta t} \). It differs from average speed, a scalar based on total distance. For JEE/NEET, average velocity is tested in problems involving straight-line motion, such as vehicles or particles.
+**Derivation**: **Displacement in Terms of Velocity**  
+For constant velocity $v$, displacement is $\Delta x = v t$, where $t$ is time. If velocity varies, use the average velocity:  
+$$
+v_{\text{avg}} = \frac{\Delta x}{\Delta t} \quad \text{so} \quad \Delta x = v_{\text{avg}} \Delta t
+$$  
+For non-constant velocity, instantaneous velocity $v = \frac{dx}{dt}$ requires integration:  
+$$
+\Delta x = \int_{t_i}^{t_f} v(t) \, dt
+$$
 
-**Solved Example**: A NEET problem tracks a runner moving 100 m east in 20 s, then 50 m west in 10 s. Calculate the average velocity.
-- **Solution**: Total displacement = 100 m (east) - 50 m (west) = 50 m (east). Total time = 20 s + 10 s = 30 s. Thus, \( v_{\text{avg}} = \frac{50}{30} = 1.67 \, \text{m/s} \) (east, 3 significant figures, April 14, 2025).
+**Solved Example**: A JEE Main problem involves a car moving 10 m east, then 6 m west. Calculate the displacement and distance traveled.  
+- **Solution**:  
+  Distance: Total path length = $10 + 6 = 16 \, m$.  
+  Displacement: $\Delta x = 10 \, \text{(east)} - 6 \, \text{(west)} = 4 \, m$ east (2 significant figures, April 14, 2025).  
+  - **JEE Tip**: Displacement considers direction; distance does not. Common error: Ignoring direction in displacement.
 
-## 2.2 Instantaneous Velocity and Speed
+**Solved Example**: A NEET problem asks for the displacement of a particle with position $x = 5t^2 - 2t + 3$ from $t = 1 \, s$ to $t = 2 \, s$.  
+- **Solution**:  
+  Position at $t = 1$: $x(1) = 5(1)^2 - 2(1) + 3 = 6 \, m$.  
+  Position at $t = 2$: $x(2) = 5(2)^2 - 2(2) + 3 = 19 \, m$.  
+  Displacement:  
+  $$
+  \Delta x = x(2) - x(1) = 19 - 6 = 13 \, m
+  $$  
+  - **NEET Tip**: Use the position function directly for displacement. Common error: Confusing displacement with distance.
 
-Instantaneous velocity is the velocity at a specific moment, defined as the derivative of position with respect to time: \( v = \frac{dx}{dt} \). For straight-line motion, it’s the slope of the position-time graph. Instantaneous speed is the magnitude of velocity, a scalar. JEE/NEET problems often require interpreting graphs or calculating velocity at a given point.
+**Solved Example**: A JEE Advanced problem involves a particle moving with velocity $v = 3t^2 - 6t$. Find the displacement from $t = 0 \, s$ to $t = 2 \, s$.  
+- **Solution**:  
+  Displacement is the integral of velocity:  
+  $$
+  \Delta x = \int_{0}^{2} v(t) \, dt = \int_{0}^{2} (3t^2 - 6t) \, dt
+  $$  
+  Integrate: $3t^2 - 6t$ becomes $t^3 - 3t^2$. Evaluate:  
+  $$
+  \Delta x = [t^3 - 3t^2]_{0}^{2} = (2^3 - 3 \cdot 2^2) - (0 - 0) = 8 - 12 = -4 \, m
+  $$  
+  - **JEE Tip**: Negative displacement indicates direction opposite to the reference. Common error: Forgetting to evaluate at limits.
 
-**Solved Example**: A JEE Advanced problem gives a position function \( x(t) = 2t^2 + 3t \) (in meters, seconds). Find the instantaneous velocity at \( t = 2 \, \text{s} \).
-- **Solution**: \( v = \frac{dx}{dt} = \frac{d}{dt}(2t^2 + 3t) = 4t + 3 \). At \( t = 2 \), \( v = 4 \times 2 + 3 = 11 \, \text{m/s} \). This calculus-based approach is typical for JEE Advanced kinematics.
+**Application**: Displacement is used in navigation (e.g., GPS tracking a car’s net movement), while distance informs fuel consumption calculations.
 
-## 2.3 Acceleration
+## 2.2 Average and Instantaneous Velocity
 
-Acceleration measures the rate of change of velocity, a vector defined as \( a_{\text{avg}} = \frac{\Delta v}{\Delta t} \) (average) or \( a = \frac{dv}{dt} \) (instantaneous). In SI units, acceleration is in m/s². For JEE/NEET, acceleration is key in problems involving changing velocities, such as vehicles speeding up or objects in free fall. *University Physics* notes real-world examples, like car acceleration in autonomous vehicles, tested in advanced JEE questions.
+**Average velocity** is a vector, defined as $v_{\text{avg}} = \frac{\Delta x}{\Delta t}$, with units $m/s$. **Instantaneous velocity** is the velocity at a specific moment, $v = \lim_{\Delta t \to 0} \frac{\Delta x}{\Delta t} = \frac{dx}{dt}$. For constant velocity, $v_{\text{avg}} = v$. JEE/NEET problems involve calculating average velocity from displacement and instantaneous velocity from position functions. *University Physics* highlights the distinction between average and instantaneous quantities.
 
-**Solved Example**: A NEET problem involves a bike accelerating from 5 m/s to 15 m/s in 4 s. Calculate the average acceleration.
-- **Solution**: \( a_{\text{avg}} = \frac{\Delta v}{\Delta t} = \frac{15 - 5}{4} = 2.5 \, \text{m/s}^2 \). Reported to 2 significant figures, this is a standard NEET numerical.
+**Derivation**: **Instantaneous Velocity from Position**  
+If position is $x(t)$, instantaneous velocity is the derivative:  
+$$
+v = \frac{dx}{dt}
+$$  
+For example, if $x = 4t^2 - 3t + 2$, then:  
+$$
+v = \frac{d}{dt}(4t^2 - 3t + 2) = 8t - 3
+$$  
+Average velocity over an interval requires displacement: $v_{\text{avg}} = \frac{x(t_2) - x(t_1)}{t_2 - t_1}$.
 
-## 2.4 Constant Acceleration
+**Solved Example**: A JEE Main problem involves a car traveling 100 m in 5 s, then 50 m in 5 s in the same direction. Calculate the average velocity.  
+- **Solution**:  
+  Total displacement: $\Delta x = 100 + 50 = 150 \, m$.  
+  Total time: $\Delta t = 5 + 5 = 10 \, s$.  
+  Average velocity:  
+  $$
+  v_{\text{avg}} = \frac{\Delta x}{\Delta t} = \frac{150}{10} = 15 \, m/s
+  $$  
+  - **JEE Tip**: Use total displacement for average velocity. Common error: Averaging velocities directly.
 
-Constant acceleration occurs when acceleration is unchanging, common in JEE/NEET problems involving vehicles or free-fall motion. The kinematic equations for constant acceleration are:
-1. \( v = u + at \)
-2. \( x = ut + \frac{1}{2}at^2 \)
-3. \( v^2 = u^2 + 2ax \)
-4. \( x = \frac{(u + v)}{2}t \)
-where \( u \) is initial velocity, \( v \) is final velocity, \( a \) is acceleration, \( t \) is time, and \( x \) is displacement.
+**Solved Example**: A NEET problem gives a particle’s position as $x = 2t^3 - 5t^2 + 3$. Find the instantaneous velocity at $t = 3 \, s$.  
+- **Solution**:  
+  Velocity: $v = \frac{dx}{dt}$. Given $x = 2t^3 - 5t^2 + 3$:  
+  $$
+  v = \frac{d}{dt}(2t^3 - 5t^2 + 3) = 6t^2 - 10t
+  $$  
+  At $t = 3$: $v = 6(3)^2 - 10(3) = 54 - 30 = 24 \, m/s$.  
+  - **NEET Tip**: Differentiate position to find velocity. Common error: Using average velocity formula.
 
-**Solved Example**: A JEE Main problem involves a car starting from rest (\( u = 0 \)) with \( a = 2 \, \text{m/s}^2 \) for 10 s. Calculate the displacement.
-- **Solution**: Use \( x = ut + \frac{1}{2}at^2 \). Since \( u = 0 \), \( x = \frac{1}{2} \times 2 \times 10^2 = 100 \, \text{m} \) (2 significant figures, April 14, 2025). This equation is frequently tested in JEE kinematics.
+**Solved Example**: A JEE Advanced problem involves a particle with velocity $v = 4t - 2$. Find the average velocity from $t = 1 \, s$ to $t = 3 \, s$.  
+- **Solution**:  
+  Average velocity: $v_{\text{avg}} = \frac{\Delta x}{\Delta t}$, where $\Delta x = \int_{1}^{3} v(t) \, dt$.  
+  $$
+  \Delta x = \int_{1}^{3} (4t - 2) \, dt = [2t^2 - 2t]_{1}^{3} = (2(3)^2 - 2(3)) - (2(1)^2 - 2(1)) = (18 - 6) - (2 - 2) = 12 \, m
+  $$  
+  $\Delta t = 3 - 1 = 2 \, s$. Thus:  
+  $$
+  v_{\text{avg}} = \frac{12}{2} = 6 \, m/s
+  $$  
+  - **JEE Tip**: Integrate velocity to find displacement for average velocity. Common error: Averaging velocities at endpoints.
 
-## 2.5 Free-Fall Acceleration
+**Application**: Average velocity helps calculate travel times (e.g., a train’s journey), while instantaneous velocity informs speedometer readings.
 
-Free-fall acceleration, due to gravity, is approximately \( g = 9.8 \, \text{m/s}^2 \) near Earth’s surface, directed downward. Objects in free fall experience constant acceleration, ignoring air resistance. JEE/NEET problems often involve falling objects or projectiles, requiring the kinematic equations with \( a = -g \) (upward positive).
+## 2.3 Average and Instantaneous Acceleration
 
-**Solved Example**: A NEET problem involves a ball dropped from a 20 m height. Calculate the time to reach the ground (\( g = 9.8 \, \text{m/s}^2 \)).
-- **Solution**: Use \( x = ut + \frac{1}{2}at^2 \). Since \( u = 0 \), \( a = -9.8 \, \text{m/s}^2 \), \( x = -20 \, \text{m} \), we get \( -20 = \frac{1}{2} \times (-9.8) \times t^2 \). Solving, \( t^2 = \frac{-20}{-4.9} \approx 4.08 \), so \( t \approx 2.02 \, \text{s} \) (3 significant figures).
+**Average acceleration** is a vector, defined as $a_{\text{avg}} = \frac{\Delta v}{\Delta t}$, with units $m/s^2$. **Instantaneous acceleration** is $a = \lim_{\Delta t \to 0} \frac{\Delta v}{\Delta t} = \frac{dv}{dt} = \frac{d^2 x}{dt^2}$, the second derivative of position. For constant acceleration, $a_{\text{avg}} = a$. JEE/NEET problems involve calculating acceleration from velocity or position functions. *Fundamentals of Physics* emphasizes acceleration’s role in motion dynamics.
 
-## Review & Summary
-- **Position and Displacement**: Position (\( x \)) is a location; displacement (\( \Delta x = x_2 - x_1 \)) is the vector change in position.
-- **Average Velocity**: \( v_{\text{avg}} = \frac{\Delta x}{\Delta t} \), distinct from average speed (scalar).
-- **Instantaneous Velocity**: \( v = \frac{dx}{dt} \), the slope of the position-time graph.
-- **Acceleration**: Rate of velocity change, \( a_{\text{avg}} = \frac{\Delta v}{\Delta t} \), \( a = \frac{dv}{dt} \), measured in m/s².
-- **Constant Acceleration**: Uses kinematic equations (e.g., \( v = u + at \)), common in vehicle and free-fall problems.
-- **Free-Fall**: Constant acceleration \( g = 9.8 \, \text{m/s}^2 \) downward, applied in falling object scenarios.
+**Derivation**: **Instantaneous Acceleration from Velocity**  
+If velocity is $v(t)$, acceleration is:  
+$$
+a = \frac{dv}{dt}
+$$  
+If $v = 3t^2 - 4t + 1$, then:  
+$$
+a = \frac{d}{dt}(3t^2 - 4t + 1) = 6t - 4
+$$  
+If position is $x(t)$, acceleration is: $a = \frac{d^2 x}{dt^2}$. For $x = t^3 - 2t^2 + t$:  
+$v = \frac{dx}{dt} = 3t^2 - 4t + 1$, then:  
+$$
+a = \frac{dv}{dt} = 6t - 4
+$$
 
-## Quick Revision Section
-- **Key Equations**:
-  - Average velocity: \( v_{\text{avg}} = \frac{\Delta x}{\Delta t} \)
-  - Instantaneous velocity: \( v = \frac{dx}{dt} \)
-  - Constant acceleration: \( v = u + at \), \( x = ut + \frac{1}{2}at^2 \), \( v^2 = u^2 + 2ax \)
-  - Free-fall: Use \( a = -g = -9.8 \, \text{m/s}^2 \) (upward positive).
-- **SI Units**: Displacement (m), velocity (m/s), acceleration (m/s²).
-- **JEE/NEET Tips**: Convert units to SI (e.g., km/h to m/s), use 2–3 significant figures (April 14, 2025), check signs for vectors, practice graph interpretation.
-- **Applications**: Kinematics in vehicles, projectiles, and free-fall scenarios.
+**Solved Example**: A JEE Main problem involves a car with velocity changing from $10 \, m/s$ to $20 \, m/s$ in $4 \, s$. Calculate the average acceleration.  
+- **Solution**:  
+  $\Delta v = 20 - 10 = 10 \, m/s$, $\Delta t = 4 \, s$. Average acceleration:  
+  $$
+  a_{\text{avg}} = \frac{\Delta v}{\Delta t} = \frac{10}{4} = 2.5 \, m/s^2
+  $$  
+  (2 significant figures).  
+  - **JEE Tip**: Use change in velocity for average acceleration. Common error: Ignoring direction.
+
+**Solved Example**: A NEET problem gives a particle’s velocity as $v = 5t^2 - 3t + 2$. Find the instantaneous acceleration at $t = 2 \, s$.  
+- **Solution**:  
+  Acceleration: $a = \frac{dv}{dt}$. Given $v = 5t^2 - 3t + 2$:  
+  $$
+  a = \frac{d}{dt}(5t^2 - 3t + 2) = 10t - 3
+  $$  
+  At $t = 2$: $a = 10(2) - 3 = 17 \, m/s^2$.  
+  - **NEET Tip**: Differentiate velocity to find acceleration. Common error: Using average acceleration formula.
+
+**Solved Example**: A JEE Advanced problem involves a particle with position $x = 2t^3 - 6t^2 + 4t$. Find the instantaneous acceleration at $t = 1 \, s$.  
+- **Solution**:  
+  Velocity: $v = \frac{dx}{dt} = \frac{d}{dt}(2t^3 - 6t^2 + 4t) = 6t^2 - 12t + 4$.  
+  Acceleration:  
+  $$
+  a = \frac{dv}{dt} = \frac{d}{dt}(6t^2 - 12t + 4) = 12t - 12
+  $$  
+  At $t = 1$: $a = 12(1) - 12 = 0 \, m/s^2$.  
+  - **JEE Tip**: Acceleration can be zero even if velocity is not. Common error: Forgetting the second derivative.
+
+**Application**: Acceleration is key in vehicle design (e.g., car braking systems) and sports (e.g., a sprinter’s start).
+
+## 2.4 Kinematic Equations and Free Fall
+
+**Kinematic equations** describe motion with constant acceleration:  
+1. $v = u + at$  
+2. $x = ut + \frac{1}{2} at^2$ (displacement from initial position)  
+3. $v^2 = u^2 + 2ax$  
+4. $x = \frac{1}{2}(u + v)t$  
+where $u$ is initial velocity, $v$ is final velocity, $a$ is acceleration, $t$ is time, and $x$ is displacement. **Free fall** is motion under gravity ($g \approx 9.8 \, m/s^2$), with $a = -g$ (upward positive). JEE/NEET problems involve solving for unknowns using these equations. *HC Verma* emphasizes their application in free fall and projectile motion.
+
+**Derivation**: **Kinematic Equation $v = u + at$**  
+For constant acceleration $a$, acceleration is: $a = \frac{dv}{dt}$. Integrate:  
+$$
+\int_{u}^{v} dv = \int_{0}^{t} a \, dt
+$$  
+Since $a$ is constant:  
+$$
+v - u = at \quad \text{so} \quad v = u + at
+$$
+
+**Derivation**: **Kinematic Equation $x = ut + \frac{1}{2} at^2$**  
+Velocity is $v = u + at$. Displacement: $x = \int_{0}^{t} v \, dt$. Substitute $v$:  
+$$
+x = \int_{0}^{t} (u + at) \, dt = ut + \frac{1}{2} at^2
+$$
+
+**Solved Example**: A JEE Main problem involves a car starting from rest with $a = 2 \, m/s^2$. Find the velocity after $5 \, s$.  
+- **Solution**:  
+  Use $v = u + at$. Given $u = 0$, $a = 2 \, m/s^2$, $t = 5 \, s$:  
+  $$
+  v = 0 + 2 \times 5 = 10 \, m/s
+  $$  
+  - **JEE Tip**: Identify knowns and choose the right equation. Common error: Forgetting initial velocity.
+
+**Solved Example**: A NEET problem involves a ball dropped from a height of $20 \, m$ ($g = 9.8 \, m/s^2$). Find the time to reach the ground.  
+- **Solution**:  
+  Use $x = ut + \frac{1}{2} at^2$. Given $x = -20 \, m$ (downward), $u = 0$, $a = -g = -9.8 \, m/s^2$:  
+  $$
+  -20 = 0 + \frac{1}{2} (-9.8) t^2 \quad \Rightarrow \quad -20 = -4.9 t^2 \quad \Rightarrow \quad t^2 = \frac{20}{4.9} \approx 4.08 \quad \Rightarrow \quad t \approx 2.02 \, s
+  $$  
+  Round to 2 significant figures: $2.0 \, s$.  
+  - **NEET Tip**: Use $g$ downward as negative. Common error: Incorrect sign for displacement.
+
+**Solved Example**: A JEE Advanced problem involves a car with $u = 10 \, m/s$, $a = -2 \, m/s^2$. Find the displacement after $4 \, s$.  
+- **Solution**:  
+  Use $x = ut + \frac{1}{2} at^2$. Given $u = 10 \, m/s$, $a = -2 \, m/s^2$, $t = 4 \, s$:  
+  $$
+  x = (10)(4) + \frac{1}{2} (-2)(4)^2 = 40 - \frac{1}{2} \cdot 2 \cdot 16 = 40 - 16 = 24 \, m
+  $$  
+  - **JEE Tip**: Account for deceleration with negative $a$. Common error: Forgetting the $\frac{1}{2}$ factor.
+
+**Solved Example**: A JEE Main problem involves a ball thrown upward with $u = 15 \, m/s$ ($g = 9.8 \, m/s^2$). Find the time to reach the maximum height.  
+- **Solution**:  
+  At maximum height, $v = 0$. Use $v = u + at$, with $u = 15 \, m/s$, $a = -g = -9.8 \, m/s^2$:  
+  $$
+  0 = 15 + (-9.8)t \quad \Rightarrow \quad 9.8t = 15 \quad \Rightarrow \quad t = \frac{15}{9.8} \approx 1.53 \, s
+  $$  
+  Round to 2 significant figures: $1.5 \, s$.  
+  - **JEE Tip**: Set final velocity to zero at peak. Common error: Using positive $g$.
+
+**Application**: Kinematic equations model car braking distances, while free fall applies to skydiving safety calculations.
+
+## Summary and Quick Revision
+- **Displacement and Distance**: Displacement: $\Delta x = x_f - x_i$ (vector, $m$). Distance: Total path length (scalar, $m$).
+- **Velocity**: Average: $v_{\text{avg}} = \frac{\Delta x}{\Delta t}$. Instantaneous: $v = \frac{dx}{dt}$. Units: $m/s$.
+- **Acceleration**: Average: $a_{\text{avg}} = \frac{\Delta v}{\Delta t}$. Instantaneous: $a = \frac{dv}{dt} = \frac{d^2 x}{dt^2}$. Units: $m/s^2$.
+- **Kinematic Equations**: For constant $a$:  
+  - $v = u + at$  
+  - $x = ut + \frac{1}{2} at^2$  
+  - $v^2 = u^2 + 2ax$  
+  - $x = \frac{1}{2}(u + v)t$
+- **Free Fall**: Motion under gravity, $a = -g \approx -9.8 \, m/s^2$ (upward positive).
+- **SI Units**: Displacement ($m$), velocity ($m/s$), acceleration ($m/s^2$), time ($s$).
+- **JEE/NEET Tips**: Use correct signs for direction, verify significant figures (April 14, 2025), choose the right kinematic equation, integrate for non-constant motion.
+- **Applications**: Car braking, skydiving, sports, navigation.
 
 ## Practice Problems
-Explore our extensive problem set with **100 problems** inspired by JEE Main, JEE Advanced, and NEET PYQs to test your understanding of motion along a straight line, covering position, velocity, acceleration, and free-fall.
+Explore our extensive problem set with **100 problems** inspired by JEE Main, JEE Advanced, and NEET patterns to test your understanding of motion along a straight line.
 
 [View Problems](./problems.md)
 
-<!-- [View Solutions](/books/physics/motion-straight-line/solutions) -->
-
 ## Watch on YouTube
-Our Hinglish video lessons make kinematics concepts accessible for JEE and NEET! Subscribe for updates.
+Our Hinglish video lessons make motion along a straight line engaging for JEE and NEET! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing velocity-time graphs coming soon!*
+*Manim animation for visualizing kinematic equations and free fall coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*
