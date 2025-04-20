@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Capacitance Problems for JEE & NEET
-description: Practice 100 capacitance problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 electrostatics problems for JEE and NEET, inspired by exam patterns, covering capacitance, series and parallel combinations, energy storage, and dielectrics in capacitors.
 slug: book/physics/capacitance-problems
-keywords: physics capacitance problems, JEE physics capacitors problems, NEET physics dielectrics problems, electrostatics
+keywords: physics capacitance problems, JEE physics capacitors problems, NEET physics energy storage problems, electrostatics
 og:image: https://vidyamarg.com/og-physics-capacitance.jpg
 ---
 
 # Capacitance Problems
 
-This section provides **100 problems** to test your understanding of capacitance, including capacitors, series and parallel circuits, energy storage, and dielectrics. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of capacitance, including calculations of capacitance for various geometries, series and parallel combinations, energy stored in capacitors, and the effects of dielectrics. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering electrostatics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on capacitance calculations, circuit analysis, and energy storage, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., dielectric effects, charge storage), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A parallel plate capacitor has plates of area $A = 0.02 \, \text{m}^2$ and separation $d = 0.002 \, \text{m}$ in vacuum ($\epsilon_0 = 8.85 \times 10^{-12} \, \text{C}^2/\text{N·m}^2$). Calculate the capacitance.  
+   - (a) $8.84 \times 10^{-11} \, \text{F}$  
+   - (b) $8.85 \times 10^{-11} \, \text{F}$  
+   - (c) $8.86 \times 10^{-11} \, \text{F}$  
+   - (d) $8.87 \times 10^{-11} \, \text{F}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A parallel-plate capacitor with plates of area 0.01 m², separated by 0.002 m. Calculate the capacitance (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-   - Options: (a) 4.42 × 10⁻¹¹ F (b) 4.43 × 10⁻¹¹ F (c) 4.44 × 10⁻¹¹ F (d) 4.45 × 10⁻¹¹ F
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A capacitor (\( C = 2 \, \mu\text{F} \)) charged to 100 V. Calculate the stored energy.
-   - Options: (a) 0.0099 J (b) 0.0100 J (c) 0.0101 J (d) 0.0102 J
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: Two capacitors \( C_1 = 3 \, \mu\text{F} \), \( C_2 = 6 \, \mu\text{F} \) in series, connected to 12 V. Calculate the equivalent capacitance.
-   - Options: (a) 1.99 μF (b) 2.00 μF (c) 2.01 μF (d) 2.02 μF
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A capacitor (\( C = 5 \, \mu\text{F} \)) with a dielectric (\( \kappa = 2 \)) inserted, charged to 50 V. Calculate the new capacitance.
-   - Options: (a) 9.9 μF (b) 10.0 μF (c) 10.1 μF (d) 10.2 μF
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: Three capacitors \( C_1 = 2 \, \mu\text{F} \), \( C_2 = 4 \, \mu\text{F} \), \( C_3 = 8 \, \mu\text{F} \) in parallel, connected to 20 V. Calculate the total charge.
-   - Options: (a) 279 μC (b) 280 μC (c) 281 μC (d) 282 μC
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A capacitor (\( C = 100 \, \text{pF} \)) with 200 μC charge. Calculate the stored energy.
-   - Options: (a) 199 mJ (b) 200 mJ (c) 201 mJ (d) 202 mJ
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: Two capacitors \( C_1 = 5 \, \mu\text{F} \), \( C_2 = 10 \, \mu\text{F} \) in series. Calculate the equivalent capacitance.
-   - Options: (a) 3.32 μF (b) 3.33 μF (c) 3.34 μF (d) 3.35 μF
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A parallel-plate capacitor (area 0.05 m², separation 0.003 m) with a dielectric (\( \kappa = 4 \)). Calculate the capacitance (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-   - Options: (a) 5.89 × 10⁻¹⁰ F (b) 5.90 × 10⁻¹⁰ F (c) 5.91 × 10⁻¹⁰ F (d) 5.92 × 10⁻¹⁰ F
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: A capacitor (\( C = 4 \, \mu\text{F} \)) charged to 60 V. Calculate the charge stored.
-   - Options: (a) 239 μC (b) 240 μC (c) 241 μC (d) 242 μC
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: Two capacitors \( C_1 = 6 \, \mu\text{F} \), \( C_2 = 12 \, \mu\text{F} \) in parallel, connected to 24 V. Calculate the total energy stored.
-    - Options: (a) 0.0077 J (b) 0.0078 J (c) 0.0079 J (d) 0.0080 J
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A capacitor (\( C = 3 \, \mu\text{F} \)) with a dielectric (\( \kappa = 2.5 \)) inserted, isolated with 150 μC charge. Calculate the new voltage.
-    - Options: (a) 19.9 V (b) 20.0 V (c) 20.1 V (d) 20.2 V
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: Three capacitors \( C_1 = 1 \, \mu\text{F} \), \( C_2 = 2 \, \mu\text{F} \), \( C_3 = 3 \, \mu\text{F} \) in series. Calculate the equivalent capacitance.
-    - Options: (a) 0.545 μF (b) 0.546 μF (c) 0.547 μF (d) 0.548 μF
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: A capacitor (\( C = 10 \, \mu\text{F} \)) charged to 80 V. Calculate the energy stored.
-    - Options: (a) 0.0319 J (b) 0.0320 J (c) 0.0321 J (d) 0.0322 J
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A parallel-plate capacitor (area 0.03 m², separation 0.004 m). Calculate the capacitance (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 6.64 × 10⁻¹¹ F (b) 6.65 × 10⁻¹¹ F (c) 6.66 × 10⁻¹¹ F (d) 6.67 × 10⁻¹¹ F
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: Two capacitors \( C_1 = 4 \, \mu\text{F} \), \( C_2 = 8 \, \mu\text{F} \) in parallel, connected to 15 V. Calculate the total charge.
-    - Options: (a) 179 μC (b) 180 μC (c) 181 μC (d) 182 μC
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A capacitor (\( C = 2 \, \mu\text{F} \)) with a dielectric (\( \kappa = 3 \)) inserted, charged to 100 V. Calculate the new energy stored.
-    - Options: (a) 0.0299 J (b) 0.0300 J (c) 0.0301 J (d) 0.0302 J
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A capacitor (\( C = 50 \, \text{pF} \)) with 100 μC charge. Calculate the voltage.
-    - Options: (a) 1.99 × 10⁶ V (b) 2.00 × 10⁶ V (c) 2.01 × 10⁶ V (d) 2.02 × 10⁶ V
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: Two capacitors \( C_1 = 2 \, \mu\text{F} \), \( C_2 = 3 \, \mu\text{F} \) in series, connected to 10 V. Calculate the total charge.
-    - Options: (a) 11.9 μC (b) 12.0 μC (c) 12.1 μC (d) 12.2 μC
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A parallel-plate capacitor (area 0.02 m², separation 0.001 m) with a dielectric (\( \kappa = 2 \)). Calculate the capacitance (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 3.53 × 10⁻¹⁰ F (b) 3.54 × 10⁻¹⁰ F (c) 3.55 × 10⁻¹⁰ F (d) 3.56 × 10⁻¹⁰ F
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A capacitor (\( C = 6 \, \mu\text{F} \)) charged to 120 V. Calculate the stored energy.
-    - Options: (a) 0.0431 J (b) 0.0432 J (c) 0.0433 J (d) 0.0434 J
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: Three capacitors \( C_1 = 3 \, \mu\text{F} \), \( C_2 = 6 \, \mu\text{F} \), \( C_3 = 9 \, \mu\text{F} \) in parallel. Calculate the equivalent capacitance.
-    - Options: (a) 17.9 μF (b) 18.0 μF (c) 18.1 μF (d) 18.2 μF
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A capacitor (\( C = 4 \, \mu\text{F} \)) with a dielectric (\( \kappa = 2 \)) inserted, isolated with 80 μC charge. Calculate the new energy.
-    - Options: (a) 0.00079 J (b) 0.00080 J (c) 0.00081 J (d) 0.00082 J
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: Two capacitors \( C_1 = 5 \, \mu\text{F} \), \( C_2 = 10 \, \mu\text{F} \) in parallel, connected to 30 V. Calculate the total charge.
-    - Options: (a) 449 μC (b) 450 μC (c) 451 μC (d) 452 μC
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A capacitor (\( C = 8 \, \mu\text{F} \)) charged to 40 V. Calculate the charge stored.
-    - Options: (a) 319 μC (b) 320 μC (c) 321 μC (d) 322 μC
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A parallel-plate capacitor (area 0.04 m², separation 0.005 m). Calculate the capacitance (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 7.08 × 10⁻¹¹ F (b) 7.09 × 10⁻¹¹ F (c) 7.10 × 10⁻¹¹ F (d) 7.11 × 10⁻¹¹ F
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: Two capacitors \( C_1 = 4 \, \mu\text{F} \), \( C_2 = 4 \, \mu\text{F} \) in series, connected to 16 V. Calculate the total energy stored.
-    - Options: (a) 0.00063 J (b) 0.00064 J (c) 0.00065 J (d) 0.00066 J
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A capacitor (\( C = 3 \, \mu\text{F} \)) with a dielectric (\( \kappa = 3 \)) inserted, charged to 60 V. Calculate the new capacitance.
-    - Options: (a) 8.9 μF (b) 9.0 μF (c) 9.1 μF (d) 9.2 μF
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: Three capacitors \( C_1 = 2 \, \mu\text{F} \), \( C_2 = 3 \, \mu\text{F} \), \( C_3 = 6 \, \mu\text{F} \) in series. Calculate the equivalent capacitance.
-    - Options: (a) 0.999 μF (b) 1.000 μF (c) 1.001 μF (d) 1.002 μF
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A capacitor (\( C = 200 \, \text{pF} \)) with 50 μC charge. Calculate the stored energy.
-    - Options: (a) 6.24 mJ (b) 6.25 mJ (c) 6.26 mJ (d) 6.27 mJ
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: Two capacitors \( C_1 = 7 \, \mu\text{F} \), \( C_2 = 14 \, \mu\text{F} \) in parallel, connected to 18 V. Calculate the total energy stored.
-    - Options: (a) 0.00339 J (b) 0.00340 J (c) 0.00341 J (d) 0.00342 J
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A parallel-plate capacitor (area 0.06 m², separation 0.002 m) with a dielectric (\( \kappa = 5 \)). Calculate the capacitance (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 1.32 × 10⁻⁹ F (b) 1.33 × 10⁻⁹ F (c) 1.34 × 10⁻⁹ F (d) 1.35 × 10⁻⁹ F
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A capacitor (\( C = 5 \, \mu\text{F} \)) charged to 70 V. Calculate the charge stored.
-    - Options: (a) 349 μC (b) 350 μC (c) 351 μC (d) 352 μC
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: Two capacitors \( C_1 = 3 \, \mu\text{F} \), \( C_2 = 9 \, \mu\text{F} \) in series, connected to 15 V. Calculate the total charge.
-    - Options: (a) 33.9 μC (b) 34.0 μC (c) 34.1 μC (d) 34.2 μC
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A capacitor (\( C = 4 \, \mu\text{F} \)) with a dielectric (\( \kappa = 2 \)) inserted, isolated with 120 μC charge. Calculate the new voltage.
-    - Options: (a) 14.9 V (b) 15.0 V (c) 15.1 V (d) 15.2 V
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: Three capacitors \( C_1 = 4 \, \mu\text{F} \), \( C_2 = 8 \, \mu\text{F} \), \( C_3 = 12 \, \mu\text{F} \) in parallel, connected to 25 V. Calculate the total energy stored.
-    - Options: (a) 0.00937 J (b) 0.00938 J (c) 0.00939 J (d) 0.00940 J
+2. A capacitor with capacitance $C = 15 \, \mu\text{F}$ is charged to a potential difference $V = 100 \, \text{V}$. Calculate the charge stored on the capacitor.  
+   - (a) $1.49 \times 10^{-3} \, \text{C}$  
+   - (b) $1.50 \times 10^{-3} \, \text{C}$  
+   - (c) $1.51 \times 10^{-3} \, \text{C}$  
+   - (d) $1.52 \times 10^{-3} \, \text{C}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is capacitance?
-   - Options: (a) Charge per unit potential (b) Energy per charge (c) Field strength (d) No capacitance
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: How do capacitors in series combine?
-   - Options: (a) Inverse sum of inverses (b) Direct sum (c) No combination (d) Fixed capacitance
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What is the energy stored in a capacitor?
-   - Options: (a) \( \frac{1}{2} C V^2 \) (b) \( C V^2 \) (c) No energy (d) Fixed energy
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What effect does a dielectric have on capacitance?
-   - Options: (a) Increases by \( \kappa \) (b) Decreases (c) No effect (d) Fixed capacitance
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: Why is the field reduced in a dielectric?
-   - Options: (a) Polarization reduces field (b) Increases field (c) No effect (d) Fixed field
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: How do capacitors in parallel combine?
-   - Options: (a) Direct sum (b) Inverse sum (c) No combination (d) Fixed capacitance
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: What is the charge on capacitors in series?
-   - Options: (a) Same on each (b) Different on each (c) No charge (d) Fixed charge
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: What is the energy density in a capacitor?
-   - Options: (a) \( \frac{1}{2} \epsilon_0 E^2 \) (b) \( \epsilon_0 E^2 \) (c) No density (d) Fixed density
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: Why does voltage decrease with a dielectric in an isolated capacitor?
-   - Options: (a) Increased capacitance (b) Decreased capacitance (c) No change (d) Fixed voltage
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is the capacitance of a parallel-plate capacitor?
-   - Options: (a) \( \frac{\epsilon_0 A}{d} \) (b) \( \epsilon_0 A d \) (c) No capacitance (d) Fixed capacitance
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: How does energy change with a dielectric at constant voltage?
-   - Options: (a) Increases by \( \kappa \) (b) Decreases (c) No change (d) Fixed energy
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: What is the potential across capacitors in parallel?
-   - Options: (a) Same on each (b) Different on each (c) No potential (d) Fixed potential
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: Why is capacitance independent of charge?
-   - Options: (a) Geometric property (b) Charge dependent (c) No property (d) Fixed property
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: How does a dielectric affect stored energy in an isolated capacitor?
-   - Options: (a) Decreases by \( \frac{1}{\kappa} \) (b) Increases (c) No change (d) Fixed energy
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: What is the role of capacitors in circuits?
-   - Options: (a) Store charge and energy (b) No role (c) Fixed role (d) Only theoretical
+3. A spherical capacitor has inner radius $a = 0.1 \, \text{m}$ and outer radius $b = 0.2 \, \text{m}$. Calculate the capacitance ($\epsilon_0 = 8.85 \times 10^{-12} \, \text{C}^2/\text{N·m}^2$).  
+   - (a) $2.21 \times 10^{-11} \, \text{F}$  
+   - (b) $2.22 \times 10^{-11} \, \text{F}$  
+   - (c) $2.23 \times 10^{-11} \, \text{F}$  
+   - (d) $2.24 \times 10^{-11} \, \text{F}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the capacitance of a parallel-plate capacitor.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the equivalent capacitance for capacitors in series.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the energy stored in a capacitor.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the effect of a dielectric on capacitance.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the equivalent capacitance for capacitors in parallel.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the energy density in a capacitor.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the charge distribution in series capacitors.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the voltage distribution in series capacitors.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the effect of a dielectric on energy in an isolated capacitor.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the capacitance of a cylindrical capacitor.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the charge distribution in parallel capacitors.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the effect of a dielectric on voltage in a charged capacitor.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the capacitance of a spherical capacitor.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the energy change with a dielectric at constant voltage.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the force between capacitor plates.
+4. A cylindrical capacitor has inner radius $a = 0.01 \, \text{m}$, outer radius $b = 0.02 \, \text{m}$, and length $L = 0.5 \, \text{m}$. Calculate the capacitance.  
+   - (a) $4.01 \times 10^{-11} \, \text{F}$  
+   - (b) $4.02 \times 10^{-11} \, \text{F}$  
+   - (c) $4.03 \times 10^{-11} \, \text{F}$  
+   - (d) $4.04 \times 10^{-11} \, \text{F}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is capacitance?
-   - Options: (a) Charge per voltage (b) Energy per charge (c) Field strength (d) No capacitance
-67. **Problem 67 (NEET, 2022)**: How do capacitors in series combine?
-   - Options: (a) Inverse sum (b) Direct sum (c) No combination (d) Fixed capacitance
-68. **Problem 68 (NEET, 2021)**: What is the energy in a capacitor?
-   - Options: (a) \( \frac{1}{2} C V^2 \) (b) \( C V^2 \) (c) No energy (d) Fixed energy
-69. **Problem 69 (NEET, 2024)**: What does a dielectric do?
-   - Options: (a) Increases capacitance (b) Decreases capacitance (c) No effect (d) Fixed capacitance
-70. **Problem 70 (NEET, 2020)**: Why is the field reduced by a dielectric?
-   - Options: (a) Polarization (b) Increases field (c) No effect (d) Fixed field
-71. **Problem 71 (NEET, 2023)**: How do capacitors in parallel combine?
-   - Options: (a) Direct sum (b) Inverse sum (c) No combination (d) Fixed capacitance
-72. **Problem 72 (NEET, 2022)**: What is the charge in series capacitors?
-   - Options: (a) Same (b) Different (c) No charge (d) Fixed charge
-73. **Problem 73 (NEET, 2021)**: What is the energy density?
-   - Options: (a) \( \frac{1}{2} \epsilon_0 E^2 \) (b) \( \epsilon_0 E^2 \) (c) No density (d) Fixed density
-74. **Problem 74 (NEET, 2024)**: Why does voltage drop with a dielectric?
-   - Options: (a) Increased capacitance (b) Decreased capacitance (c) No change (d) Fixed voltage
-75. **Problem 75 (NEET, 2020)**: What is the capacitance formula?
-   - Options: (a) \( \frac{\epsilon_0 A}{d} \) (b) \( \epsilon_0 A d \) (c) No capacitance (d) Fixed capacitance
-76. **Problem 76 (NEET, 2023)**: How does energy change with a dielectric?
-   - Options: (a) Increases with voltage (b) Decreases (c) No change (d) Fixed energy
-77. **Problem 77 (NEET, 2022)**: What is the potential in parallel capacitors?
-   - Options: (a) Same (b) Different (c) No potential (d) Fixed potential
-78. **Problem 78 (NEET, 2021)**: Why is capacitance geometric?
-   - Options: (a) Depends on structure (b) Charge dependent (c) No property (d) Fixed property
-79. **Problem 79 (NEET, 2024)**: How does energy change in an isolated capacitor?
-   - Options: (a) Decreases with dielectric (b) Increases (c) No change (d) Fixed energy
-80. **Problem 80 (NEET, 2020)**: What do capacitors do in circuits?
-   - Options: (a) Store charge (b) No role (c) Fixed role (d) Only theoretical
-81. **Problem 81 (NEET, 2023)**: Why is capacitance unit farad?
-   - Options: (a) Coulomb per volt (b) Joule per volt (c) No unit (d) Fixed unit
-82. **Problem 82 (NEET, 2022)**: What happens to voltage in series capacitors?
-   - Options: (a) Divides (b) Same (c) No voltage (d) Fixed voltage
-83. **Problem 83 (NEET, 2021)**: How does a dielectric affect field?
-   - Options: (a) Reduces field (b) Increases field (c) No effect (d) Fixed field
-84. **Problem 84 (NEET, 2024)**: What is the charge in parallel capacitors?
-   - Options: (a) Different (b) Same (c) No charge (d) Fixed charge
-85. **Problem 85 (NEET, 2020)**: Why is energy stored in capacitors?
-   - Options: (a) Charge separation (b) No energy (c) Fixed energy (d) Field strength
-86. **Problem 86 (NEET, 2023)**: How do capacitors apply to electronics?
-   - Options: (a) Energy storage (b) No application (c) Fixed role (d) Only theoretical
-87. **Problem 87 (NEET, 2022)**: What is the effect of plate area?
-   - Options: (a) Increases capacitance (b) Decreases capacitance (c) No effect (d) Fixed capacitance
-88. **Problem 88 (NEET, 2021)**: Why is capacitance constant?
-   - Options: (a) Geometric property (b) Charge dependent (c) No property (d) Fixed property
-89. **Problem 89 (NEET, 2024)**: What is the voltage in a charged capacitor?
-   - Options: (a) \( \frac{Q}{C} \) (b) \( Q C \) (c) No voltage (d) Fixed voltage
-90. **Problem 90 (NEET, 2020)**: How does separation affect capacitance?
-   - Options: (a) Decreases with distance (b) Increases with distance (c) No effect (d) Fixed capacitance
-91. **Problem 91 (NEET, 2023)**: Why use dielectrics in capacitors?
-   - Options: (a) Increase capacitance (b) Decrease capacitance (c) No use (d) Fixed use
-92. **Problem 92 (NEET, 2022)**: What is the energy formula?
-   - Options: (a) \( \frac{1}{2} C V^2 \) (b) \( C V^2 \) (c) No energy (d) Fixed energy
-93. **Problem 93 (NEET, 2021)**: How do capacitors store charge?
-   - Options: (a) Potential difference (b) No charge (c) Fixed charge (d) Field strength
-94. **Problem 94 (NEET, 2024)**: What is the effect of a dielectric on energy?
-   - Options: (a) Depends on connection (b) No effect (c) Fixed energy (d) Always increases
-95. **Problem 95 (NEET, 2020)**: Why combine capacitors?
-   - Options: (a) Adjust capacitance (b) No combination (c) Fixed capacitance (d) Only theoretical
+5. Two capacitors $C_1 = 3 \, \mu\text{F}$ and $C_2 = 6 \, \mu\text{F}$ are connected in series. Calculate the equivalent capacitance.  
+   - (a) $1.99 \, \mu\text{F}$  
+   - (b) $2.00 \, \mu\text{F}$  
+   - (c) $2.01 \, \mu\text{F}$  
+   - (d) $2.02 \, \mu\text{F}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A capacitor (\( C = 4 \, \mu\text{F} \)) charged to 50 V. Calculate the stored energy.
-   - Options: (a) 0.0049 J (b) 0.0050 J (c) 0.0051 J (d) 0.0052 J
-97. **Problem 97 (NEET, 2022)**: Two capacitors \( C_1 = 2 \, \mu\text{F} \), \( C_2 = 4 \, \mu\text{F} \) in parallel, connected to 10 V. Calculate the total charge.
-   - Options: (a) 59 μC (b) 60 μC (c) 61 μC (d) 62 μC
-98. **Problem 98 (NEET, 2021)**: A parallel-plate capacitor (area 0.02 m², separation 0.001 m). Calculate the capacitance (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-   - Options: (a) 1.76 × 10⁻¹⁰ F (b) 1.77 × 10⁻¹⁰ F (c) 1.78 × 10⁻¹⁰ F (d) 1.79 × 10⁻¹⁰ F
-99. **Problem 99 (NEET, 2024)**: A capacitor (\( C = 3 \, \mu\text{F} \)) with a dielectric (\( \kappa = 2 \)) inserted, charged to 40 V. Calculate the new capacitance.
-   - Options: (a) 5.9 μF (b) 6.0 μF (c) 6.1 μF (d) 6.2 μF
-100. **Problem 100 (NEET, 2020)**: Two capacitors \( C_1 = 5 \, \mu\text{F} \), \( C_2 = 10 \, \mu\text{F} \) in series, connected to 20 V. Calculate the total charge.
-    - Options: (a) 66.6 μC (b) 66.7 μC (c) 66.8 μC (d) 66.9 μC
+6. Three capacitors $C_1 = 2 \, \mu\text{F}$, $C_2 = 4 \, \mu\text{F}$, and $C_3 = 8 \, \mu\text{F}$ are connected in parallel. Calculate the equivalent capacitance.  
+   - (a) $13.9 \, \mu\text{F}$  
+   - (b) $14.0 \, \mu\text{F}$  
+   - (c) $14.1 \, \mu\text{F}$  
+   - (d) $14.2 \, \mu\text{F}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. Two capacitors $C_1 = 5 \, \mu\text{F}$ and $C_2 = 10 \, \mu\text{F}$ are in series, connected to a potential difference of $150 \, \text{V}$. Calculate the potential difference across $C_1$.  
+   - (a) $99.9 \, \text{V}$  
+   - (b) $100.0 \, \text{V}$  
+   - (c) $100.1 \, \text{V}$  
+   - (d) $100.2 \, \text{V}$
 
-[View Solutions](/books/physics/capacitance/solutions) -->
+8. A capacitor $C = 25 \, \mu\text{F}$ is charged to $V = 60 \, \text{V}$. Calculate the energy stored in the capacitor.  
+   - (a) $4.49 \times 10^{-2} \, \text{J}$  
+   - (b) $4.50 \times 10^{-2} \, \text{J}$  
+   - (c) $4.51 \times 10^{-2} \, \text{J}$  
+   - (d) $4.52 \times 10^{-2} \, \text{J}$
+
+9. A parallel plate capacitor has $A = 0.03 \, \text{m}^2$, $d = 0.001 \, \text{m}$, and an electric field $E = 4000 \, \text{N/C}$ between the plates. Calculate the energy density.  
+   - (a) $7.07 \times 10^{-2} \, \text{J/m}^3$  
+   - (b) $7.08 \times 10^{-2} \, \text{J/m}^3$  
+   - (c) $7.09 \times 10^{-2} \, \text{J/m}^3$  
+   - (d) $7.10 \times 10^{-2} \, \text{J/m}^3$
+
+10. A parallel plate capacitor has $C = 10 \, \mu\text{F}$. A dielectric with $\kappa = 2$ is inserted while keeping the charge constant at $Q = 20 \, \mu\text{C}$. Calculate the new potential difference across the capacitor.  
+    - (a) $0.999 \, \text{V}$  
+    - (b) $1.000 \, \text{V}$  
+    - (c) $1.001 \, \text{V}$  
+    - (d) $1.002 \, \text{V}$
+
+11. A parallel plate capacitor has $C = 8 \, \mu\text{F}$, connected to a battery with $V = 50 \, \text{V}$. A dielectric with $\kappa = 3$ is inserted while maintaining constant $V$. Calculate the new capacitance.  
+    - (a) $23.9 \, \mu\text{F}$  
+    - (b) $24.0 \, \mu\text{F}$  
+    - (c) $24.1 \, \mu\text{F}$  
+    - (d) $24.2 \, \mu\text{F}$
+
+12. A parallel plate capacitor has $A = 0.05 \, \text{m}^2$, $d = 0.003 \, \text{m}$. Calculate the capacitance in vacuum.  
+    - (a) $1.47 \times 10^{-10} \, \text{F}$  
+    - (b) $1.48 \times 10^{-10} \, \text{F}$  
+    - (c) $1.49 \times 10^{-10} \, \text{F}$  
+    - (d) $1.50 \times 10^{-10} \, \text{F}$
+
+13. A capacitor $C = 12 \, \mu\text{F}$ is charged to $V = 80 \, \text{V}$. Calculate the charge stored on the capacitor.  
+    - (a) $9.59 \times 10^{-4} \, \text{C}$  
+    - (b) $9.60 \times 10^{-4} \, \text{C}$  
+    - (c) $9.61 \times 10^{-4} \, \text{C}$  
+    - (d) $9.62 \times 10^{-4} \, \text{C}$
+
+14. A spherical capacitor has $a = 0.05 \, \text{m}$, $b = 0.1 \, \text{m}$. Calculate the capacitance.  
+    - (a) $1.11 \times 10^{-11} \, \text{F}$  
+    - (b) $1.12 \times 10^{-11} \, \text{F}$  
+    - (c) $1.13 \times 10^{-11} \, \text{F}$  
+    - (d) $1.14 \times 10^{-11} \, \text{F}$
+
+15. Two capacitors $C_1 = 4 \, \mu\text{F}$ and $C_2 = 8 \, \mu\text{F}$ are in series. Calculate the equivalent capacitance.  
+    - (a) $2.66 \, \mu\text{F}$  
+    - (b) $2.67 \, \mu\text{F}$  
+    - (c) $2.68 \, \mu\text{F}$  
+    - (d) $2.69 \, \mu\text{F}$
+
+16. Three capacitors $C_1 = 1 \, \mu\text{F}$, $C_2 = 2 \, \mu\text{F}$, $C_3 = 3 \, \mu\text{F}$ are in parallel, connected to $V = 60 \, \text{V}$. Calculate the total charge stored.  
+    - (a) $3.59 \times 10^{-4} \, \text{C}$  
+    - (b) $3.60 \times 10^{-4} \, \text{C}$  
+    - (c) $3.61 \times 10^{-4} \, \text{C}$  
+    - (d) $3.62 \times 10^{-4} \, \text{C}$
+
+17. Two capacitors $C_1 = 6 \, \mu\text{F}$ and $C_2 = 12 \, \mu\text{F}$ are in series, connected to $V = 120 \, \text{V}$. Calculate the potential difference across $C_2$.  
+    - (a) $39.9 \, \text{V}$  
+    - (b) $40.0 \, \text{V}$  
+    - (c) $40.1 \, \text{V}$  
+    - (d) $40.2 \, \text{V}$
+
+18. A capacitor $C = 30 \, \mu\text{F}$ is charged to $V = 40 \, \text{V}$. Calculate the energy stored.  
+    - (a) $2.39 \times 10^{-2} \, \text{J}$  
+    - (b) $2.40 \times 10^{-2} \, \text{J}$  
+    - (c) $2.41 \times 10^{-2} \, \text{J}$  
+    - (d) $2.42 \times 10^{-2} \, \text{J}$
+
+19. A parallel plate capacitor has $A = 0.04 \, \text{m}^2$, $d = 0.002 \, \text{m}$, $E = 3000 \, \text{N/C}$. Calculate the energy density.  
+    - (a) $3.97 \times 10^{-2} \, \text{J/m}^3$  
+    - (b) $3.98 \times 10^{-2} \, \text{J/m}^3$  
+    - (c) $3.99 \times 10^{-2} \, \text{J/m}^3$  
+    - (d) $4.00 \times 10^{-2} \, \text{J/m}^3$
+
+20. A capacitor $C = 5 \, \mu\text{F}$ has $Q = 15 \, \mu\text{C}$. A dielectric with $\kappa = 2$ is inserted (constant $Q$). Calculate the new potential difference.  
+    - (a) $1.499 \, \text{V}$  
+    - (b) $1.500 \, \text{V}$  
+    - (c) $1.501 \, \text{V}$  
+    - (d) $1.502 \, \text{V}$
+
+21. A capacitor $C = 4 \, \mu\text{F}$ is connected to $V = 200 \, \text{V}$. A dielectric with $\kappa = 5$ is inserted (constant $V$). Calculate the new energy stored.  
+    - (a) $0.799 \, \text{J}$  
+    - (b) $0.800 \, \text{J}$  
+    - (c) $0.801 \, \text{J}$  
+    - (d) $0.802 \, \text{J}$
+
+22. A parallel plate capacitor has $A = 0.1 \, \text{m}^2$, $d = 0.005 \, \text{m}$. Calculate the capacitance in vacuum.  
+    - (a) $1.76 \times 10^{-10} \, \text{F}$  
+    - (b) $1.77 \times 10^{-10} \, \text{F}$  
+    - (c) $1.78 \times 10^{-10} \, \text{F}$  
+    - (d) $1.79 \times 10^{-10} \, \text{F}$
+
+23. A capacitor $C = 18 \, \mu\text{F}$ is charged to $V = 70 \, \text{V}$. Calculate the charge stored.  
+    - (a) $1.259 \times 10^{-3} \, \text{C}$  
+    - (b) $1.260 \times 10^{-3} \, \text{C}$  
+    - (c) $1.261 \times 10^{-3} \, \text{C}$  
+    - (d) $1.262 \times 10^{-3} \, \text{C}$
+
+24. A spherical capacitor has $a = 0.02 \, \text{m}$, $b = 0.04 \, \text{m}$. Calculate the capacitance.  
+    - (a) $4.42 \times 10^{-12} \, \text{F}$  
+    - (b) $4.43 \times 10^{-12} \, \text{F}$  
+    - (c) $4.44 \times 10^{-12} \, \text{F}$  
+    - (d) $4.45 \times 10^{-12} \, \text{F}$
+
+25. Two capacitors $C_1 = 1 \, \mu\text{F}$ and $C_2 = 2 \, \mu\text{F}$ are in series. Calculate the equivalent capacitance.  
+    - (a) $0.666 \, \mu\text{F}$  
+    - (b) $0.667 \, \mu\text{F}$  
+    - (c) $0.668 \, \mu\text{F}$  
+    - (d) $0.669 \, \mu\text{F}$
+
+26. Four capacitors $C_1 = 5 \, \mu\text{F}$, $C_2 = 10 \, \mu\text{F}$, $C_3 = 15 \, \mu\text{F}$, $C_4 = 20 \, \mu\text{F}$ are in parallel, connected to $V = 30 \, \text{V}$. Calculate the total charge stored.  
+    - (a) $1.499 \times 10^{-3} \, \text{C}$  
+    - (b) $1.500 \times 10^{-3} \, \text{C}$  
+    - (c) $1.501 \times 10^{-3} \, \text{C}$  
+    - (d) $1.502 \times 10^{-3} \, \text{C}$
+
+27. Two capacitors $C_1 = 2 \, \mu\text{F}$ and $C_2 = 3 \, \mu\text{F}$ are in series, then in parallel with $C_3 = 5 \, \mu\text{F}$. Calculate the equivalent capacitance.  
+    - (a) $6.19 \, \mu\text{F}$  
+    - (b) $6.20 \, \mu\text{F}$  
+    - (c) $6.21 \, \mu\text{F}$  
+    - (d) $6.22 \, \mu\text{F}$
+
+28. A capacitor $C = 40 \, \mu\text{F}$ is charged to $V = 25 \, \text{V}$. Calculate the energy stored.  
+    - (a) $1.249 \times 10^{-2} \, \text{J}$  
+    - (b) $1.250 \times 10^{-2} \, \text{J}$  
+    - (c) $1.251 \times 10^{-2} \, \text{J}$  
+    - (d) $1.252 \times 10^{-2} \, \text{J}$
+
+29. A parallel plate capacitor has $A = 0.02 \, \text{m}^2$, $d = 0.004 \, \text{m}$, $E = 2000 \, \text{N/C}$. Calculate the energy density.  
+    - (a) $1.76 \times 10^{-2} \, \text{J/m}^3$  
+    - (b) $1.77 \times 10^{-2} \, \text{J/m}^3$  
+    - (c) $1.78 \times 10^{-2} \, \text{J/m}^3$  
+    - (d) $1.79 \times 10^{-2} \, \text{J/m}^3$
+
+30. A capacitor $C = 6 \, \mu\text{F}$ has $Q = 12 \, \mu\text{C}$. A dielectric with $\kappa = 4$ is inserted (constant $Q$). Calculate the new potential difference.  
+    - (a) $0.499 \, \text{V}$  
+    - (b) $0.500 \, \text{V}$  
+    - (c) $0.501 \, \text{V}$  
+    - (d) $0.502 \, \text{V}$
+
+31. In a spacecraft power system, a capacitor has $C = 20 \, \mu\text{F}$, $V = 150 \, \text{V}$. A dielectric with $\kappa = 3$ is inserted (constant $V$). Calculate the new capacitance.  
+    - (a) $59.9 \, \mu\text{F}$  
+    - (b) $60.0 \, \mu\text{F}$  
+    - (c) $60.1 \, \mu\text{F}$  
+    - (d) $60.2 \, \mu\text{F}$
+
+32. A parallel plate capacitor has $A = 0.08 \, \text{m}^2$, $d = 0.004 \, \text{m}$. Calculate the capacitance in vacuum.  
+    - (a) $1.76 \times 10^{-10} \, \text{F}$  
+    - (b) $1.77 \times 10^{-10} \, \text{F}$  
+    - (c) $1.78 \times 10^{-10} \, \text{F}$  
+    - (d) $1.79 \times 10^{-10} \, \text{F}$
+
+33. A capacitor $C = 50 \, \mu\text{F}$ is charged to $V = 20 \, \text{V}$. Calculate the charge stored.  
+    - (a) $9.99 \times 10^{-4} \, \text{C}$  
+    - (b) $1.00 \times 10^{-3} \, \text{C}$  
+    - (c) $1.01 \times 10^{-3} \, \text{C}$  
+    - (d) $1.02 \times 10^{-3} \, \text{C}$
+
+34. Two capacitors $C_1 = 7 \, \mu\text{F}$ and $C_2 = 14 \, \mu\text{F}$ are in series, connected to $V = 180 \, \text{V}$. Calculate the potential difference across $C_1$.  
+    - (a) $119.9 \, \text{V}$  
+    - (b) $120.0 \, \text{V}$  
+    - (c) $120.1 \, \text{V}$  
+    - (d) $120.2 \, \text{V}$
+
+35. A capacitor $C = 10 \, \mu\text{F}$ is charged to $V = 300 \, \text{V}$. A dielectric with $\kappa = 2$ is inserted (constant $V$). Calculate the new energy stored.  
+    - (a) $0.899 \, \text{J}$  
+    - (b) $0.900 \, \text{J}$  
+    - (c) $0.901 \, \text{J}$  
+    - (d) $0.902 \, \text{J}$
+
+---
+
+## Conceptual Problems
+
+36. What does capacitance measure?  
+   - (a) Charge stored per unit area  
+   - (b) Charge stored per unit potential difference  
+   - (c) Energy stored per unit charge  
+   - (d) Potential difference per unit energy
+
+37. What happens to the capacitance of a parallel plate capacitor if the separation between plates doubles?  
+   - (a) Doubles  
+   - (b) Halves  
+   - (c) Quadruples  
+   - (d) Quarters
+
+38. What is the key difference between capacitors in series and parallel?  
+   - (a) Series: same charge, parallel: same voltage  
+   - (b) Series: same voltage, parallel: same charge  
+   - (c) Series: same energy, parallel: same capacitance  
+   - (d) Series: same capacitance, parallel: same energy
+
+39. What happens to the energy stored in a capacitor if a dielectric is inserted while keeping the charge constant?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+40. What is the unit of capacitance in SI units?  
+   - (a) Farad  
+   - (b) Volt  
+   - (c) Joule  
+   - (d) Ohm
+
+41. What does a zero electric field inside a conductor imply for a capacitor?  
+   - (a) No charge on plates  
+   - (b) Uniform potential on plates  
+   - (c) Non-uniform potential on plates  
+   - (d) No field lines
+
+42. What is the physical significance of $\frac{1}{2} \epsilon_0 E^2$?  
+   - (a) Energy stored in a capacitor  
+   - (b) Energy density in an electric field  
+   - (c) Capacitance of a capacitor  
+   - (d) Charge on a capacitor
+
+43. What does a dielectric do to the electric field inside a capacitor?  
+   - (a) Increases it  
+   - (b) Decreases it  
+   - (c) No effect  
+   - (d) Makes it zero
+
+44. What happens to the potential difference across a capacitor when a dielectric is inserted while keeping the voltage constant?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+45. What is the dimension of capacitance?  
+   - (a) $[\text{M}^{-1} \text{L}^{-2} \text{T}^4 \text{A}^2]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does a high capacitance indicate?  
+   - (a) High charge storage for a given voltage  
+   - (b) Low charge storage  
+   - (c) High voltage for a given charge  
+   - (d) No charge storage
+
+47. What is the significance of $\frac{\epsilon_0 A}{d}$?  
+   - (a) Capacitance of a spherical capacitor  
+   - (b) Capacitance of a parallel plate capacitor  
+   - (c) Energy stored in a capacitor  
+   - (d) Charge on a capacitor
+
+48. What happens to the total charge in a series combination of capacitors?  
+   - (a) Same on each capacitor  
+   - (b) Different on each capacitor  
+   - (c) Zero on each capacitor  
+   - (d) Infinite on each capacitor
+
+49. What does the energy density in a capacitor depend on?  
+   - (a) Charge on the plates  
+   - (b) Electric field between the plates  
+   - (c) Area of the plates  
+   - (d) Separation between plates
+
+50. How do capacitors in spacecraft power systems function?  
+   - (a) Reduce charge  
+   - (b) Store energy for ion propulsion  
+   - (c) Increase distance  
+   - (d) Decrease field
+
+---
+
+## Derivation Problems
+
+51. Derive the capacitance of a parallel plate capacitor $C = \frac{\epsilon_0 A}{d}$.
+
+52. Derive the capacitance of a spherical capacitor $C = 4 \pi \epsilon_0 \frac{ab}{b-a}$.
+
+53. Derive the capacitance of a cylindrical capacitor $C = \frac{2 \pi \epsilon_0 L}{\ln(b/a)}$.
+
+54. Derive the equivalent capacitance for capacitors in series.
+
+55. Derive the equivalent capacitance for capacitors in parallel.
+
+56. Derive the energy stored in a capacitor $U = \frac{1}{2} C V^2$.
+
+57. Derive the energy density in a capacitor $u = \frac{1}{2} \epsilon_0 E^2$.
+
+58. Derive the new capacitance of a capacitor with a dielectric $C = \kappa C_0$.
+
+59. Derive the effect of a dielectric on the electric field $E = \frac{E_0}{\kappa}$ (constant $Q$).
+
+60. Derive the potential difference across a capacitor with a dielectric (constant $V$).
+
+61. Derive the total energy in a series combination of capacitors.
+
+62. Derive the total charge in a parallel combination of capacitors.
+
+63. Derive the potential difference across each capacitor in a series combination.
+
+64. Derive the energy stored in a capacitor with a dielectric (constant $V$).
+
+65. Derive the charge distribution in a parallel combination of capacitors.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of energy density in SI units?  
+   - (a) $\text{J/m}^3$  
+   - (b) $\text{N/C}$  
+   - (c) $\text{J}$  
+   - (d) $\text{V}$
+
+67. What does a dielectric constant $\kappa > 1$ indicate?  
+   - (a) Decreases capacitance  
+   - (b) Increases capacitance  
+   - (c) No effect on capacitance  
+   - (d) Reduces charge
+
+68. What happens to the total capacitance in a series combination?  
+   - (a) Greater than individual capacitances  
+   - (b) Less than the smallest capacitance  
+   - (c) Equal to the largest capacitance  
+   - (d) Zero
+
+69. What happens to the energy stored in a capacitor if the potential difference doubles?  
+   - (a) Doubles  
+   - (b) Halves  
+   - (c) Quadruples  
+   - (d) Quarters
+
+70. What is the dimension of energy density?  
+   - (a) $[\text{M} \text{L}^{-1} \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the area of the plates affect in a parallel plate capacitor?  
+   - (a) Electric field  
+   - (b) Capacitance  
+   - (c) Potential difference  
+   - (d) Energy density
+
+72. What is the role of a dielectric in a capacitor?  
+   - (a) Increases the electric field  
+   - (b) Decreases the electric field  
+   - (c) No effect on the field  
+   - (d) Reduces charge
+
+73. What happens to the charge on a capacitor in a parallel combination?  
+   - (a) Same on each capacitor  
+   - (b) Different, proportional to capacitance  
+   - (c) Zero on each capacitor  
+   - (d) Infinite on each capacitor
+
+74. Why does the energy density depend on the electric field?  
+   - (a) Due to $u = \frac{1}{2} \epsilon_0 E^2$  
+   - (b) Due to symmetry  
+   - (c) Due to field lines  
+   - (d) Due to charge quantization
+
+75. What is the unit of the dielectric constant $\kappa$?  
+   - (a) Unitless  
+   - (b) Farad  
+   - (c) Volt  
+   - (d) Joule
+
+76. What does a constant potential difference across a capacitor indicate?  
+   - (a) Variable charge  
+   - (b) Constant charge  
+   - (c) Variable field  
+   - (d) Zero field
+
+77. Which type of combination results in the same charge on each capacitor?  
+   - (a) Parallel combination  
+   - (b) Series combination  
+   - (c) Mixed combination  
+   - (d) No combination
+
+78. What is the direction of the electric field in a capacitor with a dielectric?  
+   - (a) Same as without dielectric, but reduced  
+   - (b) Opposite to the field  
+   - (c) Perpendicular to the plates  
+   - (d) Random
+
+79. What does a pseudo-force do in a non-inertial frame for capacitors?  
+   - (a) Affects perceived field  
+   - (b) Affects charge distribution  
+   - (c) Creates energy density  
+   - (d) Reduces capacitance
+
+80. What is the dimension of $\epsilon_0$?  
+   - (a) $[\text{M}^{-1} \text{L}^{-3} \text{T}^4 \text{A}^2]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of capacitors in spacecraft power systems?  
+   - (a) Reduce charge  
+   - (b) Store energy for ion propulsion  
+   - (c) Increase distance  
+   - (d) Decrease field
+
+82. What happens to the potential difference across a capacitor with a dielectric (constant $Q$)?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+83. Why does the capacitance of a parallel plate capacitor depend on the area of the plates?  
+   - (a) Due to $C \propto A$  
+   - (b) Due to symmetry  
+   - (c) Due to field lines  
+   - (d) Due to charge quantization
+
+84. What is the significance of $\frac{1}{2} \frac{Q^2}{C}$?  
+   - (a) Electric field in a capacitor  
+   - (b) Energy stored in a capacitor  
+   - (c) Capacitance of a capacitor  
+   - (d) Charge on a capacitor
+
+85. What is the unit of energy stored in a capacitor?  
+   - (a) Joule  
+   - (b) Volt  
+   - (c) Farad  
+   - (d) Watt
+
+86. What does a zero energy density in a capacitor indicate?  
+   - (a) No electric field  
+   - (b) Maximum field  
+   - (c) No charge on plates  
+   - (d) Infinite charge
+
+87. What is the physical significance of $4 \pi \epsilon_0 \frac{ab}{b-a}$?  
+   - (a) Capacitance of a parallel plate capacitor  
+   - (b) Capacitance of a spherical capacitor  
+   - (c) Energy stored in a capacitor  
+   - (d) Charge on a capacitor
+
+88. Why does the energy stored in a capacitor increase with a dielectric (constant $V$)?  
+   - (a) Due to increased capacitance  
+   - (b) Due to decreased field  
+   - (c) Due to field lines  
+   - (d) Due to charge quantization
+
+89. What is the dimension of $\frac{1}{C}$?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-4} \text{A}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How do dielectrics help in spacecraft capacitors?  
+   - (a) Reduce charge  
+   - (b) Increase capacitance for energy storage  
+   - (c) Reduce field  
+   - (d) Increase distance
+
+91. What is the role of separation $d$ in a parallel plate capacitor?  
+   - (a) $C \propto d$  
+   - (b) $C \propto \frac{1}{d}$  
+   - (c) No dependence  
+   - (d) Exponential dependence
+
+92. What does a high energy density in a capacitor indicate?  
+   - (a) Low electric field  
+   - (b) High electric field  
+   - (c) No field  
+   - (d) Constant field
+
+93. What is the physical significance of $\frac{V}{d}$ in a parallel plate capacitor?  
+   - (a) Electric field between plates  
+   - (b) Capacitance  
+   - (c) Energy density  
+   - (d) Charge on plates
+
+94. What is the dimension of $\frac{Q}{V}$?  
+   - (a) $[\text{M}^{-1} \text{L}^{-2} \text{T}^4 \text{A}^2]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does the charge on a capacitor in a series combination remain the same?  
+   - (a) Due to conservation of charge  
+   - (b) Due to symmetry  
+   - (c) Due to field lines  
+   - (d) Due to charge quantization
+
+---
+
+## NEET-style Numerical Problems
+
+96. A parallel plate capacitor has $A = 0.06 \, \text{m}^2$, $d = 0.003 \, \text{m}$. Calculate the capacitance in vacuum.  
+   - (a) $1.76 \times 10^{-10} \, \text{F}$  
+   - (b) $1.77 \times 10^{-10} \, \text{F}$  
+   - (c) $1.78 \times 10^{-10} \, \text{F}$  
+   - (d) $1.79 \times 10^{-10} \, \text{F}$
+
+97. Two capacitors $C_1 = 2 \, \mu\text{F}$ and $C_2 = 4 \, \mu\text{F}$ are in series. Calculate the equivalent capacitance.  
+   - (a) $1.33 \, \mu\text{F}$  
+   - (b) $1.34 \, \mu\text{F}$  
+   - (c) $1.35 \, \mu\text{F}$  
+   - (d) $1.36 \, \mu\text{F}$
+
+98. A capacitor $C = 5 \, \mu\text{F}$ is charged to $V = 100 \, \text{V}$. Calculate the energy stored.  
+   - (a) $2.49 \times 10^{-2} \, \text{J}$  
+   - (b) $2.50 \times 10^{-2} \, \text{J}$  
+   - (c) $2.51 \times 10^{-2} \, \text{J}$  
+   - (d) $2.52 \times 10^{-2} \, \text{J}$
+
+99. A capacitor $C = 8 \, \mu\text{F}$ has $Q = 16 \, \mu\text{C}$. A dielectric with $\kappa = 2$ is inserted (constant $Q$). Calculate the new potential difference.  
+   - (a) $0.999 \, \text{V}$  
+   - (b) $1.000 \, \text{V}$  
+   - (c) $1.001 \, \text{V}$  
+   - (d) $1.002 \, \text{V}$
+
+100. A capacitor $C = 3 \, \mu\text{F}$ is connected to $V = 50 \, \text{V}$. A dielectric with $\kappa = 3$ is inserted (constant $V$). Calculate the new energy stored.  
+    - (a) $1.124 \times 10^{-2} \, \text{J}$  
+    - (b) $1.125 \times 10^{-2} \, \text{J}$  
+    - (c) $1.126 \times 10^{-2} \, \text{J}$  
+    - (d) $1.127 \times 10^{-2} \, \text{J}$
 
 ## Back to Chapter
 [Return to Capacitance Chapter](./index.md)

@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Induction and Inductance Problems for JEE & NEET
-description: Practice 100 induction and inductance problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 problems on induction and inductance for JEE and NEET, inspired by exam patterns, covering Faraday’s law, Lenz’s law, self and mutual inductance, and circuit applications.
 slug: book/physics/induction-inductance-problems
-keywords: physics induction inductance problems, JEE physics Faraday’s law problems, NEET physics mutual inductance problems, electromagnetism
+keywords: physics induction inductance problems, JEE physics Faraday’s law problems, NEET physics inductance problems, electromagnetism
 og:image: https://vidyamarg.com/og-physics-induction-inductance.jpg
 ---
 
 # Induction and Inductance Problems
 
-This section provides **100 problems** to test your understanding of electromagnetic induction and inductance, including Faraday’s law, motional EMF, self- and mutual inductance, and LR circuits. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of electromagnetic induction and inductance, including calculations of induced emf, inductance, energy storage, and circuit behavior in RL and LC circuits. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering electromagnetism, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on induced EMF, inductance calculations, and LR circuit transients, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., Lenz’s law, inductor energy), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A loop with area $A = 0.1 \, \text{m}^2$ is in a magnetic field $B = 0.4 t \, \text{T}$ (increasing). Calculate the induced emf at $t = 1 \, \text{s}$.  
+   - (a) $0.039 \, \text{V}$  
+   - (b) $0.040 \, \text{V}$  
+   - (c) $0.041 \, \text{V}$  
+   - (d) $0.042 \, \text{V}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A circular loop (radius 0.2 m) in a magnetic field \( B = 0.4 \, \text{T} \) decreasing at 0.01 T/s. Calculate the induced EMF.
-   - Options: (a) 5.02 × 10⁻³ V (b) 5.03 × 10⁻³ V (c) 5.04 × 10⁻³ V (d) 5.05 × 10⁻³ V
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A rod (length 0.3 m) moves at 4 m/s perpendicular to a 0.5 T field. Calculate the motional EMF.
-   - Options: (a) 0.599 V (b) 0.600 V (c) 0.601 V (d) 0.602 V
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A solenoid (length 0.4 m, 1000 turns, area 0.02 m², current changing at 3 A/s). Calculate the self-induced EMF (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 0.188 V (b) 0.189 V (c) 0.190 V (d) 0.191 V
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: An inductor (\( L = 0.2 \, \text{H} \)) with 5 A current. Calculate the stored energy.
-   - Options: (a) 2.49 J (b) 2.50 J (c) 2.51 J (d) 2.52 J
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: An LR circuit (\( L = 0.1 \, \text{H} \), \( R = 10 \, \Omega \), \( \mathcal{E} = 12 \, \text{V} \)). Calculate the current after 0.01 s.
-   - Options: (a) 0.719 A (b) 0.720 A (c) 0.721 A (d) 0.722 A
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: Two coils (\( M = 0.05 \, \text{H} \), current in coil 1 changing at 2 A/s). Calculate the induced EMF in coil 2.
-   - Options: (a) 0.099 V (b) 0.100 V (c) 0.101 V (d) 0.102 V
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A square loop (side 0.1 m) rotates at 10 rad/s in a 0.2 T field. Calculate the maximum induced EMF.
-   - Options: (a) 0.099 V (b) 0.100 V (c) 0.101 V (d) 0.102 V
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A solenoid (length 0.5 m, 500 turns, area 0.01 m², current changing at 4 A/s). Calculate the self-induced EMF (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 0.0627 V (b) 0.0628 V (c) 0.0629 V (d) 0.0630 V
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: A rod (length 0.4 m) moves at 6 m/s at 30° to a 0.6 T field. Calculate the motional EMF.
-   - Options: (a) 0.719 V (b) 0.720 V (c) 0.721 V (d) 0.722 V
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: An inductor (\( L = 0.15 \, \text{H} \)) with 2 A current. Calculate the stored energy.
-    - Options: (a) 0.299 J (b) 0.300 J (c) 0.301 J (d) 0.302 J
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A circular loop (radius 0.15 m) in a magnetic field \( B = 0.3 \, \text{T} \) increasing at 0.02 T/s. Calculate the induced EMF.
-    - Options: (a) 2.82 × 10⁻³ V (b) 2.83 × 10⁻³ V (c) 2.84 × 10⁻³ V (d) 2.85 × 10⁻³ V
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: An LR circuit (\( L = 0.2 \, \text{H} \), \( R = 20 \, \Omega \), \( \mathcal{E} = 24 \, \text{V} \)). Calculate the time constant.
-    - Options: (a) 0.0099 s (b) 0.0100 s (c) 0.0101 s (d) 0.0102 s
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: Two coils (\( M = 0.08 \, \text{H} \), current in coil 1 changing at 1.5 A/s). Calculate the induced EMF in coil 2.
-    - Options: (a) 0.119 V (b) 0.120 V (c) 0.121 V (d) 0.122 V
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A rectangular loop (area 0.05 m²) in a magnetic field \( B = 0.6 \, \text{T} \) decreasing at 0.03 T/s. Calculate the induced EMF.
-    - Options: (a) 8.99 × 10⁻³ V (b) 9.00 × 10⁻³ V (c) 9.01 × 10⁻³ V (d) 9.02 × 10⁻³ V
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A rod (length 0.5 m) moves at 3 m/s perpendicular to a 0.4 T field. Calculate the motional EMF.
-    - Options: (a) 0.599 V (b) 0.600 V (c) 0.601 V (d) 0.602 V
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A solenoid (length 0.6 m, 800 turns, area 0.015 m², current changing at 2 A/s). Calculate the self-induced EMF (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 0.100 V (b) 0.101 V (c) 0.102 V (d) 0.103 V
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: An inductor (\( L = 0.3 \, \text{H} \)) with 4 A current. Calculate the stored energy.
-    - Options: (a) 2.39 J (b) 2.40 J (c) 2.41 J (d) 2.42 J
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: An LR circuit (\( L = 0.05 \, \text{H} \), \( R = 5 \, \Omega \), \( \mathcal{E} = 10 \, \text{V} \)). Calculate the current after 0.01 s.
-    - Options: (a) 0.863 A (b) 0.864 A (c) 0.865 A (d) 0.866 A
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A circular loop (radius 0.08 m) in a magnetic field \( B = 0.7 \, \text{T} \) decreasing at 0.04 T/s. Calculate the induced EMF.
-    - Options: (a) 1.60 × 10⁻³ V (b) 1.61 × 10⁻³ V (c) 1.62 × 10⁻³ V (d) 1.63 × 10⁻³ V
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: Two coils (\( M = 0.1 \, \text{H} \), current in coil 1 changing at 2 A/s). Calculate the induced EMF in coil 2.
-    - Options: (a) 0.199 V (b) 0.200 V (c) 0.201 V (d) 0.202 V
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A rod (length 0.25 m) moves at 8 m/s perpendicular to a 0.2 T field. Calculate the motional EMF.
-    - Options: (a) 0.399 V (b) 0.400 V (c) 0.401 V (d) 0.402 V
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A solenoid (length 0.3 m, 1200 turns, area 0.012 m², current changing at 1.5 A/s). Calculate the self-induced EMF (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 0.0904 V (b) 0.0905 V (c) 0.0906 V (d) 0.0907 V
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: An inductor (\( L = 0.4 \, \text{H} \)) with 3 A current. Calculate the stored energy.
-    - Options: (a) 1.79 J (b) 1.80 J (c) 1.81 J (d) 1.82 J
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: An LR circuit (\( L = 0.15 \, \text{H} \), \( R = 30 \, \Omega \), \( \mathcal{E} = 18 \, \text{V} \)). Calculate the time constant.
-    - Options: (a) 0.00499 s (b) 0.00500 s (c) 0.00501 s (d) 0.00502 s
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A circular loop (radius 0.12 m) in a magnetic field \( B = 0.5 \, \text{T} \) increasing at 0.015 T/s. Calculate the induced EMF.
-    - Options: (a) 2.26 × 10⁻³ V (b) 2.27 × 10⁻³ V (c) 2.28 × 10⁻³ V (d) 2.29 × 10⁻³ V
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A rod (length 0.6 m) moves at 2 m/s at 45° to a 0.8 T field. Calculate the motional EMF.
-    - Options: (a) 0.678 V (b) 0.679 V (c) 0.680 V (d) 0.681 V
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: Two coils (\( M = 0.06 \, \text{H} \), current in coil 1 changing at 3 A/s). Calculate the induced EMF in coil 2.
-    - Options: (a) 0.179 V (b) 0.180 V (c) 0.181 V (d) 0.182 V
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A solenoid (length 0.7 m, 1500 turns, area 0.008 m², current changing at 2 A/s). Calculate the self-induced EMF (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 0.108 V (b) 0.109 V (c) 0.110 V (d) 0.111 V
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: An inductor (\( L = 0.25 \, \text{H} \)) with 6 A current. Calculate the stored energy.
-    - Options: (a) 4.49 J (b) 4.50 J (c) 4.51 J (d) 4.52 J
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: An LR circuit (\( L = 0.08 \, \text{H} \), \( R = 4 \, \Omega \), \( \mathcal{E} = 8 \, \text{V} \)). Calculate the current after 0.02 s.
-    - Options: (a) 0.864 A (b) 0.865 A (c) 0.866 A (d) 0.867 A
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A circular loop (radius 0.1 m) in a magnetic field \( B = 0.8 \, \text{T} \) decreasing at 0.05 T/s. Calculate the induced EMF.
-    - Options: (a) 1.57 × 10⁻³ V (b) 1.58 × 10⁻³ V (c) 1.59 × 10⁻³ V (d) 1.60 × 10⁻³ V
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A rod (length 0.35 m) moves at 5 m/s perpendicular to a 0.7 T field. Calculate the motional EMF.
-    - Options: (a) 1.22 V (b) 1.23 V (c) 1.24 V (d) 1.25 V
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: Two coils (\( M = 0.12 \, \text{H} \), current in coil 1 changing at 1 A/s). Calculate the induced EMF in coil 2.
-    - Options: (a) 0.119 V (b) 0.120 V (c) 0.121 V (d) 0.122 V
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A solenoid (length 0.25 m, 2000 turns, area 0.005 m², current changing at 3 A/s). Calculate the self-induced EMF (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 0.301 V (b) 0.302 V (c) 0.303 V (d) 0.304 V
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: An inductor (\( L = 0.5 \, \text{H} \)) with 2.5 A current. Calculate the stored energy.
-    - Options: (a) 1.56 J (b) 1.57 J (c) 1.58 J (d) 1.59 J
+2. A coil with $N = 100$ turns, area $A = 0.02 \, \text{m}^2$, is in a field $B = 0.5 \, \text{T}$ decreasing at $0.1 \, \text{T/s}$. Calculate the induced emf.  
+   - (a) $0.199 \, \text{V}$  
+   - (b) $0.200 \, \text{V}$  
+   - (c) $0.201 \, \text{V}$  
+   - (d) $0.202 \, \text{V}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What does Faraday’s law describe?
-   - Options: (a) Induced EMF from flux change (b) Force on charges (c) No EMF (d) Fixed EMF
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What does Lenz’s law state?
-   - Options: (a) Opposes flux change (b) Supports flux change (c) No effect (d) Fixed current
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What causes motional EMF?
-   - Options: (a) Conductor motion in field (b) Static field (c) No motion (d) Fixed EMF
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is self-inductance?
-   - Options: (a) EMF from current change (b) Constant EMF (c) No EMF (d) Fixed inductance
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What is mutual inductance?
-   - Options: (a) EMF between coils (b) Single coil EMF (c) No EMF (d) Fixed inductance
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What is the energy stored in an inductor?
-   - Options: (a) \( \frac{1}{2} L I^2 \) (b) \( L I^2 \) (c) No energy (d) Fixed energy
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: What is the time constant in an LR circuit?
-   - Options: (a) \( \frac{L}{R} \) (b) \( \frac{R}{L} \) (c) No constant (d) Fixed constant
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: Why does induced current oppose flux change?
-   - Options: (a) Lenz’s law (b) Faraday’s law (c) No opposition (d) Fixed current
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: What is the unit of inductance?
-   - Options: (a) Henry (b) Ohm (c) Volt (d) No unit
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: How is motional EMF generated?
-   - Options: (a) Motion in magnetic field (b) Static field (c) No motion (d) Fixed EMF
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: What is the role of inductors in circuits?
-   - Options: (a) Store energy (b) No role (c) Fixed role (d) Only theoretical
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: Why is EMF induced in a changing field?
-   - Options: (a) Flux change (b) No change (c) Fixed flux (d) Only theoretical
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: What is the direction of induced current?
-   - Options: (a) Opposes flux change (b) Supports flux change (c) No direction (d) Fixed direction
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: How does current affect inductor energy?
-   - Options: (a) Proportional to square (b) Linear (c) No effect (d) Fixed energy
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: What is the significance of mutual inductance?
-   - Options: (a) Couples coils (b) No coupling (c) Fixed coupling (d) Only theoretical
+3. A rod of length $l = 0.5 \, \text{m}$ moves at $v = 4 \, \text{m/s}$ in a magnetic field $B = 0.3 \, \text{T}$ (perpendicular). Calculate the motional emf.  
+   - (a) $0.599 \, \text{V}$  
+   - (b) $0.600 \, \text{V}$  
+   - (c) $0.601 \, \text{V}$  
+   - (d) $0.602 \, \text{V}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive Faraday’s law from flux change.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the motional EMF formula.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the self-inductance of a solenoid.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the mutual inductance between two coils.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the energy stored in an inductor.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the current growth in an LR circuit.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the induced electric field from Faraday’s law.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the time constant of an LR circuit.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the EMF in a rotating loop.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the mutual inductance of coaxial solenoids.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the energy dissipation in an LR circuit.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the induced EMF in a moving loop.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the self-inductance of a toroid.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the current decay in an LR circuit.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the EMF in a sliding rod system.
+4. A solenoid with $N = 200$ turns, length $l = 0.4 \, \text{m}$, area $A = 0.01 \, \text{m}^2$ ($\mu_0 = 4 \pi \times 10^{-7} \, \text{T·m/A}$). Calculate the self-inductance $L$.  
+   - (a) $1.25 \times 10^{-3} \, \text{H}$  
+   - (b) $1.26 \times 10^{-3} \, \text{H}$  
+   - (c) $1.27 \times 10^{-3} \, \text{H}$  
+   - (d) $1.28 \times 10^{-3} \, \text{H}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What does Faraday’s law describe?
-   - Options: (a) Induced EMF (b) Force (c) No EMF (d) Fixed EMF
-67. **Problem 67 (NEET, 2022)**: What does Lenz’s law state?
-   - Options: (a) Opposes change (b) Supports change (c) No effect (d) Fixed current
-68. **Problem 68 (NEET, 2021)**: What causes motional EMF?
-   - Options: (a) Motion in field (b) Static field (c) No motion (d) Fixed EMF
-69. **Problem 69 (NEET, 2024)**: What is self-inductance?
-   - Options: (a) EMF from current (b) Constant EMF (c) No EMF (d) Fixed inductance
-70. **Problem 70 (NEET, 2020)**: What is mutual inductance?
-   - Options: (a) Coil coupling (b) Single coil (c) No coupling (d) Fixed inductance
-71. **Problem 71 (NEET, 2023)**: What is inductor energy?
-   - Options: (a) \( \frac{1}{2} L I^2 \) (b) \( L I^2 \) (c) No energy (d) Fixed energy
-72. **Problem 72 (NEET, 2022)**: What is the LR time constant?
-   - Options: (a) \( \frac{L}{R} \) (b) \( \frac{R}{L} \) (c) No constant (d) Fixed constant
-73. **Problem 73 (NEET, 2021)**: Why does current oppose flux?
-   - Options: (a) Lenz’s law (b) Faraday’s law (c) No opposition (d) Fixed current
-74. **Problem 74 (NEET, 2024)**: What is inductance’s unit?
-   - Options: (a) Henry (b) Ohm (c) Volt (d) No unit
-75. **Problem 75 (NEET, 2020)**: How is motional EMF generated?
-   - Options: (a) Motion (b) Static (c) No motion (d) Fixed EMF
-76. **Problem 76 (NEET, 2023)**: What do inductors do?
-   - Options: (a) Store energy (b) No role (c) Fixed role (d) Only theoretical
-77. **Problem 77 (NEET, 2022)**: Why is EMF induced?
-   - Options: (a) Flux change (b) No change (c) Fixed flux (d) Only theoretical
-78. **Problem 78 (NEET, 2021)**: What is induced current’s direction?
-   - Options: (a) Opposes change (b) Supports change (c) No direction (d) Fixed direction
-79. **Problem 79 (NEET, 2024)**: How does current affect energy?
-   - Options: (a) Squared (b) Linear (c) No effect (d) Fixed energy
-80. **Problem 80 (NEET, 2020)**: What is mutual inductance’s role?
-   - Options: (a) Couples coils (b) No coupling (c) Fixed coupling (d) Only theoretical
-81. **Problem 81 (NEET, 2023)**: Why use transformers?
-   - Options: (a) Voltage change (b) No use (c) Fixed use (d) Only theoretical
-82. **Problem 82 (NEET, 2022)**: What is the EMF unit?
-   - Options: (a) Volt (b) Henry (c) Joule (d) No unit
-83. **Problem 83 (NEET, 2021)**: How does flux change induce EMF?
-   - Options: (a) Faraday’s law (b) No law (c) Fixed law (d) Only theoretical
-84. **Problem 84 (NEET, 2024)**: What is the LR circuit’s behavior?
-   - Options: (a) Exponential growth (b) Linear (c) No growth (d) Fixed current
-85. **Problem 85 (NEET, 2020)**: Why is energy stored in inductors?
-   - Options: (a) Magnetic field (b) No energy (c) Fixed energy (d) Electric field
-86. **Problem 86 (NEET, 2023)**: How do generators use induction?
-   - Options: (a) Produce EMF (b) No EMF (c) Fixed EMF (d) Only theoretical
-87. **Problem 87 (NEET, 2022)**: What is the role of \( L \)?
-   - Options: (a) Opposes current change (b) Supports change (c) No role (d) Fixed role
-88. **Problem 88 (NEET, 2021)**: Why use right-hand rule in Lenz’s law?
-   - Options: (a) Current direction (b) No direction (c) Fixed direction (d) Only theoretical
-89. **Problem 89 (NEET, 2024)**: What is the field in induction?
-   - Options: (a) Magnetic (b) Electric (c) No field (d) Fixed field
-90. **Problem 90 (NEET, 2020)**: How does resistance affect LR circuits?
-   - Options: (a) Reduces time constant (b) Increases (c) No effect (d) Fixed constant
-91. **Problem 91 (NEET, 2023)**: Why is EMF negative in Faraday’s law?
-   - Options: (a) Lenz’s law (b) No reason (c) Fixed sign (d) Only theoretical
-92. **Problem 92 (NEET, 2022)**: What is the role of flux?
-   - Options: (a) Induces EMF (b) No role (c) Fixed role (d) Only theoretical
-93. **Problem 93 (NEET, 2021)**: How does velocity affect motional EMF?
-   - Options: (a) Proportional (b) Inversely (c) No effect (d) Fixed EMF
-94. **Problem 94 (NEET, 2024)**: What is the energy unit in inductors?
-   - Options: (a) Joule (b) Henry (c) Volt (d) No unit
-95. **Problem 95 (NEET, 2020)**: Why use inductors in circuits?
-   - Options: (a) Control current (b) No use (c) Fixed use (d) Only theoretical
+5. A coil with $L = 0.2 \, \text{H}$ has a current changing at $3 \, \text{A/s}$. Calculate the induced emf.  
+   - (a) $0.599 \, \text{V}$  
+   - (b) $0.600 \, \text{V}$  
+   - (c) $0.601 \, \text{V}$  
+   - (d) $0.602 \, \text{V}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A circular loop (radius 0.1 m) in a magnetic field \( B = 0.5 \, \text{T} \) decreasing at 0.02 T/s. Calculate the induced EMF.
-   - Options: (a) 6.27 × 10⁻⁴ V (b) 6.28 × 10⁻⁴ V (c) 6.29 × 10⁻⁴ V (d) 6.30 × 10⁻⁴ V
-97. **Problem 97 (NEET, 2022)**: A rod (length 0.2 m) moves at 5 m/s perpendicular to a 0.3 T field. Calculate the motional EMF.
-    - Options: (a) 0.299 V (b) 0.300 V (c) 0.301 V (d) 0.302 V
-98. **Problem 98 (NEET, 2021)**: An inductor (\( L = 0.1 \, \text{H} \)) with 4 A current. Calculate the stored energy.
-    - Options: (a) 0.799 J (b) 0.800 J (c) 0.801 J (d) 0.802 J
-99. **Problem 99 (NEET, 2024)**: A solenoid (length 0.5 m, 1000 turns, area 0.01 m², current changing at 2 A/s). Calculate the self-induced EMF (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 0.0502 V (b) 0.0503 V (c) 0.0504 V (d) 0.0505 V
-100. **Problem 100 (NEET, 2020)**: Two coils (\( M = 0.04 \, \text{H} \), current in coil 1 changing at 5 A/s). Calculate the induced EMF in coil 2.
-    - Options: (a) 0.199 V (b) 0.200 V (c) 0.201 V (d) 0.202 V
+6. Two coils have mutual inductance $M = 0.03 \, \text{H}$. The current in coil 1 changes at $2 \, \text{A/s}$. Calculate the emf induced in coil 2.  
+   - (a) $0.059 \, \text{V}$  
+   - (b) $0.060 \, \text{V}$  
+   - (c) $0.061 \, \text{V}$  
+   - (d) $0.062 \, \text{V}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. An inductor $L = 0.4 \, \text{H}$ carries a current $I = 2 \, \text{A}$. Calculate the energy stored in the inductor.  
+   - (a) $0.799 \, \text{J}$  
+   - (b) $0.800 \, \text{J}$  
+   - (c) $0.801 \, \text{J}$  
+   - (d) $0.802 \, \text{J}$
 
-[View Solutions](/books/physics/induction-inductance/solutions) -->
+8. An RL circuit has $L = 0.1 \, \text{H}$, $R = 5 \, \Omega$, $\mathcal{E} = 10 \, \text{V}$. Calculate the current at $t = 0.02 \, \text{s}$ after the switch is closed.  
+   - (a) $0.632 \, \text{A}$  
+   - (b) $0.633 \, \text{A}$  
+   - (c) $0.634 \, \text{A}$  
+   - (d) $0.635 \, \text{A}$
+
+9. An LC circuit has $L = 0.2 \, \text{H}$, $C = 50 \, \mu\text{F}$. Calculate the oscillation frequency $f$.  
+   - (a) $15.91 \, \text{Hz}$  
+   - (b) $15.92 \, \text{Hz}$  
+   - (c) $15.93 \, \text{Hz}$  
+   - (d) $15.94 \, \text{Hz}$
+
+10. A loop with $A = 0.05 \, \text{m}^2$ rotates at $\omega = 20 \, \text{rad/s}$ in $B = 0.1 \, \text{T}$. Calculate the maximum induced emf.  
+    - (a) $0.049 \, \text{V}$  
+    - (b) $0.050 \, \text{V}$  
+    - (c) $0.051 \, \text{V}$  
+    - (d) $0.052 \, \text{V}$
+
+11. A rod $l = 0.6 \, \text{m}$ moves at $v = 3 \, \text{m/s}$ in $B = 0.2 \, \text{T}$ at $30^\circ$. Calculate the motional emf.  
+    - (a) $0.179 \, \text{V}$  
+    - (b) $0.180 \, \text{V}$  
+    - (c) $0.181 \, \text{V}$  
+    - (d) $0.182 \, \text{V}$
+
+12. A solenoid $N = 150$, $l = 0.3 \, \text{m}$, $A = 0.015 \, \text{m}^2$. Calculate $L$.  
+    - (a) $1.12 \times 10^{-3} \, \text{H}$  
+    - (b) $1.13 \times 10^{-3} \, \text{H}$  
+    - (c) $1.14 \times 10^{-3} \, \text{H}$  
+    - (d) $1.15 \times 10^{-3} \, \text{H}$
+
+13. A coil $L = 0.3 \, \text{H}$, current changes from $0$ to $4 \, \text{A}$ in $0.2 \, \text{s}$. Calculate $\mathcal{E}$.  
+    - (a) $5.99 \, \text{V}$  
+    - (b) $6.00 \, \text{V}$  
+    - (c) $6.01 \, \text{V}$  
+    - (d) $6.02 \, \text{V}$
+
+14. Two coils $N_1 = 200$, $N_2 = 100$, $M = 0.04 \, \text{H}$, $I_1$ changes at $5 \, \text{A/s}$. Calculate $\mathcal{E}_2$.  
+    - (a) $0.199 \, \text{V}$  
+    - (b) $0.200 \, \text{V}$  
+    - (c) $0.201 \, \text{V}$  
+    - (d) $0.202 \, \text{V}$
+
+15. An inductor $L = 0.5 \, \text{H}$, $I = 3 \, \text{A}$. Calculate $U$.  
+    - (a) $2.249 \, \text{J}$  
+    - (b) $2.250 \, \text{J}$  
+    - (c) $2.251 \, \text{J}$  
+    - (d) $2.252 \, \text{J}$
+
+16. An RL circuit $L = 0.2 \, \text{H}$, $R = 8 \, \Omega$, $\mathcal{E} = 16 \, \text{V}$, at $t = 0.025 \, \text{s}$. Calculate $I$.  
+    - (a) $0.865 \, \text{A}$  
+    - (b) $0.866 \, \text{A}$  
+    - (c) $0.867 \, \text{A}$  
+    - (d) $0.868 \, \text{A}$
+
+17. An LC circuit $L = 0.1 \, \text{H}$, $C = 200 \, \mu\text{F}$. Calculate $\omega$.  
+    - (a) $49.9 \, \text{rad/s}$  
+    - (b) $50.0 \, \text{rad/s}$  
+    - (c) $50.1 \, \text{rad/s}$  
+    - (d) $50.2 \, \text{rad/s}$
+
+18. A loop $A = 0.03 \, \text{m}^2$ in $B = 0.6 t \, \text{T}$ (increasing). Calculate $\mathcal{E}$ at $t = 1 \, \text{s}$.  
+    - (a) $0.017 \, \text{V}$  
+    - (b) $0.018 \, \text{V}$  
+    - (c) $0.019 \, \text{V}$  
+    - (d) $0.020 \, \text{V}$
+
+19. A coil $N = 80$, $A = 0.01 \, \text{m}^2$, $B = 0.2 \, \text{T}$ decreasing at $0.05 \, \text{T/s}$. Calculate $\mathcal{E}$.  
+    - (a) $0.039 \, \text{V}$  
+    - (b) $0.040 \, \text{V}$  
+    - (c) $0.041 \, \text{V}$  
+    - (d) $0.042 \, \text{V}$
+
+20. A rod $l = 0.4 \, \text{m}$, $v = 2 \, \text{m/s}$, $B = 0.5 \, \text{T}$ (perpendicular). Calculate $\mathcal{E}$.  
+    - (a) $0.399 \, \text{V}$  
+    - (b) $0.400 \, \text{V}$  
+    - (c) $0.401 \, \text{V}$  
+    - (d) $0.402 \, \text{V}$
+
+21. A solenoid $N = 300$, $l = 0.2 \, \text{m}$, $A = 0.005 \, \text{m}^2$. Calculate $L$.  
+    - (a) $2.82 \times 10^{-3} \, \text{H}$  
+    - (b) $2.83 \times 10^{-3} \, \text{H}$  
+    - (c) $2.84 \times 10^{-3} \, \text{H}$  
+    - (d) $2.85 \times 10^{-3} \, \text{H}$
+
+22. A coil $L = 0.15 \, \text{H}$, current changes from $2 \, \text{A}$ to $5 \, \text{A}$ in $0.3 \, \text{s}$. Calculate $\mathcal{E}$.  
+    - (a) $1.49 \, \text{V}$  
+    - (b) $1.50 \, \text{V}$  
+    - (c) $1.51 \, \text{V}$  
+    - (d) $1.52 \, \text{V}$
+
+23. Two coils $M = 0.02 \, \text{H}$, $I_1$ changes at $4 \, \text{A/s}$. Calculate $\mathcal{E}_2$.  
+    - (a) $0.079 \, \text{V}$  
+    - (b) $0.080 \, \text{V}$  
+    - (c) $0.081 \, \text{V}$  
+    - (d) $0.082 \, \text{V}$
+
+24. An inductor $L = 0.6 \, \text{H}$, $I = 1.5 \, \text{A}$. Calculate $U$.  
+    - (a) $0.674 \, \text{J}$  
+    - (b) $0.675 \, \text{J}$  
+    - (c) $0.676 \, \text{J}$  
+    - (d) $0.677 \, \text{J}$
+
+25. An RL circuit $L = 0.05 \, \text{H}$, $R = 10 \, \Omega$, $I_0 = 2 \, \text{A}$, at $t = 0.005 \, \text{s}$ (decaying). Calculate $I$.  
+    - (a) $1.213 \, \text{A}$  
+    - (b) $1.214 \, \text{A}$  
+    - (c) $1.215 \, \text{A}$  
+    - (d) $1.216 \, \text{A}$
+
+26. A loop $A = 0.04 \, \text{m}^2$ in $B = 0.8 \, \text{T}$ (constant) moves out at $v = 3 \, \text{m/s}$. Calculate $\mathcal{E}$.  
+    - (a) $0.095 \, \text{V}$  
+    - (b) $0.096 \, \text{V}$  
+    - (c) $0.097 \, \text{V}$  
+    - (d) $0.098 \, \text{V}$
+
+27. A coil $N = 120$, $A = 0.015 \, \text{m}^2$, $B = 0.3 \, \text{T}$ decreasing at $0.02 \, \text{T/s}$. Calculate $\mathcal{E}$.  
+    - (a) $0.035 \, \text{V}$  
+    - (b) $0.036 \, \text{V}$  
+    - (c) $0.037 \, \text{V}$  
+    - (d) $0.038 \, \text{V}$
+
+28. A rod $l = 0.2 \, \text{m}$, $v = 5 \, \text{m/s}$, $B = 0.4 \, \text{T}$ at $60^\circ$. Calculate $\mathcal{E}$.  
+    - (a) $0.345 \, \text{V}$  
+    - (b) $0.346 \, \text{V}$  
+    - (c) $0.347 \, \text{V}$  
+    - (d) $0.348 \, \text{V}$
+
+29. A solenoid $N = 250$, $l = 0.5 \, \text{m}$, $A = 0.008 \, \text{m}^2$. Calculate $L$.  
+    - (a) $1.00 \times 10^{-3} \, \text{H}$  
+    - (b) $1.01 \times 10^{-3} \, \text{H}$  
+    - (c) $1.02 \times 10^{-3} \, \text{H}$  
+    - (d) $1.03 \times 10^{-3} \, \text{H}$
+
+30. A coil $L = 0.25 \, \text{H}$, current changes from $1 \, \text{A}$ to $4 \, \text{A}$ in $0.5 \, \text{s}$. Calculate $\mathcal{E}$.  
+    - (a) $1.49 \, \text{V}$  
+    - (b) $1.50 \, \text{V}$  
+    - (c) $1.51 \, \text{V}$  
+    - (d) $1.52 \, \text{V}$
+
+31. A spacecraft RL circuit has $L = 0.1 \, \text{H}$, $R = 2 \, \Omega$, $\mathcal{E} = 12 \, \text{V}$, at $t = 0.05 \, \text{s}$. Calculate $I$ for power management.  
+    - (a) $3.78 \, \text{A}$  
+    - (b) $3.79 \, \text{A}$  
+    - (c) $3.80 \, \text{A}$  
+    - (d) $3.81 \, \text{A}$
+
+32. An LC circuit $L = 0.3 \, \text{H}$, $C = 300 \, \mu\text{F}$. Calculate $f$.  
+    - (a) $10.58 \, \text{Hz}$  
+    - (b) $10.59 \, \text{Hz}$  
+    - (c) $10.60 \, \text{Hz}$  
+    - (d) $10.61 \, \text{Hz}$
+
+33. A loop $A = 0.06 \, \text{m}^2$ rotates at $\omega = 15 \, \text{rad/s}$ in $B = 0.2 \, \text{T}$. Calculate the maximum $\mathcal{E}$.  
+    - (a) $0.179 \, \text{V}$  
+    - (b) $0.180 \, \text{V}$  
+    - (c) $0.181 \, \text{V}$  
+    - (d) $0.182 \, \text{V}$
+
+34. An inductor $L = 0.8 \, \text{H}$, $I = 1 \, \text{A}$. Calculate $U$.  
+    - (a) $0.399 \, \text{J}$  
+    - (b) $0.400 \, \text{J}$  
+    - (c) $0.401 \, \text{J}$  
+    - (d) $0.402 \, \text{J}$
+
+35. An RL circuit $L = 0.4 \, \text{H}$, $R = 20 \, \Omega$, $I_0 = 1 \, \text{A}$, at $t = 0.02 \, \text{s}$ (decaying). Calculate $I$.  
+    - (a) $0.367 \, \text{A}$  
+    - (b) $0.368 \, \text{A}$  
+    - (c) $0.369 \, \text{A}$  
+    - (d) $0.370 \, \text{A}$
+
+---
+
+## Conceptual Problems
+
+36. What does Faraday’s law relate?  
+   - (a) Induced emf to magnetic field strength  
+   - (b) Induced emf to rate of change of magnetic flux  
+   - (c) Induced current to electric field  
+   - (d) Induced emf to static magnetic field
+
+37. What does Lenz’s law determine?  
+   - (a) Magnitude of induced emf  
+   - (b) Direction of induced current  
+   - (c) Rate of change of flux  
+   - (d) Energy stored in the inductor
+
+38. What is the unit of magnetic flux in SI units?  
+   - (a) Tesla  
+   - (b) Weber  
+   - (c) Henry  
+   - (d) Volt
+
+39. What happens to the induced emf in a loop if the magnetic field increases?  
+   - (a) Becomes zero  
+   - (b) Induces a current to oppose the increase  
+   - (c) Induces a current to support the increase  
+   - (d) Remains constant
+
+40. What does self-inductance measure?  
+   - (a) Induced emf in another coil  
+   - (b) Induced emf due to changing current in the same coil  
+   - (c) Magnetic field strength  
+   - (d) Electric field strength
+
+41. What is the unit of inductance in SI units?  
+   - (a) Henry  
+   - (b) Weber  
+   - (c) Tesla  
+   - (d) Joule
+
+42. What does mutual inductance describe?  
+   - (a) Induced emf in the same coil  
+   - (b) Induced emf in one coil due to current change in another  
+   - (c) Magnetic flux in a single coil  
+   - (d) Energy stored in an inductor
+
+43. What happens to the current in an RL circuit immediately after closing the switch?  
+   - (a) Reaches maximum instantly  
+   - (b) Starts at zero and grows exponentially  
+   - (c) Starts at maximum and decays  
+   - (d) Oscillates
+
+44. What does the time constant $\tau$ in an RL circuit represent?  
+   - (a) Time to reach maximum current  
+   - (b) Time to reach ~63% of maximum current  
+   - (c) Time to fully discharge  
+   - (d) Time to oscillate
+
+45. What is the dimension of inductance $L$?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2} \text{A}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does a zero induced emf in a loop indicate?  
+   - (a) No magnetic field  
+   - (b) No change in magnetic flux  
+   - (c) Infinite flux  
+   - (d) No current
+
+47. What is the significance of $\frac{1}{2} L I^2$?  
+   - (a) Induced emf in a coil  
+   - (b) Energy stored in an inductor  
+   - (c) Magnetic flux through a loop  
+   - (d) Power in a circuit
+
+48. What happens to the current in an LC circuit over time?  
+   - (a) Grows exponentially  
+   - (b) Decays exponentially  
+   - (c) Oscillates  
+   - (d) Remains constant
+
+49. What does the frequency of an LC circuit depend on?  
+   - (a) Resistance only  
+   - (b) Inductance and capacitance  
+   - (c) Current only  
+   - (d) Voltage only
+
+50. How do inductors function in spacecraft power systems?  
+   - (a) Increase voltage  
+   - (b) Store energy and regulate current changes  
+   - (c) Reduce inductance  
+   - (d) Increase resistance
+
+---
+
+## Derivation Problems
+
+51. Derive Faraday’s law for a loop in a changing magnetic field $\mathcal{E} = -\frac{d\Phi_B}{dt}$.
+
+52. Derive the motional emf for a rod moving in a magnetic field $\mathcal{E} = B l v$.
+
+53. Derive the self-inductance of a solenoid $L = \mu_0 \frac{N^2}{l} A$.
+
+54. Derive the mutual inductance between two coils $M = \frac{N_2 \Phi_{B2}}{I_1}$.
+
+55. Derive the energy stored in an inductor $U = \frac{1}{2} L I^2$.
+
+56. Derive the current growth in an RL circuit $I = \frac{\mathcal{E}}{R} (1 - e^{-t / \tau})$.
+
+57. Derive the current decay in an RL circuit $I = I_0 e^{-t / \tau}$.
+
+58. Derive the oscillation frequency of an LC circuit $\omega = \frac{1}{\sqrt{L C}}$.
+
+59. Derive the direction of induced current using Lenz’s law for a loop in an increasing magnetic field.
+
+60. Derive the induced emf in a rotating loop in a uniform magnetic field $\mathcal{E} = B A \omega \sin (\omega t)$.
+
+61. Derive the time constant of an RL circuit $\tau = \frac{L}{R}$.
+
+62. Derive the flux linkage in a solenoid $N \Phi_B = \mu_0 \frac{N^2}{l} I A$.
+
+63. Derive the induced electric field from Faraday’s law $\oint \vec{E} \cdot d\vec{l} = -\frac{d\Phi_B}{dt}$.
+
+64. Derive the power dissipated in an RL circuit during current growth.
+
+65. Derive the energy oscillation between $L$ and $C$ in an LC circuit.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of induced emf in SI units?  
+   - (a) Volt  
+   - (b) Ampere  
+   - (c) Ohm  
+   - (d) Henry
+
+67. What does an increasing magnetic flux through a loop indicate?  
+   - (a) Induced current opposes the increase  
+   - (b) Induced current supports the increase  
+   - (c) No induced current  
+   - (d) Infinite current
+
+68. What is the relationship between induced emf and rate of change of flux?  
+   - (a) $\mathcal{E} \propto \frac{1}{\frac{d\Phi_B}{dt}}$  
+   - (b) $\mathcal{E} \propto \frac{d\Phi_B}{dt}$  
+   - (c) $\mathcal{E}$ is independent of $\frac{d\Phi_B}{dt}$  
+   - (d) $\mathcal{E} \propto \left( \frac{d\Phi_B}{dt} \right)^2$
+
+69. What happens to the induced current in a loop if the magnetic field decreases?  
+   - (a) Produces a field to oppose the decrease  
+   - (b) Produces a field to support the decrease  
+   - (c) Becomes zero  
+   - (d) Becomes infinite
+
+70. What is the dimension of mutual inductance $M$?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2} \text{A}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the self-inductance of a coil depend on?  
+   - (a) Current through the coil  
+   - (b) Geometry and number of turns  
+   - (c) Resistance of the coil  
+   - (d) Voltage across the coil
+
+72. What is the role of Lenz’s law in electromagnetic induction?  
+   - (a) Increases the induced emf  
+   - (b) Determines the direction of induced current  
+   - (c) Reduces the magnetic field  
+   - (d) Increases the resistance
+
+73. What happens to the current in an RL circuit after a long time?  
+   - (a) Becomes zero  
+   - (b) Reaches a steady value  
+   - (c) Oscillates  
+   - (d) Becomes infinite
+
+74. Why does the current in an LC circuit oscillate?  
+   - (a) Due to energy exchange between $L$ and $C$  
+   - (b) Due to resistance  
+   - (c) Due to constant voltage  
+   - (d) Due to static magnetic field
+
+75. What is the unit of the time constant $\tau$ in an RL circuit?  
+   - (a) Second  
+   - (b) Ohm  
+   - (c) Henry  
+   - (d) Volt
+
+76. What does a constant current in an inductor indicate?  
+   - (a) Induced emf is zero  
+   - (b) Induced emf is maximum  
+   - (c) Magnetic field is zero  
+   - (d) Energy is zero
+
+77. Which type of circuit exhibits oscillatory behavior?  
+   - (a) RL circuit  
+   - (b) RC circuit  
+   - (c) LC circuit  
+   - (d) Pure resistive circuit
+
+78. What is the direction of the induced current in a loop moving into a magnetic field?  
+   - (a) Produces a field in the same direction as $B$  
+   - (b) Produces a field opposite to $B$  
+   - (c) No current  
+   - (d) Random direction
+
+79. What does a pseudo-force do in a non-inertial frame for induction calculations?  
+   - (a) Affects perceived emf  
+   - (b) Affects charge distribution  
+   - (c) Creates magnetic field  
+   - (d) Reduces inductance
+
+80. What is the dimension of $\Phi_B$?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2} \text{A}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of inductors in spacecraft power systems?  
+   - (a) Increase voltage  
+   - (b) Regulate current changes and store energy  
+   - (c) Reduce inductance  
+   - (d) Increase resistance
+
+82. What happens to the energy in an LC circuit over time?  
+   - (a) Dissipates completely  
+   - (b) Oscillates between $L$ and $C$  
+   - (c) Remains constant in $L$  
+   - (d) Remains constant in $C$
+
+83. Why does the induced emf in a coil depend on the rate of change of current?  
+   - (a) Due to $\mathcal{E} = -L \frac{dI}{dt}$  
+   - (b) Due to increased resistance  
+   - (c) Due to decreased capacitance  
+   - (d) Due to static field
+
+84. What is the significance of $B l v$?  
+   - (a) Induced emf in a rotating loop  
+   - (b) Motional emf in a moving conductor  
+   - (c) Energy in an inductor  
+   - (d) Magnetic flux in a coil
+
+85. What is the unit of energy stored in an inductor?  
+   - (a) Joule  
+   - (b) Volt  
+   - (c) Ampere  
+   - (d) Weber
+
+86. What does a zero current in an RL circuit after a long time (decaying) indicate?  
+   - (a) Circuit is still active  
+   - (b) Inductor has fully discharged  
+   - (c) Resistance is zero  
+   - (d) Inductance is infinite
+
+87. What is the physical significance of $\mu_0 \frac{N^2}{l} A$?  
+   - (a) Induced emf in a coil  
+   - (b) Self-inductance of a solenoid  
+   - (c) Mutual inductance  
+   - (d) Energy in an inductor
+
+88. Why does the current in an RL circuit grow exponentially?  
+   - (a) Due to $I = \frac{\mathcal{E}}{R} (1 - e^{-t / \tau})$  
+   - (b) Due to oscillations  
+   - (c) Due to constant voltage  
+   - (d) Due to static field
+
+89. What is the dimension of $\frac{1}{\sqrt{L C}}$?  
+   - (a) $[\text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does mutual inductance assist in spacecraft communication?  
+   - (a) Increases current  
+   - (b) Couples signals between coils  
+   - (c) Reduces voltage  
+   - (d) Increases resistance
+
+91. What is the role of the number of turns in a solenoid’s inductance?  
+   - (a) $L \propto N$  
+   - (b) $L \propto N^2$  
+   - (c) No dependence  
+   - (d) $L \propto \frac{1}{N}$
+
+92. What does a high induced emf in a loop indicate?  
+   - (a) Low rate of flux change  
+   - (b) High rate of flux change  
+   - (c) No flux change  
+   - (d) Constant flux
+
+93. What is the physical significance of $\frac{L}{R}$?  
+   - (a) Frequency of an LC circuit  
+   - (b) Time constant of an RL circuit  
+   - (c) Energy in an inductor  
+   - (d) Induced emf
+
+94. What is the dimension of $B A$?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2} \text{A}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does the energy in an inductor depend on $I^2$?  
+   - (a) Due to $U = \frac{1}{2} L I^2$  
+   - (b) Due to symmetry  
+   - (c) Due to field lines  
+   - (d) Due to charge quantization
+
+---
+
+## NEET-style Numerical Problems
+
+96. A loop $A = 0.02 \, \text{m}^2$ in $B = 0.3 t \, \text{T}$ (increasing). Calculate $\mathcal{E}$ at $t = 1 \, \text{s}$.  
+   - (a) $0.005 \, \text{V}$  
+   - (b) $0.006 \, \text{V}$  
+   - (c) $0.007 \, \text{V}$  
+   - (d) $0.008 \, \text{V}$
+
+97. A rod $l = 0.3 \, \text{m}$, $v = 2 \, \text{m/s}$, $B = 0.4 \, \text{T}$ (perpendicular). Calculate $\mathcal{E}$.  
+   - (a) $0.239 \, \text{V}$  
+   - (b) $0.240 \, \text{V}$  
+   - (c) $0.241 \, \text{V}$  
+   - (d) $0.242 \, \text{V}$
+
+98. A solenoid $N = 100$, $l = 0.2 \, \text{m}$, $A = 0.01 \, \text{m}^2$. Calculate $L$.  
+   - (a) $6.28 \times 10^{-4} \, \text{H}$  
+   - (b) $6.29 \times 10^{-4} \, \text{H}$  
+   - (c) $6.30 \times 10^{-4} \, \text{H}$  
+   - (d) $6.31 \times 10^{-4} \, \text{H}$
+
+99. An RL circuit $L = 0.1 \, \text{H}$, $R = 4 \, \Omega$, $\mathcal{E} = 8 \, \text{V}$, at $t = 0.025 \, \text{s}$. Calculate $I$.  
+   - (a) $0.865 \, \text{A}$  
+   - (b) $0.866 \, \text{A}$  
+   - (c) $0.867 \, \text{A}$  
+   - (d) $0.868 \, \text{A}$
+
+100. An LC circuit $L = 0.5 \, \text{H}$, $C = 500 \, \mu\text{F}$. Calculate $f$.  
+    - (a) $10.06 \, \text{Hz}$  
+    - (b) $10.07 \, \text{Hz}$  
+    - (c) $10.08 \, \text{Hz}$  
+    - (d) $10.09 \, \text{Hz}$
 
 ## Back to Chapter
 [Return to Induction and Inductance Chapter](./index.md)

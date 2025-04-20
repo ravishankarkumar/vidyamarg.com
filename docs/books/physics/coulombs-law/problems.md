@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Coulomb’s Law Problems for JEE & NEET
-description: Practice 100 Coulomb’s law problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 electrostatics problems for JEE and NEET, inspired by exam patterns, covering Coulomb’s law, vector forces, superposition principle, equilibrium, and electric fields.
 slug: book/physics/coulombs-law-problems
-keywords: physics Coulomb’s law problems, JEE physics electric field problems, NEET physics charge interactions problems, electrostatics
+keywords: physics Coulomb’s law problems, JEE physics electric force problems, NEET physics superposition principle problems, electrostatics
 og:image: https://vidyamarg.com/og-physics-coulombs-law.jpg
 ---
 
 # Coulomb’s Law Problems
 
-This section provides **100 problems** to test your understanding of Coulomb’s law, including electric charge, force calculations, superposition, electric fields, and field lines. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns, as requested (April 18, 2025). NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format [Web:9, Web:15]. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of Coulomb’s law, including electric forces, vector analysis, superposition principle, equilibrium positions, and electric fields. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering electrostatics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on force calculations, electric field strength, and charge interactions, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., dipole fields, charge equilibrium), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. Two charges $q_1 = +3 \, \mu\text{C}$ and $q_2 = -6 \, \mu\text{C}$ are separated by $r = 0.2 \, \text{m}$ in vacuum. Calculate the force magnitude ($k = 9 \times 10^9 \, \text{N·m}^2/\text{C}^2$).  
+   - (a) $4.03 \, \text{N}$  
+   - (b) $4.04 \, \text{N}$  
+   - (c) $4.05 \, \text{N}$  
+   - (d) $4.06 \, \text{N}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: Two point charges \( q_1 = +4 \, \mu\text{C} \) and \( q_2 = -2 \, \mu\text{C} \) are 0.2 m apart. Calculate the force between them (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 1.79 N (b) 1.80 N (c) 1.81 N (d) 1.82 N
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A charge \( q = +3 \, \mu\text{C} \) is at the origin. Calculate the electric field at (0.5, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 1.08 × 10⁵ N/C (b) 1.09 × 10⁵ N/C (c) 1.10 × 10⁵ N/C (d) 1.11 × 10⁵ N/C
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: Two charges exert a 0.36 N repulsive force 0.3 m apart. If one is \( 2 \, \mu\text{C} \), calculate the other charge (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 1.99 μC (b) 2.00 μC (c) 2.01 μC (d) 2.02 μC
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: Three charges \( q_1 = +1 \, \mu\text{C} \) at (0, 0), \( q_2 = -1 \, \mu\text{C} \) at (0.2, 0), \( q_3 = +2 \, \mu\text{C} \) at (0.1, 0). Calculate the net force magnitude on \( q_3 \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 0.89 N (b) 0.90 N (c) 0.91 N (d) 0.92 N
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: A charge \( q = -4 \, \mu\text{C} \) is at (0, 0). Calculate the electric field at (0, 0.4) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 2.24 × 10⁵ N/C (b) 2.25 × 10⁵ N/C (c) 2.26 × 10⁵ N/C (d) 2.27 × 10⁵ N/C
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: Two charges \( q_1 = +5 \, \mu\text{C} \) at \( x = 0 \), \( q_2 = -5 \, \mu\text{C} \) at \( x = 0.5 \, \text{m} \). Find the x-coordinate where the electric field is zero.
-   - Options: (a) 0.25 m (b) 0.26 m (c) 0.27 m (d) 0.28 m
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: An electric dipole has \( +2 \, \mu\text{C} \) at (0, 0.02) and \( -2 \, \mu\text{C} \) at (0, -0.02). Calculate the electric field magnitude at (0.3, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 1.19 × 10⁴ N/C (b) 1.20 × 10⁴ N/C (c) 1.21 × 10⁴ N/C (d) 1.22 × 10⁴ N/C
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: Two point charges \( q_1 = +6 \, \mu\text{C} \) and \( q_2 = +3 \, \mu\text{C} \) are 0.15 m apart. Calculate the force between them (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 6.47 N (b) 6.48 N (c) 6.49 N (d) 6.50 N
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: A charge \( q = +1 \, \mu\text{C} \) is at (0, 0). Calculate the electric field at (0.2, 0.2) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 1.59 × 10⁵ N/C (b) 1.60 × 10⁵ N/C (c) 1.61 × 10⁵ N/C (d) 1.62 × 10⁵ N/C
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: Two charges exert a 0.18 N attractive force 0.4 m apart. If one is \( -3 \, \mu\text{C} \), calculate the other charge (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.66 μC (b) 2.67 μC (c) 2.68 μC (d) 2.69 μC
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: Three charges \( q_1 = +2 \, \mu\text{C} \) at (0, 0), \( q_2 = -2 \, \mu\text{C} \) at (0.3, 0), \( q_3 = +1 \, \mu\text{C} \) at (0, 0.3). Calculate the net force magnitude on \( q_1 \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.39 N (b) 2.40 N (c) 2.41 N (d) 2.42 N
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A charge \( q = -2 \, \mu\text{C} \) is at (0, 0). Calculate the electric field at (0.1, 0.1) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.27 × 10⁶ N/C (b) 1.28 × 10⁶ N/C (c) 1.29 × 10⁶ N/C (d) 1.30 × 10⁶ N/C
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: Two charges \( q_1 = +4 \, \mu\text{C} \) at \( x = 0 \), \( q_2 = +4 \, \mu\text{C} \) at \( x = 0.6 \, \text{m} \). Find the x-coordinate where the electric field is zero.
-    - Options: (a) 0.29 m (b) 0.30 m (c) 0.31 m (d) 0.32 m
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: Two point charges \( q_1 = -5 \, \mu\text{C} \) and \( q_2 = +2 \, \mu\text{C} \) are 0.25 m apart. Calculate the force between them (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.87 N (b) 2.88 N (c) 2.89 N (d) 2.90 N
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: An electric dipole has \( +3 \, \mu\text{C} \) at (0, 0.01) and \( -3 \, \mu\text{C} \) at (0, -0.01). Calculate the electric field magnitude at (0.2, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.69 × 10⁴ N/C (b) 2.70 × 10⁴ N/C (c) 2.71 × 10⁴ N/C (d) 2.72 × 10⁴ N/C
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A charge \( q = +6 \, \mu\text{C} \) is at (0, 0). Calculate the electric field at (0.3, 0.4) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 8.99 × 10⁴ N/C (b) 9.00 × 10⁴ N/C (c) 9.01 × 10⁴ N/C (d) 9.02 × 10⁴ N/C
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: Two charges exert a 0.72 N repulsive force 0.5 m apart. If one is \( 5 \, \mu\text{C} \), calculate the other charge (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 3.99 μC (b) 4.00 μC (c) 4.01 μC (d) 4.02 μC
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: Three charges \( q_1 = +3 \, \mu\text{C} \) at (0, 0), \( q_2 = +3 \, \mu\text{C} \) at (0.4, 0), \( q_3 = -2 \, \mu\text{C} \) at (0.2, 0). Calculate the net force magnitude on \( q_3 \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.79 N (b) 1.80 N (c) 1.81 N (d) 1.82 N
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A charge \( q = -1 \, \mu\text{C} \) is at (0, 0). Calculate the electric field at (0, 0.2) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.24 × 10⁵ N/C (b) 2.25 × 10⁵ N/C (c) 2.26 × 10⁵ N/C (d) 2.27 × 10⁵ N/C
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: Two charges \( q_1 = +2 \, \mu\text{C} \) at \( x = 0 \), \( q_2 = -4 \, \mu\text{C} \) at \( x = 0.3 \, \text{m} \). Find the x-coordinate where the electric field is zero.
-    - Options: (a) 0.12 m (b) 0.13 m (c) 0.14 m (d) 0.15 m
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: Two point charges \( q_1 = +1 \, \mu\text{C} \) and \( q_2 = -2 \, \mu\text{C} \) are 0.1 m apart. Calculate the force between them (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.79 N (b) 1.80 N (c) 1.81 N (d) 1.82 N
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A charge \( q = +4 \, \mu\text{C} \) is at (0, 0). Calculate the electric field at (0.4, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.24 × 10⁵ N/C (b) 2.25 × 10⁵ N/C (c) 2.26 × 10⁵ N/C (d) 2.27 × 10⁵ N/C
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: An electric dipole has \( +1 \, \mu\text{C} \) at (0, 0.01) and \( -1 \, \mu\text{C} \) at (0, -0.01). Calculate the electric field magnitude at (0.1, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 3.59 × 10⁴ N/C (b) 3.60 × 10⁴ N/C (c) 3.61 × 10⁴ N/C (d) 3.62 × 10⁴ N/C
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: Two charges exert a 0.45 N attractive force 0.2 m apart. If one is \( +2 \, \mu\text{C} \), calculate the other charge (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) -1.99 μC (b) -2.00 μC (c) -2.01 μC (d) -2.02 μC
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: Three charges \( q_1 = +2 \, \mu\text{C} \) at (0, 0), \( q_2 = +2 \, \mu\text{C} \) at (0.2, 0), \( q_3 = -4 \, \mu\text{C} \) at (0.1, 0). Calculate the net force magnitude on \( q_3 \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 7.18 N (b) 7.19 N (c) 7.20 N (d) 7.21 N
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A charge \( q = -3 \, \mu\text{C} \) is at (0, 0). Calculate the electric field at (0.2, 0.3) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.79 × 10⁵ N/C (b) 1.80 × 10⁵ N/C (c) 1.81 × 10⁵ N/C (d) 1.82 × 10⁵ N/C
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: Two charges \( q_1 = +3 \, \mu\text{C} \) at \( x = 0 \), \( q_2 = -3 \, \mu\text{C} \) at \( x = 0.8 \, \text{m} \). Find the x-coordinate where the electric field is zero.
-    - Options: (a) 0.39 m (b) 0.40 m (c) 0.41 m (d) 0.42 m
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: Two point charges \( q_1 = +4 \, \mu\text{C} \) and \( q_2 = -4 \, \mu\text{C} \) are 0.3 m apart. Calculate the force between them (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.59 N (b) 1.60 N (c) 1.61 N (d) 1.62 N
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A charge \( q = +2 \, \mu\text{C} \) is at (0, 0). Calculate the electric field at (0.1, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.79 × 10⁶ N/C (b) 1.80 × 10⁶ N/C (c) 1.81 × 10⁶ N/C (d) 1.82 × 10⁶ N/C
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: Three charges \( q_1 = +1 \, \mu\text{C} \) at (0, 0), \( q_2 = -2 \, \mu\text{C} \) at (0.5, 0), \( q_3 = +3 \, \mu\text{C} \) at (0, 0.5). Calculate the net force magnitude on \( q_2 \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0.89 N (b) 0.90 N (c) 0.91 N (d) 0.92 N
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: Two charges exert a 0.27 N repulsive force 0.1 m apart. If one is \( 3 \, \mu\text{C} \), calculate the other charge (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.49 μC (b) 1.50 μC (c) 1.51 μC (d) 1.52 μC
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A charge \( q = -5 \, \mu\text{C} \) is at (0, 0). Calculate the electric field at (0.5, 0.5) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 6.36 × 10⁴ N/C (b) 6.37 × 10⁴ N/C (c) 6.38 × 10⁴ N/C (d) 6.39 × 10⁴ N/C
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: An electric dipole has \( +4 \, \mu\text{C} \) at (0, 0.03) and \( -4 \, \mu\text{C} \) at (0, -0.03). Calculate the electric field magnitude at (0.4, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.34 × 10⁴ N/C (b) 1.35 × 10⁴ N/C (c) 1.36 × 10⁴ N/C (d) 1.37 × 10⁴ N/C
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: Two charges \( q_1 = +2 \, \mu\text{C} \) at \( x = 0 \), \( q_2 = +2 \, \mu\text{C} \) at \( x = 0.2 \, \text{m} \). Find the x-coordinate where the electric field is zero.
-    - Options: (a) 0.09 m (b) 0.10 m (c) 0.11 m (d) 0.12 m
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: Two point charges \( q_1 = -3 \, \mu\text{C} \) and \( q_2 = +6 \, \mu\text{C} \) are 0.4 m apart. Calculate the force between them (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.01 N (b) 1.02 N (c) 1.03 N (d) 1.04 N
+2. Two charges $q_1 = +4 \, \text{nC}$ and $q_2 = +4 \, \text{nC}$ are separated by $r = 0.1 \, \text{m}$ in vacuum. Calculate the force magnitude.  
+   - (a) $1.43 \times 10^{-5} \, \text{N}$  
+   - (b) $1.44 \times 10^{-5} \, \text{N}$  
+   - (c) $1.45 \times 10^{-5} \, \text{N}$  
+   - (d) $1.46 \times 10^{-5} \, \text{N}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is Coulomb’s law?
-   - Options: (a) Force between charges proportional to product and inverse square of distance (b) Force independent of distance (c) No force (d) Linear force
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What is the superposition principle?
-   - Options: (a) Net force is vector sum of individual forces (b) Scalar sum of forces (c) No force summation (d) Fixed force
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What defines the electric field?
-   - Options: (a) Force per unit positive charge (b) Force per unit mass (c) No force (d) Charge per unit area
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: Why do electric field lines point outward from positive charges?
-   - Options: (a) Field direction follows positive test charge (b) Inward direction (c) No direction (d) Fixed lines
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: How does distance affect Coulomb force?
-   - Options: (a) Inversely proportional to square of distance (b) Directly proportional (c) No effect (d) Linearly proportional
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What happens when two like charges are brought closer?
-   - Options: (a) Repulsive force increases (b) Force decreases (c) No force (d) Attractive force
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Why is the electric field a vector quantity?
-   - Options: (a) Has magnitude and direction (b) Scalar quantity (c) No direction (d) Fixed magnitude
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: How do field lines indicate field strength?
-   - Options: (a) Density proportional to field strength (b) No relation (c) Fixed density (d) Inverse density
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: What is the role of permittivity in Coulomb’s law?
-   - Options: (a) Determines force strength in medium (b) No role (c) Fixed force (d) Only for fields
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: Why does the electric field vanish between opposite equal charges?
-   - Options: (a) Fields cancel due to symmetry (b) No cancellation (c) Fixed field (d) No field
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: How does superposition apply to electric fields?
-   - Options: (a) Vector sum of individual fields (b) Scalar sum (c) No summation (d) Fixed field
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: What is the significance of electric field lines?
-   - Options: (a) Show field direction and strength (b) No significance (c) Only direction (d) Fixed lines
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: Why is Coulomb’s law valid for point charges?
-   - Options: (a) Assumes negligible size (b) Applies to all charges (c) No assumption (d) Fixed size
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: How does charge sign affect force direction?
-   - Options: (a) Like charges repel, unlike attract (b) All repel (c) All attract (d) No direction
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: Why are field lines continuous for single charges?
-   - Options: (a) Field is continuous (b) Discontinuous field (c) No lines (d) Fixed lines
+3. Two charges $q_1 = +2 \, \mu\text{C}$ and $q_2 = -5 \, \mu\text{C}$ are separated by $r = 0.5 \, \text{m}$ in water ($\epsilon_r = 80$). Calculate the force magnitude.  
+   - (a) $0.0289 \, \text{N}$  
+   - (b) $0.0290 \, \text{N}$  
+   - (c) $0.0291 \, \text{N}$  
+   - (d) $0.0292 \, \text{N}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive Coulomb’s law for point charges.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the electric field due to a point charge.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the net force using the superposition principle.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the electric field for an electric dipole.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the condition for zero electric field between two charges.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the electric field due to a charged rod at a point.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the force between two charges in a medium.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the electric field lines for a dipole.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the superposition principle for electric fields.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the electric field at a point due to multiple charges.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the force magnitude for a charge system.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the electric field for a continuous charge distribution.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the relationship between force and electric field.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the field line density for a point charge.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the electric field at the midpoint of a dipole.
+4. A charge of $+10 \, \mu\text{C}$ is created by removing electrons. How many electrons were removed? ($e = 1.6 \times 10^{-19} \, \text{C}$)  
+   - (a) $6.24 \times 10^{13}$  
+   - (b) $6.25 \times 10^{13}$  
+   - (c) $6.26 \times 10^{13}$  
+   - (d) $6.27 \times 10^{13}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What does Coulomb’s law describe?
-   - Options: (a) Force between point charges (b) Field strength (c) No force (d) Charge motion
-67. **Problem 67 (NEET, 2022)**: What is the electric field’s role?
-   - Options: (a) Force per unit positive charge (b) Force per mass (c) No force (d) Charge per area
-68. **Problem 68 (NEET, 2021)**: Why do like charges repel?
-   - Options: (a) Coulomb’s law, same sign (b) Opposite sign (c) No force (d) Fixed force
-69. **Problem 69 (NEET, 2024)**: What do electric field lines show?
-   - Options: (a) Field direction and strength (b) No direction (c) Only strength (d) Fixed lines
-70. **Problem 70 (NEET, 2020)**: How does distance affect electric force?
-   - Options: (a) Inversely proportional to square (b) Directly proportional (c) No effect (d) Linear
-71. **Problem 71 (NEET, 2023)**: What is the superposition principle?
-   - Options: (a) Vector sum of forces (b) Scalar sum (c) No sum (d) Fixed force
-72. **Problem 72 (NEET, 2022)**: Why do field lines radiate outward from positive charges?
-   - Options: (a) Positive test charge direction (b) Inward direction (c) No direction (d) Fixed lines
-73. **Problem 73 (NEET, 2021)**: What is the electric field at the midpoint of two equal opposite charges?
-   - Options: (a) Zero due to cancellation (b) Non-zero (c) Fixed field (d) No field
-74. **Problem 74 (NEET, 2024)**: How does charge magnitude affect force?
-   - Options: (a) Proportional to product (b) No effect (c) Inversely proportional (d) Fixed force
-75. **Problem 75 (NEET, 2020)**: Why is Coulomb’s law important?
-   - Options: (a) Describes charge interactions (b) No interactions (c) Only fields (d) Fixed charges
-76. **Problem 76 (NEET, 2023)**: What is the role of \( k \) in Coulomb’s law?
-   - Options: (a) Determines force strength (b) No role (c) Fixed force (d) Only for fields
-77. **Problem 77 (NEET, 2022)**: How do field lines behave near a negative charge?
-   - Options: (a) Point inward (b) Point outward (c) No direction (d) Fixed lines
-78. **Problem 78 (NEET, 2021)**: Why is the electric field a vector?
-   - Options: (a) Has direction and magnitude (b) Scalar (c) No direction (d) Fixed magnitude
-79. **Problem 79 (NEET, 2024)**: What happens when charges are unlike?
-   - Options: (a) Attract each other (b) Repel (c) No force (d) Fixed force
-80. **Problem 80 (NEET, 2020)**: How does superposition apply to fields?
-   - Options: (a) Vector sum of fields (b) Scalar sum (c) No sum (d) Fixed field
-81. **Problem 81 (NEET, 2023)**: Why are field lines denser near charges?
-   - Options: (a) Stronger field strength (b) Weaker field (c) No density (d) Fixed density
-82. **Problem 82 (NEET, 2022)**: What is the electric field’s unit?
-   - Options: (a) N/C or V/m (b) N/kg (c) C/m (d) No unit
-83. **Problem 83 (NEET, 2021)**: Why does Coulomb’s law use absolute charge values?
-   - Options: (a) Force magnitude calculation (b) No magnitude (c) Fixed force (d) Direction only
-84. **Problem 84 (NEET, 2024)**: How does a dipole’s field behave?
-   - Options: (a) Cancels at midpoint (b) Non-zero everywhere (c) No field (d) Fixed field
-85. **Problem 85 (NEET, 2020)**: What is the role of permittivity?
-   - Options: (a) Affects force in medium (b) No effect (c) Fixed force (d) Only for fields
-86. **Problem 86 (NEET, 2023)**: Why are field lines continuous?
-   - Options: (a) Continuous field (b) Discontinuous (c) No lines (d) Fixed lines
-87. **Problem 87 (NEET, 2022)**: How does charge sign affect field direction?
-   - Options: (a) Positive outward, negative inward (b) All outward (c) All inward (d) No direction
-88. **Problem 88 (NEET, 2021)**: What is Coulomb’s law’s limitation?
-   - Options: (a) Applies to point charges (b) All charges (c) No limitation (d) Fixed charges
-89. **Problem 89 (NEET, 2024)**: Why is the field zero between equal like charges?
-   - Options: (a) Fields cancel (b) Non-zero (c) Fixed field (d) No field
-90. **Problem 90 (NEET, 2020)**: How does Coulomb’s law apply to real systems?
-   - Options: (a) Approximate for small charges (b) Exact for all (c) No application (d) Only large charges
-91. **Problem 91 (NEET, 2023)**: What is the significance of field lines?
-   - Options: (a) Visualize field patterns (b) No significance (c) Only direction (d) Fixed lines
-92. **Problem 92 (NEET, 2022)**: How does Coulomb’s law apply to capacitors?
-   - Options: (a) Determines charge interactions (b) No application (c) Only fields (d) Fixed charges
-93. **Problem 93 (NEET, 2021)**: Why is the field stronger near a charge?
-   - Options: (a) Inverse square law (b) No effect (c) Fixed field (d) Linear law
-94. **Problem 94 (NEET, 2024)**: What is the role of vector addition in fields?
-   - Options: (a) Sums individual fields (b) Scalar sum (c) No sum (d) Fixed field
-95. **Problem 95 (NEET, 2020)**: Why does the field depend on distance?
-   - Options: (a) Inversely proportional to square (b) No effect (c) Directly proportional (d) Fixed field
+5. Charges $q_1 = +2 \, \mu\text{C}$ at $(0, 0)$ and $q_2 = -3 \, \mu\text{C}$ at $(0.4, 0)$. Calculate the force on $q_1$ (vector form).  
+   - (a) $-0.843 \hat{i} \, \text{N}$  
+   - (b) $-0.844 \hat{i} \, \text{N}$  
+   - (c) $-0.845 \hat{i} \, \text{N}$  
+   - (d) $-0.846 \hat{i} \, \text{N}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: Two point charges \( q_1 = +3 \, \mu\text{C} \) and \( q_2 = -3 \, \mu\text{C} \) are 0.1 m apart. What is the force between them (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \))?
-   - Options: (a) 8.08 N (b) 8.09 N (c) 8.10 N (d) 8.11 N
-97. **Problem 97 (NEET, 2022)**: A charge \( q = +2 \, \mu\text{C} \) is at (0, 0). What is the electric field at (0.2, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \))?
-   - Options: (a) 4.49 × 10⁵ N/C (b) 4.50 × 10⁵ N/C (c) 4.51 × 10⁵ N/C (d) 4.52 × 10⁵ N/C
-98. **Problem 98 (NEET, 2021)**: Two charges \( q_1 = +1 \, \mu\text{C} \) at \( x = 0 \), \( q_2 = -1 \, \mu\text{C} \) at \( x = 0.2 \, \text{m} \). What is the x-coordinate where the electric field is zero?
-   - Options: (a) 0.09 m (b) 0.10 m (c) 0.11 m (d) 0.12 m
-99. **Problem 99 (NEET, 2024)**: Two charges exert a 0.54 N attractive force 0.3 m apart. If one is \( -2 \, \mu\text{C} \), what is the other charge (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \))?
-   - Options: (a) 3.00 μC (b) 3.01 μC (c) 3.02 μC (d) 3.03 μC
-100. **Problem 100 (NEET, 2020)**: An electric dipole has \( +2 \, \mu\text{C} \) at (0, 0.01) and \( -2 \, \mu\text{C} \) at (0, -0.01). What is the electric field magnitude at (0.1, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \))?
-    - Options: (a) 7.18 × 10⁴ N/C (b) 7.19 × 10⁴ N/C (c) 7.20 × 10⁴ N/C (d) 7.21 × 10⁴ N/C
+6. Charges $q_1 = +5 \, \mu\text{C}$ at $(0, 0)$ and $q_2 = +5 \, \mu\text{C}$ at $(0, 0.3)$. Calculate the force vector on $q_1$.  
+   - (a) $0.499 \hat{j} \, \text{N}$  
+   - (b) $0.500 \hat{j} \, \text{N}$  
+   - (c) $0.501 \hat{j} \, \text{N}$  
+   - (d) $0.502 \hat{j} \, \text{N}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. Charges $q_1 = +3 \, \mu\text{C}$ at $(0, 0)$, $q_2 = -2 \, \mu\text{C}$ at $(0.2, 0)$, $q_3 = +4 \, \mu\text{C}$ at $(0, 0.2)$. Calculate the net force on $q_1$ (magnitude).  
+   - (a) $2.19 \, \text{N}$  
+   - (b) $2.20 \, \text{N}$  
+   - (c) $2.21 \, \text{N}$  
+   - (d) $2.22 \, \text{N}$
 
-[View Solutions](/books/physics/coulombs-law/solutions) -->
+8. Charges $q_1 = +q$ at $(0, 0)$, $q_2 = +q$ at $(a, 0)$. Where should $q_3 = -q$ be placed on the x-axis for zero net force?  
+   - (a) $x = 0.49a$  
+   - (b) $x = 0.50a$  
+   - (c) $x = 0.51a$  
+   - (d) $x = 0.52a$
+
+9. Calculate the electric field at $(0, 0.4)$ due to $q = +6 \, \mu\text{C}$ at $(0, 0)$.  
+   - (a) $3.37 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (b) $3.38 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (c) $3.39 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (d) $3.40 \times 10^5 \hat{j} \, \text{N/C}$
+
+10. Charges $q_1 = +2 \, \mu\text{C}$ at $(0.2, 0)$, $q_2 = -2 \, \mu\text{C}$ at $(-0.2, 0)$. Calculate the electric field at $(0, 0.3)$ (magnitude).  
+    - (a) $0 \, \text{N/C}$  
+    - (b) $1 \times 10^5 \, \text{N/C}$  
+    - (c) $2 \times 10^5 \, \text{N/C}$  
+    - (d) $3 \times 10^5 \, \text{N/C}$
+
+11. A ring of charge (radius $R = 0.1 \, \text{m}$, total charge $Q = 5 \, \mu\text{C}$) lies in the xy-plane. Calculate the electric field on the axis at $z = 0.1 \, \text{m}$.  
+    - (a) $1.59 \times 10^6 \, \text{N/C}$  
+    - (b) $1.60 \times 10^6 \, \text{N/C}$  
+    - (c) $1.61 \times 10^6 \, \text{N/C}$  
+    - (d) $1.62 \times 10^6 \, \text{N/C}$
+
+12. Two charges $q_1 = +8 \, \mu\text{C}$ and $q_2 = -4 \, \mu\text{C}$ are separated by $r = 0.3 \, \text{m}$ in vacuum. Calculate the force magnitude.  
+    - (a) $3.19 \, \text{N}$  
+    - (b) $3.20 \, \text{N}$  
+    - (c) $3.21 \, \text{N}$  
+    - (d) $3.22 \, \text{N}$
+
+13. Charges $q_1 = +3 \, \mu\text{C}$ at $(0.1, 0.1)$ and $q_2 = -3 \, \mu\text{C}$ at $(0, 0)$. Calculate the force on $q_1$ (magnitude).  
+    - (a) $0.955 \, \text{N}$  
+    - (b) $0.956 \, \text{N}$  
+    - (c) $0.957 \, \text{N}$  
+    - (d) $0.958 \, \text{N}$
+
+14. Charges $q_1 = +q$, $q_2 = +4q$ at $x = 0$ and $x = a$. Where should $q_3 = -q$ be placed for equilibrium?  
+    - (a) $x = 0.32a$  
+    - (b) $x = 0.33a$  
+    - (c) $x = 0.34a$  
+    - (d) $x = 0.35a$
+
+15. Calculate the electric field at $(0.2, 0)$ due to $q = -4 \, \mu\text{C}$ at $(0, 0)$.  
+    - (a) $-8.99 \times 10^5 \hat{i} \, \text{N/C}$  
+    - (b) $-9.00 \times 10^5 \hat{i} \, \text{N/C}$  
+    - (c) $-9.01 \times 10^5 \hat{i} \, \text{N/C}$  
+    - (d) $-9.02 \times 10^5 \hat{i} \, \text{N/C}$
+
+16. Two charges $q_1 = +5 \, \mu\text{C}$ and $q_2 = -5 \, \mu\text{C}$ are separated by $r = 0.4 \, \text{m}$ in air ($\epsilon_r = 1$). Calculate the force magnitude.  
+    - (a) $1.40 \, \text{N}$  
+    - (b) $1.41 \, \text{N}$  
+    - (c) $1.42 \, \text{N}$  
+    - (d) $1.43 \, \text{N}$
+
+17. Charges $q_1 = +2 \, \mu\text{C}$ at $(0, 0)$, $q_2 = -3 \, \mu\text{C}$ at $(0.5, 0)$, $q_3 = +1 \, \mu\text{C}$ at $(0, 0.5)$. Calculate the net force on $q_1$ (magnitude).  
+    - (a) $0.509 \, \text{N}$  
+    - (b) $0.510 \, \text{N}$  
+    - (c) $0.511 \, \text{N}$  
+    - (d) $0.512 \, \text{N}$
+
+18. Calculate the electric field at $(0, 0.5)$ due to $q = +8 \, \mu\text{C}$ at $(0, 0)$.  
+    - (a) $2.87 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (b) $2.88 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (c) $2.89 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (d) $2.90 \times 10^5 \hat{j} \, \text{N/C}$
+
+19. A line charge with $\lambda = 2 \times 10^{-6} \, \text{C/m}$, length $L = 0.2 \, \text{m}$, lies on the x-axis. Calculate the electric field at $(0, 0.1)$ (midpoint perpendicular).  
+    - (a) $3.59 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (b) $3.60 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (c) $3.61 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (d) $3.62 \times 10^5 \hat{j} \, \text{N/C}$
+
+20. Two charges $q_1 = +6 \, \mu\text{C}$ and $q_2 = -3 \, \mu\text{C}$ are separated by $r = 0.2 \, \text{m}$ in vacuum. Calculate the force magnitude.  
+    - (a) $4.03 \, \text{N}$  
+    - (b) $4.04 \, \text{N}$  
+    - (c) $4.05 \, \text{N}$  
+    - (d) $4.06 \, \text{N}$
+
+21. Charges $q_1 = +4 \, \mu\text{C}$ at $(0.3, 0)$, $q_2 = -4 \, \mu\text{C}$ at $(0, 0)$. Calculate the force vector on $q_1$.  
+    - (a) $-1.599 \hat{i} \, \text{N}$  
+    - (b) $-1.600 \hat{i} \, \text{N}$  
+    - (c) $-1.601 \hat{i} \, \text{N}$  
+    - (d) $-1.602 \hat{i} \, \text{N}$
+
+22. Charges $q_1 = +q$ at $(0, 0)$, $q_2 = +q$ at $(a, 0)$, $q_3 = -2q$ at $(x, 0)$. Find $x$ for equilibrium of $q_3$.  
+    - (a) $0.41a$  
+    - (b) $0.42a$  
+    - (c) $0.43a$  
+    - (d) $0.44a$
+
+23. Calculate the electric field at $(0.1, 0.1)$ due to $q = +3 \, \mu\text{C}$ at $(0, 0)$.  
+    - (a) $1.90 \times 10^5 (\hat{i} + \hat{j}) \, \text{N/C}$  
+    - (b) $1.91 \times 10^5 (\hat{i} + \hat{j}) \, \text{N/C}$  
+    - (c) $1.92 \times 10^5 (\hat{i} + \hat{j}) \, \text{N/C}$  
+    - (d) $1.93 \times 10^5 (\hat{i} + \hat{j}) \, \text{N/C}$
+
+24. A ring of charge (radius $R = 0.05 \, \text{m}$, total charge $Q = 2 \, \mu\text{C}$) lies in the xy-plane. Calculate the electric field at $z = 0.05 \, \text{m}$.  
+    - (a) $1.27 \times 10^6 \, \text{N/C}$  
+    - (b) $1.28 \times 10^6 \, \text{N/C}$  
+    - (c) $1.29 \times 10^6 \, \text{N/C}$  
+    - (d) $1.30 \times 10^6 \, \text{N/C}$
+
+25. Two charges $q_1 = +1 \, \mu\text{C}$ and $q_2 = -2 \, \mu\text{C}$ are separated by $r = 0.1 \, \text{m}$ in vacuum. Calculate the force magnitude.  
+    - (a) $1.79 \, \text{N}$  
+    - (b) $1.80 \, \text{N}$  
+    - (c) $1.81 \, \text{N}$  
+    - (d) $1.82 \, \text{N}$
+
+26. Charges $q_1 = +5 \, \mu\text{C}$ at $(0, 0)$, $q_2 = -2 \, \mu\text{C}$ at $(0.2, 0.2)$, $q_3 = +3 \, \mu\text{C}$ at $(0.2, 0)$. Calculate the net force on $q_1$ (magnitude).  
+    - (a) $1.58 \, \text{N}$  
+    - (b) $1.59 \, \text{N}$  
+    - (c) $1.60 \, \text{N}$  
+    - (d) $1.61 \, \text{N}$
+
+27. Calculate the electric field at $(0, 0.2)$ due to $q = -7 \, \mu\text{C}$ at $(0, 0)$.  
+    - (a) $-1.574 \times 10^6 \hat{j} \, \text{N/C}$  
+    - (b) $-1.575 \times 10^6 \hat{j} \, \text{N/C}$  
+    - (c) $-1.576 \times 10^6 \hat{j} \, \text{N/C}$  
+    - (d) $-1.577 \times 10^6 \hat{j} \, \text{N/C}$
+
+28. A charge of $+15 \, \mu\text{C}$ is created by removing electrons. How many electrons were removed? ($e = 1.6 \times 10^{-19} \, \text{C}$)  
+    - (a) $9.37 \times 10^{13}$  
+    - (b) $9.38 \times 10^{13}$  
+    - (c) $9.39 \times 10^{13}$  
+    - (d) $9.40 \times 10^{13}$
+
+29. Charges $q_1 = +q$ at $(0, 0)$, $q_2 = +9q$ at $(a, 0)$. Where should $q_3 = -q$ be placed for equilibrium?  
+    - (a) $x = 0.24a$  
+    - (b) $x = 0.25a$  
+    - (c) $x = 0.26a$  
+    - (d) $x = 0.27a$
+
+30. Two charges $q_1 = +3 \, \mu\text{C}$ and $q_2 = -6 \, \mu\text{C}$ are separated by $r = 0.3 \, \text{m}$ in a medium ($\epsilon_r = 2$). Calculate the force magnitude.  
+    - (a) $1.79 \, \text{N}$  
+    - (b) $1.80 \, \text{N}$  
+    - (c) $1.81 \, \text{N}$  
+    - (d) $1.82 \, \text{N}$
+
+31. In a rocket ion engine, charges $q_1 = +2 \, \mu\text{C}$ at $(0, 0)$, $q_2 = -3 \, \mu\text{C}$ at $(0.1, 0)$ steer a particle $q_3 = +1 \, \mu\text{C}$ at $(0, 0.1)$. Calculate the net force on $q_3$ (magnitude).  
+    - (a) $2.47 \, \text{N}$  
+    - (b) $2.48 \, \text{N}$  
+    - (c) $2.49 \, \text{N}$  
+    - (d) $2.50 \, \text{N}$
+
+32. Calculate the electric field at $(-0.2, 0)$ due to $q = +5 \, \mu\text{C}$ at $(0, 0)$.  
+    - (a) $1.124 \times 10^6 \hat{i} \, \text{N/C}$  
+    - (b) $1.125 \times 10^6 \hat{i} \, \text{N/C}$  
+    - (c) $1.126 \times 10^6 \hat{i} \, \text{N/C}$  
+    - (d) $1.127 \times 10^6 \hat{i} \, \text{N/C}$
+
+33. A ring of charge (radius $R = 0.2 \, \text{m}$, total charge $Q = 10 \, \mu\text{C}$) lies in the xy-plane. Calculate the electric field at $z = 0.2 \, \text{m}$.  
+    - (a) $1.99 \times 10^6 \, \text{N/C}$  
+    - (b) $2.00 \times 10^6 \, \text{N/C}$  
+    - (c) $2.01 \times 10^6 \, \text{N/C}$  
+    - (d) $2.02 \times 10^6 \, \text{N/C}$
+
+34. Charges $q_1 = +q$ at $(0, 0)$, $q_2 = +q$ at $(0, a)$, $q_3 = -q$ at $(x, 0)$. Find $x$ for equilibrium of $q_3$.  
+    - (a) $0.40a$  
+    - (b) $0.41a$  
+    - (c) $0.42a$  
+    - (d) $0.43a$
+
+35. Charges $q_1 = +4 \, \mu\text{C}$ at $(0.2, 0.2)$, $q_2 = -2 \, \mu\text{C}$ at $(0, 0)$. Calculate the force on $q_1$ (magnitude).  
+    - (a) $0.449 \, \text{N}$  
+    - (b) $0.450 \, \text{N}$  
+    - (c) $0.451 \, \text{N}$  
+    - (d) $0.452 \, \text{N}$
+
+---
+
+## Conceptual Problems
+
+36. What does Coulomb’s law describe?  
+   - (a) Magnetic force between charges  
+   - (b) Electric force between point charges  
+   - (c) Gravitational force  
+   - (d) Nuclear force
+
+37. What is the direction of the force between two positive charges?  
+   - (a) Attractive  
+   - (b) Repulsive  
+   - (c) No force  
+   - (d) Perpendicular
+
+38. What does the superposition principle state?  
+   - (a) Forces are scalar quantities  
+   - (b) Net force is the vector sum of individual forces  
+   - (c) Forces cancel out  
+   - (d) Forces are independent of distance
+
+39. What happens to the force in a medium with $\epsilon_r > 1$?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+40. What is the unit of electric charge in SI units?  
+   - (a) Coulomb  
+   - (b) Newton  
+   - (c) Joule  
+   - (d) Volt
+
+41. What does a zero net force on a charge indicate?  
+   - (a) No other charges present  
+   - (b) Charge is in equilibrium  
+   - (c) Charge is moving  
+   - (d) Charge is neutral
+
+42. What does the electric field represent?  
+   - (a) Force per unit mass  
+   - (b) Force per unit charge  
+   - (c) Energy per unit charge  
+   - (d) Charge per unit area
+
+43. What is the physical significance of $k \frac{q}{r^2}$?  
+   - (a) Electric force  
+   - (b) Electric field magnitude  
+   - (c) Electric potential  
+   - (d) Charge density
+
+44. What does charge quantization imply?  
+   - (a) Charge is continuous  
+   - (b) Charge is discrete, $q = n e$  
+   - (c) Charge is zero  
+   - (d) Charge is infinite
+
+45. What is the dimension of electric force?  
+   - (a) $[\text{M} \text{L} \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does a negative force magnitude in Coulomb’s law indicate?  
+   - (a) Repulsive force  
+   - (b) Attractive force  
+   - (c) No force  
+   - (d) Perpendicular force
+
+47. What is the significance of $\epsilon_0$ in Coulomb’s law?  
+   - (a) Permittivity of free space  
+   - (b) Permittivity of medium  
+   - (c) Charge density  
+   - (d) Electric field
+
+48. What happens to the force if the distance between charges doubles?  
+   - (a) Increases by 4  
+   - (b) Decreases by 4  
+   - (c) Doubles  
+   - (d) Halves
+
+49. What does the electric field direction indicate for a positive charge?  
+   - (a) Points inward  
+   - (b) Points outward  
+   - (c) Points perpendicular  
+   - (d) No direction
+
+50. How does Coulomb’s law apply to ion propulsion in rockets?  
+   - (a) Calculates magnetic forces  
+   - (b) Determines electric forces for steering charged particles  
+   - (c) Reduces charge  
+   - (d) Increases distance
+
+---
+
+## Derivation Problems
+
+51. Derive the vector form of Coulomb’s law $\vec{F}_{1,2} = k \frac{q_1 q_2}{r^2} \hat{r}_{12}$.
+
+52. Derive the force in a medium $F_{\text{medium}} = \frac{F_{\text{vacuum}}}{\epsilon_r}$.
+
+53. Derive the electric field from Coulomb’s law $\vec{E} = k \frac{q}{r^2} \hat{r}$.
+
+54. Derive the equilibrium position for a charge between two like charges.
+
+55. Derive the net force on a charge due to multiple charges using the superposition principle.
+
+56. Derive the electric field on the axis of a ring of charge.
+
+57. Derive the force components in 2D for two charges.
+
+58. Derive the charge quantization relation $q = n e$.
+
+59. Derive the electric field due to a line charge at a perpendicular distance.
+
+60. Derive the net electric field at a point due to multiple charges.
+
+61. Derive the force magnitude in Coulomb’s law $F = k \frac{|q_1 q_2|}{r^2}$.
+
+62. Derive the equilibrium position for a charge in a non-linear arrangement.
+
+63. Derive the relation between $k$ and $\epsilon_0$ in Coulomb’s law.
+
+64. Derive the superposition principle for electric fields.
+
+65. Derive the force on a charge in a triangular arrangement of charges.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of electric field in SI units?  
+   - (a) $\text{N/C}$  
+   - (b) $\text{J}$  
+   - (c) $\text{m/s}$  
+   - (d) $\text{Pa}$
+
+67. What does a positive electric field direction indicate for a negative charge?  
+   - (a) Points away from the charge  
+   - (b) Points toward the charge  
+   - (c) No direction  
+   - (d) Perpendicular
+
+68. Which principle allows the calculation of net force from multiple charges?  
+   - (a) Quantization  
+   - (b) Superposition  
+   - (c) Conservation  
+   - (d) Equilibrium
+
+69. What happens to the force if the charges are doubled?  
+   - (a) Doubles  
+   - (b) Halves  
+   - (c) Quadruples  
+   - (d) Remains the same
+
+70. What is the dimension of Coulomb’s constant $k$?  
+   - (a) $[\text{M} \text{L}^3 \text{T}^{-4} \text{A}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the permittivity of free space $\epsilon_0$ represent?  
+   - (a) Charge density  
+   - (b) Medium’s resistance to electric fields  
+   - (c) Ability of vacuum to permit electric fields  
+   - (d) Electric field strength
+
+72. What is the role of vector addition in Coulomb’s law?  
+   - (a) Determines magnitude only  
+   - (b) Determines net force direction and magnitude  
+   - (c) Reduces force  
+   - (d) Increases distance
+
+73. What happens to the electric field if the distance from the charge triples?  
+   - (a) Increases by 9  
+   - (b) Decreases by 9  
+   - (c) Triples  
+   - (d) Decreases by 3
+
+74. Why does a medium reduce the force between charges?  
+   - (a) Increases distance  
+   - (b) Reduces permittivity  
+   - (c) Polarization reduces effective field  
+   - (d) Increases charge
+
+75. What is the unit of force in Coulomb’s law?  
+   - (a) $\text{N}$  
+   - (b) $\text{J}$  
+   - (c) $\text{C}$  
+   - (d) $\text{V}$
+
+76. What does a constant $k = \frac{1}{4 \pi \epsilon_0}$ indicate?  
+   - (a) Charge quantization  
+   - (b) Relation between force and permittivity  
+   - (c) Electric field  
+   - (d) Potential energy
+
+77. Which type of force does Coulomb’s law describe?  
+   - (a) Magnetic  
+   - (b) Electric  
+   - (c) Gravitational  
+   - (d) Frictional
+
+78. What is the direction of the electric field due to a negative charge?  
+   - (a) Outward  
+   - (b) Inward  
+   - (c) Perpendicular  
+   - (d) Random
+
+79. What does a pseudo-force do in a non-inertial frame for charged particles?  
+   - (a) Affects perceived electric force  
+   - (b) Affects charge magnitude  
+   - (c) Creates magnetic fields  
+   - (d) Reduces field strength
+
+80. What is the dimension of electric charge?  
+   - (a) $[\text{A} \text{T}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of Coulomb’s law in rocket ion propulsion?  
+   - (a) Increases charge  
+   - (b) Calculates forces for steering charged particles  
+   - (c) Reduces field  
+   - (d) Increases distance
+
+82. What happens to the force if $\epsilon_r$ increases?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains constant  
+   - (d) Becomes zero
+
+83. Why does the force follow an inverse square law?  
+   - (a) Due to charge quantization  
+   - (b) Due to spherical symmetry of field  
+   - (c) Due to medium effects  
+   - (d) Due to vector addition
+
+84. What is the significance of $k \frac{q_1 q_2}{r^2} \hat{r}_{12}$?  
+   - (a) Scalar force  
+   - (b) Vector electric force  
+   - (c) Electric field  
+   - (d) Potential energy
+
+85. What is the unit of $\epsilon_0$?  
+   - (a) $\text{C}^2/\text{N·m}^2$  
+   - (b) $\text{N·m}^2/\text{C}^2$  
+   - (c) $\text{J}$  
+   - (d) $\text{V}$
+
+86. What does a zero electric field at a point indicate?  
+   - (a) No charges present  
+   - (b) Net field cancels out  
+   - (c) Maximum force  
+   - (d) No charge movement
+
+87. What is the physical significance of $q = n e$?  
+   - (a) Charge conservation  
+   - (b) Charge quantization  
+   - (c) Force calculation  
+   - (d) Field strength
+
+88. Why does the electric field point away from a positive charge?  
+   - (a) Due to repulsion of a positive test charge  
+   - (b) Due to attraction  
+   - (c) Due to medium effects  
+   - (d) Due to charge quantization
+
+89. What is the dimension of electric field?  
+   - (a) $[\text{M} \text{L} \text{T}^{-3} \text{A}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does superposition help in ion propulsion systems?  
+   - (a) Reduces charge  
+   - (b) Calculates net force for particle steering  
+   - (c) Increases field  
+   - (d) Decreases distance
+
+91. What is the role of distance in Coulomb’s law?  
+   - (a) Linear dependence  
+   - (b) Inverse square dependence  
+   - (c) No dependence  
+   - (d) Exponential dependence
+
+92. What does a high $\epsilon_r$ indicate?  
+   - (a) Stronger force  
+   - (b) Weaker force in the medium  
+   - (c) No effect on force  
+   - (d) Increased charge
+
+93. What is the physical significance of $\frac{1}{4 \pi \epsilon_0}$?  
+   - (a) Electric field  
+   - (b) Coulomb’s constant  
+   - (c) Charge density  
+   - (d) Potential energy
+
+94. What is the dimension of $\vec{r}_{12}$ in Coulomb’s law?  
+   - (a) $[\text{L}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does the force depend on the product of charges?  
+   - (a) Due to linear nature of electric forces  
+   - (b) Due to inverse square law  
+   - (c) Due to charge quantization  
+   - (d) Due to medium effects
+
+---
+
+## NEET-style Numerical Problems
+
+96. Two charges $q_1 = +2 \, \mu\text{C}$ and $q_2 = -4 \, \mu\text{C}$ are separated by $r = 0.1 \, \text{m}$ in vacuum. What is the force magnitude?  
+   - (a) $7.19 \, \text{N}$  
+   - (b) $7.20 \, \text{N}$  
+   - (c) $7.21 \, \text{N}$  
+   - (d) $7.22 \, \text{N}$
+
+97. Charges $q_1 = +3 \, \mu\text{C}$ at $(0, 0)$, $q_2 = -3 \, \mu\text{C}$ at $(0.2, 0)$. What is the force on $q_1$ (magnitude)?  
+   - (a) $2.02 \, \text{N}$  
+   - (b) $2.03 \, \text{N}$  
+   - (c) $2.04 \, \text{N}$  
+   - (d) $2.05 \, \text{N}$
+
+98. Calculate the electric field at $(0, 0.3)$ due to $q = +5 \, \mu\text{C}$ at $(0, 0)$.  
+   - (a) $4.99 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (b) $5.00 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (c) $5.01 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (d) $5.02 \times 10^5 \hat{j} \, \text{N/C}$
+
+99. A charge of $+12 \, \mu\text{C}$ is created by removing electrons. How many electrons were removed? ($e = 1.6 \times 10^{-19} \, \text{C}$)  
+   - (a) $7.49 \times 10^{13}$  
+   - (b) $7.50 \times 10^{13}$  
+   - (c) $7.51 \times 10^{13}$  
+   - (d) $7.52 \times 10^{13}$
+
+100. Charges $q_1 = +q$ at $(0, 0)$, $q_2 = +q$ at $(a, 0)$, $q_3 = -q$ at $(x, 0)$. Where is $q_3$ in equilibrium?  
+    - (a) $x = 0.49a$  
+    - (b) $x = 0.50a$  
+    - (c) $x = 0.51a$  
+    - (d) $x = 0.52a$
 
 ## Back to Chapter
 [Return to Coulomb’s Law Chapter](./index.md)

@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Gauss’s Law Problems for JEE & NEET
-description: Practice 100 Gauss’s law problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 electrostatics problems for JEE and NEET, inspired by exam patterns, covering electric flux, Gauss’s law applications, field calculations for symmetric charge distributions, and conductors.
 slug: book/physics/gauss-law-problems
-keywords: physics Gauss’s law problems, JEE physics electric flux problems, NEET physics spherical symmetry problems, electrostatics
+keywords: physics Gauss’s law problems, JEE physics electric flux problems, NEET physics field calculations problems, electrostatics
 og:image: https://vidyamarg.com/og-physics-gauss-law.jpg
 ---
 
 # Gauss’s Law Problems
 
-This section provides **100 problems** to test your understanding of Gauss’s law, including electric flux, applications to symmetric charge distributions, and conductors. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of Gauss’s law, including electric flux calculations, field computations for symmetric charge distributions, conductors, and charged surfaces. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering electrostatics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on flux calculations, field computations, and conductor fields, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., spherical shells, conductor properties), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A uniform electric field $\vec{E} = 600 \hat{i} \, \text{N/C}$ passes through a square surface of side $0.3 \, \text{m}$ in the yz-plane. Calculate the electric flux through the surface.  
+   - (a) $53.9 \, \text{N·m}^2/\text{C}$  
+   - (b) $54.0 \, \text{N·m}^2/\text{C}$  
+   - (c) $54.1 \, \text{N·m}^2/\text{C}$  
+   - (d) $54.2 \, \text{N·m}^2/\text{C}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A point charge \( q = +4 \, \mu\text{C} \) at the origin. Calculate the electric flux through a sphere of radius 0.3 m centered at the origin (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-   - Options: (a) 4.51 × 10⁵ N·m²/C (b) 4.52 × 10⁵ N·m²/C (c) 4.53 × 10⁵ N·m²/C (d) 4.54 × 10⁵ N·m²/C
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: An infinite wire with \( \lambda = 3 \, \mu\text{C/m} \). Calculate the electric field at 0.2 m from the wire (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 2.69 × 10⁵ N/C (b) 2.70 × 10⁵ N/C (c) 2.71 × 10⁵ N/C (d) 2.72 × 10⁵ N/C
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A uniform field \( E = 300 \, \text{N/C} \) perpendicular to a surface of area 0.4 m². Calculate the electric flux.
-   - Options: (a) 119 N·m²/C (b) 120 N·m²/C (c) 121 N·m²/C (d) 122 N·m²/C
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A solid sphere (radius 0.1 m, charge \( Q = 8 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.04 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 2.87 × 10⁵ N/C (b) 2.88 × 10⁵ N/C (c) 2.89 × 10⁵ N/C (d) 2.90 × 10⁵ N/C
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: An infinite sheet with \( \sigma = 1.771 \times 10^{-11} \, \text{C/m}^2 \). Calculate the electric field (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-   - Options: (a) 0.99 N/C (b) 1.00 N/C (c) 1.01 N/C (d) 1.02 N/C
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A thin spherical shell (radius 0.15 m, charge \( Q = 6 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.3 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 5.99 × 10⁵ N/C (b) 6.00 × 10⁵ N/C (c) 6.01 × 10⁵ N/C (d) 6.02 × 10⁵ N/C
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A conducting sphere (radius 0.2 m, charge \( Q = 10 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.1 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 0 N/C (b) 1 N/C (c) 2 N/C (d) 3 N/C
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A point charge \( q = -2 \, \mu\text{C} \) at the origin. Calculate the flux through a cube of side 0.2 m centered at the origin (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-   - Options: (a) -2.25 × 10⁵ N·m²/C (b) -2.26 × 10⁵ N·m²/C (c) -2.27 × 10⁵ N·m²/C (d) -2.28 × 10⁵ N·m²/C
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: An infinite wire with \( \lambda = 5 \, \mu\text{C/m} \). Calculate the electric field at 0.05 m from the wire (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 1.79 × 10⁶ N/C (b) 1.80 × 10⁶ N/C (c) 1.81 × 10⁶ N/C (d) 1.82 × 10⁶ N/C
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A solid sphere (radius 0.2 m, charge \( Q = 12 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.1 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.69 × 10⁵ N/C (b) 2.70 × 10⁵ N/C (c) 2.71 × 10⁵ N/C (d) 2.72 × 10⁵ N/C
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A uniform field \( E = 400 \, \text{N/C} \) at 30° to a surface of area 0.3 m². Calculate the electric flux.
-    - Options: (a) 103 N·m²/C (b) 104 N·m²/C (c) 105 N·m²/C (d) 106 N·m²/C
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A thin spherical shell (radius 0.1 m, charge \( Q = 3 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.05 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0 N/C (b) 1 N/C (c) 2 N/C (d) 3 N/C
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: An infinite sheet with \( \sigma = 3.542 \times 10^{-11} \, \text{C/m}^2 \). Calculate the electric field (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 1.99 N/C (b) 2.00 N/C (c) 2.01 N/C (d) 2.02 N/C
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A conducting shell (inner radius 0.1 m, outer radius 0.2 m, charge \( Q = 7 \, \mu\text{C} \)). Calculate the field at \( r = 0.15 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0 N/C (b) 1 N/C (c) 2 N/C (d) 3 N/C
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A point charge \( q = +6 \, \mu\text{C} \) at the origin. Calculate the flux through a sphere of radius 0.5 m centered at (0.5, 0, 0) (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 6.77 × 10⁵ N·m²/C (b) 6.78 × 10⁵ N·m²/C (c) 6.79 × 10⁵ N·m²/C (d) 6.80 × 10⁵ N·m²/C
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: An infinite wire with \( \lambda = 1 \, \mu\text{C/m} \). Calculate the electric field at 0.4 m from the wire (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 4.49 × 10⁴ N/C (b) 4.50 × 10⁴ N/C (c) 4.51 × 10⁴ N/C (d) 4.52 × 10⁴ N/C
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A solid sphere (radius 0.05 m, charge \( Q = 2 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.02 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.79 × 10⁵ N/C (b) 1.80 × 10⁵ N/C (c) 1.81 × 10⁵ N/C (d) 1.82 × 10⁵ N/C
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A thin spherical shell (radius 0.3 m, charge \( Q = 9 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.6 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.24 × 10⁵ N/C (b) 2.25 × 10⁵ N/C (c) 2.26 × 10⁵ N/C (d) 2.27 × 10⁵ N/C
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A uniform field \( E = 500 \, \text{N/C} \) perpendicular to a surface of area 0.2 m². Calculate the electric flux.
-    - Options: (a) 99 N·m²/C (b) 100 N·m²/C (c) 101 N·m²/C (d) 102 N·m²/C
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A conducting sphere (radius 0.1 m, charge \( Q = 4 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.05 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0 N/C (b) 1 N/C (c) 2 N/C (d) 3 N/C
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: An infinite sheet with \( \sigma = 5.312 \times 10^{-11} \, \text{C/m}^2 \). Calculate the electric field (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 2.99 N/C (b) 3.00 N/C (c) 3.01 N/C (d) 3.02 N/C
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A point charge \( q = -3 \, \mu\text{C} \) at the origin. Calculate the flux through a sphere of radius 0.4 m centered at the origin (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) -3.38 × 10⁵ N·m²/C (b) -3.39 × 10⁵ N·m²/C (c) -3.40 × 10⁵ N·m²/C (d) -3.41 × 10⁵ N·m²/C
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: A thin spherical shell (radius 0.2 m, charge \( Q = 5 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.1 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0 N/C (b) 1 N/C (c) 2 N/C (d) 3 N/C
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: An infinite wire with \( \lambda = 2 \, \mu\text{C/m} \). Calculate the electric field at 0.3 m from the wire (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.19 × 10⁵ N/C (b) 1.20 × 10⁵ N/C (c) 1.21 × 10⁵ N/C (d) 1.22 × 10⁵ N/C
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A solid sphere (radius 0.15 m, charge \( Q = 7 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.06 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.09 × 10⁵ N/C (b) 2.10 × 10⁵ N/C (c) 2.11 × 10⁵ N/C (d) 2.12 × 10⁵ N/C
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A uniform field \( E = 600 \, \text{N/C} \) at 45° to a surface of area 0.1 m². Calculate the electric flux.
-    - Options: (a) 42.3 N·m²/C (b) 42.4 N·m²/C (c) 42.5 N·m²/C (d) 42.6 N·m²/C
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A conducting shell (inner radius 0.05 m, outer radius 0.1 m, charge \( Q = 3 \, \mu\text{C} \)). Calculate the field at \( r = 0.07 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0 N/C (b) 1 N/C (c) 2 N/C (d) 3 N/C
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A point charge \( q = +8 \, \mu\text{C} \) at the origin. Calculate the flux through a sphere of radius 0.25 m centered at the origin (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 9.03 × 10⁵ N·m²/C (b) 9.04 × 10⁵ N·m²/C (c) 9.05 × 10⁵ N·m²/C (d) 9.06 × 10⁵ N·m²/C
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: An infinite sheet with \( \sigma = 7.083 \times 10^{-11} \, \text{C/m}^2 \). Calculate the electric field (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 3.99 N/C (b) 4.00 N/C (c) 4.01 N/C (d) 4.02 N/C
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A thin spherical shell (radius 0.4 m, charge \( Q = 10 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.8 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.40 × 10⁵ N/C (b) 1.41 × 10⁵ N/C (c) 1.42 × 10⁵ N/C (d) 1.43 × 10⁵ N/C
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A point charge \( q = -5 \, \mu\text{C} \) at the origin. Calculate the flux through a cube of side 0.3 m centered at the origin (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) -5.64 × 10⁵ N·m²/C (b) -5.65 × 10⁵ N·m²/C (c) -5.66 × 10⁵ N·m²/C (d) -5.67 × 10⁵ N·m²/C
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: An infinite wire with \( \lambda = 4 \, \mu\text{C/m} \). Calculate the electric field at 0.1 m from the wire (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 7.18 × 10⁵ N/C (b) 7.19 × 10⁵ N/C (c) 7.20 × 10⁵ N/C (d) 7.21 × 10⁵ N/C
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A solid sphere (radius 0.3 m, charge \( Q = 15 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.15 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.49 × 10⁵ N/C (b) 1.50 × 10⁵ N/C (c) 1.51 × 10⁵ N/C (d) 1.52 × 10⁵ N/C
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A uniform field \( E = 200 \, \text{N/C} \) at 60° to a surface of area 0.6 m². Calculate the electric flux.
-    - Options: (a) 59.9 N·m²/C (b) 60.0 N·m²/C (c) 60.1 N·m²/C (d) 60.2 N·m²/C
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A conducting sphere (radius 0.25 m, charge \( Q = 6 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.12 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0 N/C (b) 1 N/C (c) 2 N/C (d) 3 N/C
+2. A point charge $q = 4 \, \mu\text{C}$ is at the center of a spherical Gaussian surface of radius $0.2 \, \text{m}$. Calculate the electric flux through the surface ($\epsilon_0 = 8.85 \times 10^{-12} \, \text{C}^2/\text{N·m}^2$).  
+   - (a) $4.51 \times 10^5 \, \text{N·m}^2/\text{C}$  
+   - (b) $4.52 \times 10^5 \, \text{N·m}^2/\text{C}$  
+   - (c) $4.53 \times 10^5 \, \text{N·m}^2/\text{C}$  
+   - (d) $4.54 \times 10^5 \, \text{N·m}^2/\text{C}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is electric flux?
-   - Options: (a) Measure of field through surface (b) Total charge (c) Field strength (d) No flux
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What does Gauss’s law relate?
-   - Options: (a) Flux to enclosed charge (b) Field to distance (c) No relation (d) Charge to area
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: Why is the field zero inside a charged conductor?
-   - Options: (a) Charges on surface (b) Non-zero inside (c) Fixed field (d) No charges
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is the field outside a charged spherical shell?
-   - Options: (a) Like a point charge (b) Zero (c) Uniform (d) No field
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: How does symmetry simplify Gauss’s law?
-   - Options: (a) Reduces integral to scalar (b) No effect (c) Increases complexity (d) Fixed symmetry
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What is the field due to an infinite wire?
-   - Options: (a) Inversely proportional to distance (b) Constant (c) No field (d) Linear
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Why is the field constant for an infinite sheet?
-   - Options: (a) Planar symmetry (b) No symmetry (c) Variable field (d) Fixed field
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: What determines flux through a surface?
-   - Options: (a) Enclosed charge (b) Surface area (c) No charge (d) Field strength
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: Why choose a Gaussian surface?
-   - Options: (a) Matches charge symmetry (b) Any surface (c) No surface (d) Fixed surface
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is the field inside a solid charged sphere?
-   - Options: (a) Proportional to radius (b) Zero (c) Constant (d) No field
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: How does Gauss’s law apply to conductors?
-   - Options: (a) Zero field inside (b) Non-zero inside (c) Fixed field (d) No application
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: What is the flux through a closed surface with no charge?
-   - Options: (a) Zero (b) Non-zero (c) Fixed flux (d) No flux
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: Why is the field zero inside a spherical shell?
-   - Options: (a) No enclosed charge (b) Non-zero field (c) Fixed field (d) No symmetry
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: How does Gauss’s law apply to real systems?
-   - Options: (a) Simplifies field calculations (b) No application (c) Only theoretical (d) Fixed fields
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: What is the significance of \( \epsilon_0 \)?
-   - Options: (a) Relates flux to charge (b) No significance (c) Fixed constant (d) Field strength
+3. A charge $q = 2 \, \mu\text{C}$ is inside a cube of side $0.1 \, \text{m}$. Calculate the electric flux through one face of the cube.  
+   - (a) $3.76 \times 10^4 \, \text{N·m}^2/\text{C}$  
+   - (b) $3.77 \times 10^4 \, \text{N·m}^2/\text{C}$  
+   - (c) $3.78 \times 10^4 \, \text{N·m}^2/\text{C}$  
+   - (d) $3.79 \times 10^4 \, \text{N·m}^2/\text{C}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive Gauss’s law for a point charge.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the field for an infinite charged wire.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the field inside a solid charged sphere.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the field outside a spherical shell.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the field for an infinite charged sheet.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the flux through a closed surface.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the field inside a conductor.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the field for a cylindrical shell.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the field near a charged conductor surface.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the flux for a cube with a point charge.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the field inside a charged spherical cavity.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the field for a charged disk.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the flux through a non-closed surface.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the field for a semi-infinite wire.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the field for a charged hemispherical shell.
+4. An infinite line charge has linear charge density $\lambda = 3 \times 10^{-6} \, \text{C/m}$. Calculate the electric field at a distance $r = 0.5 \, \text{m}$ from the line ($k = 9 \times 10^9 \, \text{N·m}^2/\text{C}^2$).  
+   - (a) $1.07 \times 10^4 \, \text{N/C}$  
+   - (b) $1.08 \times 10^4 \, \text{N/C}$  
+   - (c) $1.09 \times 10^4 \, \text{N/C}$  
+   - (d) $1.10 \times 10^4 \, \text{N/C}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is Gauss’s law?
-   - Options: (a) Relates flux to charge (b) Field strength (c) No relation (d) Charge density
-67. **Problem 67 (NEET, 2022)**: Why is the field zero inside a conductor?
-   - Options: (a) Charges on surface (b) Non-zero inside (c) Fixed field (d) No charges
-68. **Problem 68 (NEET, 2021)**: What is electric flux?
-   - Options: (a) Field through surface (b) Total charge (c) No flux (d) Field strength
-69. **Problem 69 (NEET, 2024)**: What is the field outside a spherical shell?
-   - Options: (a) Like point charge (b) Zero (c) Uniform (d) No field
-70. **Problem 70 (NEET, 2020)**: Why use symmetry in Gauss’s law?
-   - Options: (a) Simplifies calculations (b) No effect (c) Increases complexity (d) Fixed symmetry
-71. **Problem 71 (NEET, 2023)**: What is the field due to an infinite wire?
-   - Options: (a) Inversely proportional to distance (b) Constant (c) No field (d) Linear
-72. **Problem 72 (NEET, 2022)**: Why is the field constant for a sheet?
-   - Options: (a) Planar symmetry (b) No symmetry (c) Variable field (d) Fixed field
-73. **Problem 73 (NEET, 2021)**: What determines flux?
-   - Options: (a) Enclosed charge (b) Surface area (c) No charge (d) Field strength
-74. **Problem 74 (NEET, 2024)**: Why choose a Gaussian surface?
-   - Options: (a) Matches symmetry (b) Any surface (c) No surface (d) Fixed surface
-75. **Problem 75 (NEET, 2020)**: What is the field inside a sphere?
-   - Options: (a) Proportional to radius (b) Zero (c) Constant (d) No field
-76. **Problem 76 (NEET, 2023)**: How does Gauss’s law apply to conductors?
-   - Options: (a) Zero field inside (b) Non-zero inside (c) Fixed field (d) No application
-77. **Problem 77 (NEET, 2022)**: What is the flux with no charge?
-   - Options: (a) Zero (b) Non-zero (c) Fixed flux (d) No flux
-78. **Problem 78 (NEET, 2021)**: Why is the field zero inside a shell?
-   - Options: (a) No enclosed charge (b) Non-zero field (c) Fixed field (d) No symmetry
-79. **Problem 79 (NEET, 2024)**: How does Gauss’s law simplify fields?
-   - Options: (a) Uses symmetry (b) No simplification (c) Only theoretical (d) Fixed fields
-80. **Problem 80 (NEET, 2020)**: What is \( \epsilon_0 \)?
-   - Options: (a) Permittivity constant (b) No significance (c) Fixed constant (d) Field strength
-81. **Problem 81 (NEET, 2023)**: Why is flux independent of surface size?
-   - Options: (a) Depends on enclosed charge (b) Depends on area (c) No flux (d) Fixed flux
-82. **Problem 82 (NEET, 2022)**: What is the field inside a conductor?
-   - Options: (a) Zero (b) Non-zero (c) Fixed field (d) No field
-83. **Problem 83 (NEET, 2021)**: How does Gauss’s law apply to wires?
-   - Options: (a) Cylindrical symmetry (b) No symmetry (c) Fixed field (d) No application
-84. **Problem 84 (NEET, 2024)**: What is the field near a charged sheet?
-   - Options: (a) Constant (b) Varies with distance (c) No field (d) Linear
-85. **Problem 85 (NEET, 2020)**: Why is the field zero inside a shell?
-   - Options: (a) No charge enclosed (b) Non-zero field (c) Fixed field (d) No symmetry
-86. **Problem 86 (NEET, 2023)**: How does Gauss’s law apply to capacitors?
-   - Options: (a) Calculates plate fields (b) No application (c) Only theoretical (d) Fixed fields
-87. **Problem 87 (NEET, 2022)**: What is the flux through a cube?
-   - Options: (a) Depends on charge (b) Depends on size (c) No flux (d) Fixed flux
-88. **Problem 88 (NEET, 2021)**: Why use a spherical Gaussian surface?
-   - Options: (a) Matches spherical symmetry (b) Any surface (c) No surface (d) Fixed surface
-89. **Problem 89 (NEET, 2024)**: What is the field inside a charged sphere?
-   - Options: (a) Proportional to radius (b) Zero (c) Constant (d) No field
-90. **Problem 90 (NEET, 2020)**: How does Gauss’s law apply to shielding?
-   - Options: (a) Zero field inside conductor (b) Non-zero field (c) Fixed field (d) No shielding
-91. **Problem 91 (NEET, 2023)**: Why is the field outside a conductor like a point charge?
-   - Options: (a) Charge on surface (b) No charge (c) Fixed field (d) No field
-92. **Problem 92 (NEET, 2022)**: What is the role of \( \epsilon_0 \)?
-   - Options: (a) Relates charge to flux (b) No role (c) Fixed constant (d) Field strength
-93. **Problem 93 (NEET, 2021)**: Why is the field uniform near a sheet?
-   - Options: (a) Planar symmetry (b) No symmetry (c) Variable field (d) Fixed field
-94. **Problem 94 (NEET, 2024)**: What determines the field inside a sphere?
-   - Options: (a) Enclosed charge (b) Total charge (c) No charge (d) Fixed charge
-95. **Problem 95 (NEET, 2020)**: How does Gauss’s law apply to real systems?
-   - Options: (a) Simplifies field calculations (b) No application (c) Only theoretical (d) Fixed fields
+5. An infinite plane sheet has surface charge density $\sigma = 5 \times 10^{-6} \, \text{C/m}^2$. Calculate the electric field near the sheet.  
+   - (a) $2.82 \times 10^5 \, \text{N/C}$  
+   - (b) $2.83 \times 10^5 \, \text{N/C}$  
+   - (c) $2.84 \times 10^5 \, \text{N/C}$  
+   - (d) $2.85 \times 10^5 \, \text{N/C}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A point charge \( q = +2 \, \mu\text{C} \) at the origin. Calculate the flux through a sphere of radius 0.2 m centered at the origin (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-   - Options: (a) 2.25 × 10⁵ N·m²/C (b) 2.26 × 10⁵ N·m²/C (c) 2.27 × 10⁵ N·m²/C (d) 2.28 × 10⁵ N·m²/C
-97. **Problem 97 (NEET, 2022)**: An infinite wire with \( \lambda = 1.5 \, \mu\text{C/m} \). Calculate the electric field at 0.1 m from the wire (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 2.69 × 10⁵ N/C (b) 2.70 × 10⁵ N/C (c) 2.71 × 10⁵ N/C (d) 2.72 × 10⁵ N/C
-98. **Problem 98 (NEET, 2021)**: A uniform field \( E = 100 \, \text{N/C} \) perpendicular to a surface of area 0.8 m². Calculate the electric flux.
-   - Options: (a) 79 N·m²/C (b) 80 N·m²/C (c) 81 N·m²/C (d) 82 N·m²/C
-99. **Problem 99 (NEET, 2024)**: A thin spherical shell (radius 0.2 m, charge \( Q = 4 \, \mu\text{C} \)). Calculate the electric field at \( r = 0.4 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 2.24 × 10⁵ N/C (b) 2.25 × 10⁵ N/C (c) 2.26 × 10⁵ N/C (d) 2.27 × 10⁵ N/C
-100. **Problem 100 (NEET, 2020)**: An infinite sheet with \( \sigma = 8.854 \times 10^{-12} \, \text{C/m}^2 \). Calculate the electric field (\( \epsilon_0 = 8.854 \times 10^{-12} \, \text{C}^2/\text{N·m}^2 \)).
-    - Options: (a) 0.49 N/C (b) 0.50 N/C (c) 0.51 N/C (d) 0.52 N/C
+6. A spherical shell of radius $R = 0.1 \, \text{m}$ has total charge $Q = 6 \, \mu\text{C}$. Calculate the electric field at $r = 0.05 \, \text{m}$ and $r = 0.3 \, \text{m}$.  
+   - (a) $0, 6.00 \times 10^5 \, \text{N/C}$  
+   - (b) $0, 6.01 \times 10^5 \, \text{N/C}$  
+   - (c) $0, 6.02 \times 10^5 \, \text{N/C}$  
+   - (d) $0, 6.03 \times 10^5 \, \text{N/C}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. A solid sphere of radius $R = 0.2 \, \text{m}$ has volume charge density $\rho = 2 \times 10^{-6} \, \text{C/m}^3$. Calculate the electric field at $r = 0.1 \, \text{m}$.  
+   - (a) $3.76 \times 10^5 \, \text{N/C}$  
+   - (b) $3.77 \times 10^5 \, \text{N/C}$  
+   - (c) $3.78 \times 10^5 \, \text{N/C}$  
+   - (d) $3.79 \times 10^5 \, \text{N/C}$
 
-[View Solutions](/books/physics/gauss-law/solutions) -->
+8. A spherical conductor of radius $R = 0.15 \, \text{m}$ has charge $Q = 8 \, \mu\text{C}$. Calculate the electric field just outside the surface.  
+   - (a) $3.19 \times 10^6 \, \text{N/C}$  
+   - (b) $3.20 \times 10^6 \, \text{N/C}$  
+   - (c) $3.21 \times 10^6 \, \text{N/C}$  
+   - (d) $3.22 \times 10^6 \, \text{N/C}$
+
+9. Two parallel infinite sheets have surface charge densities $\sigma_1 = 4 \times 10^{-6} \, \text{C/m}^2$ and $\sigma_2 = -4 \times 10^{-6} \, \text{C/m}^2$. Calculate the electric field between the sheets.  
+   - (a) $4.51 \times 10^5 \, \text{N/C}$  
+   - (b) $4.52 \times 10^5 \, \text{N/C}$  
+   - (c) $4.53 \times 10^5 \, \text{N/C}$  
+   - (d) $4.54 \times 10^5 \, \text{N/C}$
+
+10. A thick slab extends from $z = -0.03 \, \text{m}$ to $z = 0.03 \, \text{m}$ with volume charge density $\rho = 1 \times 10^{-6} \, \text{C/m}^3$. Calculate the electric field at $z = 0.02 \, \text{m}$.  
+    - (a) $2.25 \times 10^5 \, \text{N/C}$  
+    - (b) $2.26 \times 10^5 \, \text{N/C}$  
+    - (c) $2.27 \times 10^5 \, \text{N/C}$  
+    - (d) $2.28 \times 10^5 \, \text{N/C}$
+
+11. A uniform field $\vec{E} = 400 \hat{i} \, \text{N/C}$ passes through a circular surface of radius $0.5 \, \text{m}$ in the yz-plane. Calculate the electric flux.  
+    - (a) $314.0 \, \text{N·m}^2/\text{C}$  
+    - (b) $314.1 \, \text{N·m}^2/\text{C}$  
+    - (c) $314.2 \, \text{N·m}^2/\text{C}$  
+    - (d) $314.3 \, \text{N·m}^2/\text{C}$
+
+12. A point charge $q = -3 \, \mu\text{C}$ is at the center of a spherical surface of radius $0.4 \, \text{m}$. Calculate the electric flux through the surface.  
+    - (a) $-3.38 \times 10^5 \, \text{N·m}^2/\text{C}$  
+    - (b) $-3.39 \times 10^5 \, \text{N·m}^2/\text{C}$  
+    - (c) $-3.40 \times 10^5 \, \text{N·m}^2/\text{C}$  
+    - (d) $-3.41 \times 10^5 \, \text{N·m}^2/\text{C}$
+
+13. An infinite line charge has $\lambda = 1 \times 10^{-6} \, \text{C/m}$. Calculate the electric field at $r = 0.1 \, \text{m}$.  
+    - (a) $1.79 \times 10^5 \, \text{N/C}$  
+    - (b) $1.80 \times 10^5 \, \text{N/C}$  
+    - (c) $1.81 \times 10^5 \, \text{N/C}$  
+    - (d) $1.82 \times 10^5 \, \text{N/C}$
+
+14. An infinite plane sheet has $\sigma = 2 \times 10^{-6} \, \text{C/m}^2$. Calculate the electric field near the sheet.  
+    - (a) $1.12 \times 10^5 \, \text{N/C}$  
+    - (b) $1.13 \times 10^5 \, \text{N/C}$  
+    - (c) $1.14 \times 10^5 \, \text{N/C}$  
+    - (d) $1.15 \times 10^5 \, \text{N/C}$
+
+15. A spherical shell of radius $R = 0.3 \, \text{m}$ has $Q = 9 \, \mu\text{C}$. Calculate the electric field at $r = 0.5 \, \text{m}$.  
+    - (a) $3.23 \times 10^5 \, \text{N/C}$  
+    - (b) $3.24 \times 10^5 \, \text{N/C}$  
+    - (c) $3.25 \times 10^5 \, \text{N/C}$  
+    - (d) $3.26 \times 10^5 \, \text{N/C}$
+
+16. A solid sphere of radius $R = 0.4 \, \text{m}$ has $\rho = 3 \times 10^{-6} \, \text{C/m}^3$. Calculate the electric field at $r = 0.2 \, \text{m}$.  
+    - (a) $1.12 \times 10^5 \, \text{N/C}$  
+    - (b) $1.13 \times 10^5 \, \text{N/C}$  
+    - (c) $1.14 \times 10^5 \, \text{N/C}$  
+    - (d) $1.15 \times 10^5 \, \text{N/C}$
+
+17. A spherical conductor of radius $R = 0.2 \, \text{m}$ has $Q = engaged in a rocket engine, a conductor plate has $\sigma = 2 \times 10^{-5} \, \text{C/m}^2$. Calculate the electric field just outside the plate.  
+    - (a) $2.25 \times 10^6 \, \text{N/C}$  
+    - (b) $2.26 \times 10^6 \, \text{N/C}$  
+    - (c) $2.27 \times 10^6 \, \text{N/C}$  
+    - (d) $2.28 \times 10^6 \, \text{N/C}$
+
+18. Two parallel sheets have $\sigma_1 = 3 \times 10^{-6} \, \text{C/m}^2$, $\sigma_2 = 3 \times 10^{-6} \, \text{C/m}^2$. Calculate the electric field between the sheets.  
+    - (a) $0 \, \text{N/C}$  
+    - (b) $1 \times 10^5 \, \text{N/C}$  
+    - (c) $2 \times 10^5 \, \text{N/C}$  
+    - (d) $3 \times 10^5 \, \text{N/C}$
+
+19. A thick slab from $z = -0.05 \, \text{m}$ to $z = 0.05 \, \text{m}$ has $\rho = 2 \times 10^{-6} \, \text{C/m}^3$. Calculate the electric field at $z = 0.04 \, \text{m}$.  
+    - (a) $9.03 \times 10^5 \, \text{N/C}$  
+    - (b) $9.04 \times 10^5 \, \text{N/C}$  
+    - (c) $9.05 \times 10^5 \, \text{N/C}$  
+    - (d) $9.06 \times 10^5 \, \text{N/C}$
+
+20. A charge $q = 5 \, \mu\text{C}$ is at the center of a spherical surface of radius $0.5 \, \text{m}$. Calculate the electric flux through the surface.  
+    - (a) $5.64 \times 10^5 \, \text{N·m}^2/\text{C}$  
+    - (b) $5.65 \times 10^5 \, \text{N·m}^2/\text{C}$  
+    - (c) $5.66 \times 10^5 \, \text{N·m}^2/\text{C}$  
+    - (d) $5.67 \times 10^5 \, \text{N·m}^2/\text{C}$
+
+21. A uniform field $\vec{E} = 800 \hat{i} \, \text{N/C}$ passes through a rectangular surface of dimensions $0.2 \, \text{m} \times 0.3 \, \text{m}$ in the yz-plane. Calculate the electric flux.  
+    - (a) $47.9 \, \text{N·m}^2/\text{C}$  
+    - (b) $48.0 \, \text{N·m}^2/\text{C}$  
+    - (c) $48.1 \, \text{N·m}^2/\text{C}$  
+    - (d) $48.2 \, \text{N·m}^2/\text{C}$
+
+22. An infinite line charge has $\lambda = 6 \times 10^{-6} \, \text{C/m}$. Calculate the electric field at $r = 0.2 \, \text{m}$.  
+    - (a) $5.39 \times 10^5 \, \text{N/C}$  
+    - (b) $5.40 \times 10^5 \, \text{N/C}$  
+    - (c) $5.41 \times 10^5 \, \text{N/C}$  
+    - (d) $5.42 \times 10^5 \, \text{N/C}$
+
+23. An infinite plane sheet has $\sigma = 1 \times 10^{-6} \, \text{C/m}^2$. Calculate the electric field near the sheet.  
+    - (a) $5.64 \times 10^4 \, \text{N/C}$  
+    - (b) $5.65 \times 10^4 \, \text{N/C}$  
+    - (c) $5.66 \times 10^4 \, \text{N/C}$  
+    - (d) $5.67 \times 10^4 \, \text{N/C}$
+
+24. A spherical shell of radius $R = 0.5 \, \text{m}$ has $Q = 10 \, \mu\text{C}$. Calculate the electric field at $r = 0.7 \, \text{m}$.  
+    - (a) $1.83 \times 10^5 \, \text{N/C}$  
+    - (b) $1.84 \times 10^5 \, \text{N/C}$  
+    - (c) $1.85 \times 10^5 \, \text{N/C}$  
+    - (d) $1.86 \times 10^5 \, \text{N/C}$
+
+25. A solid sphere of radius $R = 0.1 \, \text{m}$ has $\rho = 4 \times 10^{-6} \, \text{C/m}^3$. Calculate the electric field at $r = 0.05 \, \text{m}$.  
+    - (a) $7.52 \times 10^5 \, \text{N/C}$  
+    - (b) $7.53 \times 10^5 \, \text{N/C}$  
+    - (c) $7.54 \times 10^5 \, \text{N/C}$  
+    - (d) $7.55 \times 10^5 \, \text{N/C}$
+
+26. A spherical conductor of radius $R = 0.3 \, \text{m}$ has $Q = 12 \, \mu\text{C}$. Calculate the electric field just outside the surface.  
+    - (a) $1.33 \times 10^6 \, \text{N/C}$  
+    - (b) $1.34 \times 10^6 \, \text{N/C}$  
+    - (c) $1.35 \times 10^6 \, \text{N/C}$  
+    - (d) $1.36 \times 10^6 \, \text{N/C}$
+
+27. Two parallel sheets have $\sigma_1 = 6 \times 10^{-6} \, \text{C/m}^2$, $\sigma_2 = -2 \times 10^{-6} \, \text{C/m}^2$. Calculate the electric field between the sheets.  
+    - (a) $2.25 \times 10^5 \, \text{N/C}$  
+    - (b) $2.26 \times 10^5 \, \text{N/C}$  
+    - (c) $2.27 \times 10^5 \, \text{N/C}$  
+    - (d) $2.28 \times 10^5 \, \text{N/C}$
+
+28. A thick slab from $z = -0.02 \, \text{m}$ to $z = 0.02 \, \text{m}$ has $\rho = 5 \times 10^{-6} \, \text{C/m}^3$. Calculate the electric field at $z = 0.01 \, \text{m}$.  
+    - (a) $5.64 \times 10^5 \, \text{N/C}$  
+    - (b) $5.65 \times 10^5 \, \text{N/C}$  
+    - (c) $5.66 \times 10^5 \, \text{N/C}$  
+    - (d) $5.67 \times 10^5 \, \text{N/C}$
+
+29. A charge $q = 7 \, \mu\text{C}$ is inside a cube of side $0.2 \, \text{m}$. Calculate the electric flux through one face.  
+    - (a) $1.31 \times 10^5 \, \text{N·m}^2/\text{C}$  
+    - (b) $1.32 \times 10^5 \, \text{N·m}^2/\text{C}$  
+    - (c) $1.33 \times 10^5 \, \text{N·m}^2/\text{C}$  
+    - (d) $1.34 \times 10^5 \, \text{N·m}^2/\text{C}$
+
+30. An infinite line charge has $\lambda = 8 \times 10^{-6} \, \text{C/m}$. Calculate the electric field at $r = 0.4 \, \text{m}$.  
+    - (a) $3.59 \times 10^5 \, \text{N/C}$  
+    - (b) $3.60 \times 10^5 \, \text{N/C}$  
+    - (c) $3.61 \times 10^5 \, \text{N/C}$  
+    - (d) $3.62 \times 10^5 \, \text{N/C}$
+
+31. In a rocket ion engine, a charged plate has $\sigma = 1 \times 10^{-5} \, \text{C/m}^2$. Calculate the electric field just outside the plate to guide ions.  
+    - (a) $1.12 \times 10^6 \, \text{N/C}$  
+    - (b) $1.13 \times 10^6 \, \text{N/C}$  
+    - (c) $1.14 \times 10^6 \, \text{N/C}$  
+    - (d) $1.15 \times 10^6 \, \text{N/C}$
+
+32. A spherical shell of radius $R = 0.2 \, \text{m}$ has $Q = 4 \, \mu\text{C}$. Calculate the electric field at $r = 0.1 \, \text{m}$.  
+    - (a) $0 \, \text{N/C}$  
+    - (b) $1 \times 10^5 \, \text{N/C}$  
+    - (c) $2 \times 10^5 \, \text{N/C}$  
+    - (d) $3 \times 10^5 \, \text{N/C}$
+
+33. A solid sphere of radius $R = 0.5 \, \text{m}$ has $\rho = 1 \times 10^{-6} \, \text{C/m}^3$. Calculate the electric field at $r = 0.6 \, \text{m}$.  
+    - (a) $2.09 \times 10^5 \, \text{N/C}$  
+    - (b) $2.10 \times 10^5 \, \text{N/C}$  
+    - (c) $2.11 \times 10^5 \, \text{N/C}$  
+    - (d) $2.12 \times 10^5 \, \text{N/C}$
+
+34. Two parallel sheets have $\sigma_1 = 5 \times 10^{-6} \, \text{C/m}^2$, $\sigma_2 = 1 \times 10^{-6} \, \text{C/m}^2$. Calculate the electric field outside the sheets.  
+    - (a) $3.38 \times 10^5 \, \text{N/C}$  
+    - (b) $3.39 \times 10^5 \, \text{N/C}$  
+    - (c) $3.40 \times 10^5 \, \text{N/C}$  
+    - (d) $3.41 \times 10^5 \, \text{N/C}$
+
+35. A thick slab from $z = -0.04 \, \text{m}$ to $z = 0.04 \, \text{m}$ has $\rho = 3 \times 10^{-6} \, \text{C/m}^3$. Calculate the electric field at $z = 0.05 \, \text{m}$.  
+    - (a) $1.35 \times 10^6 \, \text{N/C}$  
+    - (b) $1.36 \times 10^6 \, \text{N/C}$  
+    - (c) $1.37 \times 10^6 \, \text{N/C}$  
+    - (d) $1.38 \times 10^6 \, \text{N/C}$
+
+---
+
+## Conceptual Problems
+
+36. What does electric flux measure?  
+   - (a) Charge enclosed  
+   - (b) Flow of electric field lines through a surface  
+   - (c) Electric field strength  
+   - (d) Potential energy
+
+37. What does Gauss’s law relate?  
+   - (a) Electric field to potential  
+   - (b) Electric flux to charge enclosed  
+   - (c) Charge to distance  
+   - (d) Field to energy
+
+38. What is the key requirement for using Gauss’s law effectively?  
+   - (a) High charge density  
+   - (b) Symmetry in charge distribution  
+   - (c) Small Gaussian surface  
+   - (d) No symmetry
+
+39. What happens to the electric field inside a spherical shell?  
+   - (a) Increases with radius  
+   - (b) Decreases with radius  
+   - (c) Zero  
+   - (d) Infinite
+
+40. What is the unit of electric flux in SI units?  
+   - (a) $\text{N·m}^2/\text{C}$  
+   - (b) $\text{N/C}$  
+   - (c) $\text{J}$  
+   - (d) $\text{V}$
+
+41. What does a zero electric field inside a conductor indicate?  
+   - (a) No charges present  
+   - (b) Charges on the surface  
+   - (c) Charges inside the conductor  
+   - (d) No field lines
+
+42. What is the field direction just outside a conductor?  
+   - (a) Parallel to the surface  
+   - (b) Perpendicular to the surface  
+   - (c) Random  
+   - (d) Zero
+
+43. What is the physical significance of $\frac{\sigma}{\epsilon_0}$?  
+   - (a) Electric field inside a conductor  
+   - (b) Electric field just outside a conductor  
+   - (c) Electric flux  
+   - (d) Charge density
+
+44. What does the field inside a solid sphere depend on?  
+   - (a) Total charge  
+   - (b) Distance from the center  
+   - (c) Surface charge density  
+   - (d) No dependence
+
+45. What is the dimension of electric flux?  
+   - (a) $[\text{M} \text{L}^3 \text{T}^{-3} \text{A}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does a zero flux through a closed surface indicate?  
+   - (a) No electric field  
+   - (b) No charge enclosed  
+   - (c) Maximum field  
+   - (d) No field lines
+
+47. What is the significance of $\frac{\lambda}{2 \pi \epsilon_0 r}$?  
+   - (a) Field due to a point charge  
+   - (b) Field due to an infinite line charge  
+   - (c) Field due to a plane  
+   - (d) Field inside a conductor
+
+48. What happens to the field between two parallel sheets with opposite charges?  
+   - (a) Zero  
+   - (b) Fields add  
+   - (c) Fields subtract  
+   - (d) Fields cancel outside
+
+49. What does the field inside a thick slab depend on?  
+   - (a) Total charge  
+   - (b) Distance from the center  
+   - (c) Surface charge density  
+   - (d) No dependence
+
+50. How does Gauss’s law apply to rocket ion engines?  
+   - (a) Calculates magnetic fields  
+   - (b) Calculates electric fields for ion acceleration  
+   - (c) Reduces charge  
+   - (d) Increases distance
+
+---
+
+## Derivation Problems
+
+51. Derive Gauss’s law from Coulomb’s law for a point charge.
+
+52. Derive the electric field due to an infinite line charge using Gauss’s law.
+
+53. Derive the electric field due to an infinite plane sheet using Gauss’s law.
+
+54. Derive the electric field due to a spherical shell using Gauss’s law.
+
+55. Derive the electric field due to a uniformly charged solid sphere using Gauss’s law.
+
+56. Derive the electric field inside a conductor in electrostatic equilibrium.
+
+57. Derive the electric field just outside a conductor surface.
+
+58. Derive the electric field between two parallel charged sheets.
+
+59. Derive the electric field inside a thick slab with volume charge density.
+
+60. Derive the flux through a closed surface due to an external charge.
+
+61. Derive the field due to a spherical conductor with a cavity containing a charge.
+
+62. Derive the field outside a conductor near a point charge.
+
+63. Derive the relation $\frac{Q_{\text{enc}}}{\epsilon_0}$ for a complex charge distribution.
+
+64. Derive the field due to a cylindrical shell of charge.
+
+65. Derive the flux through a Gaussian surface with multiple charges inside and outside.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of surface charge density $\sigma$?  
+   - (a) $\text{C/m}^2$  
+   - (b) $\text{N/C}$  
+   - (c) $\text{J}$  
+   - (d) $\text{V}$
+
+67. What does a negative electric flux through a surface indicate?  
+   - (a) Field lines entering the surface  
+   - (b) No charge enclosed  
+   - (c) Maximum field  
+   - (d) No field lines
+
+68. Which symmetry is used for an infinite line charge?  
+   - (a) Spherical  
+   - (b) Cylindrical  
+   - (c) Planar  
+   - (d) No symmetry
+
+69. What happens to the field inside a conductor with a cavity containing no charge?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Zero  
+   - (d) Infinite
+
+70. What is the dimension of $\epsilon_0$?  
+   - (a) $[\text{M}^{-1} \text{L}^{-3} \text{T}^4 \text{A}^2]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the choice of Gaussian surface depend on?  
+   - (a) Charge magnitude  
+   - (b) Symmetry of the charge distribution  
+   - (c) Field strength  
+   - (d) Potential energy
+
+72. What is the role of symmetry in Gauss’s law?  
+   - (a) Increases field strength  
+   - (b) Simplifies field calculations  
+   - (c) Reduces charge  
+   - (d) Increases distance
+
+73. What happens to the field inside a spherical shell at $r = 0$?  
+   - (a) Maximum  
+   - (b) Minimum  
+   - (c) Zero  
+   - (d) Infinite
+
+74. Why does the field just outside a conductor depend on $\sigma$?  
+   - (a) Due to symmetry  
+   - (b) Due to Gauss’s law  
+   - (c) Due to field lines  
+   - (d) Due to charge quantization
+
+75. What is the unit of linear charge density $\lambda$?  
+   - (a) $\text{C/m}$  
+   - (b) $\text{N/C}$  
+   - (c) $\text{J}$  
+   - (d) $\text{V}$
+
+76. What does a constant field near an infinite plane indicate?  
+   - (a) Field depends on distance  
+   - (b) Field is independent of distance  
+   - (c) Field is zero  
+   - (d) Field is infinite
+
+77. Which type of charge distribution produces a field proportional to $r$ inside?  
+   - (a) Spherical shell  
+   - (b) Infinite plane  
+   - (c) Solid sphere  
+   - (d) Line charge
+
+78. What is the direction of the field between two parallel sheets with opposite charges?  
+   - (a) From positive to negative  
+   - (b) From negative to positive  
+   - (c) Perpendicular to sheets  
+   - (d) Zero
+
+79. What does a pseudo-force do in a non-inertial frame for fields in conductors?  
+   - (a) Affects perceived field  
+   - (b) Affects charge distribution  
+   - (c) Creates flux  
+   - (d) Reduces field strength
+
+80. What is the dimension of volume charge density $\rho$?  
+   - (a) $[\text{A} \text{T} \text{L}^{-3}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of Gauss’s law in rocket ion propulsion?  
+   - (a) Reduces charge  
+   - (b) Calculates fields for ion acceleration  
+   - (c) Increases distance  
+   - (d) Decreases field
+
+82. What happens to the field inside a conductor with a cavity containing a charge?  
+   - (a) Zero in the conductor material  
+   - (b) Non-zero everywhere  
+   - (c) Zero in the cavity  
+   - (d) Infinite
+
+83. Why does the field due to an infinite plane not depend on distance?  
+   - (a) Due to symmetry  
+   - (b) Due to charge quantization  
+   - (c) Due to field lines  
+   - (d) Due to work done
+
+84. What is the significance of $\frac{\rho r}{3 \epsilon_0}$?  
+   - (a) Field inside a spherical shell  
+   - (b) Field inside a solid sphere  
+   - (c) Field outside a conductor  
+   - (d) Flux through a surface
+
+85. What is the unit of $\epsilon_0$?  
+   - (a) $\text{C}^2/\text{N·m}^2$  
+   - (b) $\text{N·m}^2/\text{C}^2$  
+   - (c) $\text{J}$  
+   - (d) $\text{V}$
+
+86. What does a zero field between two parallel sheets indicate?  
+   - (a) Opposite charges  
+   - (b) Same charges of equal magnitude  
+   - (c) No charges  
+   - (d) Infinite charges
+
+87. What is the physical significance of $\frac{Q_{\text{enc}}}{\epsilon_0}$?  
+   - (a) Electric field  
+   - (b) Electric flux through a closed surface  
+   - (c) Charge density  
+   - (d) Potential energy
+
+88. Why does the field inside a thick slab increase linearly?  
+   - (a) Due to constant $\rho$ and increasing $Q_{\text{enc}}$  
+   - (b) Due to symmetry  
+   - (c) Due to field lines  
+   - (d) Due to charge quantization
+
+89. What is the dimension of $\sigma$?  
+   - (a) $[\text{A} \text{T} \text{L}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does Gauss’s law help in ion propulsion design?  
+   - (a) Increases charge  
+   - (b) Calculates fields for ion trajectories  
+   - (c) Reduces field  
+   - (d) Increases distance
+
+91. What is the role of $Q_{\text{enc}}$ in Gauss’s law?  
+   - (a) Determines field strength  
+   - (b) Determines flux through the surface  
+   - (c) Determines distance  
+   - (d) Determines charge density
+
+92. What does a field of $\frac{\sigma}{2 \epsilon_0}$ indicate?  
+   - (a) Field due to a point charge  
+   - (b) Field due to an infinite plane  
+   - (c) Field inside a conductor  
+   - (d) Field inside a sphere
+
+93. What is the physical significance of $E (4 \pi r^2) = \frac{Q}{\epsilon_0}$?  
+   - (a) Flux through a surface  
+   - (b) Gauss’s law for a spherical surface  
+   - (c) Field inside a conductor  
+   - (d) Charge density
+
+94. What is the dimension of $\lambda$?  
+   - (a) $[\text{A} \text{T} \text{L}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does the field outside a conductor depend on total charge?  
+   - (a) Due to symmetry  
+   - (b) Due to Gauss’s law  
+   - (c) Due to field lines  
+   - (d) Due to charge quantization
+
+---
+
+## NEET-style Numerical Problems
+
+96. A point charge $q = 1 \, \mu\text{C}$ is at the center of a spherical surface of radius $0.1 \, \text{m}$. Calculate the electric flux through the surface.  
+   - (a) $1.12 \times 10^5 \, \text{N·m}^2/\text{C}$  
+   - (b) $1.13 \times 10^5 \, \text{N·m}^2/\text{C}$  
+   - (c) $1.14 \times 10^5 \, \text{N·m}^2/\text{C}$  
+   - (d) $1.15 \times 10^5 \, \text{N·m}^2/\text{C}$
+
+97. An infinite line charge has $\lambda = 2 \times 10^{-6} \, \text{C/m}$. Calculate the electric field at $r = 0.3 \, \text{m}$.  
+   - (a) $1.19 \times 10^5 \, \text{N/C}$  
+   - (b) $1.20 \times 10^5 \, \text{N/C}$  
+   - (c) $1.21 \times 10^5 \, \text{N/C}$  
+   - (d) $1.22 \times 10^5 \, \text{N/C}$
+
+98. A spherical conductor of radius $R = 0.1 \, \text{m}$ has $Q = 5 \, \mu\text{C}$. Calculate the electric field just outside the surface.  
+   - (a) $4.49 \times 10^6 \, \text{N/C}$  
+   - (b) $4.50 \times 10^6 \, \text{N/C}$  
+   - (c) $4.51 \times 10^6 \, \text{N/C}$  
+   - (d) $4.52 \times 10^6 \, \text{N/C}$
+
+99. Two parallel sheets have $\sigma_1 = 2 \times 10^{-6} \, \text{C/m}^2$, $\sigma_2 = -2 \times 10^{-6} \, \text{C/m}^2$. Calculate the electric field between the sheets.  
+   - (a) $2.25 \times 10^5 \, \text{N/C}$  
+   - (b) $2.26 \times 10^5 \, \text{N/C}$  
+   - (c) $2.27 \times 10^5 \, \text{N/C}$  
+   - (d) $2.28 \times 10^5 \, \text{N/C}$
+
+100. A solid sphere of radius $R = 0.2 \, \text{m}$ has $\rho = 2 \times 10^{-6} \, \text{C/m}^3$. Calculate the electric field at $r = 0.1 \, \text{m}$.  
+    - (a) $3.76 \times 10^5 \, \text{N/C}$  
+    - (b) $3.77 \times 10^5 \, \text{N/C}$  
+    - (c) $3.78 \times 10^5 \, \text{N/C}$  
+    - (d) $3.79 \times 10^5 \, \text{N/C}$
 
 ## Back to Chapter
 [Return to Gauss’s Law Chapter](./index.md)

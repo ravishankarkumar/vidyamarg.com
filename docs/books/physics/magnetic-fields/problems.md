@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Magnetic Fields Problems for JEE & NEET
-description: Practice 100 magnetic fields problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 problems on magnetic fields for JEE and NEET, inspired by exam patterns, covering Biot-Savart law, Ampere’s law, magnetic fields due to current distributions, and electromagnetism applications.
 slug: book/physics/magnetic-fields-problems
-keywords: physics magnetic fields problems, JEE physics Biot-Savart law problems, NEET physics magnetic forces problems, electromagnetism
+keywords: physics magnetic fields problems, JEE physics Biot-Savart law problems, NEET physics Ampere’s law problems, electromagnetism
 og:image: https://vidyamarg.com/og-physics-magnetic-fields.jpg
 ---
 
 # Magnetic Fields Problems
 
-This section provides **100 problems** to test your understanding of magnetic fields, including forces, fields due to currents, charged particle motion, and applications. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of magnetic fields, including calculations of magnetic fields using the Biot-Savart law and Ampere’s law, fields due to various current distributions, and their applications. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering electromagnetism, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on magnetic forces, field calculations, and particle motion, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., cyclotron motion, wire forces), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A wire carries a current $I = 5 \, \text{A}$ and has length $L = 0.2 \, \text{m}$ in a magnetic field $B = 0.3 \, \text{T}$ (perpendicular to the wire). Calculate the force on the wire.  
+   - (a) $0.299 \, \text{N}$  
+   - (b) $0.300 \, \text{N}$  
+   - (c) $0.301 \, \text{N}$  
+   - (d) $0.302 \, \text{N}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: An electron (\( q = -1.602 \times 10^{-19} \, \text{C} \)) moves at \( v = 4 \times 10^6 \, \text{m/s} \) in +x-direction in a magnetic field \( \vec{B} = 0.3 \, \text{T} \) in +y-direction. Calculate the magnetic force magnitude.
-   - Options: (a) 1.92 × 10⁻¹³ N (b) 1.93 × 10⁻¹³ N (c) 1.94 × 10⁻¹³ N (d) 1.95 × 10⁻¹³ N
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A straight wire carries 6 A. Calculate the magnetic field at 0.01 m (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 1.19 × 10⁻⁴ T (b) 1.20 × 10⁻⁴ T (c) 1.21 × 10⁻⁴ T (d) 1.22 × 10⁻⁴ T
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A proton (\( q = 1.602 \times 10^{-19} \, \text{C} \), \( m = 1.673 \times 10^{-27} \, \text{kg} \)) moves at \( v = 3 \times 10^6 \, \text{m/s} \) perpendicular to \( \vec{B} = 0.2 \, \text{T} \). Calculate the radius of its path.
-   - Options: (a) 0.156 m (b) 0.157 m (c) 0.158 m (d) 0.159 m
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: Two parallel wires 0.04 m apart, each carrying 8 A in the same direction, length 0.5 m. Calculate the force between them (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 3.19 × 10⁻⁴ N (b) 3.20 × 10⁻⁴ N (c) 3.21 × 10⁻⁴ N (d) 3.22 × 10⁻⁴ N
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: A circular loop (radius 0.05 m, current 4 A). Calculate the magnetic field at the center (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 5.02 × 10⁻⁵ T (b) 5.03 × 10⁻⁵ T (c) 5.04 × 10⁻⁵ T (d) 5.05 × 10⁻⁵ T
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A wire carries 10 A in +x-direction in \( \vec{B} = 0.4 \, \text{T} \) in +z-direction, length 0.2 m. Calculate the force magnitude.
-   - Options: (a) 0.799 N (b) 0.800 N (c) 0.801 N (d) 0.802 N
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: An electron (\( q = -1.602 \times 10^{-19} \, \text{C} \), \( m = 9.109 \times 10^{-31} \, \text{kg} \)) moves at \( v = 6 \times 10^6 \, \text{m/s} \) perpendicular to \( \vec{B} = 0.5 \, \text{T} \). Calculate the cyclotron frequency.
-   - Options: (a) 1.39 × 10¹¹ Hz (b) 1.40 × 10¹¹ Hz (c) 1.41 × 10¹¹ Hz (d) 1.42 × 10¹¹ Hz
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A straight wire carries 3 A. Calculate the magnetic field at 0.03 m (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 1.99 × 10⁻⁵ T (b) 2.00 × 10⁻⁵ T (c) 2.01 × 10⁻⁵ T (d) 2.02 × 10⁻⁵ T
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: Two parallel wires 0.06 m apart, each carrying 5 A in opposite directions, length 1 m. Calculate the force between them (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 1.66 × 10⁻⁴ N (b) 1.67 × 10⁻⁴ N (c) 1.68 × 10⁻⁴ N (d) 1.69 × 10⁻⁴ N
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A proton (\( q = 1.602 \times 10^{-19} \, \text{C} \), \( m = 1.673 \times 10^{-27} \, \text{kg} \)) moves at \( v = 1 \times 10^6 \, \text{m/s} \) perpendicular to \( \vec{B} = 0.4 \, \text{T} \). Calculate the cyclotron frequency.
-    - Options: (a) 6.09 × 10⁷ Hz (b) 6.10 × 10⁷ Hz (c) 6.11 × 10⁷ Hz (d) 6.12 × 10⁷ Hz
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A wire carries 12 A in +y-direction in \( \vec{B} = 0.25 \, \text{T} \) in +x-direction, length 0.3 m. Calculate the force magnitude.
-    - Options: (a) 0.899 N (b) 0.900 N (c) 0.901 N (d) 0.902 N
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A circular loop (radius 0.2 m, current 3 A). Calculate the magnetic field at the center (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 9.42 × 10⁻⁶ T (b) 9.43 × 10⁻⁶ T (c) 9.44 × 10⁻⁶ T (d) 9.45 × 10⁻⁶ T
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: An electron (\( q = -1.602 \times 10^{-19} \, \text{C} \)) moves at \( v = 2 \times 10^6 \, \text{m/s} \) in +z-direction in \( \vec{B} = 0.1 \, \text{T} \) in +x-direction. Calculate the force magnitude.
-    - Options: (a) 3.20 × 10⁻¹⁴ N (b) 3.21 × 10⁻¹⁴ N (c) 3.22 × 10⁻¹⁴ N (d) 3.23 × 10⁻¹⁴ N
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A straight wire carries 8 A. Calculate the magnetic field at 0.05 m (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 3.19 × 10⁻⁵ T (b) 3.20 × 10⁻⁵ T (c) 3.21 × 10⁻⁵ T (d) 3.22 × 10⁻⁵ T
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: Two parallel wires 0.03 m apart, each carrying 12 A in the same direction, length 0.8 m. Calculate the force between them (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 7.67 × 10⁻⁴ N (b) 7.68 × 10⁻⁴ N (c) 7.69 × 10⁻⁴ N (d) 7.70 × 10⁻⁴ N
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A proton (\( q = 1.602 \times 10^{-19} \, \text{C} \), \( m = 1.673 \times 10^{-27} \, \text{kg} \)) moves at \( v = 5 \times 10^6 \, \text{m/s} \) perpendicular to \( \vec{B} = 0.3 \, \text{T} \). Calculate the radius of its path.
-    - Options: (a) 0.174 m (b) 0.175 m (c) 0.176 m (d) 0.177 m
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A wire carries 15 A in +x-direction in \( \vec{B} = 0.6 \, \text{T} \) in +z-direction, length 0.4 m. Calculate the force magnitude.
-    - Options: (a) 3.59 N (b) 3.60 N (c) 3.61 N (d) 3.62 N
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A circular loop (radius 0.15 m, current 5 A). Calculate the magnetic field at the center (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 2.09 × 10⁻⁵ T (b) 2.10 × 10⁻⁵ T (c) 2.11 × 10⁻⁵ T (d) 2.12 × 10⁻⁵ T
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: An electron (\( q = -1.602 \times 10^{-19} \, \text{C} \), \( m = 9.109 \times 10^{-31} \, \text{kg} \)) moves at \( v = 3 \times 10^6 \, \text{m/s} \) perpendicular to \( \vec{B} = 0.4 \, \text{T} \). Calculate the cyclotron frequency.
-    - Options: (a) 1.11 × 10¹¹ Hz (b) 1.12 × 10¹¹ Hz (c) 1.13 × 10¹¹ Hz (d) 1.14 × 10¹¹ Hz
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: Two parallel wires 0.08 m apart, each carrying 7 A in opposite directions, length 0.6 m. Calculate the force between them (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 7.34 × 10⁻⁵ N (b) 7.35 × 10⁻⁵ N (c) 7.36 × 10⁻⁵ N (d) 7.37 × 10⁻⁵ N
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A straight wire carries 4 A. Calculate the magnetic field at 0.04 m (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 1.99 × 10⁻⁵ T (b) 2.00 × 10⁻⁵ T (c) 2.01 × 10⁻⁵ T (d) 2.02 × 10⁻⁵ T
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A proton (\( q = 1.602 \times 10^{-19} \, \text{C} \), \( m = 1.673 \times 10^{-27} \, \text{kg} \)) moves at \( v = 4 \times 10^6 \, \text{m/s} \) perpendicular to \( \vec{B} = 0.5 \, \text{T} \). Calculate the radius of its path.
-    - Options: (a) 0.083 m (b) 0.084 m (c) 0.085 m (d) 0.086 m
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: A wire carries 20 A in +z-direction in \( \vec{B} = 0.2 \, \text{T} \) in +x-direction, length 0.5 m. Calculate the force magnitude.
-    - Options: (a) 1.99 N (b) 2.00 N (c) 2.01 N (d) 2.02 N
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A circular loop (radius 0.08 m, current 6 A). Calculate the magnetic field at the center (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 4.71 × 10⁻⁵ T (b) 4.72 × 10⁻⁵ T (c) 4.73 × 10⁻⁵ T (d) 4.74 × 10⁻⁵ T
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: Two parallel wires 0.02 m apart, each carrying 15 A in the same direction, length 0.4 m. Calculate the force between them (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 3.59 × 10⁻³ N (b) 3.60 × 10⁻³ N (c) 3.61 × 10⁻³ N (d) 3.62 × 10⁻³ N
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: An electron (\( q = -1.602 \times 10^{-19} \, \text{C} \)) moves at \( v = 7 \times 10^6 \, \text{m/s} \) in +y-direction in \( \vec{B} = 0.6 \, \text{T} \) in +x-direction. Calculate the force magnitude.
-    - Options: (a) 6.72 × 10⁻¹³ N (b) 6.73 × 10⁻¹³ N (c) 6.74 × 10⁻¹³ N (d) 6.75 × 10⁻¹³ N
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A straight wire carries 10 A. Calculate the magnetic field at 0.1 m (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 1.99 × 10⁻⁵ T (b) 2.00 × 10⁻⁵ T (c) 2.01 × 10⁻⁵ T (d) 2.02 × 10⁻⁵ T
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A proton (\( q = 1.602 \times 10^{-19} \, \text{C} \), \( m = 1.673 \times 10^{-27} \, \text{kg} \)) moves at \( v = 2 \times 10^6 \, \text{m/s} \) perpendicular to \( \vec{B} = 0.25 \, \text{T} \). Calculate the cyclotron frequency.
-    - Options: (a) 3.82 × 10⁷ Hz (b) 3.83 × 10⁷ Hz (c) 3.84 × 10⁷ Hz (d) 3.85 × 10⁷ Hz
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A wire carries 5 A in +x-direction in \( \vec{B} = 0.8 \, \text{T} \) in +z-direction, length 0.25 m. Calculate the force magnitude.
-    - Options: (a) 0.999 N (b) 1.000 N (c) 1.001 N (d) 1.002 N
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: Two parallel wires 0.07 m apart, each carrying 9 A in opposite directions, length 0.9 m. Calculate the force between them (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 2.07 × 10⁻⁴ N (b) 2.08 × 10⁻⁴ N (c) 2.09 × 10⁻⁴ N (d) 2.10 × 10⁻⁴ N
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A circular loop (radius 0.12 m, current 7 A). Calculate the magnetic field at the center (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 3.66 × 10⁻⁵ T (b) 3.67 × 10⁻⁵ T (c) 3.68 × 10⁻⁵ T (d) 3.69 × 10⁻⁵ T
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: An electron (\( q = -1.602 \times 10^{-19} \, \text{C} \), \( m = 9.109 \times 10^{-31} \, \text{kg} \)) moves at \( v = 5 \times 10^6 \, \text{m/s} \) perpendicular to \( \vec{B} = 0.7 \, \text{T} \). Calculate the radius of its path.
-    - Options: (a) 4.06 × 10⁻⁵ m (b) 4.07 × 10⁻⁵ m (c) 4.08 × 10⁻⁵ m (d) 4.09 × 10⁻⁵ m
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A straight wire carries 2 A. Calculate the magnetic field at 0.06 m (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 6.66 × 10⁻⁶ T (b) 6.67 × 10⁻⁶ T (c) 6.68 × 10⁻⁶ T (d) 6.69 × 10⁻⁶ T
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A wire carries 8 A in +y-direction in \( \vec{B} = 0.5 \, \text{T} \) in +x-direction, length 0.15 m. Calculate the force magnitude.
-    - Options: (a) 0.599 N (b) 0.600 N (c) 0.601 N (d) 0.602 N
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: Two parallel wires 0.05 m apart, each carrying 11 A in the same direction, length 0.7 m. Calculate the force between them (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-    - Options: (a) 5.38 × 10⁻⁴ N (b) 5.39 × 10⁻⁴ N (c) 5.40 × 10⁻⁴ N (d) 5.41 × 10⁻⁴ N
+2. A charge $q = 3 \, \mu\text{C}$ moves at $v = 4 \times 10^5 \, \text{m/s}$ in a magnetic field $B = 0.2 \, \text{T}$ (perpendicular to velocity). Calculate the magnetic force on the charge.  
+   - (a) $0.239 \, \text{N}$  
+   - (b) $0.240 \, \text{N}$  
+   - (c) $0.241 \, \text{N}$  
+   - (d) $0.242 \, \text{N}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is a magnetic field?
-   - Options: (a) Field from moving charges (b) Electric field (c) No field (d) Fixed field
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What is the magnetic force on a stationary charge?
-   - Options: (a) Zero (b) Non-zero (c) Fixed force (d) No force
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: How is the magnetic field direction determined?
-   - Options: (a) Right-hand rule (b) Left-hand rule (c) No direction (d) Fixed direction
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is the path of a charged particle in a magnetic field?
-   - Options: (a) Circular if perpendicular (b) Linear (c) No path (d) Fixed path
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What does the Biot-Savart law describe?
-   - Options: (a) Field from currents (b) Force on charges (c) No field (d) Fixed field
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What is the force between parallel wires with same currents?
-   - Options: (a) Attractive (b) Repulsive (c) No force (d) Fixed force
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: What is the cyclotron frequency?
-   - Options: (a) \( \frac{|q| B}{2\pi m} \) (b) \( \frac{m B}{|q|} \) (c) No frequency (d) Fixed frequency
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: Why is the magnetic force perpendicular to velocity?
-   - Options: (a) Cross product (b) Parallel force (c) No force (d) Fixed force
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: What is the magnetic field at the center of a loop?
-   - Options: (a) \( \frac{\mu_0 I}{2 R} \) (b) Zero (c) No field (d) Fixed field
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: How does magnetic field vary with distance from a wire?
-   - Options: (a) Inversely with distance (b) Directly (c) No variation (d) Fixed field
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: What is the role of magnetic fields in cyclotrons?
-   - Options: (a) Circular motion (b) Linear motion (c) No role (d) Fixed role
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: Why is the magnetic field zero inside a solenoid?
-   - Options: (a) Symmetry cancellation (b) Non-zero field (c) No symmetry (d) Fixed field
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: What is the unit of magnetic field?
-   - Options: (a) Tesla (b) Newton (c) Ampere (d) No unit
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: How do opposite currents affect wire forces?
-   - Options: (a) Repulsive (b) Attractive (c) No force (d) Fixed force
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: What is the significance of \( \mu_0 \)?
-   - Options: (a) Permeability constant (b) No significance (c) Fixed constant (d) Field strength
+3. An infinite straight wire carries $I = 10 \, \text{A}$. Calculate the magnetic field at a distance $r = 0.05 \, \text{m}$ using the Biot-Savart law ($\mu_0 = 4 \pi \times 10^{-7} \, \text{T·m/A}$).  
+   - (a) $3.99 \times 10^{-5} \, \text{T}$  
+   - (b) $4.00 \times 10^{-5} \, \text{T}$  
+   - (c) $4.01 \times 10^{-5} \, \text{T}$  
+   - (d) $4.02 \times 10^{-5} \, \text{T}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the magnetic force on a moving charge.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the Biot-Savart law for a straight wire.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the cyclotron radius formula.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the magnetic field at the center of a circular loop.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the force between parallel current-carrying wires.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the cyclotron frequency formula.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the magnetic field due to a solenoid.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the magnetic field along the axis of a circular loop.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the helical path of a charged particle in a magnetic field.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the magnetic field inside a long straight wire.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the magnetic force on a current-carrying loop.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the magnetic field due to a current element.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the torque on a current loop in a magnetic field.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the magnetic field of a finite wire segment.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the motion equations for a charged particle in a magnetic field.
+4. A circular loop of radius $R = 0.1 \, \text{m}$ carries $I = 2 \, \text{A}$. Calculate the magnetic field at the center of the loop.  
+   - (a) $1.256 \times 10^{-5} \, \text{T}$  
+   - (b) $1.257 \times 10^{-5} \, \text{T}$  
+   - (c) $1.258 \times 10^{-5} \, \text{T}$  
+   - (d) $1.259 \times 10^{-5} \, \text{T}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is a magnetic field?
-   - Options: (a) Field from currents (b) Electric field (c) No field (d) Fixed field
-67. **Problem 67 (NEET, 2022)**: What is the magnetic force on a stationary charge?
-   - Options: (a) Zero (b) Non-zero (c) Fixed force (d) No force
-68. **Problem 68 (NEET, 2021)**: How is magnetic field direction found?
-   - Options: (a) Right-hand rule (b) Left-hand rule (c) No direction (d) Fixed direction
-69. **Problem 69 (NEET, 2024)**: What is the path of a charged particle in a magnetic field?
-   - Options: (a) Circular (b) Linear (c) No path (d) Fixed path
-70. **Problem 70 (NEET, 2020)**: What does the Biot-Savart law describe?
-   - Options: (a) Magnetic field (b) Electric field (c) No field (d) Fixed field
-71. **Problem 71 (NEET, 2023)**: What is the force between same-direction currents?
-   - Options: (a) Attractive (b) Repulsive (c) No force (d) Fixed force
-72. **Problem 72 (NEET, 2022)**: What is the cyclotron frequency?
-   - Options: (a) Proportional to \( B \) (b) Inversely to \( B \) (c) No frequency (d) Fixed frequency
-73. **Problem 73 (NEET, 2021)**: Why is magnetic force perpendicular?
-   - Options: (a) Cross product (b) Parallel (c) No force (d) Fixed force
-74. **Problem 74 (NEET, 2024)**: What is the field at a loop’s center?
-   - Options: (a) Non-zero (b) Zero (c) No field (d) Fixed field
-75. **Problem 75 (NEET, 2020)**: How does field vary from a wire?
-   - Options: (a) Inversely (b) Directly (c) No variation (d) Fixed field
-76. **Problem 76 (NEET, 2023)**: What is the role of magnetic fields in cyclotrons?
-   - Options: (a) Circular motion (b) Linear motion (c) No role (d) Fixed role
-77. **Problem 77 (NEET, 2022)**: Why is the field zero inside a solenoid?
-   - Options: (a) Cancellation (b) Non-zero (c) No symmetry (d) Fixed field
-78. **Problem 78 (NEET, 2021)**: What is the unit of magnetic field?
-   - Options: (a) Tesla (b) Newton (c) Ampere (d) No unit
-79. **Problem 79 (NEET, 2024)**: How do opposite currents interact?
-   - Options: (a) Repel (b) Attract (c) No force (d) Fixed force
-80. **Problem 80 (NEET, 2020)**: What is \( \mu_0 \)?
-   - Options: (a) Permeability (b) No constant (c) Fixed constant (d) Field strength
-81. **Problem 81 (NEET, 2023)**: Why use magnetic fields in motors?
-   - Options: (a) Generate motion (b) No use (c) Fixed use (d) Only theoretical
-82. **Problem 82 (NEET, 2022)**: What is the force direction in a magnetic field?
-   - Options: (a) Perpendicular (b) Parallel (c) No direction (d) Fixed direction
-83. **Problem 83 (NEET, 2021)**: How does current affect magnetic field?
-   - Options: (a) Proportional (b) Inversely (c) No effect (d) Fixed field
-84. **Problem 84 (NEET, 2024)**: What is the path in a uniform magnetic field?
-   - Options: (a) Circular (b) Linear (c) No path (d) Fixed path
-85. **Problem 85 (NEET, 2020)**: Why is field stronger near a wire?
-   - Options: (a) Inverse distance (b) Direct distance (c) No effect (d) Fixed field
-86. **Problem 86 (NEET, 2023)**: How do magnetic fields apply to mass spectrometers?
-   - Options: (a) Separate ions (b) No use (c) Fixed use (d) Only theoretical
-87. **Problem 87 (NEET, 2022)**: What is the field’s unit?
-   - Options: (a) Tesla (b) Newton (c) Ampere (d) No unit
-88. **Problem 88 (NEET, 2021)**: Why use right-hand rule?
-   - Options: (a) Determine direction (b) No use (c) Fixed rule (d) Only theoretical
-89. **Problem 89 (NEET, 2024)**: What is the force on a current in a field?
-   - Options: (a) Perpendicular (b) Parallel (c) No force (d) Fixed force
-90. **Problem 90 (NEET, 2020)**: How does radius affect loop field?
-   - Options: (a) Inversely (b) Directly (c) No effect (d) Fixed field
-91. **Problem 91 (NEET, 2023)**: Why are fields vector quantities?
-   - Options: (a) Have direction (b) Scalar (c) No direction (d) Fixed magnitude
-92. **Problem 92 (NEET, 2022)**: What is the role of \( \mu_0 \)?
-   - Options: (a) Scales field (b) No role (c) Fixed constant (d) Field strength
-93. **Problem 93 (NEET, 2021)**: How does velocity affect magnetic force?
-   - Options: (a) Proportional (b) Inversely (c) No effect (d) Fixed force
-94. **Problem 94 (NEET, 2024)**: What is the field’s direction for a wire?
-   - Options: (a) Circular around wire (b) Linear (c) No direction (d) Fixed direction
-95. **Problem 95 (NEET, 2020)**: Why use magnetic fields in technology?
-   - Options: (a) Control motion (b) No use (c) Fixed use (d) Only theoretical
+5. A solenoid with $n = 1000 \, \text{turns/m}$ carries $I = 0.5 \, \text{A}$. Calculate the magnetic field inside the solenoid using Ampere’s law.  
+   - (a) $6.282 \times 10^{-4} \, \text{T}$  
+   - (b) $6.283 \times 10^{-4} \, \text{T}$  
+   - (c) $6.284 \times 10^{-4} \, \text{T}$  
+   - (d) $6.285 \times 10^{-4} \, \text{T}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A wire carries 5 A in +x-direction in \( \vec{B} = 0.2 \, \text{T} \) in +z-direction, length 0.1 m. Calculate the force magnitude.
-   - Options: (a) 0.099 N (b) 0.100 N (c) 0.101 N (d) 0.102 N
-97. **Problem 97 (NEET, 2022)**: A straight wire carries 4 A. Calculate the magnetic field at 0.02 m (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 3.99 × 10⁻⁵ T (b) 4.00 × 10⁻⁵ T (c) 4.01 × 10⁻⁵ T (d) 4.02 × 10⁻⁵ T
-98. **Problem 98 (NEET, 2021)**: A circular loop (radius 0.1 m, current 3 A). Calculate the magnetic field at the center (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 1.88 × 10⁻⁵ T (b) 1.89 × 10⁻⁵ T (c) 1.90 × 10⁻⁵ T (d) 1.91 × 10⁻⁵ T
-99. **Problem 99 (NEET, 2024)**: Two parallel wires 0.05 m apart, each carrying 6 A in the same direction, length 0.5 m. Calculate the force between them (\( \mu_0 = 4\pi \times 10^{-7} \, \text{T·m/A} \)).
-   - Options: (a) 3.59 × 10⁻⁴ N (b) 3.60 × 10⁻⁴ N (c) 3.61 × 10⁻⁴ N (d) 3.62 × 10⁻⁴ N
-100. **Problem 100 (NEET, 2020)**: An electron (\( q = -1.602 \times 10^{-19} \, \text{C} \)) moves at \( v = 3 \times 10^6 \, \text{m/s} \) in +x-direction in \( \vec{B} = 0.4 \, \text{T} \) in +y-direction. Calculate the force magnitude.
-    - Options: (a) 1.92 × 10⁻¹³ N (b) 1.93 × 10⁻¹³ N (c) 1.94 × 10⁻¹³ N (d) 1.95 × 10⁻¹³ N
+6. A toroid with $N = 500$ turns, mean radius $r = 0.2 \, \text{m}$, carries $I = 1 \, \text{A}$. Calculate the magnetic field inside the toroid.  
+   - (a) $4.99 \times 10^{-4} \, \text{T}$  
+   - (b) $5.00 \times 10^{-4} \, \text{T}$  
+   - (c) $5.01 \times 10^{-4} \, \text{T}$  
+   - (d) $5.02 \times 10^{-4} \, \text{T}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. A circular loop with $R = 0.05 \, \text{m}$, $I = 3 \, \text{A}$ is positioned at $x = 0.05 \, \text{m}$ on its axis. Calculate the magnetic field at that point.  
+   - (a) $2.26 \times 10^{-5} \, \text{T}$  
+   - (b) $2.27 \times 10^{-5} \, \text{T}$  
+   - (c) $2.28 \times 10^{-5} \, \text{T}$  
+   - (d) $2.29 \times 10^{-5} \, \text{T}$
 
-[View Solutions](/books/physics/magnetic-fields/solutions) -->
+8. A cylindrical conductor of radius $a = 0.03 \, \text{m}$ carries $I = 15 \, \text{A}$ uniformly. Calculate the magnetic field at $r = 0.02 \, \text{m}$ inside the cylinder.  
+   - (a) $3.33 \times 10^{-5} \, \text{T}$  
+   - (b) $3.34 \times 10^{-5} \, \text{T}$  
+   - (c) $3.35 \times 10^{-5} \, \text{T}$  
+   - (d) $3.36 \times 10^{-5} \, \text{T}$
+
+9. An infinite current sheet has a surface current density $K = 2000 \, \text{A/m}$. Calculate the magnetic field on one side of the sheet.  
+   - (a) $1.256 \times 10^{-3} \, \text{T}$  
+   - (b) $1.257 \times 10^{-3} \, \text{T}$  
+   - (c) $1.258 \times 10^{-3} \, \text{T}$  
+   - (d) $1.259 \times 10^{-3} \, \text{T}$
+
+10. A proton ($q = 1.6 \times 10^{-19} \, \text{C}$, $v = 3 \times 10^6 \, \text{m/s}$) moves at $45^\circ$ to a magnetic field $B = 0.1 \, \text{T}$. Calculate the magnetic force.  
+    - (a) $3.39 \times 10^{-14} \, \text{N}$  
+    - (b) $3.40 \times 10^{-14} \, \text{N}$  
+    - (c) $3.41 \times 10^{-14} \, \text{N}$  
+    - (d) $3.42 \times 10^{-14} \, \text{N}$
+
+11. A semi-infinite wire carries $I = 6 \, \text{A}$ and is observed at a perpendicular distance $r = 0.06 \, \text{m}$ from its end. Calculate the magnetic field.  
+    - (a) $4.99 \times 10^{-6} \, \text{T}$  
+    - (b) $5.00 \times 10^{-6} \, \text{T}$  
+    - (c) $5.01 \times 10^{-6} \, \text{T}$  
+    - (d) $5.02 \times 10^{-6} \, \text{T}$
+
+12. A wire segment with $I = 4 \, \text{A}$, $dl = 0.02 \, \text{m}$, at $r = 0.1 \, \text{m}$ (perpendicular), produces a field $dB$. Calculate $dB$.  
+    - (a) $7.99 \times 10^{-9} \, \text{T}$  
+    - (b) $8.00 \times 10^{-9} \, \text{T}$  
+    - (c) $8.01 \times 10^{-9} \, \text{T}$  
+    - (d) $8.02 \times 10^{-9} \, \text{T}$
+
+13. A circular loop with $R = 0.08 \, \text{m}$, $I = 1.5 \, \text{A}$ is observed at $x = 0.06 \, \text{m}$ on its axis. Calculate the magnetic field.  
+    - (a) $3.53 \times 10^{-6} \, \text{T}$  
+    - (b) $3.54 \times 10^{-6} \, \text{T}$  
+    - (c) $3.55 \times 10^{-6} \, \text{T}$  
+    - (d) $3.56 \times 10^{-6} \, \text{T}$
+
+14. A solenoid with $n = 800 \, \text{turns/m}$ carries $I = 0.4 \, \text{A}$. Calculate the magnetic field inside.  
+    - (a) $4.01 \times 10^{-4} \, \text{T}$  
+    - (b) $4.02 \times 10^{-4} \, \text{T}$  
+    - (c) $4.03 \times 10^{-4} \, \text{T}$  
+    - (d) $4.04 \times 10^{-4} \, \text{T}$
+
+15. A toroid with $N = 2000$ turns, $r = 0.5 \, \text{m}$, carries $I = 0.3 \, \text{A}$. Calculate the magnetic field inside.  
+    - (a) $2.39 \times 10^{-4} \, \text{T}$  
+    - (b) $2.40 \times 10^{-4} \, \text{T}$  
+    - (c) $2.41 \times 10^{-4} \, \text{T}$  
+    - (d) $2.42 \times 10^{-4} \, \text{T}$
+
+16. A cylindrical conductor of radius $a = 0.04 \, \text{m}$ carries $I = 20 \, \text{A}$ uniformly. Calculate the magnetic field at $r = 0.05 \, \text{m}$ (outside).  
+    - (a) $7.99 \times 10^{-5} \, \text{T}$  
+    - (b) $8.00 \times 10^{-5} \, \text{T}$  
+    - (c) $8.01 \times 10^{-5} \, \text{T}$  
+    - (d) $8.02 \times 10^{-5} \, \text{T}$
+
+17. A current sheet has $K = 1500 \, \text{A/m}$. Calculate the magnetic field on one side.  
+    - (a) $9.42 \times 10^{-4} \, \text{T}$  
+    - (b) $9.43 \times 10^{-4} \, \text{T}$  
+    - (c) $9.44 \times 10^{-4} \, \text{T}$  
+    - (d) $9.45 \times 10^{-4} \, \text{T}$
+
+18. A wire carries $I = 7 \, \text{A}$, $L = 0.15 \, \text{m}$ in $B = 0.4 \, \text{T}$ at $60^\circ$. Calculate the force on the wire.  
+    - (a) $0.363 \, \text{N}$  
+    - (b) $0.364 \, \text{N}$  
+    - (c) $0.365 \, \text{N}$  
+    - (d) $0.366 \, \text{N}$
+
+19. A charge $q = 5 \, \mu\text{C}$ moves at $v = 2 \times 10^5 \, \text{m/s}$ in $B = 0.25 \, \text{T}$ at $90^\circ$. Calculate the force.  
+    - (a) $0.249 \, \text{N}$  
+    - (b) $0.250 \, \text{N}$  
+    - (c) $0.251 \, \text{N}$  
+    - (d) $0.252 \, \text{N}$
+
+20. An infinite wire with $I = 12 \, \text{A}$ is at $r = 0.03 \, \text{m}$. Calculate $B$.  
+    - (a) $7.99 \times 10^{-5} \, \text{T}$  
+    - (b) $8.00 \times 10^{-5} \, \text{T}$  
+    - (c) $8.01 \times 10^{-5} \, \text{T}$  
+    - (d) $8.02 \times 10^{-5} \, \text{T}$
+
+21. A loop with $R = 0.02 \, \text{m}$, $I = 4 \, \text{A}$ is at its center. Calculate $B$.  
+    - (a) $1.256 \times 10^{-4} \, \text{T}$  
+    - (b) $1.257 \times 10^{-4} \, \text{T}$  
+    - (c) $1.258 \times 10^{-4} \, \text{T}$  
+    - (d) $1.259 \times 10^{-4} \, \text{T}$
+
+22. A solenoid with $n = 1200 \, \text{turns/m}$, $I = 0.1 \, \text{A}$. Calculate $B$ inside.  
+    - (a) $1.507 \times 10^{-4} \, \text{T}$  
+    - (b) $1.508 \times 10^{-4} \, \text{T}$  
+    - (c) $1.509 \times 10^{-4} \, \text{T}$  
+    - (d) $1.510 \times 10^{-4} \, \text{T}$
+
+23. A toroid with $N = 1000$ turns, $r = 0.25 \, \text{m}$, $I = 0.5 \, \text{A}$. Calculate $B$ inside.  
+    - (a) $3.99 \times 10^{-4} \, \text{T}$  
+    - (b) $4.00 \times 10^{-4} \, \text{T}$  
+    - (c) $4.01 \times 10^{-4} \, \text{T}$  
+    - (d) $4.02 \times 10^{-4} \, \text{T}$
+
+24. A cylinder of radius $a = 0.01 \, \text{m}$ carries $I = 8 \, \text{A}$. Calculate $B$ at $r = 0.005 \, \text{m}$.  
+    - (a) $3.99 \times 10^{-5} \, \text{T}$  
+    - (b) $4.00 \times 10^{-5} \, \text{T}$  
+    - (c) $4.01 \times 10^{-5} \, \text{T}$  
+    - (d) $4.02 \times 10^{-5} \, \text{T}$
+
+25. A current sheet with $K = 500 \, \text{A/m}$. Calculate $B$.  
+    - (a) $3.14 \times 10^{-4} \, \text{T}$  
+    - (b) $3.15 \times 10^{-4} \, \text{T}$  
+    - (c) $3.16 \times 10^{-4} \, \text{T}$  
+    - (d) $3.17 \times 10^{-4} \, \text{T}$
+
+26. A finite wire from $x = -0.2 \, \text{m}$ to $0.2 \, \text{m}$, $I = 3 \, \text{A}$, at $y = 0.1 \, \text{m}$. Calculate $B$.  
+    - (a) $8.48 \times 10^{-6} \, \text{T}$  
+    - (b) $8.49 \times 10^{-6} \, \text{T}$  
+    - (c) $8.50 \times 10^{-6} \, \text{T}$  
+    - (d) $8.51 \times 10^{-6} \, \text{T}$
+
+27. A loop with $R = 0.06 \, \text{m}$, $I = 2 \, \text{A}$, at $x = 0.08 \, \text{m}$. Calculate $B$.  
+    - (a) $1.45 \times 10^{-6} \, \text{T}$  
+    - (b) $1.46 \times 10^{-6} \, \text{T}$  
+    - (c) $1.47 \times 10^{-6} \, \text{T}$  
+    - (d) $1.48 \times 10^{-6} \, \text{T}$
+
+28. A solenoid with $n = 1500 \, \text{turns/m}$, $I = 0.2 \, \text{A}$. Calculate $B$ inside.  
+    - (a) $3.76 \times 10^{-4} \, \text{T}$  
+    - (b) $3.77 \times 10^{-4} \, \text{T}$  
+    - (c) $3.78 \times 10^{-4} \, \text{T}$  
+    - (d) $3.79 \times 10^{-4} \, \text{T}$
+
+29. A toroid with $N = 800$ turns, $r = 0.4 \, \text{m}$, $I = 0.6 \, \text{A}$. Calculate $B$ inside.  
+    - (a) $2.39 \times 10^{-4} \, \text{T}$  
+    - (b) $2.40 \times 10^{-4} \, \text{T}$  
+    - (c) $2.41 \times 10^{-4} \, \text{T}$  
+    - (d) $2.42 \times 10^{-4} \, \text{T}$
+
+30. A cylinder of radius $a = 0.05 \, \text{m}$ carries $I = 25 \, \text{A}$. Calculate $B$ at $r = 0.06 \, \text{m}$.  
+    - (a) $8.33 \times 10^{-5} \, \text{T}$  
+    - (b) $8.34 \times 10^{-5} \, \text{T}$  
+    - (c) $8.35 \times 10^{-5} \, \text{T}$  
+    - (d) $8.36 \times 10^{-5} \, \text{T}$
+
+31. A spacecraft wire with $I = 2 \, \text{A}$, $L = 0.1 \, \text{m}$ in $B = 0.05 \, \text{T}$ (perpendicular). Calculate the force for navigation purposes.  
+    - (a) $0.0099 \, \text{N}$  
+    - (b) $0.0100 \, \text{N}$  
+    - (c) $0.0101 \, \text{N}$  
+    - (d) $0.0102 \, \text{N}$
+
+32. An infinite wire with $I = 15 \, \text{A}$ at $r = 0.02 \, \text{m}$. Calculate $B$.  
+    - (a) $1.499 \times 10^{-4} \, \text{T}$  
+    - (b) $1.500 \times 10^{-4} \, \text{T}$  
+    - (c) $1.501 \times 10^{-4} \, \text{T}$  
+    - (d) $1.502 \times 10^{-4} \, \text{T}$
+
+33. A loop with $R = 0.04 \, \text{m}$, $I = 1 \, \text{A}$, at $x = 0.03 \, \text{m}$. Calculate $B$.  
+    - (a) $2.09 \times 10^{-6} \, \text{T}$  
+    - (b) $2.10 \times 10^{-6} \, \text{T}$  
+    - (c) $2.11 \times 10^{-6} \, \text{T}$  
+    - (d) $2.12 \times 10^{-6} \, \text{T}$
+
+34. A solenoid with $n = 600 \, \text{turns/m}$, $I = 0.8 \, \text{A}$. Calculate $B$ inside.  
+    - (a) $6.03 \times 10^{-4} \, \text{T}$  
+    - (b) $6.04 \times 10^{-4} \, \text{T}$  
+    - (c) $6.05 \times 10^{-4} \, \text{T}$  
+    - (d) $6.06 \times 10^{-4} \, \text{T}$
+
+35. A toroid with $N = 1200$ turns, $r = 0.3 \, \text{m}$, $I = 0.4 \, \text{A}$. Calculate $B$ inside.  
+    - (a) $3.19 \times 10^{-4} \, \text{T}$  
+    - (b) $3.20 \times 10^{-4} \, \text{T}$  
+    - (c) $3.21 \times 10^{-4} \, \text{T}$  
+    - (d) $3.22 \times 10^{-4} \, \text{T}$
+
+---
+
+## Conceptual Problems
+
+36. What is the unit of magnetic field in SI units?  
+   - (a) Tesla  
+   - (b) Ampere  
+   - (c) Ohm  
+   - (d) Volt
+
+37. What does the right-hand rule determine in the context of magnetic fields?  
+   - (a) Direction of electric field  
+   - (b) Direction of magnetic field due to a current  
+   - (c) Direction of current flow  
+   - (d) Direction of charge motion
+
+38. What is the relationship between magnetic field and distance from an infinite straight wire?  
+   - (a) $B \propto r$  
+   - (b) $B \propto \frac{1}{r}$  
+   - (c) $B \propto r^2$  
+   - (d) $B \propto \frac{1}{r^2}$
+
+39. What happens to the magnetic field at the center of a circular loop as the radius increases?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains constant  
+   - (d) Becomes zero
+
+40. What does Ampere’s law relate?  
+   - (a) Magnetic field to electric field  
+   - (b) Magnetic field to enclosed current  
+   - (c) Electric field to enclosed charge  
+   - (d) Magnetic field to enclosed charge
+
+41. What is the magnetic field inside an ideal solenoid?  
+   - (a) Zero  
+   - (b) Uniform and non-zero  
+   - (c) Proportional to radius  
+   - (d) Proportional to distance from the axis
+
+42. What is the physical significance of $\mu_0$?  
+   - (a) Permittivity of free space  
+   - (b) Permeability of free space  
+   - (c) Conductivity of free space  
+   - (d) Resistivity of free space
+
+43. What happens to the magnetic field outside an ideal solenoid?  
+   - (a) Uniform and non-zero  
+   - (b) Proportional to distance  
+   - (c) Approximately zero  
+   - (d) Infinite
+
+44. What does the Biot-Savart law describe?  
+   - (a) Magnetic field due to a static charge  
+   - (b) Magnetic field due to a current element  
+   - (c) Electric field due to a current  
+   - (d) Electric field due to a magnetic field
+
+45. What is the dimension of magnetic field $B$?  
+   - (a) $[\text{M} \text{T}^{-2} \text{A}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does a zero magnetic field inside a region indicate?  
+   - (a) No current or magnetic sources nearby  
+   - (b) Infinite current  
+   - (c) Infinite magnetic field outside  
+   - (d) No electric field
+
+47. What is the significance of $\frac{\mu_0 I}{2 \pi r}$?  
+   - (a) Magnetic field due to a circular loop  
+   - (b) Magnetic field due to an infinite straight wire  
+   - (c) Magnetic field inside a solenoid  
+   - (d) Magnetic field inside a toroid
+
+48. What happens to the magnetic field on the axis of a circular loop as you move away from the center?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains constant  
+   - (d) Becomes zero immediately
+
+49. What does the uniform magnetic field on either side of a current sheet indicate?  
+   - (a) Field depends on distance  
+   - (b) Field is independent of distance  
+   - (c) Field is zero  
+   - (d) Field is infinite
+
+50. How do magnetic fields assist in spacecraft navigation systems?  
+   - (a) Increase current flow  
+   - (b) Detect orientation using magnetic sensors  
+   - (c) Reduce resistance  
+   - (d) Increase voltage
+
+---
+
+## Derivation Problems
+
+51. Derive the magnetic force on a current-carrying wire in a uniform magnetic field $F = I L B \sin \theta$.
+
+52. Derive the magnetic field due to an infinite straight wire using the Biot-Savart law $B = \frac{\mu_0 I}{2 \pi r}$.
+
+53. Derive the magnetic field at the center of a circular loop $B = \frac{\mu_0 I}{2 R}$.
+
+54. Derive the magnetic field due to an infinite straight wire using Ampere’s law $B = \frac{\mu_0 I}{2 \pi r}$.
+
+55. Derive the magnetic field inside a solenoid using Ampere’s law $B = \mu_0 n I$.
+
+56. Derive the magnetic field inside a toroid $B = \frac{\mu_0 N I}{2 \pi r}$.
+
+57. Derive the magnetic field on the axis of a circular loop $B = \frac{\mu_0 I R^2}{2 (R^2 + x^2)^{3/2}}$.
+
+58. Derive the magnetic field inside a cylindrical conductor $B = \frac{\mu_0 I r}{2 \pi a^2}$ for $r < a$.
+
+59. Derive the magnetic field outside a cylindrical conductor $B = \frac{\mu_0 I}{2 \pi r}$ for $r > a$.
+
+60. Derive the magnetic field due to an infinite current sheet $B = \frac{\mu_0 K}{2}$.
+
+61. Derive the magnetic field due to a semi-infinite straight wire using the Biot-Savart law.
+
+62. Derive the magnetic field due to a finite straight wire $B = \frac{\mu_0 I}{4 \pi a} (\sin \theta_2 - \sin \theta_1)$.
+
+63. Derive the Biot-Savart law expression $d\vec{B} = \frac{\mu_0}{4 \pi} \frac{I (d\vec{l} \times \hat{r})}{r^2}$.
+
+64. Derive the magnetic field at a point due to a small current element using the Biot-Savart law.
+
+65. Derive the direction of the magnetic field using the right-hand rule for a current-carrying wire.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of permeability of free space $\mu_0$?  
+   - (a) $\text{T·m/A}$  
+   - (b) $\text{N/A}$  
+   - (c) $\text{V·m/A}$  
+   - (d) $\text{A/m}$
+
+67. What does a circular magnetic field line around a wire indicate?  
+   - (a) Magnetic field due to a static charge  
+   - (b) Magnetic field due to a current  
+   - (c) Electric field due to a current  
+   - (d) Electric field due to a charge
+
+68. What is the relationship between magnetic field and current in a solenoid?  
+   - (a) $B \propto \frac{1}{I}$  
+   - (b) $B \propto I$  
+   - (c) $B$ is independent of $I$  
+   - (d) $B \propto I^2$
+
+69. What happens to the magnetic field inside a toroid as the radius increases?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains constant  
+   - (d) Becomes zero
+
+70. What is the dimension of $\mu_0$?  
+   - (a) $[\text{M} \text{L} \text{T}^{-2} \text{A}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the magnetic field inside a cylindrical conductor depend on?  
+   - (a) Distance from the axis  
+   - (b) Total current only  
+   - (c) Radius of the cylinder only  
+   - (d) No dependence
+
+72. What is the role of symmetry in Ampere’s law?  
+   - (a) Increases the magnetic field  
+   - (b) Simplifies the calculation of the magnetic field  
+   - (c) Reduces the current  
+   - (d) Increases the resistance
+
+73. What happens to the magnetic field outside a toroid?  
+   - (a) Uniform and non-zero  
+   - (b) Proportional to distance  
+   - (c) Approximately zero  
+   - (d) Infinite
+
+74. Why does the magnetic field at the center of a circular loop depend on the radius?  
+   - (a) Due to $B \propto \frac{1}{R}$  
+   - (b) Due to increased current  
+   - (c) Due to decreased current  
+   - (d) Due to symmetry
+
+75. What is the unit of surface current density $K$?  
+   - (a) $\text{A/m}$  
+   - (b) $\text{A/m}^2$  
+   - (c) $\text{T}$  
+   - (d) $\text{V}$
+
+76. What does a constant magnetic field inside a solenoid indicate?  
+   - (a) Non-uniform current  
+   - (b) Uniform field along the axis  
+   - (c) Zero field outside  
+   - (d) Infinite field
+
+77. Which type of current distribution produces a uniform magnetic field inside?  
+   - (a) Straight wire  
+   - (b) Circular loop  
+   - (c) Solenoid  
+   - (d) Current sheet
+
+78. What is the direction of the magnetic field due to a current-carrying wire?  
+   - (a) Along the wire  
+   - (b) Perpendicular to the wire, circular around it  
+   - (c) Random  
+   - (d) Zero
+
+79. What does a pseudo-force do in a non-inertial frame for magnetic field calculations?  
+   - (a) Affects perceived field  
+   - (b) Affects current distribution  
+   - (c) Creates magnetic field  
+   - (d) Reduces field
+
+80. What is the dimension of $I d\vec{l} \times \hat{r}$ in the Biot-Savart law?  
+   - (a) $[\text{A} \text{L}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of magnetic fields in spacecraft navigation?  
+   - (a) Increase current  
+   - (b) Detect orientation using sensors  
+   - (c) Reduce voltage  
+   - (d) Increase resistance
+
+82. What happens to the magnetic field inside a cylindrical conductor as the radius increases?  
+   - (a) Increases linearly  
+   - (b) Decreases linearly  
+   - (c) Remains constant  
+   - (d) Becomes zero
+
+83. Why does the magnetic field due to a current sheet not depend on distance?  
+   - (a) Due to infinite extent and symmetry  
+   - (b) Due to increased current  
+   - (c) Due to decreased current  
+   - (d) Due to finite size
+
+84. What is the significance of $\frac{\mu_0 I R^2}{2 (R^2 + x^2)^{3/2}}$?  
+   - (a) Magnetic field due to a straight wire  
+   - (b) Magnetic field on the axis of a circular loop  
+   - (c) Magnetic field inside a solenoid  
+   - (d) Magnetic field inside a toroid
+
+85. What is the unit of magnetic force?  
+   - (a) Newton  
+   - (b) Tesla  
+   - (c) Ampere  
+   - (d) Volt
+
+86. What does a zero magnetic field at the center of a loop indicate?  
+   - (a) No current  
+   - (b) Infinite current  
+   - (c) Infinite radius  
+   - (d) No magnetic field outside
+
+87. What is the physical significance of $\mu_0 n I$?  
+   - (a) Magnetic field due to a straight wire  
+   - (b) Magnetic field inside a solenoid  
+   - (c) Magnetic field on the axis of a loop  
+   - (d) Magnetic field due to a current sheet
+
+88. Why does the magnetic field outside a solenoid approach zero for an ideal solenoid?  
+   - (a) Due to cancellation of fields  
+   - (b) Due to increased current  
+   - (c) Due to decreased current  
+   - (d) Due to symmetry
+
+89. What is the dimension of $\frac{\mu_0 I}{r}$?  
+   - (a) $[\text{M} \text{T}^{-2} \text{A}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does the magnetic field assist in spacecraft shielding?  
+   - (a) Increases current  
+   - (b) Deflects charged particles using magnetic fields  
+   - (c) Reduces voltage  
+   - (d) Increases resistance
+
+91. What is the role of distance in the magnetic field due to a straight wire?  
+   - (a) $B \propto r$  
+   - (b) $B \propto \frac{1}{r}$  
+   - (c) No dependence  
+   - (d) Exponential dependence
+
+92. What does a high magnetic field at the center of a loop indicate?  
+   - (a) Large radius  
+   - (b) Small radius or high current  
+   - (c) No current  
+   - (d) Infinite field
+
+93. What is the physical significance of $\frac{\mu_0 K}{2}$?  
+   - (a) Magnetic field due to a straight wire  
+   - (b) Magnetic field due to a current sheet  
+   - (c) Magnetic field inside a solenoid  
+   - (d) Magnetic field on the axis of a loop
+
+94. What is the dimension of $\vec{B} \cdot d\vec{l}$ in Ampere’s law?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2} \text{A}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does the magnetic field inside a toroid depend on the radius?  
+   - (a) Due to $B \propto \frac{1}{r}$  
+   - (b) Due to symmetry  
+   - (c) Due to field lines  
+   - (d) Due to current quantization
+
+---
+
+## NEET-style Numerical Problems
+
+96. A wire with $I = 3 \, \text{A}$, $L = 0.25 \, \text{m}$ in $B = 0.2 \, \text{T}$ (perpendicular). Calculate the force.  
+   - (a) $0.149 \, \text{N}$  
+   - (b) $0.150 \, \text{N}$  
+   - (c) $0.151 \, \text{N}$  
+   - (d) $0.152 \, \text{N}$
+
+97. An infinite wire with $I = 4 \, \text{A}$ at $r = 0.08 \, \text{m}$. Calculate $B$.  
+   - (a) $9.99 \times 10^{-6} \, \text{T}$  
+   - (b) $1.00 \times 10^{-5} \, \text{T}$  
+   - (c) $1.01 \times 10^{-5} \, \text{T}$  
+   - (d) $1.02 \times 10^{-5} \, \text{T}$
+
+98. A loop with $R = 0.03 \, \text{m}$, $I = 2 \, \text{A}$ at its center. Calculate $B$.  
+   - (a) $4.18 \times 10^{-5} \, \text{T}$  
+   - (b) $4.19 \times 10^{-5} \, \text{T}$  
+   - (c) $4.20 \times 10^{-5} \, \text{T}$  
+   - (d) $4.21 \times 10^{-5} \, \text{T}$
+
+99. A solenoid with $n = 400 \, \text{turns/m}$, $I = 1.2 \, \text{A}$. Calculate $B$ inside.  
+   - (a) $6.03 \times 10^{-4} \, \text{T}$  
+   - (b) $6.04 \times 10^{-4} \, \text{T}$  
+   - (c) $6.05 \times 10^{-4} \, \text{T}$  
+   - (d) $6.06 \times 10^{-4} \, \text{T}$
+
+100. A toroid with $N = 600$ turns, $r = 0.15 \, \text{m}$, $I = 0.5 \, \text{A}$. Calculate $B$ inside.  
+    - (a) $3.99 \times 10^{-4} \, \text{T}$  
+    - (b) $4.00 \times 10^{-4} \, \text{T}$  
+    - (c) $4.01 \times 10^{-4} \, \text{T}$  
+    - (d) $4.02 \times 10^{-4} \, \text{T}$
 
 ## Back to Chapter
 [Return to Magnetic Fields Chapter](./index.md)

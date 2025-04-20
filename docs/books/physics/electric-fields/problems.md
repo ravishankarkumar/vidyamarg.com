@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Electric Fields Problems for JEE & NEET
-description: Practice 100 electric field problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 electrostatics problems for JEE and NEET, inspired by exam patterns, covering electric field calculations, charge distributions, field lines, and motion of charges.
 slug: book/physics/electric-fields-problems
-keywords: physics electric fields problems, JEE physics dipole fields problems, NEET physics charge motion problems, electrostatics
+keywords: physics electric fields problems, JEE physics field calculations problems, NEET physics field lines problems, electrostatics
 og:image: https://vidyamarg.com/og-physics-electric-fields.jpg
 ---
 
 # Electric Fields Problems
 
-This section provides **100 problems** to test your understanding of electric fields, including field calculations, continuous charge distributions, charged particle motion, and dipoles. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of electric fields, including field calculations for point charges and charge distributions, electric field lines, and the motion of charges in fields. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering electrostatics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on field calculations, particle motion, and dipole fields, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., electron motion, field symmetry), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. Calculate the electric field at $(0, 0.3)$ due to a charge $q = +5 \, \mu\text{C}$ at $(0, 0)$ ($k = 9 \times 10^9 \, \text{N·m}^2/\text{C}^2$).  
+   - (a) $4.99 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (b) $5.00 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (c) $5.01 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (d) $5.02 \times 10^5 \hat{j} \, \text{N/C}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: Two charges \( q_1 = +3 \, \mu\text{C} \) at (0, 0) and \( q_2 = -3 \, \mu\text{C} \) at (0.4, 0). Calculate the electric field at (0.2, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 8.99 × 10⁵ N/C (b) 9.00 × 10⁵ N/C (c) 9.01 × 10⁵ N/C (d) 9.02 × 10⁵ N/C
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A uniformly charged rod (length 0.1 m, charge \( Q = 5 \, \mu\text{C} \)) lies from \( x = 0 \) to \( x = 0.1 \, \text{m} \). Calculate the electric field at \( x = 0.2 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 1.79 × 10⁶ N/C (b) 1.80 × 10⁶ N/C (c) 1.81 × 10⁶ N/C (d) 1.82 × 10⁶ N/C
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: An electron (\( q = -1.602 \times 10^{-19} \, \text{C} \), \( m = 9.109 \times 10^{-31} \, \text{kg} \)) in a field \( \vec{E} = 500 \hat{i} \, \text{N/C} \). Calculate its acceleration magnitude.
-   - Options: (a) 8.79 × 10¹³ m/s² (b) 8.80 × 10¹³ m/s² (c) 8.81 × 10¹³ m/s² (d) 8.82 × 10¹³ m/s²
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A dipole (\( q = \pm 1 \, \mu\text{C} \), separation 0.02 m) along y-axis. Calculate the electric field magnitude at (0.2, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 2.24 × 10⁴ N/C (b) 2.25 × 10⁴ N/C (c) 2.26 × 10⁴ N/C (d) 2.27 × 10⁴ N/C
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: Two charges \( q_1 = +2 \, \mu\text{C} \) at (0, 0) and \( q_2 = +4 \, \mu\text{C} \) at (0.3, 0). Calculate the electric field at (0.1, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 1.79 × 10⁶ N/C (b) 1.80 × 10⁶ N/C (c) 1.81 × 10⁶ N/C (d) 1.82 × 10⁶ N/C
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A proton (\( q = 1.602 \times 10^{-19} \, \text{C} \), \( m = 1.673 \times 10^{-27} \, \text{kg} \)) in a field \( \vec{E} = 2000 \hat{j} \, \text{N/C} \). Calculate its acceleration magnitude.
-   - Options: (a) 1.91 × 10¹¹ m/s² (b) 1.92 × 10¹¹ m/s² (c) 1.93 × 10¹¹ m/s² (d) 1.94 × 10¹¹ m/s²
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A charged ring (radius 0.1 m, charge \( Q = 10 \, \mu\text{C} \)). Calculate the electric field at 0.1 m along its axis (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 3.59 × 10⁶ N/C (b) 3.60 × 10⁶ N/C (c) 3.61 × 10⁶ N/C (d) 3.62 × 10⁶ N/C
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A dipole (\( q = \pm 2 \, \mu\text{C} \), separation 0.01 m) along x-axis. Calculate the electric field magnitude at (0, 0.3) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 2.66 × 10³ N/C (b) 2.67 × 10³ N/C (c) 2.68 × 10³ N/C (d) 2.69 × 10³ N/C
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: Two charges \( q_1 = +1 \, \mu\text{C} \) at (0, 0) and \( q_2 = -2 \, \mu\text{C} \) at (0.5, 0). Find the x-coordinate where the electric field is zero (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 0.17 m (b) 0.18 m (c) 0.19 m (d) 0.20 m
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A uniformly charged rod (length 0.2 m, charge \( Q = 8 \, \mu\text{C} \)) from \( x = 0 \) to \( x = 0.2 \, \text{m} \). Calculate the electric field at \( x = 0.4 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 9.99 × 10⁵ N/C (b) 1.00 × 10⁶ N/C (c) 1.01 × 10⁶ N/C (d) 1.02 × 10⁶ N/C
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: An electron in a field \( \vec{E} = -1000 \hat{i} \, \text{N/C} \). Calculate its acceleration magnitude (\( q = -1.602 \times 10^{-19} \, \text{C} \), \( m = 9.109 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 1.75 × 10¹⁴ m/s² (b) 1.76 × 10¹⁴ m/s² (c) 1.77 × 10¹⁴ m/s² (d) 1.78 × 10¹⁴ m/s²
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A dipole (\( q = \pm 3 \, \mu\text{C} \), separation 0.02 m) along y-axis. Calculate the electric field magnitude at (0, 0.4) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.34 × 10³ N/C (b) 1.35 × 10³ N/C (c) 1.36 × 10³ N/C (d) 1.37 × 10³ N/C
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: Two charges \( q_1 = +2 \, \mu\text{C} \) at (0, 0) and \( q_2 = +2 \, \mu\text{C} \) at (0.3, 0). Calculate the electric field at (0.1, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.69 × 10⁶ N/C (b) 2.70 × 10⁶ N/C (c) 2.71 × 10⁶ N/C (d) 2.72 × 10⁶ N/C
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A charged ring (radius 0.05 m, charge \( Q = 4 \, \mu\text{C} \)). Calculate the electric field at 0.05 m along its axis (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 5.39 × 10⁶ N/C (b) 5.40 × 10⁶ N/C (c) 5.41 × 10⁶ N/C (d) 5.42 × 10⁶ N/C
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A proton in a field \( \vec{E} = -500 \hat{j} \, \text{N/C} \). Calculate its acceleration magnitude (\( q = 1.602 \times 10^{-19} \, \text{C} \), \( m = 1.673 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) 4.78 × 10¹⁰ m/s² (b) 4.79 × 10¹⁰ m/s² (c) 4.80 × 10¹⁰ m/s² (d) 4.81 × 10¹⁰ m/s²
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: Two charges \( q_1 = -4 \, \mu\text{C} \) at (0, 0) and \( q_2 = +2 \, \mu\text{C} \) at (0.6, 0). Find the x-coordinate where the electric field is zero (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0.24 m (b) 0.25 m (c) 0.26 m (d) 0.27 m
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A uniformly charged rod (length 0.3 m, charge \( Q = 6 \, \mu\text{C} \)) from \( x = 0 \) to \( x = 0.3 \, \text{m} \). Calculate the electric field at \( x = 0.5 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 5.39 × 10⁵ N/C (b) 5.40 × 10⁵ N/C (c) 5.41 × 10⁵ N/C (d) 5.42 × 10⁵ N/C
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A dipole (\( q = \pm 1 \, \mu\text{C} \), separation 0.01 m) along x-axis. Calculate the electric field magnitude at (0.2, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 8.99 × 10⁴ N/C (b) 9.00 × 10⁴ N/C (c) 9.01 × 10⁴ N/C (d) 9.02 × 10⁴ N/C
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: Two charges \( q_1 = +5 \, \mu\text{C} \) at (0, 0) and \( q_2 = -5 \, \mu\text{C} \) at (0.2, 0). Calculate the electric field at (0.1, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 8.99 × 10⁶ N/C (b) 9.00 × 10⁶ N/C (c) 9.01 × 10⁶ N/C (d) 9.02 × 10⁶ N/C
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: An electron in a field \( \vec{E} = 2000 \hat{i} \, \text{N/C} \). Calculate its acceleration magnitude (\( q = -1.602 \times 10^{-19} \, \text{C} \), \( m = 9.109 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 3.51 × 10¹⁴ m/s² (b) 3.52 × 10¹⁴ m/s² (c) 3.53 × 10¹⁴ m/s² (d) 3.54 × 10¹⁴ m/s²
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A charged ring (radius 0.2 m, charge \( Q = 8 \, \mu\text{C} \)). Calculate the electric field at 0.2 m along its axis (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.79 × 10⁶ N/C (b) 1.80 × 10⁶ N/C (c) 1.81 × 10⁶ N/C (d) 1.82 × 10⁶ N/C
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A dipole (\( q = \pm 2 \, \mu\text{C} \), separation 0.03 m) along y-axis. Calculate the electric field magnitude at (0.5, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 5.39 × 10³ N/C (b) 5.40 × 10³ N/C (c) 5.41 × 10³ N/C (d) 5.42 × 10³ N/C
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: Two charges \( q_1 = -3 \, \mu\text{C} \) at (0, 0) and \( q_2 = +6 \, \mu\text{C} \) at (0.4, 0). Find the x-coordinate where the electric field is zero (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0.16 m (b) 0.17 m (c) 0.18 m (d) 0.19 m
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A uniformly charged rod (length 0.1 m, charge \( Q = 4 \, \mu\text{C} \)) from \( x = 0 \) to \( x = 0.1 \, \text{m} \). Calculate the electric field at \( x = 0.3 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 8.99 × 10⁵ N/C (b) 9.00 × 10⁵ N/C (c) 9.01 × 10⁵ N/C (d) 9.02 × 10⁵ N/C
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A proton in a field \( \vec{E} = 1000 \hat{i} \, \text{N/C} \). Calculate its acceleration magnitude (\( q = 1.602 \times 10^{-19} \, \text{C} \), \( m = 1.673 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) 9.57 × 10¹⁰ m/s² (b) 9.58 × 10¹⁰ m/s² (c) 9.59 × 10¹⁰ m/s² (d) 9.60 × 10¹⁰ m/s²
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: Two charges \( q_1 = +4 \, \mu\text{C} \) at (0, 0) and \( q_2 = -2 \, \mu\text{C} \) at (0.3, 0). Calculate the electric field at (0.1, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 5.39 × 10⁶ N/C (b) 5.40 × 10⁶ N/C (c) 5.41 × 10⁶ N/C (d) 5.42 × 10⁶ N/C
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A charged ring (radius 0.15 m, charge \( Q = 6 \, \mu\text{C} \)). Calculate the electric field at 0.15 m along its axis (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.39 × 10⁶ N/C (b) 2.40 × 10⁶ N/C (c) 2.41 × 10⁶ N/C (d) 2.42 × 10⁶ N/C
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A dipole (\( q = \pm 1 \, \mu\text{C} \), separation 0.02 m) along x-axis. Calculate the electric field magnitude at (0, 0.2) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 2.24 × 10³ N/C (b) 2.25 × 10³ N/C (c) 2.26 × 10³ N/C (d) 2.27 × 10³ N/C
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: Two charges \( q_1 = +3 \, \mu\text{C} \) at (0, 0) and \( q_2 = +3 \, \mu\text{C} \) at (0.5, 0). Find the x-coordinate where the electric field is zero (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0.24 m (b) 0.25 m (c) 0.26 m (d) 0.27 m
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A uniformly charged rod (length 0.4 m, charge \( Q = 12 \, \mu\text{C} \)) from \( x = 0 \) to \( x = 0.4 \, \text{m} \). Calculate the electric field at \( x = 0.6 \, \text{m} \) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 4.49 × 10⁵ N/C (b) 4.50 × 10⁵ N/C (c) 4.51 × 10⁵ N/C (d) 4.52 × 10⁵ N/C
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: An electron in a field \( \vec{E} = -2000 \hat{j} \, \text{N/C} \). Calculate its acceleration magnitude (\( q = -1.602 \times 10^{-19} \, \text{C} \), \( m = 9.109 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 3.51 × 10¹⁴ m/s² (b) 3.52 × 10¹⁴ m/s² (c) 3.53 × 10¹⁴ m/s² (d) 3.54 × 10¹⁴ m/s²
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A dipole (\( q = \pm 4 \, \mu\text{C} \), separation 0.01 m) along y-axis. Calculate the electric field magnitude at (0.3, 0) (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.79 × 10⁴ N/C (b) 1.80 × 10⁴ N/C (c) 1.81 × 10⁴ N/C (d) 1.82 × 10⁴ N/C
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: Two charges \( q_1 = -2 \, \mu\text{C} \) at (0, 0) and \( q_2 = +4 \, \mu\text{C} \) at (0.2, 0). Find the x-coordinate where the electric field is zero (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 0.07 m (b) 0.08 m (c) 0.09 m (d) 0.10 m
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A charged ring (radius 0.1 m, charge \( Q = 5 \, \mu\text{C} \)). Calculate the electric field at 0.1 m along its axis (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 3.59 × 10⁶ N/C (b) 3.60 × 10⁶ N/C (c) 3.61 × 10⁶ N/C (d) 3.62 × 10⁶ N/C
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A proton in a field \( \vec{E} = 1500 \hat{i} \, \text{N/C} \). Calculate its acceleration magnitude (\( q = 1.602 \times 10^{-19} \, \text{C} \), \( m = 1.673 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) 1.43 × 10¹¹ m/s² (b) 1.44 × 10¹¹ m/s² (c) 1.45 × 10¹¹ m/s² (d) 1.46 × 10¹¹ m/s²
+2. A charge $q = -2 \, \mu\text{C}$ is at $(0, 0)$. Calculate the electric field at $(0.4, 0)$.  
+   - (a) $-1.124 \times 10^5 \hat{i} \, \text{N/C}$  
+   - (b) $-1.125 \times 10^5 \hat{i} \, \text{N/C}$  
+   - (c) $-1.126 \times 10^5 \hat{i} \, \text{N/C}$  
+   - (d) $-1.127 \times 10^5 \hat{i} \, \text{N/C}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What defines the electric field?
-   - Options: (a) Force per unit positive charge (b) Force per unit mass (c) No force (d) Charge per area
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: Why is the electric field zero at the center of a charged ring?
-   - Options: (a) Symmetry cancels field components (b) Non-zero field (c) Fixed field (d) No symmetry
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: How does a charged particle move in a uniform electric field?
-   - Options: (a) Accelerated along field direction (b) No acceleration (c) Circular motion (d) Fixed motion
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is the electric field pattern of a dipole?
-   - Options: (a) Stronger along axis, weaker perpendicular (b) Uniform field (c) No pattern (d) Fixed field
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: Why does the field depend on distance for a point charge?
-   - Options: (a) Inversely proportional to square (b) Directly proportional (c) No dependence (d) Linear dependence
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: How does symmetry simplify field calculations for continuous distributions?
-   - Options: (a) Cancels opposing components (b) No effect (c) Increases complexity (d) Fixed symmetry
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: What is the torque on a dipole in a uniform field?
-   - Options: (a) \( \vec{p} \times \vec{E} \) (b) Zero torque (c) Scalar torque (d) Fixed torque
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: Why is the field stronger near a charge?
-   - Options: (a) Inverse square law (b) No effect (c) Fixed strength (d) Linear law
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: How does the field behave for a charged rod at large distances?
-   - Options: (a) Like a point charge (b) Uniform field (c) No field (d) Fixed field
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What determines a particle’s acceleration in a field?
-   - Options: (a) Charge, mass, and field strength (b) Only mass (c) Only charge (d) No acceleration
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Why does a dipole align with an electric field?
-   - Options: (a) Torque minimizes potential energy (b) No alignment (c) Fixed alignment (d) Random motion
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: How is the field calculated for a continuous distribution?
-   - Options: (a) Integrate differential field contributions (b) Sum scalar fields (c) No integration (d) Fixed field
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: What is the significance of dipole moment?
-   - Options: (a) Measures dipole strength and direction (b) No significance (c) Only magnitude (d) Fixed moment
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: Why does the field vanish between opposite charges?
-   - Options: (a) Fields cancel due to symmetry (b) Non-zero field (c) Fixed field (d) No field
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: How does the field apply to real systems like CRTs?
-   - Options: (a) Deflects charged particles (b) No application (c) Only theoretical (d) Fixed deflection
+3. Two charges $q_1 = +3 \, \mu\text{C}$ at $(0.2, 0)$ and $q_2 = -3 \, \mu\text{C}$ at $(-0.2, 0)$. Calculate the electric field at $(0, 0.2)$ (magnitude).  
+   - (a) $0 \, \text{N/C}$  
+   - (b) $1 \times 10^5 \, \text{N/C}$  
+   - (c) $2 \times 10^5 \, \text{N/C}$  
+   - (d) $3 \times 10^5 \, \text{N/C}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the electric field due to a point charge.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the electric field for a uniformly charged rod at a point.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the acceleration of a charged particle in a uniform field.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the electric field for a dipole on its axis.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the condition for zero electric field between two charges.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the electric field due to a charged ring.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the torque on a dipole in a uniform field.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the electric field for a dipole perpendicular to its axis.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the field for a continuous charge distribution.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the motion equations for a charged particle in a field.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the field at the center of a charged arc.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the field due to an infinite charged sheet.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the dipole moment of a charge system.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the field for a charged disk at a point.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the trajectory of a charged particle in a uniform field.
+4. A line charge with $\lambda = 4 \times 10^{-6} \, \text{C/m}$, length $L = 0.5 \, \text{m}$, lies along the x-axis from $-0.25$ to $0.25$. Calculate the electric field at $(0, 0.2)$ (magnitude).  
+   - (a) $1.79 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (b) $1.80 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (c) $1.81 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (d) $1.82 \times 10^5 \hat{j} \, \text{N/C}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is an electric field?
-   - Options: (a) Force per unit positive charge (b) Force per mass (c) No force (d) Charge per area
-67. **Problem 67 (NEET, 2022)**: Why is the field zero at the center of a charged ring?
-   - Options: (a) Symmetry cancels components (b) Non-zero field (c) Fixed field (d) No symmetry
-68. **Problem 68 (NEET, 2021)**: How does a positive particle move in a field?
-   - Options: (a) Along field direction (b) Opposite direction (c) No motion (d) Circular motion
-69. **Problem 69 (NEET, 2024)**: What is a dipole’s field pattern?
-   - Options: (a) Stronger along axis (b) Uniform field (c) No pattern (d) Fixed field
-70. **Problem 70 (NEET, 2020)**: Why does the field decrease with distance?
-   - Options: (a) Inverse square law (b) No decrease (c) Linear decrease (d) Fixed field
-71. **Problem 71 (NEET, 2023)**: How does symmetry affect field calculations?
-   - Options: (a) Simplifies by cancellation (b) No effect (c) Increases complexity (d) Fixed symmetry
-72. **Problem 72 (NEET, 2022)**: What is the torque on a dipole?
-   - Options: (a) Perpendicular to dipole and field (b) No torque (c) Parallel to field (d) Fixed torque
-73. **Problem 73 (NEET, 2021)**: Why is the field stronger near a charge?
-   - Options: (a) Inverse square dependence (b) No effect (c) Fixed strength (d) Linear dependence
-74. **Problem 74 (NEET, 2024)**: How does a rod’s field behave far away?
-   - Options: (a) Like a point charge (b) Uniform field (c) No field (d) Fixed field
-75. **Problem 75 (NEET, 2020)**: What determines particle motion in a field?
-   - Options: (a) Charge and field strength (b) Only mass (c) No motion (d) Fixed motion
-76. **Problem 76 (NEET, 2023)**: Why does a dipole experience torque?
-   - Options: (a) Misalignment with field (b) No torque (c) Fixed alignment (d) Random motion
-77. **Problem 77 (NEET, 2022)**: How is the field calculated for a ring?
-   - Options: (a) Sum differential contributions (b) Scalar sum (c) No calculation (d) Fixed field
-78. **Problem 78 (NEET, 2021)**: What is a dipole moment?
-   - Options: (a) Charge times separation (b) No moment (c) Only charge (d) Fixed moment
-79. **Problem 79 (NEET, 2024)**: Why is the field zero between opposite charges?
-   - Options: (a) Cancellation by symmetry (b) Non-zero (c) Fixed field (d) No field
-80. **Problem 80 (NEET, 2020)**: How do fields apply to CRTs?
-   - Options: (a) Deflect electrons (b) No deflection (c) Only theoretical (d) Fixed deflection
-81. **Problem 81 (NEET, 2023)**: Why are fields vector quantities?
-   - Options: (a) Have direction and magnitude (b) Scalar quantities (c) No direction (d) Fixed magnitude
-82. **Problem 82 (NEET, 2022)**: What is the field’s unit?
-   - Options: (a) N/C or V/m (b) N/kg (c) C/m (d) No unit
-83. **Problem 83 (NEET, 2021)**: Why is integration used for continuous charges?
-   - Options: (a) Sums differential fields (b) No integration (c) Scalar sum (d) Fixed field
-84. **Problem 84 (NEET, 2024)**: How does a dipole’s field decay with distance?
-   - Options: (a) Inversely as cube (b) Inversely as square (c) No decay (d) Linear decay
-85. **Problem 85 (NEET, 2020)**: What causes particle acceleration in a field?
-   - Options: (a) Force from field (b) No force (c) Only mass (d) Fixed acceleration
-86. **Problem 86 (NEET, 2023)**: Why is the field uniform for a large sheet?
-   - Options: (a) Symmetry of charge (b) No symmetry (c) Variable field (d) Fixed field
-87. **Problem 87 (NEET, 2022)**: How does charge sign affect field direction?
-   - Options: (a) Positive outward, negative inward (b) All outward (c) All inward (d) No direction
-88. **Problem 88 (NEET, 2021)**: What is the field’s role in particle accelerators?
-   - Options: (a) Guides charged particles (b) No role (c) Only theoretical (d) Fixed path
-89. **Problem 89 (NEET, 2024)**: Why is the field zero inside a charged conductor?
-   - Options: (a) Charges on surface (b) Non-zero inside (c) Fixed field (d) No charges
-90. **Problem 90 (NEET, 2020)**: How does a dipole interact with a field?
-   - Options: (a) Experiences torque (b) No interaction (c) Fixed position (d) Random motion
-91. **Problem 91 (NEET, 2023)**: Why is the field stronger along a dipole’s axis?
-   - Options: (a) Charge alignment (b) Uniform field (c) No difference (d) Fixed field
-92. **Problem 92 (NEET, 2022)**: How do fields apply to molecular interactions?
-   - Options: (a) Dipole-dipole forces (b) No application (c) Only theoretical (d) Fixed forces
-93. **Problem 93 (NEET, 2021)**: What is the field’s direction for a positive charge?
-   - Options: (a) Outward from charge (b) Inward (c) No direction (d) Fixed direction
-94. **Problem 94 (NEET, 2024)**: Why use vector summation for fields?
-   - Options: (a) Accounts for direction (b) Scalar sum (c) No summation (d) Fixed field
-95. **Problem 95 (NEET, 2020)**: How does field strength relate to distance?
-   - Options: (a) Inversely as square (b) No relation (c) Directly proportional (d) Fixed strength
+5. A ring of charge (radius $R = 0.1 \, \text{m}$, total charge $Q = 2 \, \mu\text{C}$) lies in the xy-plane. Calculate the electric field on the z-axis at $z = 0.1 \, \text{m}$.  
+   - (a) $6.36 \times 10^5 \, \text{N/C}$  
+   - (b) $6.37 \times 10^5 \, \text{N/C}$  
+   - (c) $6.38 \times 10^5 \, \text{N/C}$  
+   - (d) $6.39 \times 10^5 \, \text{N/C}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: Two charges \( q_1 = +2 \, \mu\text{C} \) at (0, 0) and \( q_2 = -2 \, \mu\text{C} \) at (0.3, 0). What is the electric field at (0.15, 0)? (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 7.99 × 10⁵ N/C (b) 8.00 × 10⁵ N/C (c) 8.01 × 10⁵ N/C (d) 8.02 × 10⁵ N/C
-97. **Problem 97 (NEET, 2022)**: A charged ring (radius 0.1 m, charge \( Q = 3 \, \mu\text{C} \)). What is the electric field at 0.1 m along its axis? (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 2.39 × 10⁶ N/C (b) 2.40 × 10⁶ N/C (c) 2.41 × 10⁶ N/C (d) 2.42 × 10⁶ N/C
-98. **Problem 98 (NEET, 2021)**: An electron in a field \( \vec{E} = 1000 \hat{j} \, \text{N/C} \). What is its acceleration magnitude? (\( q = -1.602 \times 10^{-19} \, \text{C} \), \( m = 9.109 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) 1.75 × 10¹⁴ m/s² (b) 1.76 × 10¹⁴ m/s² (c) 1.77 × 10¹⁴ m/s² (d) 1.78 × 10¹⁴ m/s²
-99. **Problem 99 (NEET, 2024)**: A dipole (\( q = \pm 1 \, \mu\text{C} \), separation 0.01 m) along y-axis. What is the electric field magnitude at (0.2, 0)? (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-   - Options: (a) 2.24 × 10⁴ N/C (b) 2.25 × 10⁴ N/C (c) 2.26 × 10⁴ N/C (d) 2.27 × 10⁴ N/C
-100. **Problem 100 (NEET, 2020)**: A uniformly charged rod (length 0.2 m, charge \( Q = 6 \, \mu\text{C} \)) from \( x = 0 \) to \( x = 0.2 \, \text{m} \). What is the electric field at \( x = 0.3 \, \text{m} \)? (\( k = 8.987 \times 10^9 \, \text{N·m}^2/\text{C}^2 \)).
-    - Options: (a) 1.79 × 10⁶ N/C (b) 1.80 × 10⁶ N/C (c) 1.81 × 10⁶ N/C (d) 1.82 × 10⁶ N/C
+6. A disk of radius $R = 0.2 \, \text{m}$, surface charge density $\sigma = 3 \times 10^{-6} \, \text{C/m}^2$, lies in the xy-plane. Calculate the electric field on the z-axis at $z = 0.1 \, \text{m}$ ($\epsilon_0 = 8.85 \times 10^{-12} \, \text{C}^2/\text{N·m}^2$).  
+   - (a) $6.27 \times 10^4 \, \text{N/C}$  
+   - (b) $6.28 \times 10^4 \, \text{N/C}$  
+   - (c) $6.29 \times 10^4 \, \text{N/C}$  
+   - (d) $6.30 \times 10^4 \, \text{N/C}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. An electron ($q = -1.6 \times 10^{-19} \, \text{C}$, $m = 9.1 \times 10^{-31} \, \text{kg}$) is in a uniform field $\vec{E} = 1000 \hat{i} \, \text{N/C}$, starting at rest. Calculate its position after $t = 2 \, \text{ns}$.  
+   - (a) $-1.755 \times 10^{-4} \hat{i} \, \text{m}$  
+   - (b) $-1.756 \times 10^{-4} \hat{i} \, \text{m}$  
+   - (c) $-1.757 \times 10^{-4} \hat{i} \, \text{m}$  
+   - (d) $-1.758 \times 10^{-4} \hat{i} \, \text{m}$
 
-[View Solutions](/books/physics/electric-fields/solutions) -->
+8. A proton ($q = 1.6 \times 10^{-19} \, \text{C}$, $m = 1.67 \times 10^{-27} \, \text{kg}$) in $\vec{E} = 500 \hat{j} \, \text{N/C}$, with $\vec{v}_0 = 2 \times 10^4 \hat{i} \, \text{m/s}$. Calculate the trajectory equation.  
+   - (a) $y = 2.39 \times 10^2 x^2$  
+   - (b) $y = 2.40 \times 10^2 x^2$  
+   - (c) $y = 2.41 \times 10^2 x^2$  
+   - (d) $y = 2.42 \times 10^2 x^2$
+
+9. A charge $q = 3 \times 10^{-6} \, \text{C}$ is in $\vec{E} = 400 \hat{i} \, \text{N/C}$, moving from $(0, 0)$ to $(0.2, 0.1)$. Calculate the work done by the field.  
+   - (a) $2.39 \times 10^{-4} \, \text{J}$  
+   - (b) $2.40 \times 10^{-4} \, \text{J}$  
+   - (c) $2.41 \times 10^{-4} \, \text{J}$  
+   - (d) $2.42 \times 10^{-4} \, \text{J}$
+
+10. An electron in $\vec{E} = 300 \hat{j} \, \text{N/C}$, starting from rest. Calculate its velocity after $t = 3 \, \text{ns}$.  
+    - (a) $1.582 \times 10^5 \hat{j} \, \text{m/s}$  
+    - (b) $1.583 \times 10^5 \hat{j} \, \text{m/s}$  
+    - (c) $1.584 \times 10^5 \hat{j} \, \text{m/s}$  
+    - (d) $1.585 \times 10^5 \hat{j} \, \text{m/s}$
+
+11. Calculate the electric field at $(0.1, 0.1)$ due to $q = +4 \, \mu\text{C}$ at $(0, 0)$.  
+    - (a) $1.27 \times 10^6 (\hat{i} + \hat{j}) \, \text{N/C}$  
+    - (b) $1.28 \times 10^6 (\hat{i} + \hat{j}) \, \text{N/C}$  
+    - (c) $1.29 \times 10^6 (\hat{i} + \hat{j}) \, \text{N/C}$  
+    - (d) $1.30 \times 10^6 (\hat{i} + \hat{j}) \, \text{N/C}$
+
+12. A line charge with $\lambda = 1 \times 10^{-6} \, \text{C/m}$, length $L = 0.6 \, \text{m}$, lies along the x-axis from $-0.3$ to $0.3$. Calculate the electric field at $(0, 0.1)$ (magnitude).  
+    - (a) $1.79 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (b) $1.80 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (c) $1.81 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (d) $1.82 \times 10^5 \hat{j} \, \text{N/C}$
+
+13. A ring of charge (radius $R = 0.05 \, \text{m}$, total charge $Q = 1 \, \mu\text{C}$) lies in the xy-plane. Calculate the electric field at $z = 0.05 \, \text{m}$.  
+    - (a) $6.36 \times 10^5 \, \text{N/C}$  
+    - (b) $6.37 \times 10^5 \, \text{N/C}$  
+    - (c) $6.38 \times 10^5 \, \text{N/C}$  
+    - (d) $6.39 \times 10^5 \, \text{N/C}$
+
+14. A disk of radius $R = 0.1 \, \text{m}$, $\sigma = 2 \times 10^{-6} \, \text{C/m}^2$, lies in the xy-plane. Calculate the electric field at $z = 0.05 \, \text{m}$.  
+    - (a) $6.27 \times 10^4 \, \text{N/C}$  
+    - (b) $6.28 \times 10^4 \, \text{N/C}$  
+    - (c) $6.29 \times 10^4 \, \text{N/C}$  
+    - (d) $6.30 \times 10^4 \, \text{N/C}$
+
+15. A proton in $\vec{E} = 200 \hat{i} \, \text{N/C}$, $\vec{v}_0 = 3 \times 10^4 \hat{j} \, \text{m/s}$. Calculate the trajectory equation.  
+    - (a) $y = 1.56 \times 10^2 x^2$  
+    - (b) $y = 1.57 \times 10^2 x^2$  
+    - (c) $y = 1.58 \times 10^2 x^2$  
+    - (d) $y = 1.59 \times 10^2 x^2$
+
+16. Calculate the electric field at $(0, 0.5)$ due to $q = -6 \, \mu\text{C}$ at $(0, 0)$.  
+    - (a) $-2.159 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (b) $-2.160 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (c) $-2.161 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (d) $-2.162 \times 10^5 \hat{j} \, \text{N/C}$
+
+17. Two charges $q_1 = +4 \, \mu\text{C}$ at $(0.1, 0)$, $q_2 = -4 \, \mu\text{C}$ at $(-0.1, 0)$. Calculate the electric field at $(0, 0.3)$ (magnitude).  
+    - (a) $0 \, \text{N/C}$  
+    - (b) $1 \times 10^5 \, \text{N/C}$  
+    - (c) $2 \times 10^5 \, \text{N/C}$  
+    - (d) $3 \times 10^5 \, \text{N/C}$
+
+18. A line charge with $\lambda = 5 \times 10^{-6} \, \text{C/m}$, length $L = 0.4 \, \text{m}$, lies along the x-axis. Calculate the electric field at $(0, 0.2)$ (magnitude).  
+    - (a) $2.24 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (b) $2.25 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (c) $2.26 \times 10^5 \hat{j} \, \text{N/C}$  
+    - (d) $2.27 \times 10^5 \hat{j} \, \text{N/C}$
+
+19. A ring of charge (radius $R = 0.2 \, \text{m}$, $Q = 4 \, \mu\text{C}$) lies in the xy-plane. Calculate the electric field at $z = 0.2 \, \text{m}$.  
+    - (a) $7.98 \times 10^5 \, \text{N/C}$  
+    - (b) $7.99 \times 10^5 \, \text{N/C}$  
+    - (c) $8.00 \times 10^5 \, \text{N/C}$  
+    - (d) $8.01 \times 10^5 \, \text{N/C}$
+
+20. A disk of radius $R = 0.3 \, \text{m}$, $\sigma = 1 \times 10^{-6} \, \text{C/m}^2$, lies in the xy-plane. Calculate the electric field at $z = 0.1 \, \text{m}$.  
+    - (a) $2.88 \times 10^4 \, \text{N/C}$  
+    - (b) $2.89 \times 10^4 \, \text{N/C}$  
+    - (c) $2.90 \times 10^4 \, \text{N/C}$  
+    - (d) $2.91 \times 10^4 \, \text{N/C}$
+
+21. An electron in $\vec{E} = 400 \hat{j} \, \text{N/C}$, starting from rest. Calculate its velocity after $t = 1 \, \text{ns}$.  
+    - (a) $7.02 \times 10^4 \hat{j} \, \text{m/s}$  
+    - (b) $7.03 \times 10^4 \hat{j} \, \text{m/s}$  
+    - (c) $7.04 \times 10^4 \hat{j} \, \text{m/s}$  
+    - (d) $7.05 \times 10^4 \hat{j} \, \text{m/s}$
+
+22. A charge $q = 2 \times 10^{-6} \, \text{C}$ in $\vec{E} = 600 \hat{i} \, \text{N/C}$, moves from $(0, 0)$ to $(0.1, 0.2)$. Calculate the work done.  
+    - (a) $1.19 \times 10^{-4} \, \text{J}$  
+    - (b) $1.20 \times 10^{-4} \, \text{J}$  
+    - (c) $1.21 \times 10^{-4} \, \text{J}$  
+    - (d) $1.22 \times 10^{-4} \, \text{J}$
+
+23. Calculate the electric field at $(-0.2, 0)$ due to $q = +7 \, \mu\text{C}$ at $(0, 0)$.  
+    - (a) $1.574 \times 10^6 \hat{i} \, \text{N/C}$  
+    - (b) $1.575 \times 10^6 \hat{i} \, \text{N/C}$  
+    - (c) $1.576 \times 10^6 \hat{i} \, \text{N/C}$  
+    - (d) $1.577 \times 10^6 \hat{i} \, \text{N/C}$
+
+24. A line charge with $\lambda = 2 \times 10^{-6} \, \text{C/m}$, length $L = 1 \, \text{m}$, lies along the x-axis. Calculate the electric field at $(0, 0.5)$ (magnitude).  
+    - (a) $7.19 \times 10^4 \hat{j} \, \text{N/C}$  
+    - (b) $7.20 \times 10^4 \hat{j} \, \text{N/C}$  
+    - (c) $7.21 \times 10^4 \hat{j} \, \text{N/C}$  
+    - (d) $7.22 \times 10^4 \hat{j} \, \text{N/C}$
+
+25. A ring of charge (radius $R = 0.15 \, \text{m}$, $Q = 3 \, \mu\text{C}$) lies in the xy-plane. Calculate the electric field at $z = 0.15 \, \text{m}$.  
+    - (a) $7.98 \times 10^5 \, \text{N/C}$  
+    - (b) $7.99 \times 10^5 \, \text{N/C}$  
+    - (c) $8.00 \times 10^5 \, \text{N/C}$  
+    - (d) $8.01 \times 10^5 \, \text{N/C}$
+
+26. A disk of radius $R = 0.5 \, \text{m}$, $\sigma = 4 \times 10^{-6} \, \text{C/m}^2$, lies in the xy-plane. Calculate the electric field at $z = 0.2 \, \text{m}$.  
+    - (a) $7.49 \times 10^4 \, \text{N/C}$  
+    - (b) $7.50 \times 10^4 \, \text{N/C}$  
+    - (c) $7.51 \times 10^4 \, \text{N/C}$  
+    - (d) $7.52 \times 10^4 \, \text{N/C}$
+
+27. A proton in $\vec{E} = 100 \hat{i} \, \text{N/C}$, $\vec{v}_0 = 5 \times 10^4 \hat{j} \, \text{m/s}$. Calculate the trajectory equation.  
+    - (a) $y = 5.22 \times 10^1 x^2$  
+    - (b) $y = 5.23 \times 10^1 x^2$  
+    - (c) $y = 5.24 \times 10^1 x^2$  
+    - (d) $y = 5.25 \times 10^1 x^2$
+
+28. Calculate the electric field at $(0.2, 0.2)$ due to $q = -8 \, \mu\text{C}$ at $(0, 0)$.  
+    - (a) $-1.27 \times 10^6 (\hat{i} + \hat{j}) \, \text{N/C}$  
+    - (b) $-1.28 \times 10^6 (\hat{i} + \hat{j}) \, \text{N/C}$  
+    - (c) $-1.29 \times 10^6 (\hat{i} + \hat{j}) \, \text{N/C}$  
+    - (d) $-1.30 \times 10^6 (\hat{i} + \hat{j}) \, \text{N/C}$
+
+29. Two charges $q_1 = +5 \, \mu\text{C}$ at $(0.3, 0)$, $q_2 = -5 \, \mu\text{C}$ at $(-0.3, 0)$. Calculate the electric field at $(0, 0.4)$ (magnitude).  
+    - (a) $0 \, \text{N/C}$  
+    - (b) $1 \times 10^5 \, \text{N/C}$  
+    - (c) $2 \times 10^5 \, \text{N/C}$  
+    - (d) $3 \times 10^5 \, \text{N/C}$
+
+30. A line charge with $\lambda = 3 \times 10^{-6} \, \text{C/m}$, length $L = 0.8 \, \text{m}$, lies along the x-axis. Calculate the electric field at $(0, 0.4)$ (magnitude).  
+    - (a) $8.99 \times 10^4 \hat{j} \, \text{N/C}$  
+    - (b) $9.00 \times 10^4 \hat{j} \, \text{N/C}$  
+    - (c) $9.01 \times 10^4 \hat{j} \, \text{N/C}$  
+    - (d) $9.02 \times 10^4 \hat{j} \, \text{N/C}$
+
+31. In a rocket ion engine, a disk (radius $R = 0.1 \, \text{m}$, $\sigma = 5 \times 10^{-6} \, \text{C/m}^2$) creates a field at $z = 0.05 \, \text{m}$ to accelerate ions. Calculate the field magnitude.  
+    - (a) $1.04 \times 10^5 \, \text{N/C}$  
+    - (b) $1.05 \times 10^5 \, \text{N/C}$  
+    - (c) $1.06 \times 10^5 \, \text{N/C}$  
+    - (d) $1.07 \times 10^5 \, \text{N/C}$
+
+32. A charge $q = 1 \times 10^{-6} \, \text{C}$ in $\vec{E} = 800 \hat{i} \, \text{N/C}$, moves from $(0, 0)$ to $(0.3, 0.1)$. Calculate the work done.  
+    - (a) $2.39 \times 10^{-4} \, \text{J}$  
+    - (b) $2.40 \times 10^{-4} \, \text{J}$  
+    - (c) $2.41 \times 10^{-4} \, \text{J}$  
+    - (d) $2.42 \times 10^{-4} \, \text{J}$
+
+33. An electron in $\vec{E} = 200 \hat{j} \, \text{N/C}$, starting from rest. Calculate its position after $t = 4 \, \text{ns}$.  
+    - (a) $2.81 \times 10^{-4} \hat{j} \, \text{m}$  
+    - (b) $2.82 \times 10^{-4} \hat{j} \, \text{m}$  
+    - (c) $2.83 \times 10^{-4} \hat{j} \, \text{m}$  
+    - (d) $2.84 \times 10^{-4} \hat{j} \, \text{m}$
+
+34. A ring of charge (radius $R = 0.1 \, \text{m}$, $Q = 5 \, \mu\text{C}$) lies in the xy-plane. Calculate the electric field at $z = 0.2 \, \text{m}$.  
+    - (a) $9.98 \times 10^5 \, \text{N/C}$  
+    - (b) $9.99 \times 10^5 \, \text{N/C}$  
+    - (c) $1.00 \times 10^6 \, \text{N/C}$  
+    - (d) $1.01 \times 10^6 \, \text{N/C}$
+
+35. A disk of radius $R = 0.4 \, \text{m}$, $\sigma = 2 \times 10^{-6} \, \text{C/m}^2$, lies in the xy-plane. Calculate the electric field at $z = 0.3 \, \text{m}$.  
+    - (a) $4.19 \times 10^4 \, \text{N/C}$  
+    - (b) $4.20 \times 10^4 \, \text{N/C}$  
+    - (c) $4.21 \times 10^4 \, \text{N/C}$  
+    - (d) $4.22 \times 10^4 \, \text{N/C}$
+
+---
+
+## Conceptual Problems
+
+36. What does the electric field represent?  
+   - (a) Force per unit mass  
+   - (b) Force per unit charge  
+   - (c) Energy per unit charge  
+   - (d) Charge per unit area
+
+37. What is the direction of the electric field due to a positive charge?  
+   - (a) Toward the charge  
+   - (b) Away from the charge  
+   - (c) Perpendicular to the charge  
+   - (d) No direction
+
+38. What does the superposition principle state for electric fields?  
+   - (a) Fields are scalar quantities  
+   - (b) Net field is the vector sum of individual fields  
+   - (c) Fields cancel out  
+   - (d) Fields are independent of distance
+
+39. What happens to the electric field if the distance from a point charge doubles?  
+   - (a) Increases by 4  
+   - (b) Decreases by 4  
+   - (c) Doubles  
+   - (d) Halves
+
+40. What is the unit of electric field in SI units?  
+   - (a) $\text{N/C}$  
+   - (b) $\text{J}$  
+   - (c) $\text{m/s}$  
+   - (d) $\text{Pa}$
+
+41. What does a zero electric field at a point indicate?  
+   - (a) No charges present  
+   - (b) Net field cancels out  
+   - (c) Maximum force  
+   - (d) No charge movement
+
+42. What do electric field lines represent?  
+   - (a) Magnitude of the field  
+   - (b) Direction of the field  
+   - (c) Charge density  
+   - (d) Potential energy
+
+43. What is the physical significance of $k \frac{q}{r^2}$?  
+   - (a) Electric force  
+   - (b) Electric field magnitude  
+   - (c) Electric potential  
+   - (d) Charge density
+
+44. What does the density of electric field lines indicate?  
+   - (a) Charge magnitude  
+   - (b) Field strength  
+   - (c) Distance from charge  
+   - (d) Work done
+
+45. What is the dimension of electric field?  
+   - (a) $[\text{M} \text{L} \text{T}^{-3} \text{A}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does a negative electric field direction indicate for a positive charge?  
+   - (a) Points away from the charge  
+   - (b) Points toward the charge  
+   - (c) No direction  
+   - (d) Perpendicular
+
+47. What is the significance of $k \frac{q}{r^2} \hat{r}$?  
+   - (a) Scalar electric field  
+   - (b) Vector electric field  
+   - (c) Electric force  
+   - (d) Potential energy
+
+48. What happens to the field due to a charge distribution if the distance increases?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains constant  
+   - (d) Becomes zero
+
+49. What does the motion of a charge in a uniform field resemble if $\vec{v}_0 \perp \vec{E}$?  
+   - (a) Linear motion  
+   - (b) Parabolic motion  
+   - (c) Circular motion  
+   - (d) No motion
+
+50. How do electric fields apply to rocket ion propulsion?  
+   - (a) Reduce charge  
+   - (b) Accelerate ions for thrust  
+   - (c) Increase distance  
+   - (d) Decrease field strength
+
+---
+
+## Derivation Problems
+
+51. Derive the electric field due to a point charge $\vec{E} = k \frac{q}{r^2} \hat{r}$.
+
+52. Derive the superposition principle for electric fields $\vec{E}_{\text{net}} = \sum \vec{E}_i$.
+
+53. Derive the electric field due to a line charge at a perpendicular distance.
+
+54. Derive the electric field on the axis of a ring of charge.
+
+55. Derive the electric field on the axis of a uniformly charged disk.
+
+56. Derive the direction of electric field lines for a point charge.
+
+57. Derive the motion of a charge in a uniform electric field (linear motion).
+
+58. Derive the trajectory of a charge in a uniform field with $\vec{v}_0 \perp \vec{E}$.
+
+59. Derive the work done by an electric field $W = q \vec{E} \cdot \vec{d}$.
+
+60. Derive the field line density relation to field strength.
+
+61. Derive the electric field at a point due to a dipole.
+
+62. Derive the field line pattern for a uniform electric field.
+
+63. Derive the field due to two opposite charges (dipole approximation).
+
+64. Derive the velocity of a charge in a uniform field starting from rest.
+
+65. Derive the number of field lines proportional to charge magnitude.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of work done by an electric field?  
+   - (a) $\text{J}$  
+   - (b) $\text{N/C}$  
+   - (c) $\text{m/s}$  
+   - (d) $\text{Pa}$
+
+67. What does a positive electric field direction indicate for a negative charge?  
+   - (a) Points away from the charge  
+   - (b) Points toward the charge  
+   - (c) No direction  
+   - (d) Perpendicular
+
+68. Which principle allows the calculation of net field from multiple charges?  
+   - (a) Quantization  
+   - (b) Superposition  
+   - (c) Conservation  
+   - (d) Equilibrium
+
+69. What happens to the field if the charge doubles?  
+   - (a) Doubles  
+   - (b) Halves  
+   - (c) Quadruples  
+   - (d) Remains the same
+
+70. What is the dimension of electric field strength?  
+   - (a) $[\text{M} \text{L} \text{T}^{-3} \text{A}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the direction of field lines indicate?  
+   - (a) Charge magnitude  
+   - (b) Field strength  
+   - (c) Direction of force on a positive charge  
+   - (d) Potential energy
+
+72. What is the role of integration in field calculations for charge distributions?  
+   - (a) Sums scalar fields  
+   - (b) Sums vector field contributions  
+   - (c) Reduces field strength  
+   - (d) Increases distance
+
+73. What happens to the field on the axis of a ring at $z = 0$?  
+   - (a) Maximum  
+   - (b) Minimum  
+   - (c) Zero  
+   - (d) Infinite
+
+74. Why do field lines never cross?  
+   - (a) Field is a scalar  
+   - (b) Field direction is unique at each point  
+   - (c) Charges repel  
+   - (d) Field strength varies
+
+75. What is the unit of acceleration of a charge in an electric field?  
+   - (a) $\text{m/s}^2$  
+   - (b) $\text{N/C}$  
+   - (c) $\text{J}$  
+   - (d) $\text{V}$
+
+76. What does a uniform electric field indicate?  
+   - (a) Constant field strength and direction  
+   - (b) Variable field strength  
+   - (c) Circular field lines  
+   - (d) No field lines
+
+77. Which type of motion does a charge exhibit in a uniform field with $\vec{v}_0 = 0$?  
+   - (a) Parabolic  
+   - (b) Linear  
+   - (c) Circular  
+   - (d) Oscillatory
+
+78. What is the direction of motion of a negative charge in a uniform field?  
+   - (a) Same as the field  
+   - (b) Opposite to the field  
+   - (c) Perpendicular to the field  
+   - (d) Random
+
+79. What does a pseudo-force do in a non-inertial frame for charges in fields?  
+   - (a) Affects perceived motion  
+   - (b) Affects field strength  
+   - (c) Creates field lines  
+   - (d) Reduces charge
+
+80. What is the dimension of work done by an electric field?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of electric fields in rocket ion propulsion?  
+   - (a) Reduces charge  
+   - (b) Accelerates ions for thrust  
+   - (c) Increases distance  
+   - (d) Decreases field
+
+82. What happens to the field at the center of a uniformly charged ring?  
+   - (a) Maximum  
+   - (b) Zero  
+   - (c) Minimum  
+   - (d) Infinite
+
+83. Why do field lines start at positive charges?  
+   - (a) Due to field direction outward  
+   - (b) Due to charge quantization  
+   - (c) Due to field strength  
+   - (d) Due to work done
+
+84. What is the significance of $\frac{\sigma}{2 \epsilon_0}$ for a disk at large $z$?  
+   - (a) Field of an infinite sheet  
+   - (b) Field of a point charge  
+   - (c) Field of a ring  
+   - (d) Potential energy
+
+85. What is the unit of surface charge density $\sigma$?  
+   - (a) $\text{C/m}^2$  
+   - (b) $\text{N/C}$  
+   - (c) $\text{J}$  
+   - (d) $\text{V}$
+
+86. What does a zero work done by the field indicate?  
+   - (a) No field present  
+   - (b) Displacement perpendicular to field  
+   - (c) Maximum field strength  
+   - (d) No charge present
+
+87. What is the physical significance of $k \int \frac{dq}{r^2} \hat{r}$?  
+   - (a) Electric force  
+   - (b) Electric field due to a distribution  
+   - (c) Potential energy  
+   - (d) Charge density
+
+88. Why does a charge move parabolically in a uniform field?  
+   - (a) Due to constant acceleration perpendicular to velocity  
+   - (b) Due to circular motion  
+   - (c) Due to field lines  
+   - (d) Due to charge quantization
+
+89. What is the dimension of linear charge density $\lambda$?  
+   - (a) $[\text{A} \text{T} \text{L}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How do field lines help in ion propulsion design?  
+   - (a) Increase charge  
+   - (b) Visualize ion trajectories for thrust  
+   - (c) Reduce field  
+   - (d) Increase distance
+
+91. What is the role of symmetry in field calculations?  
+   - (a) Increases field strength  
+   - (b) Cancels components to simplify calculations  
+   - (c) Reduces charge  
+   - (d) Increases distance
+
+92. What does a high field line density indicate?  
+   - (a) Weak field  
+   - (b) Strong field  
+   - (c) No field  
+   - (d) Constant field
+
+93. What is the physical significance of $\frac{q E}{m}$?  
+   - (a) Electric field  
+   - (b) Acceleration of a charge  
+   - (c) Work done  
+   - (d) Potential energy
+
+94. What is the dimension of $\vec{E} \cdot \vec{d}$ in work calculations?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-3} \text{A}^{-1}]$
+
+95. Why does the field due to a disk approach that of a point charge at large $z$?  
+   - (a) Due to symmetry  
+   - (b) Due to charge distribution behaving as a point  
+   - (c) Due to field lines  
+   - (d) Due to work done
+
+---
+
+## NEET-style Numerical Problems
+
+96. Calculate the electric field at $(0, 0.4)$ due to $q = +6 \, \mu\text{C}$ at $(0, 0)$.  
+   - (a) $3.37 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (b) $3.38 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (c) $3.39 \times 10^5 \hat{j} \, \text{N/C}$  
+   - (d) $3.40 \times 10^5 \hat{j} \, \text{N/C}$
+
+97. A line charge with $\lambda = 2 \times 10^{-6} \, \text{C/m}$, length $L = 0.5 \, \text{m}$, lies along the x-axis. Calculate the electric field at $(0, 0.3)$ (magnitude).  
+   - (a) $9.59 \times 10^4 \hat{j} \, \text{N/C}$  
+   - (b) $9.60 \times 10^4 \hat{j} \, \text{N/C}$  
+   - (c) $9.61 \times 10^4 \hat{j} \, \text{N/C}$  
+   - (d) $9.62 \times 10^4 \hat{j} \, \text{N/C}$
+
+98. A ring of charge (radius $R = 0.1 \, \text{m}$, $Q = 4 \, \mu\text{C}$) lies in the xy-plane. Calculate the electric field at $z = 0.1 \, \text{m}$.  
+   - (a) $1.27 \times 10^6 \, \text{N/C}$  
+   - (b) $1.28 \times 10^6 \, \text{N/C}$  
+   - (c) $1.29 \times 10^6 \, \text{N/C}$  
+   - (d) $1.30 \times 10^6 \, \text{N/C}$
+
+99. A charge $q = 2 \times 10^{-6} \, \text{C}$ in $\vec{E} = 500 \hat{i} \, \text{N/C}$, moves from $(0, 0)$ to $(0.2, 0.3)$. Calculate the work done.  
+   - (a) $1.99 \times 10^{-4} \, \text{J}$  
+   - (b) $2.00 \times 10^{-4} \, \text{J}$  
+   - (c) $2.01 \times 10^{-4} \, \text{J}$  
+   - (d) $2.02 \times 10^{-4} \, \text{J}$
+
+100. An electron in $\vec{E} = 100 \hat{j} \, \text{N/C}$, starting from rest. Calculate its velocity after $t = 5 \, \text{ns}$.  
+    - (a) $8.77 \times 10^4 \hat{j} \, \text{m/s}$  
+    - (b) $8.78 \times 10^4 \hat{j} \, \text{m/s}$  
+    - (c) $8.79 \times 10^4 \hat{j} \, \text{m/s}$  
+    - (d) $8.80 \times 10^4 \hat{j} \, \text{m/s}$
 
 ## Back to Chapter
 [Return to Electric Fields Chapter](./index.md)

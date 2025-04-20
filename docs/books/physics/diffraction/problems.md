@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Diffraction Problems for JEE & NEET
-description: Practice 100 wave diffraction problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 problems on diffraction of light for JEE and NEET, inspired by exam patterns, covering Huygens' principle, single-slit diffraction, diffraction gratings, and applications.
 slug: book/physics/diffraction-problems
-keywords: physics wave diffraction problems, JEE physics single slit diffraction problems, NEET physics diffraction gratings problems, wave optics
+keywords: physics diffraction problems, JEE physics wave optics problems, NEET physics single-slit diffraction problems, diffraction patterns
 og:image: https://vidyamarg.com/og-physics-diffraction.jpg
 ---
 
 # Diffraction Problems
 
-This section provides **100 problems** to test your understanding of wave diffraction, including single-slit diffraction, diffraction gratings, and applications like optical resolution and X-ray diffraction. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of diffraction of light, including calculations of minima positions, central maximum width, grating maxima angles, resolving power, and dispersion, as well as applications like X-ray diffraction and telescope resolution. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering wave optics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on minima angles, central maximum width, grating angles, and resolving power, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., diffraction patterns, resolution), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A single slit of width $a = 2 \, \mu\text{m}$ is illuminated by light of wavelength $\lambda = 500 \, \text{nm}$. Calculate the angular position of the first minimum.  
+   - (a) $14.4^\circ$  
+   - (b) $14.5^\circ$  
+   - (c) $14.6^\circ$  
+   - (d) $14.7^\circ$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: Light of wavelength 500 nm passes through a slit of width 0.1 mm. Calculate the angular position of the first diffraction minimum.
-   - Options: (a) 0.286° (b) 0.287° (c) 0.288° (d) 0.289°
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A single slit of width 0.2 mm is illuminated by 600 nm light, with a screen 1 m away. Calculate the width of the central maximum.
-   - Options: (a) 5.99 mm (b) 6.00 mm (c) 6.01 mm (d) 6.02 mm
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A diffraction grating with 4000 lines/cm is illuminated by 550 nm light. Calculate the angle of the first-order maximum.
-   - Options: (a) 12.7° (b) 12.8° (c) 12.9° (d) 13.0°
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A telescope with aperture diameter 0.5 m observes stars at 500 nm. Calculate the minimum angular separation for resolution.
-   - Options: (a) 1.22 × 10⁻⁶ rad (b) 1.23 × 10⁻⁶ rad (c) 1.24 × 10⁻⁶ rad (d) 1.25 × 10⁻⁶ rad
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: Light of wavelength 700 nm passes through a slit of width 0.3 mm. Calculate the angular position of the second diffraction minimum.
-   - Options: (a) 0.267° (b) 0.268° (c) 0.269° (d) 0.270°
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A single slit of width 0.15 mm is illuminated by 450 nm light, with a screen 1.5 m away. Calculate the width of the central maximum.
-   - Options: (a) 8.99 mm (b) 9.00 mm (c) 9.01 mm (d) 9.02 mm
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A diffraction grating with 6000 lines/cm is illuminated by 650 nm light. Calculate the angle of the second-order maximum.
-   - Options: (a) 22.9° (b) 23.0° (c) 23.1° (d) 23.2°
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A telescope with aperture diameter 2 m observes stars at 600 nm. Calculate the minimum angular separation for resolution.
-   - Options: (a) 3.65 × 10⁻⁷ rad (b) 3.66 × 10⁻⁷ rad (c) 3.67 × 10⁻⁷ rad (d) 3.68 × 10⁻⁷ rad
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: Light of wavelength 550 nm passes through a slit of width 0.25 mm. Calculate the angular position of the first diffraction minimum.
-   - Options: (a) 0.126° (b) 0.127° (c) 0.128° (d) 0.129°
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A single slit of width 0.1 mm is illuminated by 700 nm light, with a screen 2 m away. Calculate the width of the central maximum.
-    - Options: (a) 27.9 mm (b) 28.0 mm (c) 28.1 mm (d) 28.2 mm
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A diffraction grating with 5000 lines/cm is illuminated by 500 nm light. Calculate the angle of the third-order maximum.
-    - Options: (a) 22.9° (b) 23.0° (c) 23.1° (d) 23.2°
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: Light of wavelength 600 nm passes through a slit of width 0.2 mm. Calculate the angular position of the first diffraction minimum.
-    - Options: (a) 0.172° (b) 0.173° (c) 0.174° (d) 0.175°
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: A single slit of width 0.3 mm is illuminated by 550 nm light, with a screen 1 m away. Calculate the width of the central maximum.
-    - Options: (a) 3.66 mm (b) 3.67 mm (c) 3.68 mm (d) 3.69 mm
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A telescope with aperture diameter 1.5 m observes stars at 450 nm. Calculate the minimum angular separation for resolution.
-    - Options: (a) 3.65 × 10⁻⁷ rad (b) 3.66 × 10⁻⁷ rad (c) 3.67 × 10⁻⁷ rad (d) 3.68 × 10⁻⁷ rad
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A diffraction grating with 3000 lines/cm is illuminated by 700 nm light. Calculate the angle of the first-order maximum.
-    - Options: (a) 12.0° (b) 12.1° (c) 12.2° (d) 12.3°
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: Light of wavelength 650 nm passes through a slit of width 0.4 mm. Calculate the angular position of the second diffraction minimum.
-    - Options: (a) 0.186° (b) 0.187° (c) 0.188° (d) 0.189°
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A single slit of width 0.05 mm is illuminated by 500 nm light, with a screen 2 m away. Calculate the width of the central maximum.
-    - Options: (a) 39.9 mm (b) 40.0 mm (c) 40.1 mm (d) 40.2 mm
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A diffraction grating with 8000 lines/cm is illuminated by 600 nm light. Calculate the angle of the second-order maximum.
-    - Options: (a) 27.9° (b) 28.0° (c) 28.1° (d) 28.2°
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A telescope with aperture diameter 0.8 m observes stars at 550 nm. Calculate the minimum angular separation for resolution.
-    - Options: (a) 8.37 × 10⁻⁷ rad (b) 8.38 × 10⁻⁷ rad (c) 8.39 × 10⁻⁷ rad (d) 8.40 × 10⁻⁷ rad
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: Light of wavelength 450 nm passes through a slit of width 0.15 mm. Calculate the angular position of the first diffraction minimum.
-    - Options: (a) 0.172° (b) 0.173° (c) 0.174° (d) 0.175°
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A single slit of width 0.2 mm is illuminated by 650 nm light, with a screen 1.5 m away. Calculate the width of the central maximum.
-    - Options: (a) 9.74 mm (b) 9.75 mm (c) 9.76 mm (d) 9.77 mm
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A diffraction grating with 4000 lines/cm is illuminated by 500 nm light. Calculate the angle of the first-order maximum.
-    - Options: (a) 11.5° (b) 11.6° (c) 11.7° (d) 11.8°
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: Light of wavelength 700 nm passes through a slit of width 0.5 mm. Calculate the angular position of the first diffraction minimum.
-    - Options: (a) 0.0802° (b) 0.0803° (c) 0.0804° (d) 0.0805°
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A telescope with aperture diameter 1 m observes stars at 600 nm. Calculate the minimum angular separation for resolution.
-    - Options: (a) 7.31 × 10⁻⁷ rad (b) 7.32 × 10⁻⁷ rad (c) 7.33 × 10⁻⁷ rad (d) 7.34 × 10⁻⁷ rad
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A single slit of width 0.1 mm is illuminated by 550 nm light, with a screen 1 m away. Calculate the width of the central maximum.
-    - Options: (a) 10.9 mm (b) 11.0 mm (c) 11.1 mm (d) 11.2 mm
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A diffraction grating with 7000 lines/cm is illuminated by 650 nm light. Calculate the angle of the second-order maximum.
-    - Options: (a) 26.4° (b) 26.5° (c) 26.6° (d) 26.7°
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: Light of wavelength 500 nm passes through a slit of width 0.3 mm. Calculate the angular position of the second diffraction minimum.
-    - Options: (a) 0.191° (b) 0.192° (c) 0.193° (d) 0.194°
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A single slit of width 0.25 mm is illuminated by 600 nm light, with a screen 2 m away. Calculate the width of the central maximum.
-    - Options: (a) 9.59 mm (b) 9.60 mm (c) 9.61 mm (d) 9.62 mm
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A telescope with aperture diameter 0.4 m observes stars at 500 nm. Calculate the minimum angular separation for resolution.
-    - Options: (a) 1.52 × 10⁻⁶ rad (b) 1.53 × 10⁻⁶ rad (c) 1.54 × 10⁻⁶ rad (d) 1.55 × 10⁻⁶ rad
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A diffraction grating with 5000 lines/cm is illuminated by 550 nm light. Calculate the angle of the first-order maximum.
-    - Options: (a) 15.8° (b) 15.9° (c) 16.0° (d) 16.1°
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: Light of wavelength 650 nm passes through a slit of width 0.2 mm. Calculate the angular position of the first diffraction minimum.
-    - Options: (a) 0.186° (b) 0.187° (c) 0.188° (d) 0.189°
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A single slit of width 0.15 mm is illuminated by 700 nm light, with a screen 1 m away. Calculate the width of the central maximum.
-    - Options: (a) 9.32 mm (b) 9.33 mm (c) 9.34 mm (d) 9.35 mm
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A diffraction grating with 6000 lines/cm is illuminated by 600 nm light. Calculate the angle of the third-order maximum.
-    - Options: (a) 35.8° (b) 35.9° (c) 36.0° (d) 36.1°
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A telescope with aperture diameter 1.2 m observes stars at 550 nm. Calculate the minimum angular separation for resolution.
-    - Options: (a) 5.59 × 10⁻⁷ rad (b) 5.60 × 10⁻⁷ rad (c) 5.61 × 10⁻⁷ rad (d) 5.62 × 10⁻⁷ rad
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: Light of wavelength 500 nm passes through a slit of width 0.1 mm. Calculate the angular position of the first diffraction minimum.
-    - Options: (a) 0.286° (b) 0.287° (c) 0.288° (d) 0.289°
+2. A single slit of width $a = 1 \, \mu\text{m}$ with $\lambda = 600 \, \text{nm}$ is viewed on a screen at $D = 1 \, \text{m}$. Calculate the width of the central maximum.  
+   - (a) $1.49 \, \text{m}$  
+   - (b) $1.50 \, \text{m}$  
+   - (c) $1.51 \, \text{m}$  
+   - (d) $1.52 \, \text{m}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is diffraction?
-   - Options: (a) Wave bending around obstacles (b) Wave reflection (c) No bending (d) Fixed bending
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What condition produces single-slit diffraction minima?
-   - Options: (a) \( a \sin \theta = m \lambda \) (b) \( a \sin \theta = (m + \frac{1}{2}) \lambda \) (c) No condition (d) Fixed condition
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What is the formula for diffraction grating maxima?
-   - Options: (a) \( d \sin \theta = m \lambda \) (b) \( d \sin \theta = (m + \frac{1}{2}) \lambda \) (c) No formula (d) Fixed formula
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is the Rayleigh criterion?
-   - Options: (a) Minimum angular separation (b) Maximum separation (c) No criterion (d) Fixed criterion
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What is the purpose of diffraction gratings?
-   - Options: (a) Produce spectra (b) Reflect light (c) No purpose (d) Fixed purpose
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What is the unit of angular separation?
-   - Options: (a) Radian (b) Meter (c) No unit (d) Fixed unit
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Why does diffraction depend on wavelength?
-   - Options: (a) \( \lambda/a \) ratio (b) No dependence (c) Fixed dependence (d) Only theoretical
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: What is the central maximum in single-slit diffraction?
-   - Options: (a) Brightest region (b) Dark region (c) No maximum (d) Fixed maximum
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: How does slit width affect diffraction?
-   - Options: (a) Inversely affects spread (b) Directly affects (c) No effect (d) Fixed effect
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is Bragg’s law used for?
-   - Options: (a) Crystal structure analysis (b) Spectroscopy (c) No use (d) Fixed use
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: What is the resolving power of a grating?
-   - Options: (a) \( Nm \) (b) \( N/m \) (c) No resolving power (d) Fixed resolving power
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: Why is diffraction a wave phenomenon?
-   - Options: (a) Superposition of wavelets (b) Particle behavior (c) No phenomenon (d) Fixed phenomenon
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: What is the significance of Huygens’ principle?
-   - Options: (a) Explains diffraction (b) No significance (c) Fixed significance (d) Only theoretical
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: How does aperture size affect resolution?
-   - Options: (a) Larger aperture, better resolution (b) Smaller aperture, better (c) No effect (d) Fixed effect
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: What is the intensity distribution in single-slit diffraction?
-   - Options: (a) \( I_0 \left( \frac{\sin \alpha}{\alpha} \right)^2 \) (b) \( I_0 \sin \alpha \) (c) No distribution (d) Fixed distribution
+3. A diffraction grating with $d = 2 \, \mu\text{m}$ is illuminated by $\lambda = 500 \, \text{nm}$. Calculate the angular position of the first-order maximum.  
+   - (a) $14.4^\circ$  
+   - (b) $14.5^\circ$  
+   - (c) $14.6^\circ$  
+   - (d) $14.7^\circ$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the single-slit diffraction minima condition.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the central maximum width for single-slit diffraction.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the diffraction grating maxima condition.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the Rayleigh criterion for resolution.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive Bragg’s law for X-ray diffraction.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the intensity distribution for single-slit diffraction.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the resolving power of a diffraction grating.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the diffraction pattern for a circular aperture.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the dependence of diffraction on \( \lambda/a \).
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the angular positions of grating maxima.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the single-slit diffraction pattern using Huygens’ principle.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the effect of slit width on diffraction spread.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the resolution limit for a telescope.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the intensity minima for single-slit diffraction.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the grating’s spectral line sharpness.
+4. A single slit of width $a = 5 \, \mu\text{m}$ with $\lambda = 500 \, \text{nm}$. Calculate the angular position of the second minimum.  
+   - (a) $11.4^\circ$  
+   - (b) $11.5^\circ$  
+   - (c) $11.6^\circ$  
+   - (d) $11.7^\circ$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What causes diffraction?
-   - Options: (a) Wave bending (b) Wave reflection (c) No bending (d) Fixed bending
-67. **Problem 67 (NEET, 2022)**: What is the single-slit minima condition?
-   - Options: (a) \( a \sin \theta = m \lambda \) (b) \( a \sin \theta = (m + \frac{1}{2}) \lambda \) (c) No condition (d) Fixed condition
-68. **Problem 68 (NEET, 2021)**: What do diffraction gratings do?
-   - Options: (a) Produce spectra (b) Reflect light (c) No effect (d) Fixed effect
-69. **Problem 69 (NEET, 2024)**: What is the Rayleigh criterion?
-   - Options: (a) Resolution limit (b) No limit (c) Fixed limit (d) Only theoretical
-70. **Problem 70 (NEET, 2020)**: What is X-ray diffraction used for?
-   - Options: (a) Crystal structures (b) Spectroscopy (c) No use (d) Fixed use
-71. **Problem 71 (NEET, 2023)**: What is the unit of angular separation?
-   - Options: (a) Radian (b) Meter (c) No unit (d) Fixed unit
-72. **Problem 72 (NEET, 2022)**: Why does diffraction occur?
-   - Options: (a) Wave superposition (b) Particle behavior (c) No effect (d) Fixed effect
-73. **Problem 73 (NEET, 2021)**: What is the central maximum?
-   - Options: (a) Bright region (b) Dark region (c) No maximum (d) Fixed maximum
-74. **Problem 74 (NEET, 2024)**: How does slit width affect diffraction?
-   - Options: (a) Narrower slit, more spread (b) Wider slit, more spread (c) No effect (d) Fixed effect
-75. **Problem 75 (NEET, 2020)**: What is Bragg’s law?
-   - Options: (a) Crystal diffraction (b) No law (c) Fixed law (d) Only theoretical
-76. **Problem 76 (NEET, 2023)**: What is grating resolving power?
-   - Options: (a) \( Nm \) (b) \( N/m \) (c) No power (d) Fixed power
-77. **Problem 77 (NEET, 2022)**: Why is diffraction wave-based?
-   - Options: (a) Wavelet superposition (b) Particle motion (c) No basis (d) Fixed basis
-78. **Problem 78 (NEET, 2021)**: What does Huygens’ principle explain?
-   - Options: (a) Diffraction (b) Reflection (c) No explanation (d) Fixed explanation
-79. **Problem 79 (NEET, 2024)**: How does aperture affect resolution?
-   - Options: (a) Larger improves (b) Smaller improves (c) No effect (d) Fixed effect
-80. **Problem 80 (NEET, 2020)**: What is single-slit diffraction’s intensity?
-   - Options: (a) Sinc-squared (b) Linear (c) No intensity (d) Fixed intensity
-81. **Problem 81 (NEET, 2023)**: Why use gratings in spectroscopy?
-   - Options: (a) Separate wavelengths (b) No use (c) Fixed use (d) Only theoretical
-82. **Problem 82 (NEET, 2022)**: What is the unit of wavelength?
-   - Options: (a) Meter (b) Radian (c) No unit (d) Fixed unit
-83. **Problem 83 (NEET, 2021)**: How does diffraction affect light?
-   - Options: (a) Bends around edges (b) No bending (c) Fixed bending (d) Only theoretical
-84. **Problem 84 (NEET, 2024)**: What is a telescope’s resolution limit?
-   - Options: (a) Aperture-dependent (b) No limit (c) Fixed limit (d) Only theoretical
-85. **Problem 85 (NEET, 2020)**: Why study diffraction?
-   - Options: (a) Optical applications (b) No use (c) Fixed use (d) Only theoretical
-86. **Problem 86 (NEET, 2023)**: How does wavelength affect diffraction?
-   - Options: (a) Larger wavelength, more spread (b) Smaller wavelength, more (c) No effect (d) Fixed effect
-87. **Problem 87 (NEET, 2022)**: What is the role of \( \lambda \)?
-   - Options: (a) Determines pattern (b) No role (c) Fixed role (d) Only theoretical
-88. **Problem 88 (NEET, 2021)**: Why use X-rays for crystals?
-   - Options: (a) Small wavelength (b) Large wavelength (c) No use (d) Fixed use
-89. **Problem 89 (NEET, 2024)**: What is a diffraction pattern?
-   - Options: (a) Bright and dark regions (b) Uniform light (c) No pattern (d) Fixed pattern
-90. **Problem 90 (NEET, 2020)**: How does grating spacing affect maxima?
-   - Options: (a) Smaller spacing, larger angles (b) Larger spacing, larger (c) No effect (d) Fixed effect
-91. **Problem 91 (NEET, 2023)**: Why use diffraction in microscopy?
-   - Options: (a) Enhance resolution (b) No use (c) Fixed use (d) Only theoretical
-92. **Problem 92 (NEET, 2022)**: What is the role of aperture in diffraction?
-   - Options: (a) Controls spread (b) No role (c) Fixed role (d) Only theoretical
-93. **Problem 93 (NEET, 2021)**: How does order affect grating maxima?
-   - Options: (a) Higher order, larger angle (b) Lower order, larger (c) No effect (d) Fixed effect
-94. **Problem 94 (NEET, 2024)**: What is the unit of resolving power?
-   - Options: (a) None (b) Meter (c) Radian (d) Fixed unit
-95. **Problem 95 (NEET, 2020)**: Why are diffraction patterns formed?
-   - Options: (a) Wave interference (b) No interference (c) Fixed interference (d) Only theoretical
+5. A diffraction grating with 500 lines/mm is illuminated by $\lambda = 600 \, \text{nm}$. Calculate the angular separation between the first and second-order maxima.  
+   - (a) $19.3^\circ$  
+   - (b) $19.4^\circ$  
+   - (c) $19.5^\circ$  
+   - (d) $19.6^\circ$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: Light of wavelength 600 nm passes through a slit of width 0.2 mm. Calculate the angular position of the first diffraction minimum.
-   - Options: (a) 0.172° (b) 0.173° (c) 0.174° (d) 0.175°
-97. **Problem 97 (NEET, 2022)**: A single slit of width 0.1 mm is illuminated by 500 nm light, with a screen 1 m away. Calculate the width of the central maximum.
-   - Options: (a) 9.99 mm (b) 10.0 mm (c) 10.1 mm (d) 10.2 mm
-98. **Problem 98 (NEET, 2021)**: A diffraction grating with 5000 lines/cm is illuminated by 600 nm light. Calculate the angle of the first-order maximum.
-   - Options: (a) 17.4° (b) 17.5° (c) 17.6° (d) 17.7°
-99. **Problem 99 (NEET, 2024)**: A telescope with aperture diameter 1 m observes stars at 550 nm. Calculate the minimum angular separation for resolution.
-   - Options: (a) 6.71 × 10⁻⁷ rad (b) 6.72 × 10⁻⁷ rad (c) 6.73 × 10⁻⁷ rad (d) 6.74 × 10⁻⁷ rad
-100. **Problem 100 (NEET, 2020)**: Light of wavelength 500 nm passes through a slit of width 0.1 mm. Calculate the angular position of the first diffraction minimum.
-    - Options: (a) 0.286° (b) 0.287° (c) 0.288° (d) 0.289°
+6. A telescope with aperture $a = 0.05 \, \text{m}$ uses $\lambda = 550 \, \text{nm}$. Calculate the minimum angular separation $\theta_{\text{min}}$.  
+   - (a) $1.34 \times 10^{-5} \, \text{rad}$  
+   - (b) $1.34 \times 10^{-5} \, \text{rad}$  
+   - (c) $1.35 \times 10^{-5} \, \text{rad}$  
+   - (d) $1.36 \times 10^{-5} \, \text{rad}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. X-rays with $\lambda = 0.15 \, \text{nm}$ are diffracted by a crystal with $d = 0.2 \, \text{nm}$, $m = 1$. Calculate the diffraction angle $\theta$.  
+   - (a) $21.9^\circ$  
+   - (b) $22.0^\circ$  
+   - (c) $22.1^\circ$  
+   - (d) $22.2^\circ$
 
-[View Solutions](/books/physics/diffraction/solutions) -->
+8. A single slit with $a = 3 \, \mu\text{m}$, $\lambda = 600 \, \text{nm}$, $D = 2 \, \text{m}$. Calculate the width of the central maximum.  
+   - (a) $0.79 \, \text{m}$  
+   - (b) $0.80 \, \text{m}$  
+   - (c) $0.81 \, \text{m}$  
+   - (d) $0.82 \, \text{m}$
+
+9. A diffraction grating with $d = 1.5 \, \mu\text{m}$, $\lambda = 400 \, \text{nm}$. Calculate $\theta_2$.  
+   - (a) $32.4^\circ$  
+   - (b) $32.5^\circ$  
+   - (c) $32.6^\circ$  
+   - (d) $32.7^\circ$
+
+10. A microscope with $a = 0.02 \, \text{m}$, $\lambda = 450 \, \text{nm}$. Calculate $\theta_{\text{min}}$.  
+    - (a) $2.74 \times 10^{-5} \, \text{rad}$  
+    - (b) $2.75 \times 10^{-5} \, \text{rad}$  
+    - (c) $2.76 \times 10^{-5} \, \text{rad}$  
+    - (d) $2.77 \times 10^{-5} \, \text{rad}$
+
+11. A single slit with $a = 4 \, \mu\text{m}$, $\lambda = 500 \, \text{nm}$. Calculate the angular position of the third minimum.  
+    - (a) $21.9^\circ$  
+    - (b) $22.0^\circ$  
+    - (c) $22.1^\circ$  
+    - (d) $22.2^\circ$
+
+12. A diffraction grating with 600 lines/mm, $\lambda = 500 \, \text{nm}$. Calculate $\theta_1$.  
+    - (a) $17.4^\circ$  
+    - (b) $17.5^\circ$  
+    - (c) $17.6^\circ$  
+    - (d) $17.7^\circ$
+
+13. X-rays with $\lambda = 0.1 \, \text{nm}$, $d = 0.3 \, \text{nm}$, $m = 2$. Calculate $\theta$.  
+    - (a) $19.4^\circ$  
+    - (b) $19.5^\circ$  
+    - (c) $19.6^\circ$  
+    - (d) $19.7^\circ$
+
+14. A single slit with $a = 1.5 \, \mu\text{m}$, $\lambda = 600 \, \text{nm}$, $D = 1.5 \, \text{m}$. Calculate the width of the central maximum.  
+    - (a) $1.19 \, \text{m}$  
+    - (b) $1.20 \, \text{m}$  
+    - (c) $1.21 \, \text{m}$  
+    - (d) $1.22 \, \text{m}$
+
+15. A diffraction grating with $d = 2 \, \mu\text{m}$, $N = 1000$, $\lambda = 500 \, \text{nm}$. Calculate the resolving power for $m = 1$.  
+    - (a) 999  
+    - (b) 1000  
+    - (c) 1001  
+    - (d) 1002
+
+16. A single slit with $a = 2.5 \, \mu\text{m}$, $\lambda = 500 \, \text{nm}$. Calculate the angular position of the first minimum.  
+    - (a) $11.4^\circ$  
+    - (b) $11.5^\circ$  
+    - (c) $11.6^\circ$  
+    - (d) $11.7^\circ$
+
+17. A diffraction grating with $d = 3 \, \mu\text{m}$, $\lambda = 600 \, \text{nm}$. Calculate the angular dispersion $\frac{d\theta}{d\lambda}$ for $m = 1$ at $\theta = 11.5^\circ$.  
+    - (a) $0.33 \, \text{rad}/\mu\text{m}$  
+    - (b) $0.34 \, \text{rad}/\mu\text{m}$  
+    - (c) $0.35 \, \text{rad}/\mu\text{m}$  
+    - (d) $0.36 \, \text{rad}/\mu\text{m}$
+
+18. A telescope with $a = 0.1 \, \text{m}$, $\lambda = 550 \, \text{nm}$. Calculate $\theta_{\text{min}}$.  
+    - (a) $6.70 \times 10^{-6} \, \text{rad}$  
+    - (b) $6.71 \times 10^{-6} \, \text{rad}$  
+    - (c) $6.72 \times 10^{-6} \, \text{rad}$  
+    - (d) $6.73 \times 10^{-6} \, \text{rad}$
+
+19. X-rays with $\lambda = 0.12 \, \text{nm}$, $d = 0.25 \, \text{nm}$, $m = 1$. Calculate $\theta$.  
+    - (a) $28.6^\circ$  
+    - (b) $28.7^\circ$  
+    - (c) $28.8^\circ$  
+    - (d) $28.9^\circ$
+
+20. A single slit with $a = 10 \, \mu\text{m}$, $\lambda = 500 \, \text{nm}$, $D = 2 \, \text{m}$. Calculate the width of the central maximum.  
+    - (a) $0.19 \, \text{m}$  
+    - (b) $0.20 \, \text{m}$  
+    - (c) $0.21 \, \text{m}$  
+    - (d) $0.22 \, \text{m}$
+
+21. A diffraction grating with $d = 1.8 \, \mu\text{m}$, $\lambda = 450 \, \text{nm}$. Calculate $\theta_1$.  
+    - (a) $14.4^\circ$  
+    - (b) $14.5^\circ$  
+    - (c) $14.6^\circ$  
+    - (d) $14.7^\circ$
+
+22. A single slit with $a = 1 \, \mu\text{m}$, $\lambda = 400 \, \text{nm}$. Calculate the angular position of the first minimum.  
+    - (a) $23.4^\circ$  
+    - (b) $23.5^\circ$  
+    - (c) $23.6^\circ$  
+    - (d) $23.7^\circ$
+
+23. A diffraction grating with $N = 1500$, $d = 2.5 \, \mu\text{m}$, $\lambda = 500 \, \text{nm}$. Calculate the resolving power for $m = 2$.  
+    - (a) 2999  
+    - (b) 3000  
+    - (c) 3001  
+    - (d) 3002
+
+24. X-rays with $\lambda = 0.18 \, \text{nm}$, $d = 0.4 \, \text{nm}$, $m = 2$. Calculate $\theta$.  
+    - (a) $26.5^\circ$  
+    - (b) $26.6^\circ$  
+    - (c) $26.7^\circ$  
+    - (d) $26.8^\circ$
+
+25. A single slit with $a = 2 \, \mu\text{m}$, $\lambda = 600 \, \text{nm}$, $D = 1 \, \text{m}$. Calculate the width of the central maximum.  
+    - (a) $0.59 \, \text{m}$  
+    - (b) $0.60 \, \text{m}$  
+    - (c) $0.61 \, \text{m}$  
+    - (d) $0.62 \, \text{m}$
+
+26. A diffraction grating with 400 lines/mm, $\lambda = 550 \, \text{nm}$. Calculate $\theta_1$.  
+    - (a) $12.6^\circ$  
+    - (b) $12.7^\circ$  
+    - (c) $12.8^\circ$  
+    - (d) $12.9^\circ$
+
+27. A telescope with $a = 0.03 \, \text{m}$, $\lambda = 500 \, \text{nm}$. Calculate $\theta_{\text{min}}$.  
+    - (a) $2.03 \times 10^{-5} \, \text{rad}$  
+    - (b) $2.04 \times 10^{-5} \, \text{rad}$  
+    - (c) $2.05 \times 10^{-5} \, \text{rad}$  
+    - (d) $2.06 \times 10^{-5} \, \text{rad}$
+
+28. A single slit with $a = 6 \, \mu\text{m}$, $\lambda = 600 \, \text{nm}$. Calculate the angular position of the second minimum.  
+    - (a) $11.4^\circ$  
+    - (b) $11.5^\circ$  
+    - (c) $11.6^\circ$  
+    - (d) $11.7^\circ$
+
+29. A diffraction grating with $d = 2 \, \mu\text{m}$, $\lambda = 500 \, \text{nm}$. Calculate the angular separation between the second and third orders.  
+    - (a) $9.6^\circ$  
+    - (b) $9.7^\circ$  
+    - (c) $9.8^\circ$  
+    - (d) $9.9^\circ$
+
+30. X-rays with $\lambda = 0.14 \, \text{nm}$, $d = 0.35 \, \text{nm}$, $m = 1$. Calculate $\theta$.  
+    - (a) $23.4^\circ$  
+    - (b) $23.5^\circ$  
+    - (c) $23.6^\circ$  
+    - (d) $23.7^\circ$
+
+31. A spacecraft optical system uses a single slit with $a = 1.2 \, \mu\text{m}$, $\lambda = 600 \, \text{nm}$, $D = 2 \, \text{m}$. Calculate the width of the central maximum.  
+    - (a) $1.99 \, \text{m}$  
+    - (b) $2.00 \, \text{m}$  
+    - (c) $2.01 \, \text{m}$  
+    - (d) $2.02 \, \text{m}$
+
+32. A diffraction grating with $d = 1.6 \, \mu\text{m}$, $N = 1200$, $\lambda = 500 \, \text{nm}$. Calculate the resolving power for $m = 1$.  
+    - (a) 1199  
+    - (b) 1200  
+    - (c) 1201  
+    - (d) 1202
+
+33. A single slit with $a = 1.8 \, \mu\text{m}$, $\lambda = 450 \, \text{nm}$. Calculate the angular position of the first minimum.  
+    - (a) $14.4^\circ$  
+    - (b) $14.5^\circ$  
+    - (c) $14.6^\circ$  
+    - (d) $14.7^\circ$
+
+34. A diffraction grating with 700 lines/mm, $\lambda = 500 \, \text{nm}$. Calculate $\theta_2$.  
+    - (a) $44.4^\circ$  
+    - (b) $44.5^\circ$  
+    - (c) $44.6^\circ$  
+    - (d) $44.7^\circ$
+
+35. A microscope with $a = 0.01 \, \text{m}$, $\lambda = 400 \, \text{nm}$. Calculate $\theta_{\text{min}}$.  
+    - (a) $4.87 \times 10^{-5} \, \text{rad}$  
+    - (b) $4.88 \times 10^{-5} \, \text{rad}$  
+    - (c) $4.89 \times 10^{-5} \, \text{rad}$  
+    - (d) $4.90 \times 10^{-5} \, \text{rad}$
+
+---
+
+## Conceptual Problems
+
+36. What does Huygens' principle state about wave propagation?  
+   - (a) Waves travel in straight lines only  
+   - (b) Each point on a wavefront acts as a source of secondary wavelets  
+   - (c) Waves cannot bend around obstacles  
+   - (d) Waves must be incoherent
+
+37. What type of diffraction occurs when the screen is far from the slit?  
+   - (a) Fresnel diffraction  
+   - (b) Fraunhofer diffraction  
+   - (c) No diffraction  
+   - (d) Partial diffraction
+
+38. What is the unit of angular position $\theta$ in SI units?  
+   - (a) Meter  
+   - (b) Radian  
+   - (c) Watt  
+   - (d) Hertz
+
+39. What happens at the first minimum in single-slit diffraction?  
+   - (a) Maximum intensity  
+   - (b) Zero intensity  
+   - (c) No diffraction  
+   - (d) Partial intensity
+
+40. What does the condition $d \sin \theta = m \lambda$ represent in a diffraction grating?  
+   - (a) Position of minima  
+   - (b) Position of principal maxima  
+   - (c) Central maximum width  
+   - (d) Intensity distribution
+
+41. What is the unit of resolving power $R$?  
+   - (a) Radian  
+   - (b) Meter  
+   - (c) Dimensionless  
+   - (d) Watt
+
+42. What does a smaller $\theta_{\text{min}}$ indicate for an optical instrument?  
+   - (a) Lower resolution  
+   - (b) Higher resolution  
+   - (c) No resolution  
+   - (d) Partial resolution
+
+43. What happens to the width of the central maximum if the slit width $a$ increases?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+44. What does X-ray diffraction help determine?  
+   - (a) Wavelength of light  
+   - (b) Crystal structure  
+   - (c) Intensity of light  
+   - (d) Phase difference
+
+45. What is the dimension of angular dispersion $\frac{d\theta}{d\lambda}$?  
+   - (a) $[\text{L}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does a central maximum in single-slit diffraction indicate?  
+   - (a) Zero intensity  
+   - (b) Maximum intensity  
+   - (c) No diffraction  
+   - (d) Partial diffraction
+
+47. What is the significance of $1.22 \frac{\lambda}{a}$?  
+   - (a) Path difference  
+   - (b) Minimum angular separation for resolution  
+   - (c) Fringe spacing  
+   - (d) Intensity distribution
+
+48. What happens to the diffraction pattern if the wavelength $\lambda$ increases?  
+   - (a) Pattern narrows  
+   - (b) Pattern widens  
+   - (c) Pattern remains the same  
+   - (d) Pattern disappears
+
+49. What does holography rely on to reconstruct images?  
+   - (a) Diffraction patterns  
+   - (b) Refraction  
+   - (c) Reflection  
+   - (d) Absorption
+
+50. How does diffraction assist in spacecraft optical systems?  
+   - (a) Increases intensity  
+   - (b) Enables precise resolution and spectral analysis  
+   - (c) Reduces wavelength  
+   - (d) Increases path difference
+
+---
+
+## Derivation Problems
+
+51. Derive the position of minima in single-slit diffraction $a \sin \theta = m \lambda$.
+
+52. Derive the width of the central maximum in single-slit diffraction $w \approx 2 D \frac{\lambda}{a}$.
+
+53. Derive the intensity distribution in single-slit diffraction $I = I_0 \left( \frac{\sin \alpha}{\alpha} \right)^2$.
+
+54. Derive the position of principal maxima in a diffraction grating $d \sin \theta = m \lambda$.
+
+55. Derive Bragg’s law for X-ray diffraction $2 d \sin \theta = m \lambda$.
+
+56. Derive the resolving power of a diffraction grating $R = m N$.
+
+57. Derive the angular dispersion of a diffraction grating $\frac{d\theta}{d\lambda} = \frac{m}{d \cos \theta}$.
+
+58. Derive the minimum angular separation for a circular aperture $\theta_{\text{min}} = 1.22 \frac{\lambda}{a}$.
+
+59. Derive the angular position of the first minimum in single-slit diffraction $\sin \theta_1 = \frac{\lambda}{a}$.
+
+60. Derive the intensity at the central maximum in single-slit diffraction.
+
+61. Derive the path difference in single-slit diffraction leading to minima.
+
+62. Derive the resolving power of a telescope using diffraction.
+
+63. Derive the angular separation between consecutive orders in a diffraction grating.
+
+64. Derive the width of the central maximum if the wavelength changes in single-slit diffraction.
+
+65. Derive the diffraction angle for X-ray diffraction given $d$ and $\lambda$.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of wavelength $\lambda$ in SI units?  
+   - (a) Meter  
+   - (b) Radian  
+   - (c) Hertz  
+   - (d) Watt
+
+67. What does a larger slit width $a$ do to the diffraction pattern?  
+   - (a) Widens the pattern  
+   - (b) Narrows the pattern  
+   - (c) No effect  
+   - (d) Eliminates the pattern
+
+68. What is the relationship between $\theta_{\text{min}}$ and wavelength $\lambda$ in resolving power?  
+   - (a) $\theta_{\text{min}} \propto \frac{1}{\lambda}$  
+   - (b) $\theta_{\text{min}} \propto \lambda$  
+   - (c) $\theta_{\text{min}}$ is independent of $\lambda$  
+   - (d) $\theta_{\text{min}} \propto \lambda^2$
+
+69. What happens to the diffraction pattern if the screen distance $D$ increases?  
+   - (a) Pattern narrows  
+   - (b) Pattern widens  
+   - (c) Pattern remains the same  
+   - (d) Pattern disappears
+
+70. What is the dimension of $\sin \theta$ in diffraction equations?  
+   - (a) Dimensionless  
+   - (b) $[\text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+71. What does Huygens' principle explain in diffraction?  
+   - (a) Straight-line propagation only  
+   - (b) Bending of light around obstacles  
+   - (c) Reflection of light  
+   - (d) Refraction of light
+
+72. What is the role of diffraction in a telescope?  
+   - (a) Increases intensity  
+   - (b) Limits resolution through $\theta_{\text{min}}$  
+   - (c) Reduces wavelength  
+   - (d) Increases path difference
+
+73. What happens to the resolving power of a grating if $N$ increases?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+74. Why does X-ray diffraction use small wavelengths?  
+   - (a) To increase intensity  
+   - (b) To match the scale of atomic lattices  
+   - (c) To reduce resolution  
+   - (d) To increase path difference
+
+75. What is the unit of intensity $I$?  
+   - (a) W/m²  
+   - (b) Radian  
+   - (c) Hertz  
+   - (d) Meter
+
+76. What does a zero intensity in single-slit diffraction indicate?  
+   - (a) Central maximum  
+   - (b) Minimum position  
+   - (c) No diffraction  
+   - (d) Partial diffraction
+
+77. Which type of diffraction is used in a spectrometer?  
+   - (a) Fresnel diffraction  
+   - (b) Fraunhofer diffraction  
+   - (c) No diffraction  
+   - (d) Partial diffraction
+
+78. What is the orientation of diffraction patterns in a grating?  
+   - (a) Circular  
+   - (b) Linear maxima  
+   - (c) Random  
+   - (d) No pattern
+
+79. What does a pseudo-force do in a non-inertial frame for diffraction calculations?  
+   - (a) Affects perceived diffraction angle  
+   - (b) Affects intensity  
+   - (c) Creates diffraction  
+   - (d) Reduces wavelength
+
+80. What is the dimension of $a \sin \theta$?  
+   - (a) $[\text{L}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of diffraction in spacecraft spectroscopy?  
+   - (a) Increases intensity  
+   - (b) Enables spectral analysis through gratings  
+   - (c) Reduces wavelength  
+   - (d) Increases path difference
+
+82. What happens to the central maximum width if $\lambda$ decreases?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+83. Why does a diffraction grating produce sharp maxima?  
+   - (a) Due to multiple slit interference  
+   - (b) Due to refraction  
+   - (c) Due to reflection  
+   - (d) Due to absorption
+
+84. What is the significance of $2 d \sin \theta$?  
+   - (a) Intensity in single-slit diffraction  
+   - (b) Path difference in X-ray diffraction  
+   - (c) Fringe spacing  
+   - (d) Phase difference
+
+85. What is the unit of slit width $a$?  
+   - (a) Meter  
+   - (b) Radian  
+   - (c) Hertz  
+   - (d) Watt
+
+86. What does a high resolving power in a grating indicate?  
+   - (a) Lower resolution  
+   - (b) Higher resolution  
+   - (c) No resolution  
+   - (d) Partial resolution
+
+87. What is the physical significance of $\frac{\sin \alpha}{\alpha}$?  
+   - (a) Path difference  
+   - (b) Intensity factor in single-slit diffraction  
+   - (c) Fringe spacing  
+   - (d) Wavelength
+
+88. Why does diffraction occur when slit width $a \approx \lambda$?  
+   - (a) Due to $a \sin \theta = m \lambda$  
+   - (b) Due to wave bending being significant  
+   - (c) Due to reflection  
+   - (d) Due to refraction
+
+89. What is the dimension of $\frac{\lambda}{a}$?  
+   - (a) Dimensionless  
+   - (b) $[\text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+90. How does diffraction assist in optical data storage?  
+   - (a) Increases intensity  
+   - (b) Uses diffraction patterns to read data  
+   - (c) Reduces wavelength  
+   - (d) Increases path difference
+
+91. What is the role of aperture size $a$ in resolving power?  
+   - (a) Determines the wavelength  
+   - (b) Determines $\theta_{\text{min}}$  
+   - (c) Determines intensity  
+   - (d) Determines phase difference
+
+92. What does a wide central maximum in single-slit diffraction indicate?  
+   - (a) Large $a$  
+   - (b) Small $a$  
+   - (c) No diffraction  
+   - (d) Partial diffraction
+
+93. What is the physical significance of $m N$?  
+   - (a) Path difference  
+   - (b) Resolving power of a diffraction grating  
+   - (c) Fringe spacing  
+   - (d) Intensity
+
+94. What is the dimension of $1.22 \frac{\lambda}{a}$?  
+   - (a) Radian  
+   - (b) $[\text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+95. Why does the diffraction pattern in single-slit diffraction depend on $\lambda$?  
+   - (a) Due to $a \sin \theta = m \lambda$  
+   - (b) Due to intensity  
+   - (c) Due to phase difference  
+   - (d) Due to coherence
+
+---
+
+## NEET-style Numerical Problems
+
+96. A single slit with $a = 2 \, \mu\text{m}$, $\lambda = 400 \, \text{nm}$. Calculate the angular position of the first minimum.  
+   - (a) $11.4^\circ$  
+   - (b) $11.5^\circ$  
+   - (c) $11.6^\circ$  
+   - (d) $11.7^\circ$
+
+97. A diffraction grating with $d = 2.5 \, \mu\text{m}$, $\lambda = 500 \, \text{nm}$. Calculate $\theta_1$.  
+   - (a) $11.4^\circ$  
+   - (b) $11.5^\circ$  
+   - (c) $11.6^\circ$  
+   - (d) $11.7^\circ$
+
+98. A telescope with $a = 0.04 \, \text{m}$, $\lambda = 500 \, \text{nm}$. Calculate $\theta_{\text{min}}$.  
+   - (a) $1.52 \times 10^{-5} \, \text{rad}$  
+   - (b) $1.53 \times 10^{-5} \, \text{rad}$  
+   - (c) $1.54 \times 10^{-5} \, \text{rad}$  
+   - (d) $1.55 \times 10^{-5} \, \text{rad}$
+
+99. X-rays with $\lambda = 0.16 \, \text{nm}$, $d = 0.32 \, \text{nm}$, $m = 1$. Calculate $\theta$.  
+   - (a) $29.9^\circ$  
+   - (b) $30.0^\circ$  
+   - (c) $30.1^\circ$  
+   - (d) $30.2^\circ$
+
+100. A single slit with $a = 1.5 \, \mu\text{m}$, $\lambda = 600 \, \text{nm}$, $D = 1 \, \text{m}$. Calculate the width of the central maximum.  
+    - (a) $1.19 \, \text{m}$  
+    - (b) $1.20 \, \text{m}$  
+    - (c) $1.21 \, \text{m}$  
+    - (d) $1.22 \, \text{m}$
 
 ## Back to Chapter
 [Return to Diffraction Chapter](./index.md)
