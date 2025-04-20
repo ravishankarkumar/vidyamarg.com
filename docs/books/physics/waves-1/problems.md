@@ -1,221 +1,572 @@
 ---
-title: Physics Book - Waves-1 Problems for JEE & NEET
-description: Practice 100 mechanical wave problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+title: Physics Book - Waves—I Problems for JEE & NEET
+description: Practice 100 wave motion problems for JEE and NEET, inspired by exam patterns, covering wave characteristics, wave equations, superposition, interference, standing waves, and applications in strings and pipes.
 slug: book/physics/waves-1-problems
-keywords: physics waves problems, JEE physics wave motion problems, NEET physics standing waves problems, wave interference
+keywords: physics waves problems, JEE physics wave motion problems, NEET physics interference problems, standing waves
 og:image: https://vidyamarg.com/og-physics-waves-1.jpg
 ---
 
-# Waves-1 Problems
+# Waves—I Problems
 
-This section provides **100 problems** to test your understanding of mechanical waves, including wave types, wave equation, superposition, and standing waves. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns, as requested (April 18, 2025). NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format [Web:9, Web:15]. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of wave motion, including wave characteristics, wave equations, superposition, interference, and standing waves. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering wave mechanics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on wave speed, wavelength, interference, and standing wave frequencies, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., string waves, sound), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A wave on a string has tension $T = 200 \, \text{N}$ and linear mass density $\mu = 0.04 \, \text{kg/m}$. Calculate the wave speed.  
+   - (a) $69 \, \text{m/s}$  
+   - (b) $70 \, \text{m/s}$  
+   - (c) $71 \, \text{m/s}$  
+   - (d) $72 \, \text{m/s}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A transverse wave has a frequency of 8 Hz and wavelength of 1.5 m. Calculate the wave speed.
-   - Options: (a) 10 m/s (b) 12 m/s (c) 14 m/s (d) 16 m/s
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A longitudinal wave has a period of 0.02 s and speed of 300 m/s. Calculate the wavelength.
-   - Options: (a) 5 m (b) 6 m (c) 7 m (d) 8 m
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A string has tension 80 N and mass per unit length 0.008 kg/m. Calculate the wave speed.
-   - Options: (a) 90 m/s (b) 100 m/s (c) 110 m/s (d) 120 m/s
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A wave is described by \( y = 0.03 \sin(4 \pi x - 20 \pi t) \) m. Calculate the wave number.
-   - Options: (a) 4 rad/m (b) 4.5 rad/m (c) 5 rad/m (d) 5.5 rad/m
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: Two waves \( y_1 = 0.02 \sin(\omega t - k x) \) and \( y_2 = 0.02 \sin(\omega t - k x + \pi/3) \) interfere. Calculate the resultant amplitude.
-   - Options: (a) 0.034 m (b) 0.036 m (c) 0.038 m (d) 0.040 m
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A string (length 0.8 m, wave speed 40 m/s) is fixed at both ends. Calculate the second harmonic frequency.
-   - Options: (a) 50 Hz (b) 55 Hz (c) 60 Hz (d) 65 Hz
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A wave has a speed of 200 m/s and frequency of 50 Hz. Calculate the wavelength.
-   - Options: (a) 3 m (b) 4 m (c) 5 m (d) 6 m
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A string has tension 50 N and mass per unit length 0.005 kg/m. Calculate the wave speed.
-   - Options: (a) 90 m/s (b) 95 m/s (c) 100 m/s (d) 105 m/s
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: A wave is described by \( y = 0.01 \sin(3 \pi x - 15 \pi t) \) m. Calculate the wave speed.
-   - Options: (a) 4 m/s (b) 5 m/s (c) 6 m/s (d) 7 m/s
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: Two waves interfere with a path difference of \( \lambda/2 \). Calculate the phase difference.
-    - Options: (a) \( \pi/2 \) rad (b) \( \pi \) rad (c) \( 3\pi/2 \) rad (d) \( 2\pi \) rad
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A string (length 1.2 m, wave speed 60 m/s) is fixed at both ends. Calculate the third harmonic frequency.
-    - Options: (a) 75 Hz (b) 80 Hz (c) 85 Hz (d) 90 Hz
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A transverse wave has a wavelength of 0.5 m and speed of 25 m/s. Calculate the frequency.
-    - Options: (a) 45 Hz (b) 50 Hz (c) 55 Hz (d) 60 Hz
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: A wave is described by \( y = 0.04 \sin(5 \pi x - 10 \pi t) \) m. Calculate the angular frequency.
-    - Options: (a) 8 rad/s (b) 9 rad/s (c) 10 rad/s (d) 11 rad/s
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: Two waves \( y_1 = 0.05 \sin(\omega t - k x) \) and \( y_2 = 0.05 \sin(\omega t - k x + \pi) \) interfere. Calculate the resultant amplitude.
-    - Options: (a) 0 m (b) 0.05 m (c) 0.07 m (d) 0.10 m
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A string (length 0.6 m, wave speed 30 m/s) is fixed at both ends. Calculate the fundamental frequency.
-    - Options: (a) 25 Hz (b) 30 Hz (c) 35 Hz (d) 40 Hz
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A longitudinal wave has a period of 0.01 s and wavelength of 3 m. Calculate the wave speed.
-    - Options: (a) 280 m/s (b) 290 m/s (c) 300 m/s (d) 310 m/s
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A string has tension 120 N and mass per unit length 0.012 kg/m. Calculate the wave speed.
-    - Options: (a) 95 m/s (b) 100 m/s (c) 105 m/s (d) 110 m/s
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A wave is described by \( y = 0.02 \sin(6 \pi x - 12 \pi t) \) m. Calculate the wave number.
-    - Options: (a) 5 rad/m (b) 6 rad/m (c) 7 rad/m (d) 8 rad/m
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: Two waves interfere with a path difference of \( \lambda \). Calculate the phase difference.
-    - Options: (a) \( \pi \) rad (b) \( 2\pi \) rad (c) \( 3\pi \) rad (d) \( 4\pi \) rad
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A string (length 2 m, wave speed 80 m/s) is fixed at both ends. Calculate the fourth harmonic frequency.
-    - Options: (a) 80 Hz (b) 85 Hz (c) 90 Hz (d) 95 Hz
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A transverse wave has a frequency of 12 Hz and speed of 48 m/s. Calculate the wavelength.
-    - Options: (a) 3 m (b) 4 m (c) 5 m (d) 6 m
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A wave is described by \( y = 0.05 \sin(8 \pi x - 16 \pi t) \) m. Calculate the wave speed.
-    - Options: (a) 1 m/s (b) 2 m/s (c) 3 m/s (d) 4 m/s
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: Two waves \( y_1 = 0.03 \sin(\omega t - k x) \) and \( y_2 = 0.03 \sin(\omega t - k x + 2\pi/3) \) interfere. Calculate the resultant amplitude.
-    - Options: (a) 0.045 m (b) 0.047 m (c) 0.049 m (d) 0.051 m
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A string (length 0.4 m, wave speed 20 m/s) is fixed at both ends. Calculate the second harmonic frequency.
-    - Options: (a) 45 Hz (b) 50 Hz (c) 55 Hz (d) 60 Hz
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A longitudinal wave has a wavelength of 1 m and speed of 100 m/s. Calculate the frequency.
-    - Options: (a) 90 Hz (b) 95 Hz (c) 100 Hz (d) 105 Hz
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A string has tension 60 N and mass per unit length 0.006 kg/m. Calculate the wave speed.
-    - Options: (a) 95 m/s (b) 100 m/s (c) 105 m/s (d) 110 m/s
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A wave is described by \( y = 0.01 \sin(10 \pi x - 20 \pi t) \) m. Calculate the angular frequency.
-    - Options: (a) 18 rad/s (b) 19 rad/s (c) 20 rad/s (d) 21 rad/s
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: Two waves interfere with a path difference of \( \lambda/3 \). Calculate the phase difference.
-    - Options: (a) \( \pi/3 \) rad (b) \( 2\pi/3 \) rad (c) \( \pi \) rad (d) \( 4\pi/3 \) rad
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A string (length 1.5 m, wave speed 90 m/s) is fixed at both ends. Calculate the third harmonic frequency.
-    - Options: (a) 85 Hz (b) 90 Hz (c) 95 Hz (d) 100 Hz
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A transverse wave has a period of 0.04 s and wavelength of 2 m. Calculate the wave speed.
-    - Options: (a) 45 m/s (b) 50 m/s (c) 55 m/s (d) 60 m/s
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A wave is described by \( y = 0.06 \sin(7 \pi x - 14 \pi t) \) m. Calculate the wave number.
-    - Options: (a) 6 rad/m (b) 7 rad/m (c) 8 rad/m (d) 9 rad/m
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: Two waves \( y_1 = 0.04 \sin(\omega t - k x) \) and \( y_2 = 0.04 \sin(\omega t - k x + \pi/4) \) interfere. Calculate the resultant amplitude.
-    - Options: (a) 0.072 m (b) 0.074 m (c) 0.076 m (d) 0.078 m
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A string (length 0.9 m, wave speed 45 m/s) is fixed at both ends. Calculate the fundamental frequency.
-    - Options: (a) 20 Hz (b) 25 Hz (c) 30 Hz (d) 35 Hz
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A longitudinal wave has a frequency of 20 Hz and speed of 400 m/s. Calculate the wavelength.
-    - Options: (a) 18 m (b) 19 m (c) 20 m (d) 21 m
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A string (length 1 m, wave speed 50 m/s) is fixed at both ends. Calculate the fifth harmonic frequency.
-    - Options: (a) 120 Hz (b) 125 Hz (c) 130 Hz (d) 135 Hz
+2. A wave has frequency $f = 150 \, \text{Hz}$ and wavelength $\lambda = 2 \, \text{m}$. Calculate the wave speed.  
+   - (a) $290 \, \text{m/s}$  
+   - (b) $300 \, \text{m/s}$  
+   - (c) $310 \, \text{m/s}$  
+   - (d) $320 \, \text{m/s}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What distinguishes transverse waves from longitudinal waves?
-   - Options: (a) Displacement direction relative to propagation (b) Speed of propagation (c) Medium requirement (d) Frequency range
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What determines wave speed in a medium?
-   - Options: (a) Medium properties like tension or density (b) Wave amplitude (c) Frequency only (d) Phase difference
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What causes constructive interference?
-   - Options: (a) Crests of waves align (b) Crest meets trough (c) Waves have different frequencies (d) No phase difference
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: Why do standing waves form on a fixed string?
-   - Options: (a) Interference of opposite-traveling waves (b) Single wave propagation (c) Variable wave speed (d) No interference
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What is the role of wave number in the wave equation?
-   - Options: (a) Relates to spatial periodicity (b) Determines amplitude (c) Sets frequency (d) Controls phase
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: How does tension affect wave speed on a string?
-   - Options: (a) Higher tension increases speed (b) No effect (c) Lower tension increases speed (d) Depends on frequency
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: What happens during destructive interference?
-   - Options: (a) Amplitude reduces due to opposite phases (b) Amplitude increases (c) Waves propagate faster (d) No interference
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: Why do nodes form in standing waves?
-   - Options: (a) Zero displacement from destructive interference (b) Maximum displacement (c) Constant amplitude (d) Variable frequency
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: How does wave speed relate to frequency and wavelength?
-   - Options: (a) Speed equals frequency times wavelength (b) Speed is independent (c) Speed equals wavelength divided by frequency (d) Depends on amplitude
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is the significance of phase difference in interference?
-   - Options: (a) Determines resultant amplitude (b) Sets wave speed (c) Fixes wavelength (d) Controls medium properties
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Why does wave speed depend on medium density?
-   - Options: (a) Lower density increases speed (b) Density has no effect (c) Higher density increases speed (d) Depends on amplitude
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: How do antinodes form in standing waves?
-   - Options: (a) Maximum displacement from constructive interference (b) Zero displacement (c) Constant phase (d) Variable speed
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: What is the role of angular frequency in wave motion?
-   - Options: (a) Relates to temporal periodicity (b) Determines amplitude (c) Sets wave number (d) Controls interference
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: Why is superposition critical in wave interactions?
-   - Options: (a) Allows net displacement calculation (b) Prevents interference (c) Fixes wave speed (d) Changes medium
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: How does standing wave frequency depend on string length?
-   - Options: (a) Inversely proportional to length (b) Directly proportional (c) No effect (d) Depends on amplitude
+3. A sound wave in air has $B = 1.4 \times 10^5 \, \text{Pa}$ and $\rho = 1.2 \, \text{kg/m}^3$. Calculate the speed of sound.  
+   - (a) $340 \, \text{m/s}$  
+   - (b) $341 \, \text{m/s}$  
+   - (c) $342 \, \text{m/s}$  
+   - (d) $343 \, \text{m/s}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the wave equation for a traveling wave.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the wave speed on a string.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the resultant amplitude for two interfering waves.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the frequency of standing waves on a fixed string.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the phase difference from path difference.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the wave number for a given wave equation.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the wave speed for a longitudinal wave in a medium.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the condition for constructive interference.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the node positions in a standing wave.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the angular frequency for a wave.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the superposition principle for wave displacement.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the antinode positions in a standing wave.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the relationship between wave speed, frequency, and wavelength.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the condition for destructive interference.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the wave equation for a standing wave.
+4. Two points on a wave have a path difference of $0.6 \, \text{m}$, with wavelength $\lambda = 1.2 \, \text{m}$. Calculate the phase difference.  
+   - (a) $\pi \, \text{rad}$  
+   - (b) $\frac{\pi}{2} \, \text{rad}$  
+   - (c) $2 \pi \, \text{rad}$  
+   - (d) $\frac{3 \pi}{2} \, \text{rad}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What defines a mechanical wave?
-   - Options: (a) Requires a medium for propagation (b) Propagates without medium (c) Always longitudinal (d) Fixed amplitude
-67. **Problem 67 (NEET, 2022)**: How does wavelength relate to wave speed and frequency?
-   - Options: (a) Wavelength equals speed divided by frequency (b) Wavelength equals frequency divided by speed (c) No relation (d) Depends on amplitude
-68. **Problem 68 (NEET, 2021)**: What causes interference in waves?
-   - Options: (a) Overlapping of waves (b) Single wave propagation (c) No medium (d) Constant frequency
-69. **Problem 69 (NEET, 2024)**: Why do standing waves have nodes and antinodes?
-   - Options: (a) Interference creates fixed points (b) Waves propagate freely (c) No interference (d) Variable speed
-70. **Problem 70 (NEET, 2020)**: What determines wave speed on a string?
-   - Options: (a) Tension and mass density (b) Amplitude only (c) Frequency alone (d) Phase difference
-71. **Problem 71 (NEET, 2023)**: How does constructive interference affect wave amplitude?
-   - Options: (a) Increases amplitude (b) Decreases amplitude (c) No effect (d) Changes frequency
-72. **Problem 72 (NEET, 2022)**: What is the role of wave number in wave motion?
-   - Options: (a) Measures spatial periodicity (b) Sets amplitude (c) Determines frequency (d) Controls phase
-73. **Problem 73 (NEET, 2021)**: Why does destructive interference reduce amplitude?
-   - Options: (a) Opposite phases cancel displacement (b) Phases align (c) No phase difference (d) Increases speed
-74. **Problem 74 (NEET, 2024)**: How do standing waves form in musical instruments?
-   - Options: (a) Interference of reflected waves (b) Single wave (c) No reflection (d) Variable frequency
-75. **Problem 75 (NEET, 2020)**: What is the significance of wave speed in a medium?
-   - Options: (a) Depends on medium properties (b) Fixed for all media (c) Depends on amplitude (d) No effect
-76. **Problem 76 (NEET, 2023)**: Why does higher tension increase wave speed on a string?
-   - Options: (a) Increases restoring force (b) Decreases force (c) No effect (d) Changes amplitude
-77. **Problem 77 (NEET, 2022)**: How does path difference affect interference?
-   - Options: (a) Determines phase difference (b) Sets wave speed (c) No effect (d) Changes medium
-78. **Problem 78 (NEET, 2021)**: What is the role of frequency in wave motion?
-   - Options: (a) Measures oscillations per second (b) Sets amplitude (c) Determines nodes (d) Fixes phase
-79. **Problem 79 (NEET, 2024)**: Why do nodes have zero displacement in standing waves?
-   - Options: (a) Destructive interference (b) Constructive interference (c) No interference (d) Variable speed
-80. **Problem 80 (NEET, 2020)**: How does wave amplitude affect energy?
-   - Options: (a) Energy proportional to amplitude squared (b) No effect (c) Energy inversely proportional (d) Depends on frequency
-81. **Problem 81 (NEET, 2023)**: What is the role of superposition in wave interactions?
-   - Options: (a) Combines displacements of waves (b) Prevents interference (c) Fixes speed (d) Changes medium
-82. **Problem 82 (NEET, 2022)**: Why does wave speed vary in different media?
-   - Options: (a) Depends on medium properties (b) Fixed for all waves (c) Depends on amplitude (d) No variation
-83. **Problem 83 (NEET, 2021)**: How do antinodes form in standing waves?
-   - Options: (a) Constructive interference (b) Destructive interference (c) No interference (d) Variable frequency
-84. **Problem 84 (NEET, 2024)**: What is the significance of phase in wave motion?
-   - Options: (a) Determines relative position in cycle (b) Sets speed (c) Fixes wavelength (d) Controls density
-85. **Problem 85 (NEET, 2020)**: Why does frequency remain constant in wave propagation?
-   - Options: (a) Determined by source (b) Changes with medium (c) Depends on amplitude (d) Varies with speed
-86. **Problem 86 (NEET, 2023)**: How does standing wave frequency relate to harmonic number?
-   - Options: (a) Proportional to harmonic number (b) Inversely proportional (c) No relation (d) Depends on amplitude
-87. **Problem 87 (NEET, 2022)**: What causes wave propagation in a medium?
-   - Options: (a) Disturbance transferring energy (b) Matter transfer (c) No energy transfer (d) Fixed displacement
-88. **Problem 88 (NEET, 2021)**: Why is wave speed important in seismology?
-   - Options: (a) Indicates medium properties (b) No effect (c) Depends on amplitude (d) Changes frequency
-89. **Problem 89 (NEET, 2024)**: How does interference affect wave patterns?
-   - Options: (a) Creates new amplitude patterns (b) No effect (c) Changes speed (d) Fixes frequency
-90. **Problem 90 (NEET, 2020)**: What is the role of wavelength in wave motion?
-   - Options: (a) Measures spatial period (b) Sets amplitude (c) Determines phase (d) Fixes speed
-91. **Problem 91 (NEET, 2023)**: Why do standing waves have fixed frequencies?
-   - Options: (a) Boundary conditions set harmonics (b) No boundaries (c) Variable speed (d) No interference
-92. **Problem 92 (NEET, 2022)**: How does wave motion apply to real-world systems?
-   - Options: (a) Models sound, light, vibrations (b) Only theoretical (c) No applications (d) Limited to interference
-93. **Problem 93 (NEET, 2021)**: What is the role of tension in wave speed?
-   - Options: (a) Higher tension increases speed (b) No effect (c) Lower tension increases speed (d) Changes frequency
-94. **Problem 94 (NEET, 2024)**: Why does superposition allow wave interactions?
-   - Options: (a) Linear combination of displacements (b) Prevents combination (c) Changes speed (d) Fixes phase
-95. **Problem 95 (NEET, 2020)**: How do waves transfer energy?
-   - Options: (a) Without transferring matter (b) With matter transfer (c) No energy transfer (d) Fixed amplitude
+5. A wave is described by $y = 0.03 \sin(6 \pi x - 1200 \pi t)$ (in SI units). Calculate the wave speed.  
+   - (a) $195 \, \text{m/s}$  
+   - (b) $200 \, \text{m/s}$  
+   - (c) $205 \, \text{m/s}$  
+   - (d) $210 \, \text{m/s}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A transverse wave has a frequency of 15 Hz and wavelength of 0.4 m. What is the wave speed?
-   - Options: (a) 5 m/s (b) 6 m/s (c) 7 m/s (d) 8 m/s
-97. **Problem 97 (NEET, 2022)**: A string (length 0.7 m, wave speed 35 m/s) is fixed at both ends. What is the fundamental frequency?
-   - Options: (a) 20 Hz (b) 25 Hz (c) 30 Hz (d) 35 Hz
-98. **Problem 98 (NEET, 2021)**: A wave is described by \( y = 0.02 \sin(4 \pi x - 8 \pi t) \) m. What is the wave speed?
-   - Options: (a) 1 m/s (b) 2 m/s (c) 3 m/s (d) 4 m/s
-99. **Problem 99 (NEET, 2024)**: Two waves interfere with a path difference of \( \lambda/6 \). What is the phase difference?
-   - Options: (a) \( \pi/3 \) rad (b) \( \pi/2 \) rad (c) \( 2\pi/3 \) rad (d) \( \pi \) rad
-100. **Problem 100 (NEET, 2020)**: A longitudinal wave has a period of 0.03 s and speed of 360 m/s. What is the wavelength?
-    - Options: (a) 10 m (b) 11 m (c) 12 m (d) 13 m
+6. A wave has $k = 3 \, \text{rad/m}$ and $f = 100 \, \text{Hz}$. Calculate the wavelength.  
+   - (a) $2.08 \, \text{m}$  
+   - (b) $2.09 \, \text{m}$  
+   - (c) $2.10 \, \text{m}$  
+   - (d) $2.11 \, \text{m}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. A wave $y = 0.05 \sin(2 x - 400 t)$ (in SI units) propagates. Calculate the particle velocity at $x = 0$, $t = 0$.  
+   - (a) $-20 \, \text{m/s}$  
+   - (b) $-15 \, \text{m/s}$  
+   - (c) $0 \, \text{m/s}$  
+   - (d) $20 \, \text{m/s}$
 
-[View Solutions](/books/physics/waves-1/solutions) -->
+8. A wave has $\lambda = 0.4 \, \text{m}$ and $v = 320 \, \text{m/s}$. Calculate the frequency.  
+   - (a) $790 \, \text{Hz}$  
+   - (b) $800 \, \text{Hz}$  
+   - (c) $810 \, \text{Hz}$  
+   - (d) $820 \, \text{Hz}$
+
+9. Two waves $y_1 = 0.02 \sin(3 \pi x - 600 \pi t)$ and $y_2 = 0.02 \sin(3 \pi x - 600 \pi t + \pi/3)$ (in SI units) interfere. Calculate the resultant amplitude.  
+   - (a) $0.035 \, \text{m}$  
+   - (b) $0.036 \, \text{m}$  
+   - (c) $0.037 \, \text{m}$  
+   - (d) $0.038 \, \text{m}$
+
+10. Two sound waves have frequencies $f_1 = 300 \, \text{Hz}$ and $f_2 = 306 \, \text{Hz}$. Calculate the beat frequency.  
+    - (a) $5 \, \text{Hz}$  
+    - (b) $6 \, \text{Hz}$  
+    - (c) $7 \, \text{Hz}$  
+    - (d) $8 \, \text{Hz}$
+
+11. Two wave sources are separated by $0.8 \, \text{m}$, with $\lambda = 1.6 \, \text{m}$. Calculate the path difference for constructive interference at a point $0.8 \, \text{m}$ from each source.  
+    - (a) $0 \, \text{m}$  
+    - (b) $0.4 \, \text{m}$  
+    - (c) $0.8 \, \text{m}$  
+    - (d) $1.2 \, \text{m}$
+
+12. Two waves $y_1 = 0.04 \sin(4 x - 800 t)$ and $y_2 = 0.04 \sin(4 x - 800 t + \pi)$ (in SI units) interfere. Calculate the resultant amplitude at $x = 0$.  
+    - (a) $0 \, \text{m}$  
+    - (b) $0.02 \, \text{m}$  
+    - (c) $0.04 \, \text{m}$  
+    - (d) $0.08 \, \text{m}$
+
+13. A string ($L = 0.6 \, \text{m}$, $T = 90 \, \text{N}$, $\mu = 0.01 \, \text{kg/m}$) is fixed at both ends. Calculate the fundamental frequency.  
+    - (a) $149 \, \text{Hz}$  
+    - (b) $150 \, \text{Hz}$  
+    - (c) $151 \, \text{Hz}$  
+    - (d) $152 \, \text{Hz}$
+
+14. A closed pipe ($L = 0.34 \, \text{m}$, $v = 340 \, \text{m/s}$) produces sound. Calculate the fundamental frequency.  
+    - (a) $248 \, \text{Hz}$  
+    - (b) $250 \, \text{Hz}$  
+    - (c) $252 \, \text{Hz}$  
+    - (d) $254 \, \text{Hz}$
+
+15. A string ($L = 1.2 \, \text{m}$, $v = 60 \, \text{m/s}$) is fixed at both ends. Calculate the frequency of the second harmonic.  
+    - (a) $49 \, \text{Hz}$  
+    - (b) $50 \, \text{Hz}$  
+    - (c) $51 \, \text{Hz}$  
+    - (d) $52 \, \text{Hz}$
+
+16. An open pipe ($L = 0.17 \, \text{m}$, $v = 340 \, \text{m/s}$) produces sound. Calculate the third harmonic frequency.  
+    - (a) $2985 \, \text{Hz}$  
+    - (b) $2995 \, \text{Hz}$  
+    - (c) $3000 \, \text{Hz}$  
+    - (d) $3015 \, \text{Hz}$
+
+17. A wave on a string has $T = 150 \, \text{N}$ and $\mu = 0.03 \, \text{kg/m}$. Calculate the wave speed.  
+    - (a) $70 \, \text{m/s}$  
+    - (b) $71 \, \text{m/s}$  
+    - (c) $72 \, \text{m/s}$  
+    - (d) $73 \, \text{m/s}$
+
+18. A wave has $f = 250 \, \text{Hz}$ and $\lambda = 1.2 \, \text{m}$. Calculate the wave speed.  
+    - (a) $290 \, \text{m/s}$  
+    - (b) $300 \, \text{m/s}$  
+    - (c) $310 \, \text{m/s}$  
+    - (d) $320 \, \text{m/s}$
+
+19. A sound wave in water has $B = 2.2 \times 10^9 \, \text{Pa}$ and $\rho = 1000 \, \text{kg/m}^3$. Calculate the speed of sound.  
+    - (a) $1470 \, \text{m/s}$  
+    - (b) $1480 \, \text{m/s}$  
+    - (c) $1490 \, \text{m/s}$  
+    - (d) $1500 \, \text{m/s}$
+
+20. Two points on a wave have a path difference of $0.3 \, \text{m}$, with $\lambda = 0.6 \, \text{m}$. Calculate the phase difference.  
+    - (a) $\pi \, \text{rad}$  
+    - (b) $\frac{\pi}{2} \, \text{rad}$  
+    - (c) $2 \pi \, \text{rad}$  
+    - (d) $\frac{3 \pi}{2} \, \text{rad}$
+
+21. A wave is described by $y = 0.01 \sin(8 \pi x - 1600 \pi t)$ (in SI units). Calculate the wave speed.  
+    - (a) $195 \, \text{m/s}$  
+    - (b) $200 \, \text{m/s}$  
+    - (c) $205 \, \text{m/s}$  
+    - (d) $210 \, \text{m/s}$
+
+22. A wave has $k = 4 \, \text{rad/m}$ and $f = 80 \, \text{Hz}$. Calculate the wavelength.  
+    - (a) $1.56 \, \text{m}$  
+    - (b) $1.57 \, \text{m}$  
+    - (c) $1.58 \, \text{m}$  
+    - (d) $1.59 \, \text{m}$
+
+23. A wave $y = 0.02 \sin(5 x - 1000 t)$ (in SI units) propagates. Calculate the particle velocity at $x = 0$, $t = 0$.  
+    - (a) $-20 \, \text{m/s}$  
+    - (b) $-15 \, \text{m/s}$  
+    - (c) $0 \, \text{m/s}$  
+    - (d) $20 \, \text{m/s}$
+
+24. A wave has $\lambda = 0.8 \, \text{m}$ and $v = 400 \, \text{m/s}$. Calculate the frequency.  
+    - (a) $490 \, \text{Hz}$  
+    - (b) $500 \, \text{Hz}$  
+    - (c) $510 \, \text{Hz}$  
+    - (d) $520 \, \text{Hz}$
+
+25. Two waves $y_1 = 0.05 \sin(2 \pi x - 400 \pi t)$ and $y_2 = 0.05 \sin(2 \pi x - 400 \pi t + \pi/4)$ (in SI units) interfere. Calculate the resultant amplitude.  
+    - (a) $0.094 \, \text{m}$  
+    - (b) $0.095 \, \text{m}$  
+    - (c) $0.096 \, \text{m}$  
+    - (d) $0.097 \, \text{m}$
+
+26. Two sound waves have $f_1 = 440 \, \text{Hz}$ and $f_2 = 446 \, \text{Hz}$. Calculate the beat frequency.  
+    - (a) $5 \, \text{Hz}$  
+    - (b) $6 \, \text{Hz}$  
+    - (c) $7 \, \text{Hz}$  
+    - (d) $8 \, \text{Hz}$
+
+27. Two wave sources are separated by $0.5 \, \text{m}$, with $\lambda = 1 \, \text{m}$. Calculate the path difference for destructive interference at a point $0.5 \, \text{m}$ from each source.  
+    - (a) $0 \, \text{m}$  
+    - (b) $0.25 \, \text{m}$  
+    - (c) $0.5 \, \text{m}$  
+    - (d) $1.0 \, \text{m}$
+
+28. Two waves $y_1 = 0.03 \sin(6 x - 1200 t)$ and $y_2 = 0.03 \sin(6 x - 1200 t + 2 \pi/3)$ (in SI units) interfere. Calculate the resultant amplitude at $x = 0$.  
+    - (a) $0.030 \, \text{m}$  
+    - (b) $0.031 \, \text{m}$  
+    - (c) $0.032 \, \text{m}$  
+    - (d) $0.033 \, \text{m}$
+
+29. A string ($L = 0.8 \, \text{m}$, $T = 160 \, \text{N}$, $\mu = 0.02 \, \text{kg/m}$) is fixed at both ends. Calculate the fundamental frequency.  
+    - (a) $99 \, \text{Hz}$  
+    - (b) $100 \, \text{Hz}$  
+    - (c) $101 \, \text{Hz}$  
+    - (d) $102 \, \text{Hz}$
+
+30. A closed pipe ($L = 0.68 \, \text{m}$, $v = 340 \, \text{m/s}$) produces sound. Calculate the third harmonic frequency.  
+    - (a) $747 \, \text{Hz}$  
+    - (b) $748 \, \text{Hz}$  
+    - (c) $749 \, \text{Hz}$  
+    - (d) $750 \, \text{Hz}$
+
+31. A string ($L = 1.5 \, \text{m}$, $v = 75 \, \text{m/s}$) is fixed at both ends. Calculate the frequency of the fourth harmonic.  
+    - (a) $99 \, \text{Hz}$  
+    - (b) $100 \, \text{Hz}$  
+    - (c) $101 \, \text{Hz}$  
+    - (d) $102 \, \text{Hz}$
+
+32. An open pipe ($L = 0.34 \, \text{m}$, $v = 340 \, \text{m/s}$) produces sound. Calculate the fourth harmonic frequency.  
+    - (a) $1995 \, \text{Hz}$  
+    - (b) $2000 \, \text{Hz}$  
+    - (c) $2005 \, \text{Hz}$  
+    - (d) $2010 \, \text{Hz}$
+
+33. A rocket launch acoustic wave ($L = 2 \, \text{m}$, $v = 340 \, \text{m/s}$) forms standing waves. Calculate the fundamental frequency for an open pipe model.  
+    - (a) $84 \, \text{Hz}$  
+    - (b) $85 \, \text{Hz}$  
+    - (c) $86 \, \text{Hz}$  
+    - (d) $87 \, \text{Hz}$
+
+34. Two waves $y_1 = 0.01 \sin(10 x - 2000 t)$ and $y_2 = 0.01 \sin(10 x - 2000 t + \pi/6)$ (in SI units) interfere. Calculate the resultant amplitude.  
+    - (a) $0.019 \, \text{m}$  
+    - (b) $0.020 \, \text{m}$  
+    - (c) $0.021 \, \text{m}$  
+    - (d) $0.022 \, \text{m}$
+
+35. A wave $y = 0.04 \sin(8 x - 1600 t)$ (in SI units) propagates. Calculate the particle velocity at $x = 0$, $t = 0$.  
+    - (a) $-64 \, \text{m/s}$  
+    - (b) $0 \, \text{m/s}$  
+    - (c) $64 \, \text{m/s}$  
+    - (d) $128 \, \text{m/s}$
+
+---
+
+## Conceptual Problems
+
+36. What distinguishes a transverse wave from a longitudinal wave?  
+   - (a) Transverse waves travel faster  
+   - (b) Transverse waves have displacement perpendicular to propagation, longitudinal parallel  
+   - (c) Longitudinal waves require a medium  
+   - (d) Transverse waves have higher frequency
+
+37. What does the wave speed on a string depend on?  
+   - (a) Amplitude  
+   - (b) Frequency  
+   - (c) Tension and linear mass density  
+   - (d) Wavelength
+
+38. What condition leads to constructive interference?  
+   - (a) Phase difference of $\pi$  
+   - (b) Phase difference of $2 \pi$  
+   - (c) Path difference of $\lambda/2$  
+   - (d) Different amplitudes
+
+39. What does the beat frequency represent?  
+   - (a) Sum of the frequencies  
+   - (b) Difference between the frequencies  
+   - (c) Average of the frequencies  
+   - (d) Product of the frequencies
+
+40. What is the unit of wave number $k$?  
+   - (a) $\text{rad/m}$  
+   - (b) $\text{Hz}$  
+   - (c) $\text{m/s}$  
+   - (d) $\text{rad/s}$
+
+41. What happens to wave speed on a string if tension is quadrupled?  
+   - (a) Doubles  
+   - (b) Quadruples  
+   - (c) Halves  
+   - (d) Remains the same
+
+42. What does a node in a standing wave indicate?  
+   - (a) Maximum displacement  
+   - (b) Zero displacement  
+   - (c) Maximum velocity  
+   - (d) Minimum energy
+
+43. What is the physical significance of $v = f \lambda$?  
+   - (a) Particle velocity  
+   - (b) Wave speed  
+   - (c) Phase difference  
+   - (d) Beat frequency
+
+44. What does a standing wave on a string require?  
+   - (a) Two waves of different frequencies  
+   - (b) Two waves traveling in opposite directions with the same frequency  
+   - (c) A single wave  
+   - (d) Destructive interference only
+
+45. What is the dimension of wave speed?  
+   - (a) $[\text{L} \text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does a zero resultant amplitude in interference indicate?  
+   - (a) Constructive interference  
+   - (b) Destructive interference  
+   - (c) No interference  
+   - (d) Standing wave formation
+
+47. What is the significance of $\frac{2 \pi}{\lambda}$ in a wave equation?  
+   - (a) Angular frequency  
+   - (b) Wave number  
+   - (c) Phase difference  
+   - (d) Amplitude
+
+48. What happens to the frequency of a standing wave if the string length is doubled?  
+   - (a) Doubles  
+   - (b) Halves  
+   - (c) Quadruples  
+   - (d) Remains the same
+
+49. What does a closed pipe produce compared to an open pipe?  
+   - (a) All harmonics  
+   - (b) Only odd harmonics  
+   - (c) Only even harmonics  
+   - (d) No harmonics
+
+50. How does wave speed relate to the medium’s properties for a sound wave?  
+   - (a) Depends on frequency  
+   - (b) Depends on amplitude  
+   - (c) Depends on bulk modulus and density  
+   - (d) Depends on wavelength
+
+---
+
+## Derivation Problems
+
+51. Derive the wave speed on a string $v = \sqrt{\frac{T}{\mu}}$.
+
+52. Derive the relationship $v = f \lambda$ for a wave.
+
+53. Derive the wave speed of sound in a medium $v = \sqrt{\frac{B}{\rho}}$.
+
+54. Derive the phase difference from path difference $\Delta \phi = \frac{2 \pi}{\lambda} \Delta x$.
+
+55. Derive the general solution to the wave equation $y(x, t) = A \sin(k x - \omega t + \phi)$.
+
+56. Derive the resultant amplitude of two interfering waves with phase difference $\phi$.
+
+57. Derive the beat frequency for two waves $f_{\text{beat}} = |f_1 - f_2|$.
+
+58. Derive the condition for constructive and destructive interference using path difference.
+
+59. Derive the standing wave equation on a string $y = 2 A \sin(k x) \cos(\omega t)$.
+
+60. Derive the harmonic frequencies on a string fixed at both ends $f_n = \frac{n v}{2 L}$.
+
+61. Derive the frequencies in a closed pipe $f_n = \frac{(2n-1) v}{4 L}$.
+
+62. Derive the frequencies in an open pipe $f_n = \frac{n v}{2 L}$.
+
+63. Derive the particle velocity for a wave $v_{\text{particle}} = \frac{\partial y}{\partial t}$.
+
+64. Derive the wave number and angular frequency from $y = A \sin(k x - \omega t)$.
+
+65. Derive the node positions in a standing wave $x = \frac{n \lambda}{2}$.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of frequency in SI units?  
+   - (a) $\text{Hz}$  
+   - (b) $\text{rad/s}$  
+   - (c) $\text{m/s}$  
+   - (d) $\text{m}$
+
+67. What does a zero particle velocity in a standing wave indicate?  
+   - (a) Antinode  
+   - (b) Node  
+   - (c) Maximum amplitude  
+   - (d) Wave speed
+
+68. Which condition results in destructive interference?  
+   - (a) Phase difference of $2 \pi$  
+   - (b) Phase difference of $\pi$  
+   - (c) Same amplitude  
+   - (d) Same frequency
+
+69. What happens to wave speed in a denser medium for a sound wave?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+70. What is the dimension of wavelength?  
+   - (a) $[\text{L}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the wave number $k$ represent?  
+   - (a) Frequency of the wave  
+   - (b) Spatial frequency of the wave  
+   - (c) Speed of the wave  
+   - (d) Amplitude of the wave
+
+72. What is the role of tension in wave speed on a string?  
+   - (a) Increases speed if increased  
+   - (b) Decreases speed if increased  
+   - (c) No effect  
+   - (d) Reduces wavelength
+
+73. What happens to the frequency of a standing wave if the wave speed doubles?  
+   - (a) Doubles  
+   - (b) Halves  
+   - (c) Remains the same  
+   - (d) Quadruples
+
+74. Why does a closed pipe produce only odd harmonics?  
+   - (a) Both ends are open  
+   - (b) Boundary condition requires a node at the closed end  
+   - (c) Wave speed is higher  
+   - (d) Frequency is doubled
+
+75. What is the unit of angular frequency?  
+   - (a) $\text{rad/s}$  
+   - (b) $\text{Hz}$  
+   - (c) $\text{m/s}$  
+   - (d) $\text{rad/m}$
+
+76. What does a constant $k x - \omega t$ in a wave equation indicate?  
+   - (a) Constant amplitude  
+   - (b) Constant phase  
+   - (c) Constant speed  
+   - (d) Constant frequency
+
+77. Which type of wave requires a medium to propagate?  
+   - (a) Electromagnetic  
+   - (b) Transverse only  
+   - (c) Mechanical  
+   - (d) Longitudinal only
+
+78. What is the direction of particle displacement in a longitudinal wave?  
+   - (a) Perpendicular to wave propagation  
+   - (b) Parallel to wave propagation  
+   - (c) Circular  
+   - (d) Random
+
+79. What does a pseudo-force do in a non-inertial frame for wave motion?  
+   - (a) Affects wave speed  
+   - (b) Affects the observed frequency  
+   - (c) Creates interference  
+   - (d) Reduces amplitude
+
+80. What is the dimension of amplitude in a wave?  
+   - (a) $[\text{L}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of standing waves in rocket acoustic design?  
+   - (a) Increases noise  
+   - (b) Can cause resonance, affecting structural integrity  
+   - (c) Reduces wave speed  
+   - (d) Increases frequency
+
+82. What happens to particle velocity at an antinode in a standing wave?  
+   - (a) Zero  
+   - (b) Maximum  
+   - (c) Constant  
+   - (d) Minimum but non-zero
+
+83. Why does interference occur in wave motion?  
+   - (a) Waves travel at different speeds  
+   - (b) Waves superpose and add their displacements  
+   - (c) Waves have different amplitudes  
+   - (d) Waves have different frequencies
+
+84. What is the significance of $\frac{v}{2 L}$ for a string fixed at both ends?  
+   - (a) Wave speed  
+   - (b) Fundamental frequency  
+   - (c) Wavelength  
+   - (d) Beat frequency
+
+85. What is the unit of linear mass density $\mu$?  
+   - (a) $\text{kg/m}$  
+   - (b) $\text{kg/m}^2$  
+   - (c) $\text{N/m}$  
+   - (d) $\text{Pa}$
+
+86. What does a zero path difference in interference indicate?  
+   - (a) Destructive interference  
+   - (b) Constructive interference  
+   - (c) No interference  
+   - (d) Standing wave
+
+87. What is the physical significance of $\frac{\partial y}{\partial t}$ in a wave?  
+   - (a) Wave speed  
+   - (b) Particle velocity  
+   - (c) Phase difference  
+   - (d) Amplitude
+
+88. Why does an open pipe produce all harmonics?  
+   - (a) One end is closed  
+   - (b) Both ends are antinodes for displacement  
+   - (c) Wave speed is lower  
+   - (d) Frequency is halved
+
+89. What is the dimension of frequency?  
+   - (a) $[\text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does interference affect sound in rocket launches?  
+   - (a) Increases amplitude  
+   - (b) Can reduce noise through destructive interference  
+   - (c) Increases frequency  
+   - (d) Reduces wave speed
+
+91. What is the role of bulk modulus in sound wave speed?  
+   - (a) Measures elasticity, increasing speed if higher  
+   - (b) Reduces speed  
+   - (c) Affects amplitude  
+   - (d) Affects frequency
+
+92. What does a standing wave’s wavelength depend on in a pipe?  
+   - (a) Frequency  
+   - (b) Pipe length and harmonic number  
+   - (c) Amplitude  
+   - (d) Wave speed only
+
+93. What is the physical significance of $2 A \sin(k x)$ in a standing wave?  
+   - (a) Time-dependent amplitude  
+   - (b) Position-dependent amplitude  
+   - (c) Wave speed  
+   - (d) Frequency
+
+94. What is the dimension of particle velocity in a wave?  
+   - (a) $[\text{L} \text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does wave speed not depend on frequency for a mechanical wave?  
+   - (a) Frequency affects amplitude  
+   - (b) Speed depends on medium properties only  
+   - (c) Wavelength changes inversely  
+   - (d) Frequency affects phase
+
+---
+
+## NEET-style Numerical Problems
+
+96. A wave on a string has $T = 50 \, \text{N}$ and $\mu = 0.01 \, \text{kg/m}$. What is the wave speed?  
+   - (a) $69 \, \text{m/s}$  
+   - (b) $70 \, \text{m/s}$  
+   - (c) $71 \, \text{m/s}$  
+   - (d) $72 \, \text{m/s}$
+
+97. A wave has $f = 500 \, \text{Hz}$ and $\lambda = 0.68 \, \text{m}$. What is the wave speed?  
+   - (a) $340 \, \text{m/s}$  
+   - (b) $350 \, \text{m/s}$  
+   - (c) $360 \, \text{m/s}$  
+   - (d) $370 \, \text{m/s}$
+
+98. A wave $y = 0.02 \sin(4 x - 800 t)$ (in SI units) propagates. What is the particle velocity at $x = 0$, $t = 0$?  
+   - (a) $-16 \, \text{m/s}$  
+   - (b) $0 \, \text{m/s}$  
+   - (c) $16 \, \text{m/s}$  
+   - (d) $32 \, \text{m/s}$
+
+99. Two sound waves have $f_1 = 512 \, \text{Hz}$ and $f_2 = 520 \, \text{Hz}$. What is the beat frequency?  
+   - (a) $6 \, \text{Hz}$  
+   - (b) $7 \, \text{Hz}$  
+   - (c) $8 \, \text{Hz}$  
+   - (d) $9 \, \text{Hz}$
+
+100. A string ($L = 0.4 \, \text{m}$, $v = 80 \, \text{m/s}$) is fixed at both ends. What is the fundamental frequency?  
+    - (a) $99 \, \text{Hz}$  
+    - (b) $100 \, \text{Hz}$  
+    - (c) $101 \, \text{Hz}$  
+    - (d) $102 \, \text{Hz}$
 
 ## Back to Chapter
-[Return to Waves-1 Chapter](./index.md)
+[Return to Waves—I Chapter](./index.md)

@@ -1,176 +1,572 @@
 ---
 title: Physics Book - Fluids Problems for JEE & NEET
-description: Practice 100 fluids problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 fluid mechanics problems for JEE and NEET, inspired by exam patterns, covering fluid statics, dynamics, viscosity, surface tension, and applications in pipes, buoyancy, and flow systems.
 slug: book/physics/fluids-problems
-keywords: physics fluids problems, JEE physics fluid mechanics problems, NEET physics Bernoulli’s equation problems, hydrostatic pressure
+keywords: physics fluids problems, JEE physics fluid mechanics problems, NEET physics Bernoulli’s principle problems, viscosity
 og:image: https://vidyamarg.com/og-physics-fluids.jpg
 ---
 
 # Fluids Problems
 
-This section provides **100 problems** to test your understanding of fluids, including density, pressure, hydrostatics, hydrodynamics, and Bernoulli’s equation. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns, as requested (April 18, 2025). Problems are organized by difficulty and type to support progressive learning and build confidence for competitive exams.
+This section provides **100 problems** to test your understanding of fluid mechanics, including fluid statics (density, pressure, buoyancy), fluid dynamics (continuity, Bernoulli’s principle), viscosity (Poiseuille’s law, Stokes’ law), and surface tension (capillary action, droplets). Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering fluid mechanics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward problems focusing on density, pressure, buoyancy, flow rates, and Bernoulli’s equation, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: Practical problems emphasizing real-world applications (e.g., blood flow), with some numerical calculations, inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A tank filled with water ($\rho = 1000 \, \text{kg/m}^3$) has a depth of $3 \, \text{m}$. Calculate the pressure at the bottom ($P_{\text{atm}} = 1.013 \times 10^5 \, \text{Pa}$, $g = 9.8 \, \text{m/s}^2$).  
+   - (a) $1.294 \times 10^5 \, \text{Pa}$  
+   - (b) $1.307 \times 10^5 \, \text{Pa}$  
+   - (c) $1.320 \times 10^5 \, \text{Pa}$  
+   - (d) $1.333 \times 10^5 \, \text{Pa}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A 0.05 m³ block of aluminum (density 2700 kg/m³) is placed in air. Calculate its mass.
-   - Options: (a) 125 kg (b) 135 kg (c) 145 kg (d) 155 kg
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A force of 1000 N is applied over 0.2 m² in a hydraulic press. Calculate the pressure.
-   - Options: (a) 4000 Pa (b) 4500 Pa (c) 5000 Pa (d) 5500 Pa
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: Calculate the pressure at 5 m depth in freshwater (density 1000 kg/m³, atmospheric pressure 101325 Pa, \( g = 9.8 \, \text{m/s}^2 \)).
-   - Options: (a) 150325 Pa (b) 152325 Pa (c) 154325 Pa (d) 156325 Pa
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A 0.015 m³ object (density 800 kg/m³) is fully submerged in oil (density 900 kg/m³). Calculate the buoyant force (\( g = 9.8 \, \text{m/s}^2 \)).
-   - Options: (a) 122.4 N (b) 132.3 N (c) 142.2 N (d) 152.1 N
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: Water flows through a pipe narrowing from 0.03 m² to 0.01 m², with inlet velocity 1.5 m/s. Calculate the outlet velocity.
-   - Options: (a) 3.5 m/s (b) 4.0 m/s (c) 4.5 m/s (d) 5.0 m/s
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: Oil (density 850 kg/m³) flows at 2 m/s through a pipe (area 0.02 m²). Calculate the mass flow rate.
-   - Options: (a) 34 kg/s (b) 36 kg/s (c) 38 kg/s (d) 40 kg/s
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: Water (density 1000 kg/m³) flows in a horizontal pipe with pressure 150000 Pa and velocity 1 m/s. At a narrower section, velocity is 3 m/s. Calculate the pressure.
-   - Options: (a) 145500 Pa (b) 146500 Pa (c) 147500 Pa (d) 148500 Pa
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: Air (density 1.2 kg/m³) flows over a wing at 60 m/s, with 50 m/s below. Calculate the pressure difference.
-   - Options: (a) 660 Pa (b) 690 Pa (c) 720 Pa (d) 750 Pa
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: A 0.1 m³ block of steel (density 7850 kg/m³) is submerged in water (density 1000 kg/m³). Calculate the buoyant force.
-   - Options: (a) 880 N (b) 980 N (c) 1080 N (d) 1180 N
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: Calculate the pressure at 20 m depth in seawater (density 1030 kg/m³, atmospheric pressure 101325 Pa).
-    - Options: (a) 301925 Pa (b) 306925 Pa (c) 311925 Pa (d) 316925 Pa
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A pipe narrows from 0.04 m² to 0.02 m², with inlet velocity 2.5 m/s. Calculate the outlet velocity.
-    - Options: (a) 4.5 m/s (b) 5.0 m/s (c) 5.5 m/s (d) 6.0 m/s
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: Blood (density 1060 kg/m³) flows at 0.4 m/s through a vessel (area 0.0002 m²). Calculate the mass flow rate.
-    - Options: (a) 0.0748 kg/s (b) 0.0848 kg/s (c) 0.0948 kg/s (d) 0.1048 kg/s
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: Water (density 1000 kg/m³) flows in a horizontal pipe with pressure 180000 Pa and velocity 2 m/s. At a point, velocity is 4 m/s. Calculate the pressure.
-    - Options: (a) 172000 Pa (b) 174000 Pa (c) 176000 Pa (d) 178000 Pa
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A 0.008 m³ object (density 700 kg/m³) is submerged in water (density 1000 kg/m³). Calculate the buoyant force.
-    - Options: (a) 68.4 N (b) 78.4 N (c) 88.4 N (d) 98.4 N
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: Calculate the pressure at 15 m depth in oil (density 900 kg/m³, atmospheric pressure 101325 Pa).
-    - Options: (a) 232425 Pa (b) 234425 Pa (c) 236425 Pa (d) 238425 Pa
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: Air (density 1.2 kg/m³) flows over a wing at 70 m/s, with 60 m/s below. Calculate the pressure difference.
-    - Options: (a) 780 Pa (b) 810 Pa (c) 840 Pa (d) 870 Pa
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A 0.03 m³ block of copper (density 8960 kg/m³) is in air. Calculate its mass.
-    - Options: (a) 258.8 kg (b) 268.8 kg (c) 278.8 kg (d) 288.8 kg
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A force of 800 N is applied over 0.4 m². Calculate the pressure.
-    - Options: (a) 1800 Pa (b) 1900 Pa (c) 2000 Pa (d) 2100 Pa
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: Calculate the pressure at 8 m depth in mercury (density 13600 kg/m³, atmospheric pressure 101325 Pa).
-    - Options: (a) 206625 Pa (b) 211625 Pa (c) 216625 Pa (d) 221625 Pa
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A 0.012 m³ object (density 500 kg/m³) is submerged in saltwater (density 1025 kg/m³). Calculate the buoyant force.
-    - Options: (a) 110.7 N (b) 120.5 N (c) 130.3 N (d) 140.1 N
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: Water flows through a pipe narrowing from 0.05 m² to 0.025 m², with inlet velocity 1 m/s. Calculate the outlet velocity.
-    - Options: (a) 1.8 m/s (b) 2.0 m/s (c) 2.2 m/s (d) 2.4 m/s
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: Oil (density 920 kg/m³) flows at 1.5 m/s through a pipe (area 0.03 m²). Calculate the mass flow rate.
-    - Options: (a) 39.6 kg/s (b) 41.4 kg/s (c) 43.2 kg/s (d) 45.0 kg/s
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: Water (density 1000 kg/m³) flows in a horizontal pipe with pressure 160000 Pa and velocity 1.5 m/s. At a point, velocity is 2.5 m/s. Calculate the pressure.
-    - Options: (a) 156750 Pa (b) 157750 Pa (c) 158750 Pa (d) 159750 Pa
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: Air (density 1.2 kg/m³) flows over a wing at 80 m/s, with 70 m/s below. Calculate the pressure difference.
-    - Options: (a) 900 Pa (b) 930 Pa (c) 960 Pa (d) 990 Pa
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A 0.04 m³ block of lead (density 11340 kg/m³) is in air. Calculate its mass.
-    - Options: (a) 443.6 kg (b) 453.6 kg (c) 463.6 kg (d) 473.6 kg
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: Calculate the pressure at 12 m depth in freshwater (density 1000 kg/m³, atmospheric pressure 101325 Pa).
-    - Options: (a) 218925 Pa (b) 220925 Pa (c) 222925 Pa (d) 224925 Pa
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A 0.007 m³ object (density 600 kg/m³) is submerged in oil (density 850 kg/m³). Calculate the buoyant force.
-    - Options: (a) 58.31 N (b) 68.31 N (c) 78.31 N (d) 88.31 N
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: Water flows through a pipe narrowing from 0.06 m² to 0.03 m², with inlet velocity 2 m/s. Calculate the outlet velocity.
-    - Options: (a) 3.8 m/s (b) 4.0 m/s (c) 4.2 m/s (d) 4.4 m/s
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: Blood (density 1060 kg/m³) flows at 0.3 m/s through a vessel (area 0.00015 m²). Calculate the mass flow rate.
-    - Options: (a) 0.0477 kg/s (b) 0.0577 kg/s (c) 0.0677 kg/s (d) 0.0777 kg/s
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: Water (density 1000 kg/m³) flows in a horizontal pipe with pressure 170000 Pa and velocity 1.2 m/s. At a point, velocity is 2 m/s. Calculate the pressure.
-    - Options: (a) 166800 Pa (b) 167800 Pa (c) 168800 Pa (d) 169800 Pa
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: Air (density 1.2 kg/m³) flows over a wing at 90 m/s, with 80 m/s below. Calculate the pressure difference.
-    - Options: (a) 1020 Pa (b) 1050 Pa (c) 1080 Pa (d) 1110 Pa
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A 0.025 m³ block of brass (density 8500 kg/m³) is in air. Calculate its mass.
-    - Options: (a) 202.5 kg (b) 212.5 kg (c) 222.5 kg (d) 232.5 kg
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: Calculate the pressure at 25 m depth in seawater (density 1030 kg/m³, atmospheric pressure 101325 Pa).
-    - Options: (a) 352925 Pa (b) 357925 Pa (c) 362925 Pa (d) 367925 Pa
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A 0.009 m³ object (density 400 kg/m³) is submerged in water (density 1000 kg/m³). Calculate the buoyant force.
-    - Options: (a) 78.4 N (b) 88.2 N (c) 98.0 N (d) 108.8 N
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: Water flows through a pipe narrowing from 0.08 m² to 0.04 m², with inlet velocity 1.8 m/s. Calculate the outlet velocity.
-    - Options: (a) 3.4 m/s (b) 3.6 m/s (c) 3.8 m/s (d) 4.0 m/s
+2. A wooden block of density $700 \, \text{kg/m}^3$ floats in water ($\rho = 1000 \, \text{kg/m}^3$). What fraction of the block is submerged?  
+   - (a) $0.65$  
+   - (b) $0.70$  
+   - (c) $0.75$  
+   - (d) $0.80$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: Explain why pressure in a fluid is isotropic.
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: Discuss the role of density in buoyancy.
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: Explain how pressure varies with depth in a fluid.
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: Describe the significance of the continuity equation in fluid flow.
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: Discuss why Bernoulli’s equation reflects energy conservation.
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: Explain the role of atmospheric pressure in fluid systems.
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Describe how buoyancy affects floating objects.
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: Explain why fluid velocity increases in narrower pipes.
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: Discuss the effect of pressure differences in lift generation.
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: Explain how fluid density affects pressure calculations.
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Describe the role of gravity in hydrostatic pressure.
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: Explain why Bernoulli’s equation assumes ideal fluids.
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: Discuss the significance of flow rate in fluid systems.
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: Explain how pressure gradients drive fluid motion.
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: Describe the effect of viscosity on real fluid flow.
+3. A hydraulic lift has an input area $A_1 = 0.03 \, \text{m}^2$ and output area $A_2 = 0.15 \, \text{m}^2$. If an input force $F_1 = 150 \, \text{N}$ is applied, calculate the output force.  
+   - (a) $700 \, \text{N}$  
+   - (b) $725 \, \text{N}$  
+   - (c) $750 \, \text{N}$  
+   - (d) $775 \, \text{N}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the hydrostatic pressure equation for a fluid.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the buoyant force using Archimedes’ principle.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the continuity equation for incompressible fluids.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive Bernoulli’s equation from energy conservation.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the pressure difference in a Venturi tube.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the mass flow rate for a fluid.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the relationship between pressure and depth in a non-uniform fluid.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the velocity change in a narrowing pipe.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the lift force on an airplane wing using Bernoulli’s equation.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the pressure variation in a rotating fluid.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the equation for fluid pressure in a U-tube manometer.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the buoyant force for a partially submerged object.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the flow rate through a pipe.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the pressure drop in a fluid due to velocity change.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the relationship between pressure and fluid acceleration.
+4. A steel ball ($\rho_{\text{steel}} = 7800 \, \text{kg/m}^3$, volume $0.002 \, \text{m}^3$) is submerged in water ($\rho_{\text{water}} = 1000 \, \text{kg/m}^3$, $g = 9.8 \, \text{m/s}^2$). Calculate the buoyant force.  
+   - (a) $18.6 \, \text{N}$  
+   - (b) $19.0 \, \text{N}$  
+   - (c) $19.4 \, \text{N}$  
+   - (d) $19.6 \, \text{N}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: Explain how pressure affects fluid behavior in a dam.
-67. **Problem 67 (NEET, 2022)**: Discuss the role of buoyancy in ship flotation.
-68. **Problem 68 (NEET, 2021)**: Explain why blood pressure varies in the body.
-69. **Problem 69 (NEET, 2024)**: Describe how fluid flow affects artery function.
-70. **Problem 70 (NEET, 2020)**: Explain the significance of atmospheric pressure in barometers.
-71. **Problem 71 (NEET, 2023)**: Discuss why fluid pressure increases with depth.
-72. **Problem 72 (NEET, 2022)**: Explain how Bernoulli’s principle applies to airplane lift.
-73. **Problem 73 (NEET, 2021)**: Describe the role of density in fluid mechanics.
-74. **Problem 74 (NEET, 2024)**: Explain why fluid velocity affects pressure in pipes.
-75. **Problem 75 (NEET, 2020)**: Discuss the effect of gravity on fluid pressure.
-76. **Problem 76 (NEET, 2023)**: Explain how buoyancy supports marine life.
-77. **Problem 77 (NEET, 2022)**: Describe why fluid flow is conserved in pipes.
-78. **Problem 78 (NEET, 2021)**: Explain the role of pressure in hydraulic systems.
-79. **Problem 79 (NEET, 2024)**: Discuss how fluid dynamics affects blood circulation.
-80. **Problem 80 (NEET, 2020)**: Explain why pressure is uniform in a static fluid.
-81. **Problem 81 (NEET, 2023)**: Describe the significance of Bernoulli’s equation in engineering.
-82. **Problem 82 (NEET, 2022)**: Explain how fluid density influences buoyancy.
-83. **Problem 83 (NEET, 2021)**: Discuss the role of fluid flow in ventilation systems.
-84. **Problem 84 (NEET, 2024)**: Explain why pressure differences cause lift in wings.
-85. **Problem 85 (NEET, 2020)**: Describe how gravity affects fluid systems.
-86. **Problem 86 (NEET, 2023)**: Explain the role of continuity in fluid mechanics.
-87. **Problem 87 (NEET, 2022)**: Discuss why fluid pressure varies in moving systems.
-88. **Problem 88 (NEET, 2021)**: Explain how buoyancy affects balloon flight.
-89. **Problem 89 (NEET, 2024)**: Describe the effect of fluid density on pressure.
-90. **Problem 90 (NEET, 2020)**: Explain why Bernoulli’s principle applies to fluid flow.
-91. **Problem 91 (NEET, 2023)**: Discuss the role of pressure in scuba diving.
-92. **Problem 92 (NEET, 2022)**: Explain how fluid flow affects industrial systems.
-93. **Problem 93 (NEET, 2021)**: Describe why fluid pressure is critical in dams.
-94. **Problem 94 (NEET, 2024)**: Explain the effect of velocity on fluid pressure.
-95. **Problem 95 (NEET, 2020)**: Discuss how buoyancy influences aquatic ecosystems.
+5. A pipe has cross-sectional areas $A_1 = 0.04 \, \text{m}^2$ and $A_2 = 0.01 \, \text{m}^2$. If the flow speed at $A_1$ is $v_1 = 1.5 \, \text{m/s}$, calculate $v_2$.  
+   - (a) $5.5 \, \text{m/s}$  
+   - (b) $6.0 \, \text{m/s}$  
+   - (c) $6.5 \, \text{m/s}$  
+   - (d) $7.0 \, \text{m/s}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: What is the pressure at 10 m depth in freshwater (density 1000 kg/m³, atmospheric pressure 101325 Pa, \( g = 9.8 \, \text{m/s}^2 \))?
-   - Options: (a) 199325 Pa (b) 201325 Pa (c) 203325 Pa (d) 205325 Pa
-97. **Problem 97 (NEET, 2022)**: A 0.01 m³ object (density 750 kg/m³) is fully submerged in water (density 1000 kg/m³). What is the buoyant force (\( g = 9.8 \, \text{m/s}^2 \))?
-   - Options: (a) 88 N (b) 98 N (c) 108 N (d) 118 N
-98. **Problem 98 (NEET, 2021)**: Water flows through a pipe narrowing from 0.02 m² to 0.005 m², with inlet velocity 1 m/s. What is the outlet velocity?
-   - Options: (a) 3.0 m/s (b) 3.5 m/s (c) 4.0 m/s (d) 4.5 m/s
-99. **Problem 99 (NEET, 2024)**: Air (density 1.2 kg/m³) flows over a wing at 100 m/s, with 90 m/s below. What is the pressure difference?
-   - Options: (a) 1140 Pa (b) 1170 Pa (c) 1200 Pa (d) 1230 Pa
-100. **Problem 100 (NEET, 2020)**: Blood (density 1060 kg/m³) flows at 0.6 m/s through a vessel (area 0.0001 m²). What is the mass flow rate?
-    - Options: (a) 0.0536 kg/s (b) 0.0636 kg/s (c) 0.0736 kg/s (d) 0.0836 kg/s
+6. A tank with a hole at $2 \, \text{m}$ below the surface releases water. Calculate the speed of the water exiting ($g = 9.8 \, \text{m/s}^2$).  
+   - (a) $6.1 \, \text{m/s}$  
+   - (b) $6.2 \, \text{m/s}$  
+   - (c) $6.3 \, \text{m/s}$  
+   - (d) $6.4 \, \text{m/s}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. A horizontal pipe has $P_1 = 1.5 \times 10^5 \, \text{Pa}$, $v_1 = 2 \, \text{m/s}$, $A_1 = 0.05 \, \text{m}^2$, $A_2 = 0.02 \, \text{m}^2$. Calculate $P_2$ ($\rho = 1000 \, \text{kg/m}^3$).  
+   - (a) $1.425 \times 10^5 \, \text{Pa}$  
+   - (b) $1.430 \times 10^5 \, \text{Pa}$  
+   - (c) $1.435 \times 10^5 \, \text{Pa}$  
+   - (d) $1.440 \times 10^5 \, \text{Pa}$
 
-[View Solutions](/books/physics/fluids/solutions) -->
+8. An airfoil has $v_{\text{top}} = 60 \, \text{m/s}$, $v_{\text{bottom}} = 50 \, \text{m/s}$, area $A = 1.5 \, \text{m}^2$, $\rho_{\text{air}} = 1.2 \, \text{kg/m}^3$. Calculate the lift force.  
+   - (a) $900 \, \text{N}$  
+   - (b) $925 \, \text{N}$  
+   - (c) $950 \, \text{N}$  
+   - (d) $975 \, \text{N}$
+
+9. A steel ball ($r = 0.005 \, \text{m}$, $\rho_{\text{steel}} = 7800 \, \text{kg/m}^3$) falls in oil ($\rho_{\text{oil}} = 800 \, \text{kg/m}^3$, $\eta = 0.15 \, \text{Pa} \cdot \text{s}$, $g = 9.8 \, \text{m/s}^2$). Calculate the terminal velocity.  
+   - (a) $4.70 \, \text{m/s}$  
+   - (b) $4.80 \, \text{m/s}$  
+   - (c) $4.90 \, \text{m/s}$  
+   - (d) $5.00 \, \text{m/s}$
+
+10. A tube of radius $0.004 \, \text{m}$, length $0.2 \, \text{m}$, has $\Delta P = 800 \, \text{Pa}$, $\eta = 0.001 \, \text{Pa} \cdot \text{s}$. Calculate the flow rate.  
+    - (a) $1.61 \times 10^{-5} \, \text{m}^3/\text{s}$  
+    - (b) $1.63 \times 10^{-5} \, \text{m}^3/\text{s}$  
+    - (c) $1.65 \times 10^{-5} \, \text{m}^3/\text{s}$  
+    - (d) $1.67 \times 10^{-5} \, \text{m}^3/\text{s}$
+
+11. A water droplet of radius $0.002 \, \text{m}$ has surface tension $\gamma = 0.072 \, \text{N/m}$. Calculate the excess pressure inside.  
+    - (a) $70 \, \text{Pa}$  
+    - (b) $72 \, \text{Pa}$  
+    - (c) $74 \, \text{Pa}$  
+    - (d) $76 \, \text{Pa}$
+
+12. A capillary tube of radius $0.0004 \, \text{m}$ is placed in water ($\gamma = 0.072 \, \text{N/m}$, $\rho = 1000 \, \text{kg/m}^3$, $g = 9.8 \, \text{m/s}^2$). Calculate the height of rise.  
+    - (a) $35.5 \, \text{mm}$  
+    - (b) $36.0 \, \text{mm}$  
+    - (c) $36.5 \, \text{mm}$  
+    - (d) $37.0 \, \text{mm}$
+
+13. A tank filled with mercury ($\rho = 13600 \, \text{kg/m}^3$) has a depth of $1.5 \, \text{m}$. Calculate the pressure at the bottom ($P_{\text{atm}} = 1.013 \times 10^5 \, \text{Pa}$, $g = 9.8 \, \text{m/s}^2$).  
+    - (a) $3.00 \times 10^5 \, \text{Pa}$  
+    - (b) $3.01 \times 10^5 \, \text{Pa}$  
+    - (c) $3.02 \times 10^5 \, \text{Pa}$  
+    - (d) $3.03 \times 10^5 \, \text{Pa}$
+
+14. A block of density $400 \, \text{kg/m}^3$ floats in a liquid of density $800 \, \text{kg/m}^3$. What fraction of the block is submerged?  
+    - (a) $0.45$  
+    - (b) $0.50$  
+    - (c) $0.55$  
+    - (d) $0.60$
+
+15. A hydraulic lift has $A_1 = 0.01 \, \text{m}^2$ and $A_2 = 0.05 \, \text{m}^2$. If $F_1 = 100 \, \text{N}$, calculate $F_2$.  
+    - (a) $450 \, \text{N}$  
+    - (b) $475 \, \text{N}$  
+    - (c) $500 \, \text{N}$  
+    - (d) $525 \, \text{N}$
+
+16. A copper sphere ($\rho_{\text{copper}} = 8900 \, \text{kg/m}^3$, volume $0.0005 \, \text{m}^3$) is submerged in oil ($\rho_{\text{oil}} = 850 \, \text{kg/m}^3$, $g = 9.8 \, \text{m/s}^2$). Calculate the buoyant force.  
+    - (a) $4.1 \, \text{N}$  
+    - (b) $4.2 \, \text{N}$  
+    - (c) $4.3 \, \text{N}$  
+    - (d) $4.4 \, \text{N}$
+
+17. A pipe has $A_1 = 0.06 \, \text{m}^2$ and $A_2 = 0.03 \, \text{m}^2$. If $v_1 = 1 \, \text{m/s}$, calculate $v_2$.  
+    - (a) $1.5 \, \text{m/s}$  
+    - (b) $2.0 \, \text{m/s}$  
+    - (c) $2.5 \, \text{m/s}$  
+    - (d) $3.0 \, \text{m/s}$
+
+18. A tank with a hole at $1 \, \text{m}$ below the surface releases water. Calculate the exit speed ($g = 9.8 \, \text{m/s}^2$).  
+    - (a) $4.3 \, \text{m/s}$  
+    - (b) $4.4 \, \text{m/s}$  
+    - (c) $4.5 \, \text{m/s}$  
+    - (d) $4.6 \, \text{m/s}$
+
+19. A horizontal pipe has $P_1 = 1.8 \times 10^5 \, \text{Pa}$, $v_1 = 1.5 \, \text{m/s}$, $A_1 = 0.03 \, \text{m}^2$, $A_2 = 0.01 \, \text{m}^2$. Calculate $P_2$ ($\rho = 1000 \, \text{kg/m}^3$).  
+    - (a) $1.775 \times 10^5 \, \text{Pa}$  
+    - (b) $1.780 \times 10^5 \, \text{Pa}$  
+    - (c) $1.785 \times 10^5 \, \text{Pa}$  
+    - (d) $1.790 \times 10^5 \, \text{Pa}$
+
+20. An airfoil has $v_{\text{top}} = 70 \, \text{m/s}$, $v_{\text{bottom}} = 60 \, \text{m/s}$, $A = 2 \, \text{m}^2$, $\rho_{\text{air}} = 1.2 \, \text{kg/m}^3$. Calculate the lift force.  
+    - (a) $1500 \, \text{N}$  
+    - (b) $1525 \, \text{N}$  
+    - (c) $1550 \, \text{N}$  
+    - (d) $1575 \, \text{N}$
+
+21. A glass sphere ($r = 0.002 \, \text{m}$, $\rho_{\text{glass}} = 2500 \, \text{kg/m}^3$) falls in water ($\rho_{\text{water}} = 1000 \, \text{kg/m}^3$, $\eta = 0.001 \, \text{Pa} \cdot \text{s}$, $g = 9.8 \, \text{m/s}^2$). Calculate the terminal velocity.  
+    - (a) $0.65 \, \text{m/s}$  
+    - (b) $0.66 \, \text{m/s}$  
+    - (c) $0.67 \, \text{m/s}$  
+    - (d) $0.68 \, \text{m/s}$
+
+22. A tube of radius $0.003 \, \text{m}$, length $0.15 \, \text{m}$, has $\Delta P = 1200 \, \text{Pa}$, $\eta = 0.002 \, \text{Pa} \cdot \text{s}$. Calculate the flow rate.  
+    - (a) $1.27 \times 10^{-5} \, \text{m}^3/\text{s}$  
+    - (b) $1.28 \times 10^{-5} \, \text{m}^3/\text{s}$  
+    - (c) $1.29 \times 10^{-5} \, \text{m}^3/\text{s}$  
+    - (d) $1.30 \times 10^{-5} \, \text{m}^3/\text{s}$
+
+23. A soap bubble of radius $0.015 \, \text{m}$ has surface tension $\gamma = 0.025 \, \text{N/m}$. Calculate the excess pressure inside.  
+    - (a) $6.5 \, \text{Pa}$  
+    - (b) $6.6 \, \text{Pa}$  
+    - (c) $6.7 \, \text{Pa}$  
+    - (d) $6.8 \, \text{Pa}$
+
+24. A capillary tube of radius $0.0002 \, \text{m}$ is placed in water ($\gamma = 0.072 \, \text{N/m}$, $\rho = 1000 \, \text{kg/m}^3$, $g = 9.8 \, \text{m/s}^2$). Calculate the height of rise.  
+    - (a) $72.0 \, \text{mm}$  
+    - (b) $73.0 \, \text{mm}$  
+    - (c) $74.0 \, \text{mm}$  
+    - (d) $75.0 \, \text{mm}$
+
+25. A tank filled with oil ($\rho = 900 \, \text{kg/m}^3$) has a depth of $4 \, \text{m}$. Calculate the pressure at the bottom ($P_{\text{atm}} = 1.013 \times 10^5 \, \text{Pa}$, $g = 9.8 \, \text{m/s}^2$).  
+    - (a) $1.346 \times 10^5 \, \text{Pa}$  
+    - (b) $1.347 \times 10^5 \, \text{Pa}$  
+    - (c) $1.348 \times 10^5 \, \text{Pa}$  
+    - (d) $1.349 \times 10^5 \, \text{Pa}$
+
+26. A block of density $500 \, \text{kg/m}^3$ floats in mercury ($\rho = 13600 \, \text{kg/m}^3$). What fraction of the block is submerged?  
+    - (a) $0.035$  
+    - (b) $0.036$  
+    - (c) $0.037$  
+    - (d) $0.038$
+
+27. A hydraulic lift has $A_1 = 0.02 \, \text{m}^2$ and $A_2 = 0.08 \, \text{m}^2$. If $F_1 = 120 \, \text{N}$, calculate $F_2$.  
+    - (a) $450 \, \text{N}$  
+    - (b) $475 \, \text{N}$  
+    - (c) $480 \, \text{N}$  
+    - (d) $500 \, \text{N}$
+
+28. A lead sphere ($\rho_{\text{lead}} = 11300 \, \text{kg/m}^3$, volume $0.0001 \, \text{m}^3$) is submerged in water ($\rho_{\text{water}} = 1000 \, \text{kg/m}^3$, $g = 9.8 \, \text{m/s}^2$). Calculate the buoyant force.  
+    - (a) $0.95 \, \text{N}$  
+    - (b) $0.96 \, \text{N}$  
+    - (c) $0.97 \, \text{N}$  
+    - (d) $0.98 \, \text{N}$
+
+29. A pipe has $A_1 = 0.08 \, \text{m}^2$ and $A_2 = 0.04 \, \text{m}^2$. If $v_1 = 0.5 \, \text{m/s}$, calculate $v_2$.  
+    - (a) $0.8 \, \text{m/s}$  
+    - (b) $0.9 \, \text{m/s}$  
+    - (c) $1.0 \, \text{m/s}$  
+    - (d) $1.1 \, \text{m/s}$
+
+30. A tank with a hole at $0.5 \, \text{m}$ below the surface releases water. Calculate the exit speed ($g = 9.8 \, \text{m/s}^2$).  
+    - (a) $3.0 \, \text{m/s}$  
+    - (b) $3.1 \, \text{m/s}$  
+    - (c) $3.2 \, \text{m/s}$  
+    - (d) $3.3 \, \text{m/s}$
+
+31. A horizontal pipe has $P_1 = 2.0 \times 10^5 \, \text{Pa}$, $v_1 = 1 \, \text{m/s}$, $A_1 = 0.06 \, \text{m}^2$, $A_2 = 0.03 \, \text{m}^2$. Calculate $P_2$ ($\rho = 1000 \, \text{kg/m}^3$).  
+    - (a) $1.995 \times 10^5 \, \text{Pa}$  
+    - (b) $1.996 \times 10^5 \, \text{Pa}$  
+    - (c) $1.997 \times 10^5 \, \text{Pa}$  
+    - (d) $1.998 \times 10^5 \, \text{Pa}$
+
+32. A cylindrical pipe ($r = 0.001 \, \text{m}$, $L = 0.3 \, \text{m}$, $\eta = 0.0015 \, \text{Pa} \cdot \text{s}$) has $Q = 5 \times 10^{-6} \, \text{m}^3/\text{s}$. Calculate $\Delta P$.  
+    - (a) $1432 \, \text{Pa}$  
+    - (b) $1433 \, \text{Pa}$  
+    - (c) $1434 \, \text{Pa}$  
+    - (d) $1435 \, \text{Pa}$
+
+33. A rocket fuel droplet ($r = 0.0002 \, \text{m}$, $\gamma = 0.03 \, \text{N/m}$) is atomized. Calculate the excess pressure inside.  
+    - (a) $300 \, \text{Pa}$  
+    - (b) $305 \, \text{Pa}$  
+    - (c) $310 \, \text{Pa}$  
+    - (d) $315 \, \text{Pa}$
+
+34. A capillary tube of radius $0.0001 \, \text{m}$ is placed in mercury ($\gamma = 0.465 \, \text{N/m}$, $\rho = 13600 \, \text{kg/m}^3$, $g = 9.8 \, \text{m/s}^2$, contact angle $\theta = 140^\circ$, $\cos 140^\circ \approx -0.766$). Calculate the depression height.  
+    - (a) $-50.5 \, \text{mm}$  
+    - (b) $-51.0 \, \text{mm}$  
+    - (c) $-51.5 \, \text{mm}$  
+    - (d) $-52.0 \, \text{mm}$
+
+35. A rocket nozzle (radius $0.04 \, \text{m}$) moves at $150 \, \text{m/s}$ through air ($\eta = 1.8 \times 10^{-5} \, \text{Pa} \cdot \text{s}$). Calculate the viscous drag force.  
+    - (a) $0.33 \, \text{N}$  
+    - (b) $0.34 \, \text{N}$  
+    - (c) $0.35 \, \text{N}$  
+    - (d) $0.36 \, \text{N}$
+
+---
+
+## Conceptual Problems
+
+36. What does pressure in a fluid depend on at a given depth?  
+   - (a) Surface area  
+   - (b) Density, gravity, and depth  
+   - (c) Volume of the fluid  
+   - (d) Shape of the container
+
+37. What does Archimedes’ principle state?  
+   - (a) Pressure increases with depth  
+   - (b) Buoyant force equals the weight of displaced fluid  
+   - (c) Fluid speed increases in narrower sections  
+   - (d) Pressure is transmitted equally in a fluid
+
+38. What does the continuity equation imply for an incompressible fluid?  
+   - (a) Pressure is constant  
+   - (b) Flow speed is constant  
+   - (c) Mass flow rate is constant  
+   - (d) Volume decreases with speed
+
+39. What does Bernoulli’s principle conserve in fluid flow?  
+   - (a) Mass  
+   - (b) Momentum  
+   - (c) Energy per unit volume  
+   - (d) Viscosity
+
+40. What is the unit of viscosity?  
+   - (a) $\text{Pa} \cdot \text{s}$  
+   - (b) $\text{N/m}$  
+   - (c) $\text{Pa}$  
+   - (d) $\text{m/s}$
+
+41. What happens to flow speed in a pipe when the cross-sectional area decreases?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+42. What does a high surface tension indicate?  
+   - (a) Low cohesive forces  
+   - (b) High cohesive forces  
+   - (c) Low viscosity  
+   - (d) High density
+
+43. What is the physical significance of $\frac{2 \gamma}{r}$?  
+   - (a) Excess pressure inside a droplet  
+   - (b) Excess pressure inside a soap bubble  
+   - (c) Capillary rise  
+   - (d) Viscous force
+
+44. What does Stokes’ law describe?  
+   - (a) Flow rate in a pipe  
+   - (b) Drag force on a sphere in a fluid  
+   - (c) Pressure in a fluid  
+   - (d) Surface tension in a droplet
+
+45. What is the dimension of surface tension?  
+   - (a) $[\text{M} \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+46. What does a zero velocity gradient imply in a fluid?  
+   - (a) No viscous force  
+   - (b) Maximum viscous force  
+   - (c) High flow rate  
+   - (d) Low pressure
+
+47. What is the significance of $\frac{\pi r^4 \Delta P}{8 \eta L}$?  
+   - (a) Buoyant force  
+   - (b) Volume flow rate  
+   - (c) Terminal velocity  
+   - (d) Excess pressure
+
+48. What happens to pressure in a fluid as flow speed increases, per Bernoulli’s principle?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+49. What does a low contact angle in capillary action indicate?  
+   - (a) Fluid rises in the tube  
+   - (b) Fluid depresses in the tube  
+   - (c) No rise or depression  
+   - (d) High viscosity
+
+50. How does viscosity affect flow rate in a pipe?  
+   - (a) Increases flow rate  
+   - (b) Decreases flow rate  
+   - (c) No effect  
+   - (d) Increases pressure
+
+---
+
+## Derivation Problems
+
+51. Derive the pressure in a fluid at depth $P = P_0 + \rho g h$.
+
+52. Derive Archimedes’ principle for the buoyant force.
+
+53. Derive the continuity equation $A_1 v_1 = A_2 v_2$.
+
+54. Derive Bernoulli’s equation for fluid flow.
+
+55. Derive the viscous force equation $F = \eta A \frac{v}{d}$.
+
+56. Derive Poiseuille’s law $Q = \frac{\pi r^4 \Delta P}{8 \eta L}$.
+
+57. Derive the excess pressure inside a droplet $\Delta P = \frac{2 \gamma}{r}$.
+
+58. Derive the capillary rise formula $h = \frac{2 \gamma \cos \theta}{\rho g r}$.
+
+59. Derive the terminal velocity using Stokes’ law.
+
+60. Derive the velocity of efflux (Torricelli’s law) $v = \sqrt{2 g h}$.
+
+61. Derive the lift force on an airfoil using Bernoulli’s principle.
+
+62. Derive the excess pressure inside a soap bubble $\Delta P = \frac{4 \gamma}{r}$.
+
+63. Derive Pascal’s principle for pressure transmission in a hydraulic system.
+
+64. Derive the fraction submerged for a floating object.
+
+65. Derive the viscous drag force on a rocket nozzle using Stokes’ law.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of pressure in SI units?  
+   - (a) $\text{Pa}$  
+   - (b) $\text{N/m}$  
+   - (c) $\text{J}$  
+   - (d) $\text{kg/m}^3$
+
+67. What does a floating object displace in a fluid?  
+   - (a) Fluid equal to its volume  
+   - (b) Fluid equal to its weight  
+   - (c) Fluid equal to its density  
+   - (d) Fluid equal to its surface area
+
+68. Which principle explains the operation of a hydraulic lift?  
+   - (a) Archimedes’ principle  
+   - (b) Bernoulli’s principle  
+   - (c) Pascal’s principle  
+   - (d) Continuity principle
+
+69. What happens to a fluid’s speed in a pipe when the cross-sectional area increases?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+70. What is the dimension of viscosity?  
+   - (a) $[\text{M} \text{L}^{-1} \text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+71. What does Bernoulli’s principle apply to?  
+   - (a) Fluids at rest  
+   - (b) Ideal fluids in steady flow  
+   - (c) Viscous fluids  
+   - (d) Compressible fluids
+
+72. What is the role of surface tension in a droplet?  
+   - (a) Increases volume  
+   - (b) Creates excess pressure inside  
+   - (c) Reduces viscosity  
+   - (d) Increases density
+
+73. What happens to terminal velocity as the radius of a falling sphere increases?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+74. Why does a fluid rise in a capillary tube with a small radius?  
+   - (a) High viscosity  
+   - (b) Surface tension and low contact angle  
+   - (c) Low density  
+   - (d) High pressure
+
+75. What is the unit of volume flow rate?  
+   - (a) $\text{m}^3/\text{s}$  
+   - (b) $\text{m/s}$  
+   - (c) $\text{Pa}$  
+   - (d) $\text{N/m}$
+
+76. What does a constant $A v$ indicate in fluid flow?  
+   - (a) Bernoulli’s principle  
+   - (b) Continuity equation  
+   - (c) Pascal’s principle  
+   - (d) Stokes’ law
+
+77. Which type of force causes lift on an airfoil?  
+   - (a) Viscous force  
+   - (b) Pressure difference  
+   - (c) Buoyant force  
+   - (d) Surface tension
+
+78. What is the direction of the buoyant force?  
+   - (a) Downward  
+   - (b) Upward  
+   - (c) Horizontal  
+   - (d) Along the flow
+
+79. What does a pseudo-force do in a rotating fluid frame?  
+   - (a) Maintains flow rate  
+   - (b) Affects pressure calculations  
+   - (c) Provides buoyant force  
+   - (d) Reduces viscosity
+
+80. What is the dimension of pressure?  
+   - (a) $[\text{M} \text{L}^{-1} \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+81. What is the role of viscosity in a rocket fuel system?  
+   - (a) Increases flow rate  
+   - (b) Resists flow, affecting fuel delivery  
+   - (c) Increases pressure  
+   - (d) Reduces surface tension
+
+82. What happens to excess pressure inside a droplet as radius decreases?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+83. Why does Bernoulli’s principle lead to lift on a wing?  
+   - (a) Higher speed, higher pressure  
+   - (b) Higher speed, lower pressure  
+   - (c) Lower speed, lower pressure  
+   - (d) No pressure change
+
+84. What is the significance of $6 \pi \eta r v$?  
+   - (a) Buoyant force  
+   - (b) Viscous drag on a sphere  
+   - (c) Surface tension force  
+   - (d) Pressure in a pipe
+
+85. What is the unit of density?  
+   - (a) $\text{kg/m}^3$  
+   - (b) $\text{Pa}$  
+   - (c) $\text{N/m}$  
+   - (d) $\text{m/s}$
+
+86. What does a zero flow speed at the surface of a tank indicate?  
+   - (a) No pressure  
+   - (b) Maximum pressure  
+   - (c) Torricelli’s law applies  
+   - (d) No viscosity
+
+87. What is the physical significance of $\sqrt{2 g h}$?  
+   - (a) Terminal velocity  
+   - (b) Velocity of efflux  
+   - (c) Capillary rise  
+   - (d) Viscous force
+
+88. Why does a soap bubble have higher excess pressure than a droplet of the same radius?  
+   - (a) Two surfaces vs. one  
+   - (b) Higher surface tension  
+   - (c) Lower viscosity  
+   - (d) Higher density
+
+89. What is the dimension of volume flow rate?  
+   - (a) $[\text{L}^3 \text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does surface tension affect fuel atomization in a rocket?  
+   - (a) Increases droplet size  
+   - (b) Creates pressure to break droplets  
+   - (c) Reduces viscosity  
+   - (d) Increases flow rate
+
+91. What is the role of buoyancy in a hot air balloon?  
+   - (a) Increases pressure  
+   - (b) Provides lift by displacing air  
+   - (c) Increases viscosity  
+   - (d) Reduces surface tension
+
+92. What does a zero pressure difference in a pipe indicate?  
+   - (a) No flow  
+   - (b) Maximum flow  
+   - (c) High viscosity  
+   - (d) Low density
+
+93. What is the physical significance of $\frac{2 \gamma \cos \theta}{\rho g r}$?  
+   - (a) Excess pressure  
+   - (b) Terminal velocity  
+   - (c) Capillary rise height  
+   - (d) Flow rate
+
+94. What is the dimension of lift force?  
+   - (a) $[\text{M} \text{L} \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does viscosity decrease with temperature in most liquids?  
+   - (a) Increased molecular motion  
+   - (b) Decreased density  
+   - (c) Increased surface tension  
+   - (d) Decreased pressure
+
+---
+
+## NEET-style Numerical Problems
+
+96. A tank filled with water ($\rho = 1000 \, \text{kg/m}^3$) has a depth of $1 \, \text{m}$. What is the pressure at the bottom ($P_{\text{atm}} = 1.013 \times 10^5 \, \text{Pa}$, $g = 9.8 \, \text{m/s}^2$)?  
+   - (a) $1.111 \times 10^5 \, \text{Pa}$  
+   - (b) $1.112 \times 10^5 \, \text{Pa}$  
+   - (c) $1.113 \times 10^5 \, \text{Pa}$  
+   - (d) $1.114 \times 10^5 \, \text{Pa}$
+
+97. A pipe has $A_1 = 0.02 \, \text{m}^2$ and $A_2 = 0.01 \, \text{m}^2$. If $v_1 = 2 \, \text{m/s}$, what is $v_2$?  
+   - (a) $3.5 \, \text{m/s}$  
+   - (b) $4.0 \, \text{m/s}$  
+   - (c) $4.5 \, \text{m/s}$  
+   - (d) $5.0 \, \text{m/s}$
+
+98. A steel ball ($r = 0.003 \, \text{m}$, $\rho_{\text{steel}} = 7800 \, \text{kg/m}^3$) falls in water ($\rho_{\text{water}} = 1000 \, \text{kg/m}^3$, $\eta = 0.001 \, \text{Pa} \cdot \text{s}$, $g = 9.8 \, \text{m/s}^2$). What is the terminal velocity?  
+   - (a) $2.35 \, \text{m/s}$  
+   - (b) $2.36 \, \text{m/s}$  
+   - (c) $2.37 \, \text{m/s}$  
+   - (d) $2.38 \, \text{m/s}$
+
+99. A water droplet of radius $0.0015 \, \text{m}$ has $\gamma = 0.072 \, \text{N/m}$. What is the excess pressure inside?  
+   - (a) $95 \, \text{Pa}$  
+   - (b) $96 \, \text{Pa}$  
+   - (c) $97 \, \text{Pa}$  
+   - (d) $98 \, \text{Pa}$
+
+100. A capillary tube of radius $0.0003 \, \text{m}$ is placed in water ($\gamma = 0.072 \, \text{N/m}$, $\rho = 1000 \, \text{kg/m}^3$, $g = 9.8 \, \text{m/s}^2$). What is the height of rise?  
+    - (a) $48.5 \, \text{mm}$  
+    - (b) $49.0 \, \text{mm}$  
+    - (c) $49.5 \, \text{mm}$  
+    - (d) $50.0 \, \text{mm}$
 
 ## Back to Chapter
-[Return to Equilibrium and Elasticity Chapter](./index.md)
+[Return to Fluids Chapter](./index.md)

@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Entropy and the Second Law of Thermodynamics Problems for JEE & NEET
-description: Practice 100 entropy and second law problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
-slug: book/physics/entropy-problems
-keywords: physics entropy problems, JEE physics second law problems, NEET physics heat engines problems, thermodynamic processes
-og:image: https://vidyamarg.com/og-physics-entropy.jpg
+description: Practice 100 thermodynamics problems for JEE and NEET, inspired by exam patterns, covering entropy changes, the second law, heat engines, refrigerators, and the Carnot cycle.
+slug: book/physics/entropy-thermodynamics-problems
+keywords: physics entropy problems, JEE physics second law of thermodynamics problems, NEET physics Carnot cycle problems, heat engines
+og:image: https://vidyamarg.com/og-physics-entropy-thermodynamics.jpg
 ---
 
-# Entropy and Second Law Problems
+# Entropy and the Second Law of Thermodynamics Problems
 
-This section provides **100 problems** to test your understanding of entropy and the second law of thermodynamics, including disorder, thermodynamic processes, entropy changes, and heat engines/refrigerators. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns, as requested (April 18, 2025). NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format [Web:9, Web:15]. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of entropy, the second law of thermodynamics, heat engines, refrigerators, and the Carnot cycle. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering thermodynamics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on entropy changes, Carnot efficiency, and refrigerator COP, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., engine cycles, biological systems), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. Calculate the entropy change for 1 mole of an ideal gas expanding isothermally and reversibly at 300 K from $V_1 = 0.02 \, \text{m}^3$ to $V_2 = 0.04 \, \text{m}^3$ ($R = 8.314 \, \text{J/mol·K}$).  
+   - (a) $5.76 \, \text{J/K}$  
+   - (b) $5.77 \, \text{J/K}$  
+   - (c) $5.78 \, \text{J/K}$  
+   - (d) $5.79 \, \text{J/K}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A system absorbs 500 J of heat at 250 K in a reversible isothermal process. Calculate the entropy change.
-   - Options: (a) 1.8 J/K (b) 2.0 J/K (c) 2.2 J/K (d) 2.4 J/K
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A Carnot engine operates between 800 K and 400 K. Calculate the efficiency.
-   - Options: (a) 48% (b) 50% (c) 52% (d) 54%
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A refrigerator extracts 300 J of heat from a cold reservoir using 100 J of work. Calculate the coefficient of performance.
-   - Options: (a) 2.8 (b) 3.0 (c) 3.2 (d) 3.4
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: 0.2 kg of water is heated isobarically from 300 K to 350 K (\( c_p = 4186 \, \text{J/kg·K} \)). Calculate the entropy change.
-   - Options: (a) 81.0 J/K (b) 81.5 J/K (c) 82.0 J/K (d) 82.5 J/K
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: 1000 J of heat is transferred irreversibly from a 600 K reservoir to a 300 K reservoir. Calculate the entropy change of the universe.
-   - Options: (a) 1.6 J/K (b) 1.7 J/K (c) 1.8 J/K (d) 1.9 J/K
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A system gains 400 J at 500 K and loses 200 J at 250 K in a reversible process. Calculate the system’s entropy change.
-   - Options: (a) 0.0 J/K (b) 0.1 J/K (c) 0.2 J/K (d) 0.3 J/K
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A Carnot engine has an efficiency of 40%. If the cold reservoir is at 300 K, calculate the hot reservoir temperature.
-   - Options: (a) 498 K (b) 500 K (c) 502 K (d) 504 K
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A refrigerator uses 150 J of work to extract 450 J of heat from a cold reservoir. Calculate the coefficient of performance.
-   - Options: (a) 2.8 (b) 3.0 (c) 3.2 (d) 3.4
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: 0.1 kg of ice melts at 273 K to water at 273 K (\( L_f = 334000 \, \text{J/kg} \)). Calculate the entropy change.
-   - Options: (a) 122 J/K (b) 123 J/K (c) 124 J/K (d) 125 J/K
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A system absorbs 800 J of heat at 400 K in a reversible isothermal process. Calculate the entropy change.
-    - Options: (a) 1.8 J/K (b) 2.0 J/K (c) 2.2 J/K (d) 2.4 J/K
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A Carnot engine operates between 1000 K and 500 K. Calculate the efficiency.
-    - Options: (a) 48% (b) 50% (c) 52% (d) 54%
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: 2000 J of heat is transferred irreversibly from a 700 K reservoir to a 350 K reservoir. Calculate the entropy change of the universe.
-    - Options: (a) 2.8 J/K (b) 2.9 J/K (c) 3.0 J/K (d) 3.1 J/K
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: 0.3 kg of water is heated isobarically from 350 K to 450 K (\( c_p = 4186 \, \text{J/kg·K} \)). Calculate the entropy change.
-    - Options: (a) 139 J/K (b) 140 J/K (c) 141 J/K (d) 142 J/K
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A refrigerator extracts 600 J of heat from a cold reservoir using 200 J of work. Calculate the coefficient of performance.
-    - Options: (a) 2.8 (b) 3.0 (c) 3.2 (d) 3.4
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A system gains 1000 J at 600 K and loses 400 J at 300 K in a reversible process. Calculate the system’s entropy change.
-    - Options: (a) 0.3 J/K (b) 0.4 J/K (c) 0.5 J/K (d) 0.6 J/K
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A Carnot engine has an efficiency of 25%. If the hot reservoir is at 400 K, calculate the cold reservoir temperature.
-    - Options: (a) 298 K (b) 300 K (c) 302 K (d) 304 K
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: 0.05 kg of water vaporizes at 373 K to steam at 373 K (\( L_v = 2260000 \, \text{J/kg} \)). Calculate the entropy change.
-    - Options: (a) 302 J/K (b) 303 J/K (c) 304 J/K (d) 305 J/K
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: 1500 J of heat is transferred irreversibly from a 800 K reservoir to a 400 K reservoir. Calculate the entropy change of the universe.
-    - Options: (a) 1.8 J/K (b) 1.9 J/K (c) 2.0 J/K (d) 2.1 J/K
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A Carnot engine operates between 900 K and 450 K. Calculate the efficiency.
-    - Options: (a) 48% (b) 50% (c) 52% (d) 54%
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A refrigerator uses 120 J of work to extract 360 J of heat from a cold reservoir. Calculate the coefficient of performance.
-    - Options: (a) 2.8 (b) 3.0 (c) 3.2 (d) 3.4
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A system absorbs 700 J of heat at 350 K in a reversible isothermal process. Calculate the entropy change.
-    - Options: (a) 1.8 J/K (b) 2.0 J/K (c) 2.2 J/K (d) 2.4 J/K
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: 0.4 kg of water is heated isobarically from 320 K to 400 K (\( c_p = 4186 \, \text{J/kg·K} \)). Calculate the entropy change.
-    - Options: (a) 162 J/K (b) 163 J/K (c) 164 J/K (d) 165 J/K
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: A Carnot engine has an efficiency of 30%. If the cold reservoir is at 280 K, calculate the hot reservoir temperature.
-    - Options: (a) 398 K (b) 400 K (c) 402 K (d) 404 K
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: 2500 J of heat is transferred irreversibly from a 1000 K reservoir to a 500 K reservoir. Calculate the entropy change of the universe.
-    - Options: (a) 2.4 J/K (b) 2.5 J/K (c) 2.6 J/K (d) 2.7 J/K
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A system gains 600 J at 700 K and loses 300 J at 350 K in a reversible process. Calculate the system’s entropy change.
-    - Options: (a) 0.0 J/K (b) 0.1 J/K (c) 0.2 J/K (d) 0.3 J/K
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A refrigerator extracts 500 J of heat from a cold reservoir using 125 J of work. Calculate the coefficient of performance.
-    - Options: (a) 3.8 (b) 4.0 (c) 4.2 (d) 4.4
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: 0.2 kg of ice melts at 273 K to water at 273 K (\( L_f = 334000 \, \text{J/kg} \)). Calculate the entropy change.
-    - Options: (a) 244 J/K (b) 245 J/K (c) 246 J/K (d) 247 J/K
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A Carnot engine operates between 1200 K and 600 K. Calculate the efficiency.
-    - Options: (a) 48% (b) 50% (c) 52% (d) 54%
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: 1800 J of heat is transferred irreversibly from a 900 K reservoir to a 450 K reservoir. Calculate the entropy change of the universe.
-    - Options: (a) 2.0 J/K (b) 2.1 J/K (c) 2.2 J/K (d) 2.3 J/K
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A system absorbs 900 J of heat at 450 K in a reversible isothermal process. Calculate the entropy change.
-    - Options: (a) 1.8 J/K (b) 2.0 J/K (c) 2.2 J/K (d) 2.4 J/K
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A Carnot engine has an efficiency of 20%. If the hot reservoir is at 500 K, calculate the cold reservoir temperature.
-    - Options: (a) 398 K (b) 400 K (c) 402 K (d) 404 K
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: 0.5 kg of water is heated isobarically from 300 K to 380 K (\( c_p = 4186 \, \text{J/kg·K} \)). Calculate the entropy change.
-    - Options: (a) 204 J/K (b) 205 J/K (c) 206 J/K (d) 207 J/K
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A refrigerator uses 200 J of work to extract 800 J of heat from a cold reservoir. Calculate the coefficient of performance.
-    - Options: (a) 3.8 (b) 4.0 (c) 4.2 (d) 4.4
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A system gains 1200 J at 800 K and loses 600 J at 400 K in a reversible process. Calculate the system’s entropy change.
-    - Options: (a) 0.0 J/K (b) 0.1 J/K (c) 0.2 J/K (d) 0.3 J/K
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: 0.03 kg of water vaporizes at 373 K to steam at 373 K (\( L_v = 2260000 \, \text{J/kg} \)). Calculate the entropy change.
-    - Options: (a) 181 J/K (b) 182 J/K (c) 183 J/K (d) 184 J/K
+2. Calculate the entropy change for 2 moles of an ideal gas ($C_V = \frac{3}{2} R$) heated at constant volume from 300 K to 450 K ($R = 8.314 \, \text{J/mol·K}$).  
+   - (a) $8.59 \, \text{J/K}$  
+   - (b) $8.60 \, \text{J/K}$  
+   - (c) $8.61 \, \text{J/K}$  
+   - (d) $8.62 \, \text{J/K}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is entropy in thermodynamics?
-   - Options: (a) Measure of system disorder (b) Total energy (c) Heat transfer rate (d) Work done
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What does the second law of thermodynamics state?
-   - Options: (a) Total entropy increases or stays constant (b) Entropy always decreases (c) No entropy change (d) Energy conservation
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: Why does entropy increase in irreversible processes?
-   - Options: (a) Universe’s disorder increases (b) Disorder decreases (c) No change (d) System entropy fixed
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is the efficiency of a Carnot engine?
-   - Options: (a) Maximum, depends on temperature difference (b) Always 100% (c) Independent of temperature (d) No efficiency
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: How does entropy relate to microstates?
-   - Options: (a) Proportional to number of microstates (b) No relation (c) Inversely proportional (d) Fixed microstates
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: Why can’t heat flow spontaneously from cold to hot?
-   - Options: (a) Violates second law (b) Allowed by second law (c) No temperature effect (d) Work-based
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: What is the role of reversible processes in entropy?
-   - Options: (a) Define entropy change via \( Q/T \) (b) No entropy change (c) Always irreversible (d) Work-based
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: Why is Carnot efficiency the maximum?
-   - Options: (a) Reversible cycle, no entropy increase (b) Irreversible cycle (c) No efficiency limit (d) Fixed efficiency
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: What is the coefficient of performance for a refrigerator?
-   - Options: (a) Heat extracted divided by work (b) Work divided by heat (c) No performance (d) Fixed value
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: How does entropy change in an isothermal reversible process?
-   - Options: (a) \( \Delta S = Q/T \) (b) No change (c) Work-based (d) Temperature-based
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Why is \( \Delta S_{\text{universe}} \geq 0 \)?
-   - Options: (a) Ensures spontaneous processes (b) Prevents spontaneity (c) No entropy change (d) Fixed entropy
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: What happens to entropy in a reversible cycle?
-   - Options: (a) Net entropy change is zero (b) Always increases (c) Always decreases (d) Work-based
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: Why are heat engines less than 100% efficient?
-   - Options: (a) Second law limits conversion (b) No limit (c) All heat converts to work (d) Fixed efficiency
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: How does entropy apply to biological systems?
-   - Options: (a) Maintains order via energy input (b) No entropy (c) Always disordered (d) Fixed entropy
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: What is the significance of the second law in engines?
-   - Options: (a) Limits efficiency, requires heat rejection (b) No limit (c) All heat to work (d) No heat rejection
+3. A gas undergoes free expansion (1 mole) from $V_1 = 0.01 \, \text{m}^3$ to $V_2 = 0.03 \, \text{m}^3$ at 400 K. Calculate $\Delta S_{\text{total}}$ ($R = 8.314 \, \text{J/mol·K}$).  
+   - (a) $9.13 \, \text{J/K}$  
+   - (b) $9.14 \, \text{J/K}$  
+   - (c) $9.15 \, \text{J/K}$  
+   - (d) $9.16 \, \text{J/K}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the entropy change for a reversible isothermal process.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the second law of thermodynamics for entropy.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the entropy change for an isobaric process.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the Carnot efficiency for a heat engine.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the coefficient of performance for a Carnot refrigerator.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the entropy change for a phase transition.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the entropy change of the universe for an irreversible process.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the relationship between entropy and microstates.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the efficiency of a heat engine.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the entropy change for a reversible adiabatic process.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the total entropy change in a reversible cycle.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the entropy change for an ideal gas in an isothermal process.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the second law for a closed system.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the entropy change for a constant-volume process.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the relationship between efficiency and temperature in a Carnot cycle.
+4. Heat $Q = 500 \, \text{J}$ flows from a hot reservoir at 500 K to a cold reservoir at 250 K. Calculate $\Delta S_{\text{total}}$.  
+   - (a) $0.99 \, \text{J/K}$  
+   - (b) $1.00 \, \text{J/K}$  
+   - (c) $1.01 \, \text{J/K}$  
+   - (d) $1.02 \, \text{J/K}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is entropy?
-   - Options: (a) Measure of disorder (b) Total energy (c) Heat transfer rate (d) Work done
-67. **Problem 67 (NEET, 2022)**: What does the second law of thermodynamics ensure?
-   - Options: (a) Entropy increase for universe (b) Entropy decrease (c) No entropy change (d) Energy conservation
-68. **Problem 68 (NEET, 2021)**: Why does entropy increase in spontaneous processes?
-   - Options: (a) Disorder increases (b) Disorder decreases (c) No change (d) Fixed entropy
-69. **Problem 69 (NEET, 2024)**: What is a Carnot engine?
-   - Options: (a) Most efficient reversible engine (b) Irreversible engine (c) No efficiency (d) Fixed efficiency
-70. **Problem 70 (NEET, 2020)**: How is entropy related to heat transfer?
-   - Options: (a) \( \Delta S = Q/T \) for reversible (b) No relation (c) Work-based (d) Fixed entropy
-71. **Problem 71 (NEET, 2023)**: Why can’t all heat convert to work in an engine?
-   - Options: (a) Second law limits conversion (b) No limit (c) All heat converts (d) No work
-72. **Problem 72 (NEET, 2022)**: What is a refrigerator’s function?
-   - Options: (a) Transfers heat from cold to hot (b) Heat to cold without work (c) No heat transfer (d) Fixed heat
-73. **Problem 73 (NEET, 2021)**: Why is entropy zero in a reversible cycle?
-   - Options: (a) Net heat transfer balances (b) Always increases (c) Always decreases (d) Work-based
-74. **Problem 74 (NEET, 2024)**: How does entropy apply to phase changes?
-   - Options: (a) Increases with heat absorption (b) No change (c) Decreases (d) Fixed entropy
-75. **Problem 75 (NEET, 2020)**: What is the role of the second law?
-   - Options: (a) Governs process direction (b) No direction (c) Energy conservation (d) Fixed processes
-76. **Problem 76 (NEET, 2023)**: Why is Carnot efficiency temperature-dependent?
-   - Options: (a) Based on reservoir temperature ratio (b) No temperature effect (c) Fixed efficiency (d) Work-based
-77. **Problem 77 (NEET, 2022)**: What happens in an irreversible process?
-   - Options: (a) Universe entropy increases (b) No change (c) Decreases (d) Fixed entropy
-78. **Problem 78 (NEET, 2021)**: How is entropy calculated in isothermal processes?
-   - Options: (a) \( \Delta S = Q/T \) (b) No change (c) Work-based (d) Temperature-based
-79. **Problem 79 (NEET, 2024)**: Why does entropy relate to disorder?
-   - Options: (a) More microstates, higher disorder (b) No relation (c) Less disorder (d) Fixed microstates
-80. **Problem 80 (NEET, 2020)**: What is the coefficient of performance?
-   - Options: (a) Heat extracted per work input (b) Work per heat (c) No performance (d) Fixed value
-81. **Problem 81 (NEET, 2023)**: Why can’t heat flow from cold to hot without work?
-   - Options: (a) Violates second law (b) Allowed (c) No temperature effect (d) Work-based
-82. **Problem 82 (NEET, 2022)**: How does entropy change in a reversible process?
-   - Options: (a) Depends on \( Q/T \) (b) No change (c) Always increases (d) Work-based
-83. **Problem 83 (NEET, 2021)**: What is the role of heat engines?
-   - Options: (a) Convert heat to work (b) No work (c) Heat to cold (d) Fixed heat
-84. **Problem 84 (NEET, 2024)**: Why is entropy important in thermodynamics?
-   - Options: (a) Determines process spontaneity (b) No role (c) Only work (d) Fixed entropy
-85. **Problem 85 (NEET, 2020)**: How does the second law apply to refrigerators?
-   - Options: (a) Requires work for heat transfer (b) No work needed (c) No heat transfer (d) Fixed transfer
-86. **Problem 86 (NEET, 2023)**: What is entropy’s role in biological systems?
-   - Options: (a) Maintains order via energy input (b) No entropy (c) Always disordered (d) Fixed entropy
-87. **Problem 87 (NEET, 2022)**: Why is \( \Delta S_{\text{universe}} > 0 \) in irreversible processes?
-   - Options: (a) Increases disorder (b) No change (c) Decreases disorder (d) Fixed entropy
-88. **Problem 88 (NEET, 2021)**: How does entropy apply to heat engines?
-   - Options: (a) Limits efficiency (b) No limit (c) All heat to work (d) Fixed efficiency
-89. **Problem 89 (NEET, 2024)**: What is a reversible process?
-   - Options: (a) No entropy increase for universe (b) Always irreversible (c) Work-based (d) No process
-90. **Problem 90 (NEET, 2020)**: Why is Carnot cycle significant?
-   - Options: (a) Most efficient reversible cycle (b) Irreversible (c) No efficiency (d) Fixed cycle
-91. **Problem 91 (NEET, 2023)**: How does entropy change in phase transitions?
-   - Options: (a) Depends on latent heat (b) No change (c) Work-based (d) Fixed entropy
-92. **Problem 92 (NEET, 2022)**: What is the second law’s role in climate systems?
-   - Options: (a) Governs energy flow direction (b) No role (c) Energy conservation (d) Fixed flow
-93. **Problem 93 (NEET, 2021)**: Why is entropy calculated for reversible paths?
-   - Options: (a) Defines state function (b) No state function (c) Work-based (d) Fixed path
-94. **Problem 94 (NEET, 2024)**: How does entropy affect engine efficiency?
-   - Options: (a) Limits work output (b) No effect (c) All heat to work (d) Fixed efficiency
-95. **Problem 95 (NEET, 2020)**: What is the significance of \( \Delta S = 0 \) in reversible processes?
-   - Options: (a) No net entropy change for universe (b) Always increases (c) Always decreases (d) Work-based
+5. A heat engine absorbs $Q_H = 1000 \, \text{J}$ and rejects $Q_C = 600 \, \text{J}$. Calculate the efficiency.  
+   - (a) $0.39$  
+   - (b) $0.40$  
+   - (c) $0.41$  
+   - (d) $0.42$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A system absorbs 400 J of heat at 200 K in a reversible isothermal process. What is the entropy change?
-   - Options: (a) 1.8 J/K (b) 2.0 J/K (c) 2.2 J/K (d) 2.4 J/K
-97. **Problem 97 (NEET, 2022)**: A Carnot engine operates between 700 K and 350 K. What is the efficiency?
-   - Options: (a) 48% (b) 50% (c) 52% (d) 54%
-98. **Problem 98 (NEET, 2021)**: A refrigerator extracts 200 J of heat from a cold reservoir using 50 J of work. What is the coefficient of performance?
-   - Options: (a) 3.8 (b) 4.0 (c) 4.2 (d) 4.4
-99. **Problem 99 (NEET, 2024)**: 0.1 kg of water is heated isobarically from 300 K to 360 K (\( c_p = 4186 \, \text{J/kg·K} \)). What is the entropy change?
-   - Options: (a) 49.0 J/K (b) 49.5 J/K (c) 50.0 J/K (d) 50.5 J/K
-100. **Problem 100 (NEET, 2020)**: 800 J of heat is transferred irreversibly from a 500 K reservoir to a 250 K reservoir. What is the entropy change of the universe?
-    - Options: (a) 1.6 J/K (b) 1.7 J/K (c) 1.8 J/K (d) 1.9 J/K
+6. A refrigerator removes $Q_C = 800 \, \text{J}$ with $W = 200 \, \text{J}$. Calculate the COP.  
+   - (a) $3.9$  
+   - (b) $4.0$  
+   - (c) $4.1$  
+   - (d) $4.2$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. A heat engine performs $W = 300 \, \text{J}$ with $Q_H = 900 \, \text{J}$. Calculate $Q_C$.  
+   - (a) $599 \, \text{J}$  
+   - (b) $600 \, \text{J}$  
+   - (c) $601 \, \text{J}$  
+   - (d) $602 \, \text{J}$
 
-[View Solutions](/books/physics/entropy/solutions) -->
+8. A refrigerator transfers $Q_C = 1200 \, \text{J}$ with $COP = 5$. Calculate $W$.  
+   - (a) $239 \, \text{J}$  
+   - (b) $240 \, \text{J}$  
+   - (c) $241 \, \text{J}$  
+   - (d) $242 \, \text{J}$
+
+9. A Carnot engine operates between $T_H = 700 \, \text{K}$ and $T_C = 350 \, \text{K}$. Calculate the efficiency.  
+   - (a) $0.49$  
+   - (b) $0.50$  
+   - (c) $0.51$  
+   - (d) $0.52$
+
+10. A Carnot refrigerator operates between $T_H = 400 \, \text{K}$ and $T_C = 300 \, \text{K}$. Calculate the COP.  
+    - (a) $2.9$  
+    - (b) $3.0$  
+    - (c) $3.1$  
+    - (d) $3.2$
+
+11. A Carnot engine with $e = 0.3$ has $T_C = 280 \, \text{K}$. Calculate $T_H$.  
+    - (a) $399 \, \text{K}$  
+    - (b) $400 \, \text{K}$  
+    - (c) $401 \, \text{K}$  
+    - (d) $402 \, \text{K}$
+
+12. A real engine operates between $T_H = 600 \, \text{K}$ and $T_C = 300 \, \text{K}$ with $e = 0.35$. Calculate the Carnot efficiency for comparison.  
+    - (a) $0.49$  
+    - (b) $0.50$  
+    - (c) $0.51$  
+    - (d) $0.52$
+
+13. Calculate $\Delta S$ for 1 mole of an ideal gas expanding isothermally and reversibly at 500 K from $V_1 = 0.01 \, \text{m}^3$ to $V_2 = 0.03 \, \text{m}^3$ ($R = 8.314 \, \text{J/mol·K}$).  
+    - (a) $9.13 \, \text{J/K}$  
+    - (b) $9.14 \, \text{J/K}$  
+    - (c) $9.15 \, \text{J/K}$  
+    - (d) $9.16 \, \text{J/K}$
+
+14. Calculate $\Delta S$ for 3 moles of an ideal gas ($C_V = \frac{5}{2} R$) heated at constant volume from 300 K to 600 K ($R = 8.314 \, \text{J/mol·K}$).  
+    - (a) $43.11 \, \text{J/K}$  
+    - (b) $43.12 \, \text{J/K}$  
+    - (c) $43.13 \, \text{J/K}$  
+    - (d) $43.14 \, \text{J/K}$
+
+15. Heat $Q = 800 \, \text{J}$ flows from a hot reservoir at 800 K to a cold reservoir at 400 K. Calculate $\Delta S_{\text{total}}$.  
+    - (a) $0.99 \, \text{J/K}$  
+    - (b) $1.00 \, \text{J/K}$  
+    - (c) $1.01 \, \text{J/K}$  
+    - (d) $1.02 \, \text{J/K}$
+
+16. A heat engine absorbs $Q_H = 1500 \, \text{J}$ and rejects $Q_C = 900 \, \text{J}$. Calculate the efficiency.  
+    - (a) $0.39$  
+    - (b) $0.40$  
+    - (c) $0.41$  
+    - (d) $0.42$
+
+17. A refrigerator removes $Q_C = 1000 \, \text{J}$ with $W = 250 \, \text{J}$. Calculate the COP.  
+    - (a) $3.9$  
+    - (b) $4.0$  
+    - (c) $4.1$  
+    - (d) $4.2$
+
+18. A Carnot engine operates between $T_H = 500 \, \text{K}$ and $T_C = 200 \, \text{K}$. Calculate the efficiency.  
+    - (a) $0.59$  
+    - (b) $0.60$  
+    - (c) $0.61$  
+    - (d) $0.62$
+
+19. A Carnot refrigerator operates between $T_H = 350 \, \text{K}$ and $T_C = 250 \, \text{K}$. Calculate the COP.  
+    - (a) $2.4$  
+    - (b) $2.5$  
+    - (c) $2.6$  
+    - (d) $2.7$
+
+20. A gas undergoes free expansion (2 moles) from $V_1 = 0.02 \, \text{m}^3$ to $V_2 = 0.04 \, \text{m}^3$ at 300 K. Calculate $\Delta S_{\text{system}}$ ($R = 8.314 \, \text{J/mol·K}$).  
+    - (a) $11.51 \, \text{J/K}$  
+    - (b) $11.52 \, \text{J/K}$  
+    - (c) $11.53 \, \text{J/K}$  
+    - (d) $11.54 \, \text{J/K}$
+
+21. A heat engine performs $W = 500 \, \text{J}$ with $Q_H = 2000 \, \text{J}$. Calculate $Q_C$.  
+    - (a) $1499 \, \text{J}$  
+    - (b) $1500 \, \text{J}$  
+    - (c) $1501 \, \text{J}$  
+    - (d) $1502 \, \text{J}$
+
+22. A refrigerator transfers $Q_C = 1500 \, \text{J}$ with $COP = 3$. Calculate $W$.  
+    - (a) $499 \, \text{J}$  
+    - (b) $500 \, \text{J}$  
+    - (c) $501 \, \text{J}$  
+    - (d) $502 \, \text{J}$
+
+23. A Carnot engine with $e = 0.25$ has $T_C = 300 \, \text{K}$. Calculate $T_H$.  
+    - (a) $399 \, \text{K}$  
+    - (b) $400 \, \text{K}$  
+    - (c) $401 \, \text{K}$  
+    - (d) $402 \, \text{K}$
+
+24. A real engine operates between $T_H = 1000 \, \text{K}$ and $T_C = 400 \, \text{K}$ with $e = 0.5$. Calculate the Carnot efficiency for comparison.  
+    - (a) $0.59$  
+    - (b) $0.60$  
+    - (c) $0.61$  
+    - (d) $0.62$
+
+25. Calculate $\Delta S$ for 1 mole of an ideal gas expanding isothermally and reversibly at 400 K from $V_1 = 0.015 \, \text{m}^3$ to $V_2 = 0.045 \, \text{m}^3$ ($R = 8.314 \, \text{J/mol·K}$).  
+    - (a) $9.13 \, \text{J/K}$  
+    - (b) $9.14 \, \text{J/K}$  
+    - (c) $9.15 \, \text{J/K}$  
+    - (d) $9.16 \, \text{J/K}$
+
+26. Calculate $\Delta S$ for 1 mole of an ideal gas ($C_V = \frac{3}{2} R$) heated at constant volume from 200 K to 400 K ($R = 8.314 \, \text{J/mol·K}$).  
+    - (a) $8.64 \, \text{J/K}$  
+    - (b) $8.65 \, \text{J/K}$  
+    - (c) $8.66 \, \text{J/K}$  
+    - (d) $8.67 \, \text{J/K}$
+
+27. Heat $Q = 1000 \, \text{J}$ flows from a hot reservoir at 600 K to a cold reservoir at 300 K. Calculate $\Delta S_{\text{hot}}$.  
+    - (a) $-1.66 \, \text{J/K}$  
+    - (b) $-1.67 \, \text{J/K}$  
+    - (c) $-1.68 \, \text{J/K}$  
+    - (d) $-1.69 \, \text{J/K}$
+
+28. A heat engine absorbs $Q_H = 2000 \, \text{J}$ and rejects $Q_C = 1400 \, \text{J}$. Calculate the efficiency.  
+    - (a) $0.29$  
+    - (b) $0.30$  
+    - (c) $0.31$  
+    - (d) $0.32$
+
+29. A refrigerator removes $Q_C = 500 \, \text{J}$ with $W = 100 \, \text{J}$. Calculate the COP.  
+    - (a) $4.9$  
+    - (b) $5.0$  
+    - (c) $5.1$  
+    - (d) $5.2$
+
+30. A Carnot engine operates between $T_H = 800 \, \text{K}$ and $T_C = 200 \, \text{K}$. Calculate the efficiency.  
+    - (a) $0.74$  
+    - (b) $0.75$  
+    - (c) $0.76$  
+    - (d) $0.77$
+
+31. A rocket engine operates as a Carnot cycle between $T_H = 2500 \, \text{K}$ (combustion) and $T_C = 500 \, \text{K}$ (exhaust). Calculate the efficiency.  
+    - (a) $0.79$  
+    - (b) $0.80$  
+    - (c) $0.81$  
+    - (d) $0.82$
+
+32. Calculate $\Delta S$ for 2 moles of an ideal gas ($C_V = \frac{5}{2} R$) heated at constant volume from 400 K to 800 K ($R = 8.314 \, \text{J/mol·K}$).  
+    - (a) $28.74 \, \text{J/K}$  
+    - (b) $28.75 \, \text{J/K}$  
+    - (c) $28.76 \, \text{J/K}$  
+    - (d) $28.77 \, \text{J/K}$
+
+33. A heat engine performs $W = 400 \, \text{J}$ with $Q_H = 1600 \, \text{J}$. Calculate $Q_C$.  
+    - (a) $1199 \, \text{J}$  
+    - (b) $1200 \, \text{J}$  
+    - (c) $1201 \, \text{J}$  
+    - (d) $1202 \, \text{J}$
+
+34. A Carnot refrigerator operates between $T_H = 500 \, \text{K}$ and $T_C = 400 \, \text{K}$. Calculate the COP.  
+    - (a) $3.9$  
+    - (b) $4.0$  
+    - (c) $4.1$  
+    - (d) $4.2$
+
+35. A Carnot engine with $e = 0.2$ has $T_H = 500 \, \text{K}$. Calculate $T_C$.  
+    - (a) $399 \, \text{K}$  
+    - (b) $400 \, \text{K}$  
+    - (c) $401 \, \text{K}$  
+    - (d) $402 \, \text{K}$
+
+---
+
+## Conceptual Problems
+
+36. What does the Kelvin-Planck statement of the second law imply?  
+   - (a) Heat can flow from cold to hot spontaneously  
+   - (b) No heat engine can be 100% efficient  
+   - (c) Entropy decreases in natural processes  
+   - (d) Work cannot be converted to heat
+
+37. What does the Clausius statement of the second law imply?  
+   - (a) Heat engines can be 100% efficient  
+   - (b) Heat cannot flow from cold to hot without work  
+   - (c) Entropy remains constant in all processes  
+   - (d) Work cannot be done in a cycle
+
+38. What is entropy a measure of?  
+   - (a) Temperature  
+   - (b) Disorder of a system  
+   - (c) Pressure  
+   - (d) Volume
+
+39. What happens to total entropy in a reversible process?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains constant  
+   - (d) Becomes zero
+
+40. What is the unit of entropy in SI units?  
+   - (a) $\text{J/K}$  
+   - (b) $\text{J/mol·K}$  
+   - (c) $\text{m/s}$  
+   - (d) $\text{Pa}$
+
+41. What does a positive $\Delta S_{\text{total}}$ indicate?  
+   - (a) Reversible process  
+   - (b) Irreversible process  
+   - (c) No change in entropy  
+   - (d) Decrease in disorder
+
+42. What does the efficiency of a heat engine represent?  
+   - (a) Ratio of heat absorbed to work done  
+   - (b) Ratio of work done to heat absorbed  
+   - (c) Ratio of heat rejected to heat absorbed  
+   - (d) Ratio of work done to heat rejected
+
+43. What is the physical significance of $\frac{Q_C}{W}$ in a refrigerator?  
+   - (a) Efficiency  
+   - (b) Coefficient of Performance  
+   - (c) Entropy change  
+   - (d) Work done
+
+44. What does the Carnot cycle represent?  
+   - (a) Most efficient cycle possible  
+   - (b) Least efficient cycle  
+   - (c) Irreversible cycle  
+   - (d) Isothermal cycle only
+
+45. What is the dimension of entropy?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2} \text{K}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does a zero $\Delta S_{\text{total}}$ indicate?  
+   - (a) Irreversible process  
+   - (b) Reversible process  
+   - (c) No heat transfer  
+   - (d) No work done
+
+47. What is the significance of $1 - \frac{T_C}{T_H}$?  
+   - (a) Entropy change  
+   - (b) Carnot efficiency  
+   - (c) Work done  
+   - (d) Heat absorbed
+
+48. What happens to efficiency if $T_C$ decreases in a Carnot engine?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+49. What does a high COP in a refrigerator indicate?  
+   - (a) Low efficiency  
+   - (b) High efficiency in heat removal  
+   - (c) High work input  
+   - (d) Low heat transfer
+
+50. How does the second law apply to rocket engines?  
+   - (a) Increases entropy via irreversible combustion  
+   - (b) Decreases efficiency  
+   - (c) Increases temperature  
+   - (d) Reduces work output
+
+---
+
+## Derivation Problems
+
+51. Derive the equivalence of the Kelvin-Planck and Clausius statements of the second law.
+
+52. Derive the entropy change for a reversible isothermal process $\Delta S = \frac{Q_{\text{rev}}}{T}$.
+
+53. Derive the entropy change for a constant volume process $\Delta S = n C_V \ln \left( \frac{T_2}{T_1} \right)$.
+
+54. Derive the entropy change in an irreversible free expansion.
+
+55. Derive the efficiency of a heat engine $e = 1 - \frac{Q_C}{Q_H}$.
+
+56. Derive the coefficient of performance for a refrigerator $COP = \frac{Q_C}{W}$.
+
+57. Derive the Carnot efficiency $e_{\text{Carnot}} = 1 - \frac{T_C}{T_H}$.
+
+58. Derive the Carnot refrigerator COP $COP_{\text{Carnot}} = \frac{T_C}{T_H - T_C}$.
+
+59. Derive the work done in the Carnot cycle $W = n R (T_H - T_C) \ln \left( \frac{V_2}{V_1} \right)$.
+
+60. Derive the entropy change for heat transfer between two reservoirs.
+
+61. Derive the second law in terms of entropy $\Delta S_{\text{total}} \geq 0$.
+
+62. Derive the relation $\frac{Q_H}{T_H} = \frac{Q_C}{T_C}$ for a Carnot cycle.
+
+63. Derive the irreversibility of free expansion using entropy.
+
+64. Derive the efficiency limitation of a real engine compared to a Carnot engine.
+
+65. Derive the entropy change for an adiabatic reversible process (isentropic process).
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of efficiency in a heat engine?  
+   - (a) Dimensionless  
+   - (b) $\text{J/K}$  
+   - (c) $\text{m/s}$  
+   - (d) $\text{Pa}$
+
+67. What does a negative $\Delta S_{\text{system}}$ indicate in a process?  
+   - (a) Increase in disorder  
+   - (b) Decrease in disorder  
+   - (c) No change in entropy  
+   - (d) Irreversible process
+
+68. Which process is inherently irreversible?  
+   - (a) Isothermal reversible expansion  
+   - (b) Adiabatic reversible expansion  
+   - (c) Free expansion  
+   - (d) Carnot cycle
+
+69. What happens to Carnot efficiency if $T_H$ increases?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+70. What is the dimension of COP in a refrigerator?  
+   - (a) Dimensionless  
+   - (b) $[\text{M} \text{L}^2 \text{T}^{-2} \text{K}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the second law of thermodynamics determine?  
+   - (a) Amount of work done  
+   - (b) Direction of natural processes  
+   - (c) Temperature of a system  
+   - (d) Pressure of a system
+
+72. What is the role of entropy in natural processes?  
+   - (a) Decreases total disorder  
+   - (b) Increases total disorder  
+   - (c) Maintains constant disorder  
+   - (d) Reduces temperature
+
+73. What happens to $\Delta S_{\text{total}}$ in an irreversible process?  
+   - (a) Increases  
+   - (b) Decreases  
+   - (c) Remains constant  
+   - (d) Becomes zero
+
+74. Why is the Carnot cycle the most efficient?  
+   - (a) It is irreversible  
+   - (b) It is reversible with maximum efficiency  
+   - (c) It rejects no heat  
+   - (d) It operates at constant temperature
+
+75. What is the unit of work in a heat engine?  
+   - (a) $\text{J}$  
+   - (b) $\text{J/K}$  
+   - (c) $\text{m/s}$  
+   - (d) $\text{Pa}$
+
+76. What does a constant entropy process indicate?  
+   - (a) Irreversible process  
+   - (b) Isentropic (reversible adiabatic) process  
+   - (c) Isothermal process  
+   - (d) Free expansion
+
+77. Which type of process increases total entropy?  
+   - (a) Reversible  
+   - (b) Irreversible  
+   - (c) Isentropic  
+   - (d) Isobaric
+
+78. What is the direction of spontaneous heat flow according to the second law?  
+   - (a) From cold to hot  
+   - (b) From hot to cold  
+   - (c) No direction  
+   - (d) Circular
+
+79. What does a pseudo-force do in a non-inertial frame for thermodynamic processes?  
+   - (a) Affects entropy perception  
+   - (b) Affects heat flow  
+   - (c) Creates work  
+   - (d) Reduces efficiency
+
+80. What is the dimension of heat in SI units?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of the second law in rocket engine design?  
+   - (a) Increases efficiency  
+   - (b) Limits efficiency due to irreversibility  
+   - (c) Reduces entropy  
+   - (d) Increases heat transfer
+
+82. What happens to entropy in an isolated system over time?  
+   - (a) Decreases  
+   - (b) Increases or remains constant  
+   - (c) Becomes zero  
+   - (d) Remains constant only
+
+83. Why does heat flow from a hot to a cold reservoir increase entropy?  
+   - (a) Due to reversible process  
+   - (b) Due to increase in total disorder  
+   - (c) Due to decrease in temperature  
+   - (d) Due to work done
+
+84. What is the significance of $\frac{T_C}{T_H - T_C}$?  
+   - (a) Carnot efficiency  
+   - (b) Carnot refrigerator COP  
+   - (c) Entropy change  
+   - (d) Work done
+
+85. What is the unit of temperature in thermodynamic calculations?  
+   - (a) Celsius  
+   - (b) Kelvin  
+   - (c) Fahrenheit  
+   - (d) Joule
+
+86. What does a zero efficiency in a heat engine indicate?  
+   - (a) No work done  
+   - (b) Maximum work done  
+   - (c) No heat absorbed  
+   - (d) No heat rejected
+
+87. What is the physical significance of $n R \ln \left( \frac{V_2}{V_1} \right)$?  
+   - (a) Work done in isothermal process  
+   - (b) Entropy change in isothermal expansion  
+   - (c) Heat absorbed  
+   - (d) Efficiency
+
+88. Why is free expansion irreversible?  
+   - (a) $\Delta S_{\text{total}} > 0$  
+   - (b) $\Delta S_{\text{total}} = 0$  
+   - (c) $Q > 0$  
+   - (d) $W > 0$
+
+89. What is the dimension of $Q_H$ in a heat engine?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does entropy analysis help in rocket propulsion?  
+   - (a) Increases efficiency  
+   - (b) Quantifies irreversibility in combustion  
+   - (c) Reduces temperature  
+   - (d) Decreases work output
+
+91. What is the role of $T$ in entropy calculations?  
+   - (a) Measures disorder directly  
+   - (b) Relates heat transfer to entropy change  
+   - (c) Determines work done  
+   - (d) Determines pressure
+
+92. What does a 100% Carnot efficiency imply?  
+   - (a) $T_C = 0 \, \text{K}$  
+   - (b) $T_H = 0 \, \text{K}$  
+   - (c) $Q_C = 0$  
+   - (d) $W = 0$
+
+93. What is the physical significance of $1 - \frac{Q_C}{Q_H}$?  
+   - (a) Entropy change  
+   - (b) Efficiency of a heat engine  
+   - (c) COP of a refrigerator  
+   - (d) Work done
+
+94. What is the dimension of $\Delta S_{\text{total}}$?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2} \text{K}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does a real engine have lower efficiency than a Carnot engine?  
+   - (a) Due to reversible processes  
+   - (b) Due to irreversibilities like friction  
+   - (c) Due to higher $T_C$  
+   - (d) Due to lower $T_H$
+
+---
+
+## NEET-style Numerical Problems
+
+96. Calculate $\Delta S$ for 1 mole of an ideal gas expanding isothermally and reversibly at 350 K from $V_1 = 0.01 \, \text{m}^3$ to $V_2 = 0.02 \, \text{m}^3$ ($R = 8.314 \, \text{J/mol·K}$).  
+   - (a) $5.76 \, \text{J/K}$  
+   - (b) $5.77 \, \text{J/K}$  
+   - (c) $5.78 \, \text{J/K}$  
+   - (d) $5.79 \, \text{J/K}$
+
+97. A heat engine absorbs $Q_H = 1200 \, \text{J}$ and rejects $Q_C = 800 \, \text{J}$. What is the efficiency?  
+   - (a) $0.32$  
+   - (b) $0.33$  
+   - (c) $0.34$  
+   - (d) $0.35$
+
+98. A Carnot engine operates between $T_H = 600 \, \text{K}$ and $T_C = 300 \, \text{K}$. What is the efficiency?  
+   - (a) $0.49$  
+   - (b) $0.50$  
+   - (c) $0.51$  
+   - (d) $0.52$
+
+99. A refrigerator removes $Q_C = 600 \, \text{J}$ with $W = 150 \, \text{J}$. What is the COP?  
+   - (a) $3.9$  
+   - (b) $4.0$  
+   - (c) $4.1$  
+   - (d) $4.2$
+
+100. A Carnot refrigerator operates between $T_H = 400 \, \text{K}$ and $T_C = 320 \, \text{K}$. What is the COP?  
+    - (a) $3.9$  
+    - (b) $4.0$  
+    - (c) $4.1$  
+    - (d) $4.2$
 
 ## Back to Chapter
-[Return to Entropy Chapter](./index.md)
+[Return to Entropy and the Second Law of Thermodynamics Chapter](./index.md)

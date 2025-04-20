@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Oscillations Problems for JEE & NEET
-description: Practice 100 oscillations problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 oscillations problems for JEE and NEET, inspired by exam patterns, covering simple harmonic motion, energy, damped and forced oscillations, resonance, and applications in pendulums and springs.
 slug: book/physics/oscillations-problems
-keywords: physics oscillations problems, JEE physics SHM problems, NEET physics resonance problems, simple harmonic motion
+keywords: physics oscillations problems, JEE physics simple harmonic motion problems, NEET physics resonance problems, damped oscillations
 og:image: https://vidyamarg.com/og-physics-oscillations.jpg
 ---
 
 # Oscillations Problems
 
-This section provides **100 problems** to test your understanding of oscillations, including simple harmonic motion (SHM), energy, damped/forced oscillations, and resonance. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns, as requested (April 18, 2025). NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format [Web:9, Web:15]. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of oscillatory motion, including simple harmonic motion (SHM), energy in oscillatory systems, damped and forced oscillations, and resonance. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering oscillations, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on period, frequency, energy, and resonance, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., pendulums, springs), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A spring-mass system has $m = 0.8 \, \text{kg}$ and $k = 320 \, \text{N/m}$. Calculate the period of oscillation.  
+   - (a) $0.30 \, \text{s}$  
+   - (b) $0.31 \, \text{s}$  
+   - (c) $0.32 \, \text{s}$  
+   - (d) $0.33 \, \text{s}$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A 0.4 kg mass on a spring (constant 160 N/m) oscillates. Calculate the period of oscillation.
-   - Options: (a) 0.31 s (b) 0.33 s (c) 0.35 s (d) 0.37 s
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A simple pendulum (length 0.9 m, \( g = 9.8 \, \text{m/s}^2 \)) oscillates. Calculate the frequency.
-   - Options: (a) 0.50 Hz (b) 0.52 Hz (c) 0.54 Hz (d) 0.56 Hz
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A 1 kg mass on a spring (constant 400 N/m, amplitude 0.02 m) oscillates. Calculate the maximum kinetic energy.
-   - Options: (a) 0.08 J (b) 0.10 J (c) 0.12 J (d) 0.14 J
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A 0.3 kg mass in SHM (amplitude 0.04 m, frequency 3 Hz). Calculate the maximum velocity.
-   - Options: (a) 0.72 m/s (b) 0.75 m/s (c) 0.78 m/s (d) 0.81 m/s
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: A 0.5 kg mass in damped SHM (damping constant 0.2 kg/s, spring constant 100 N/m). Calculate the time for amplitude to halve.
-   - Options: (a) 3.5 s (b) 3.7 s (c) 3.9 s (d) 4.1 s
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A pendulum (length 0.4 m, \( g = 9.8 \, \text{m/s}^2 \)) at resonance. Calculate the driving period.
-   - Options: (a) 1.2 s (b) 1.3 s (c) 1.4 s (d) 1.5 s
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A 2 kg mass on a spring (constant 200 N/m) driven at resonance. Calculate the resonant frequency.
-   - Options: (a) 1.6 Hz (b) 1.8 Hz (c) 2.0 Hz (d) 2.2 Hz
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A 0.1 kg mass in SHM (amplitude 0.03 m, spring constant 50 N/m). Calculate the total energy.
-   - Options: (a) 0.0225 J (b) 0.0250 J (c) 0.0275 J (d) 0.0300 J
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: A simple pendulum (length 1.6 m, \( g = 9.8 \, \text{m/s}^2 \)). Calculate the period.
-   - Options: (a) 2.4 s (b) 2.5 s (c) 2.6 s (d) 2.7 s
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A 0.8 kg mass on a spring (constant 320 N/m, amplitude 0.05 m). Calculate the maximum speed.
-    - Options: (a) 1.0 m/s (b) 1.1 m/s (c) 1.2 m/s (d) 1.3 m/s
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A 0.6 kg mass in SHM (frequency 4 Hz, amplitude 0.02 m). Calculate the maximum acceleration.
-    - Options: (a) 12.6 m/s² (b) 12.8 m/s² (c) 13.0 m/s² (d) 13.2 m/s²
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A damped oscillator (0.4 kg, damping constant 0.15 kg/s, spring constant 80 N/m). Calculate the time for amplitude to reduce to 1/e.
-    - Options: (a) 5.3 s (b) 5.4 s (c) 5.5 s (d) 5.6 s
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: A pendulum (length 0.25 m, \( g = 9.8 \, \text{m/s}^2 \)) oscillates. Calculate the angular frequency.
-    - Options: (a) 6.2 rad/s (b) 6.3 rad/s (c) 6.4 rad/s (d) 6.5 rad/s
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A 1.5 kg mass on a spring (constant 600 N/m). Calculate the resonant frequency.
-    - Options: (a) 3.1 Hz (b) 3.2 Hz (c) 3.3 Hz (d) 3.4 Hz
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A 0.2 kg mass in SHM (amplitude 0.06 m, spring constant 200 N/m). Calculate the potential energy at x = 0.03 m.
-    - Options: (a) 0.09 J (b) 0.10 J (c) 0.11 J (d) 0.12 J
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A forced oscillator (natural frequency 6 Hz). What is the driving frequency for resonance?
-    - Options: (a) 5 Hz (b) 6 Hz (c) 7 Hz (d) 8 Hz
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A 0.7 kg mass on a spring (constant 280 N/m). Calculate the period.
-    - Options: (a) 0.31 s (b) 0.33 s (c) 0.35 s (d) 0.37 s
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A pendulum (length 0.36 m, \( g = 9.8 \, \text{m/s}^2 \)). Calculate the frequency.
-    - Options: (a) 0.82 Hz (b) 0.84 Hz (c) 0.86 Hz (d) 0.88 Hz
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A 0.5 kg mass in SHM (amplitude 0.08 m, frequency 2.5 Hz). Calculate the maximum kinetic energy.
-    - Options: (a) 0.25 J (b) 0.27 J (c) 0.29 J (d) 0.31 J
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A 1 kg mass on a spring (constant 500 N/m, amplitude 0.01 m). Calculate the maximum acceleration.
-    - Options: (a) 5.0 m/s² (b) 5.2 m/s² (c) 5.4 m/s² (d) 5.6 m/s²
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A damped oscillator (0.3 kg, damping constant 0.1 kg/s, spring constant 90 N/m). Calculate the time for amplitude to halve.
-    - Options: (a) 4.1 s (b) 4.2 s (c) 4.3 s (d) 4.4 s
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A pendulum (length 0.81 m, \( g = 9.8 \, \text{m/s}^2 \)) at resonance. Calculate the driving period.
-    - Options: (a) 1.7 s (b) 1.8 s (c) 1.9 s (d) 2.0 s
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: A 2 kg mass on a spring (constant 1000 N/m). Calculate the resonant frequency.
-    - Options: (a) 3.5 Hz (b) 3.6 Hz (c) 3.7 Hz (d) 3.8 Hz
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A 0.4 kg mass in SHM (amplitude 0.05 m, spring constant 400 N/m). Calculate the total energy.
-    - Options: (a) 0.50 J (b) 0.52 J (c) 0.54 J (d) 0.56 J
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A simple pendulum (length 0.64 m, \( g = 9.8 \, \text{m/s}^2 \)). Calculate the period.
-    - Options: (a) 1.5 s (b) 1.6 s (c) 1.7 s (d) 1.8 s
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A 0.9 kg mass on a spring (constant 360 N/m, amplitude 0.03 m). Calculate the maximum speed.
-    - Options: (a) 0.6 m/s (b) 0.7 m/s (c) 0.8 m/s (d) 0.9 m/s
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A 0.5 kg mass in SHM (frequency 5 Hz, amplitude 0.01 m). Calculate the maximum acceleration.
-    - Options: (a) 4.9 m/s² (b) 5.0 m/s² (c) 5.1 m/s² (d) 5.2 m/s²
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A damped oscillator (0.2 kg, damping constant 0.08 kg/s, spring constant 120 N/m). Calculate the time for amplitude to reduce to 1/e.
-    - Options: (a) 5.0 s (b) 5.1 s (c) 5.2 s (d) 5.3 s
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A pendulum (length 0.49 m, \( g = 9.8 \, \text{m/s}^2 \)). Calculate the angular frequency.
-    - Options: (a) 4.4 rad/s (b) 4.5 rad/s (c) 4.6 rad/s (d) 4.7 rad/s
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A 1.2 kg mass on a spring (constant 480 N/m). Calculate the resonant frequency.
-    - Options: (a) 3.0 Hz (b) 3.1 Hz (c) 3.2 Hz (d) 3.3 Hz
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A 0.3 kg mass in SHM (amplitude 0.07 m, spring constant 300 N/m). Calculate the potential energy at x = 0.04 m.
-    - Options: (a) 0.24 J (b) 0.26 J (c) 0.28 J (d) 0.30 J
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A forced oscillator (natural frequency 4 Hz). What is the driving frequency for resonance?
-    - Options: (a) 3 Hz (b) 4 Hz (c) 5 Hz (d) 6 Hz
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A 0.8 kg mass on a spring (constant 640 N/m). Calculate the period.
-    - Options: (a) 0.22 s (b) 0.24 s (c) 0.26 s (d) 0.28 s
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A pendulum (length 1.0 m, \( g = 9.8 \, \text{m/s}^2 \)). Calculate the frequency.
-    - Options: (a) 0.48 Hz (b) 0.50 Hz (c) 0.52 Hz (d) 0.54 Hz
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A 0.6 kg mass in SHM (amplitude 0.09 m, frequency 1.5 Hz). Calculate the maximum kinetic energy.
-    - Options: (a) 0.18 J (b) 0.20 J (c) 0.22 J (d) 0.24 J
+2. A simple pendulum of length $1.2 \, \text{m}$ oscillates on Earth ($g = 9.8 \, \text{m/s}^2$). Calculate the frequency.  
+   - (a) $0.45 \, \text{Hz}$  
+   - (b) $0.46 \, \text{Hz}$  
+   - (c) $0.47 \, \text{Hz}$  
+   - (d) $0.48 \, \text{Hz}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What defines simple harmonic motion (SHM)?
-   - Options: (a) Restoring force proportional to displacement (b) Constant velocity motion (c) Non-periodic motion (d) Force independent of displacement
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: How is energy conserved in SHM?
-   - Options: (a) Kinetic and potential energies sum to constant (b) Only kinetic energy conserved (c) Energy dissipates over time (d) Potential energy is constant
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What causes damping in oscillations?
-   - Options: (a) Resistive forces like friction (b) Increasing amplitude (c) Constant driving force (d) No external forces
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: Why does resonance occur in forced oscillations?
-   - Options: (a) Driving frequency matches natural frequency (b) Amplitude is constant (c) Damping eliminates motion (d) External force is absent
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What is the role of phase in SHM?
-   - Options: (a) Determines initial position (b) Sets amplitude (c) Fixes frequency (d) Controls damping
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: How does mass affect SHM period in a spring system?
-   - Options: (a) Larger mass increases period (b) Mass has no effect (c) Smaller mass increases period (d) Period depends only on spring constant
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: What happens to energy in damped oscillations?
-   - Options: (a) Decreases due to resistive forces (b) Remains constant (c) Increases with time (d) Depends only on amplitude
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: Why is maximum velocity at equilibrium in SHM?
-   - Options: (a) Kinetic energy is maximum (b) Potential energy is maximum (c) Force is maximum (d) Acceleration is maximum
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: How does pendulum length affect oscillation frequency?
-   - Options: (a) Longer length decreases frequency (b) Length has no effect (c) Shorter length decreases frequency (d) Frequency depends on mass
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is the significance of angular frequency in SHM?
-   - Options: (a) Relates to period and frequency (b) Determines amplitude (c) Measures damping (d) Sets equilibrium position
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Why does resonance amplify oscillations?
-   - Options: (a) Energy input matches natural frequency (b) Damping increases amplitude (c) External force is constant (d) Amplitude is fixed
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: How does damping affect oscillation frequency?
-   - Options: (a) Slightly reduces frequency (b) Increases frequency (c) No effect on frequency (d) Stops oscillations
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: What is the role of restoring force in SHM?
-   - Options: (a) Proportional to displacement, opposite direction (b) Constant force (c) Increases with time (d) Unrelated to displacement
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: Why is total energy constant in ideal SHM?
-   - Options: (a) No energy loss to surroundings (b) Energy dissipates (c) Amplitude changes (d) Frequency varies
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: How does forced oscillation differ from free oscillation?
-   - Options: (a) External periodic force drives motion (b) No external force (c) Constant amplitude (d) No damping
+3. A mass of $0.5 \, \text{kg}$ on a spring ($k = 200 \, \text{N/m}$) has an amplitude $A = 0.06 \, \text{m}$. Calculate the maximum velocity.  
+   - (a) $1.15 \, \text{m/s}$  
+   - (b) $1.20 \, \text{m/s}$  
+   - (c) $1.25 \, \text{m/s}$  
+   - (d) $1.30 \, \text{m/s}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the differential equation for SHM.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the period of a spring-mass system.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the energy conservation equation in SHM.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the period of a simple pendulum.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the amplitude decay in damped oscillations.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the resonant frequency for a driven oscillator.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the maximum velocity in SHM.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the angular frequency for a pendulum.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the total energy in SHM.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the equation for forced oscillations.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the time for amplitude to halve in damped SHM.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the phase relationship in SHM.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the maximum acceleration in SHM.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the damping factor in oscillations.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the resonance condition for amplitude.
+4. A spring-mass system ($m = 0.3 \, \text{kg}$, $k = 150 \, \text{N/m}$, $A = 0.08 \, \text{m}$) oscillates. Calculate the total energy.  
+   - (a) $0.45 \, \text{J}$  
+   - (b) $0.46 \, \text{J}$  
+   - (c) $0.47 \, \text{J}$  
+   - (d) $0.48 \, \text{J}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What characterizes simple harmonic motion?
-   - Options: (a) Periodic motion with restoring force proportional to displacement (b) Constant speed motion (c) Non-periodic motion (d) Force unrelated to displacement
-67. **Problem 67 (NEET, 2022)**: How does energy behave in SHM?
-   - Options: (a) Oscillates between kinetic and potential, total constant (b) Only kinetic energy exists (c) Energy dissipates (d) Potential energy is fixed
-68. **Problem 68 (NEET, 2021)**: What causes damped oscillations?
-   - Options: (a) Resistive forces like friction (b) Constant amplitude (c) No external forces (d) Increasing frequency
-69. **Problem 69 (NEET, 2024)**: Why is resonance significant in oscillatory systems?
-   - Options: (a) Maximizes amplitude at natural frequency (b) Reduces amplitude (c) Stops oscillations (d) Changes period
-70. **Problem 70 (NEET, 2020)**: What determines the period of a pendulum?
-   - Options: (a) Length and gravity (b) Mass and amplitude (c) Frequency only (d) Damping constant
-71. **Problem 71 (NEET, 2023)**: How does spring constant affect SHM?
-   - Options: (a) Higher constant reduces period (b) No effect on period (c) Increases period (d) Changes amplitude
-72. **Problem 72 (NEET, 2022)**: What is the role of amplitude in SHM?
-   - Options: (a) Measures maximum displacement (b) Sets frequency (c) Determines damping (d) Fixes phase
-73. **Problem 73 (NEET, 2021)**: Why does damping reduce oscillation amplitude?
-   - Options: (a) Energy loss to resistive forces (b) Energy gain (c) Constant energy (d) No energy change
-74. **Problem 74 (NEET, 2024)**: How is maximum kinetic energy achieved in SHM?
-   - Options: (a) At equilibrium position (b) At maximum displacement (c) During damping (d) At resonance
-75. **Problem 75 (NEET, 2020)**: What is the significance of natural frequency?
-   - Options: (a) Determines oscillation without external force (b) Sets amplitude (c) Controls damping (d) Fixes phase
-76. **Problem 76 (NEET, 2023)**: Why does a pendulum’s period depend on length?
-   - Options: (a) Longer length increases period (b) Length has no effect (c) Shorter length increases period (d) Depends on mass
-77. **Problem 77 (NEET, 2022)**: How does resonance affect mechanical systems?
-   - Options: (a) Amplifies motion, can cause damage (b) Reduces motion (c) No effect (d) Changes damping
-78. **Problem 78 (NEET, 2021)**: What is the role of restoring force in SHM?
-   - Options: (a) Drives motion back to equilibrium (b) Increases amplitude (c) Stops motion (d) Unrelated to equilibrium
-79. **Problem 79 (NEET, 2024)**: Why is energy conserved in ideal SHM?
-   - Options: (a) No energy loss to surroundings (b) Energy dissipates (c) Amplitude varies (d) Frequency changes
-80. **Problem 80 (NEET, 2020)**: How does mass affect SHM in a spring system?
-   - Options: (a) Larger mass increases period (b) No effect (c) Smaller mass increases period (d) Changes amplitude
-81. **Problem 81 (NEET, 2023)**: What happens to oscillations under heavy damping?
-   - Options: (a) Motion stops without oscillation (b) Oscillates indefinitely (c) Increases amplitude (d) Resonance occurs
-82. **Problem 82 (NEET, 2022)**: Why is maximum acceleration at extreme positions in SHM?
-   - Options: (a) Restoring force is maximum (b) Velocity is maximum (c) Energy is minimum (d) Force is zero
-83. **Problem 83 (NEET, 2021)**: How does forced oscillation differ from free oscillation?
-   - Options: (a) External force drives motion (b) No external force (c) Constant amplitude (d) No damping
-84. **Problem 84 (NEET, 2024)**: What is the role of frequency in SHM?
-   - Options: (a) Measures oscillations per second (b) Sets amplitude (c) Determines damping (d) Fixes equilibrium
-85. **Problem 85 (NEET, 2020)**: Why does a spring’s period depend on mass?
-   - Options: (a) Larger mass increases period (b) Mass has no effect (c) Smaller mass increases period (d) Depends on amplitude
-86. **Problem 86 (NEET, 2023)**: How does damping affect real-world systems?
-   - Options: (a) Reduces amplitude, e.g., shock absorbers (b) Increases amplitude (c) No effect (d) Changes frequency only
-87. **Problem 87 (NEET, 2022)**: What is the significance of phase in oscillatory motion?
-   - Options: (a) Determines initial position and velocity (b) Sets amplitude (c) Fixes frequency (d) Controls damping
-88. **Problem 88 (NEET, 2021)**: Why is resonance important in musical instruments?
-   - Options: (a) Amplifies sound at natural frequency (b) Reduces sound (c) No effect (d) Changes pitch
-89. **Problem 89 (NEET, 2024)**: How does energy transfer in SHM?
-   - Options: (a) Between kinetic and potential (b) Only kinetic exists (c) Dissipates completely (d) Remains potential
-90. **Problem 90 (NEET, 2020)**: What determines the amplitude of forced oscillations?
-   - Options: (a) Driving force and damping (b) Natural frequency only (c) Mass alone (d) No effect from force
-91. **Problem 91 (NEET, 2023)**: Why does a pendulum’s frequency depend on gravity?
-   - Options: (a) Higher gravity increases frequency (b) Gravity has no effect (c) Lower gravity increases frequency (d) Depends on mass
-92. **Problem 92 (NEET, 2022)**: How does SHM apply to real-world systems?
-   - Options: (a) Models springs, pendulums, vibrations (b) Only theoretical (c) No real applications (d) Limited to damping
-93. **Problem 93 (NEET, 2021)**: What is the role of equilibrium in SHM?
-   - Options: (a) Point of zero force, maximum velocity (b) Maximum force (c) Minimum velocity (d) No motion
-94. **Problem 94 (NEET, 2024)**: Why does damping prevent resonance damage?
-   - Options: (a) Limits amplitude growth (b) Increases amplitude (c) No effect on resonance (d) Stops driving force
-95. **Problem 95 (NEET, 2020)**: How does SHM relate to wave motion?
-   - Options: (a) Basis for wave oscillations (b) Unrelated to waves (c) Only for damped waves (d) Limited to resonance
+5. A pendulum ($m = 0.2 \, \text{kg}$, $L = 0.8 \, \text{m}$, $\theta_{\text{max}} = 0.1 \, \text{rad}$, $g = 9.8 \, \text{m/s}^2$) oscillates. Calculate the maximum kinetic energy.  
+   - (a) $0.015 \, \text{J}$  
+   - (b) $0.016 \, \text{J}$  
+   - (c) $0.017 \, \text{J}$  
+   - (d) $0.018 \, \text{J}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A 0.2 kg mass on a spring (constant 180 N/m) oscillates. What is the period?
-   - Options: (a) 0.20 s (b) 0.21 s (c) 0.22 s (d) 0.23 s
-97. **Problem 97 (NEET, 2022)**: A pendulum (length 0.5 m, \( g = 9.8 \, \text{m/s}^2 \)). What is the frequency?
-   - Options: (a) 0.70 Hz (b) 0.71 Hz (c) 0.72 Hz (d) 0.73 Hz
-98. **Problem 98 (NEET, 2021)**: A 0.4 kg mass in SHM (amplitude 0.02 m, spring constant 200 N/m). What is the total energy?
-   - Options: (a) 0.04 J (b) 0.05 J (c) 0.06 J (d) 0.07 J
-99. **Problem 99 (NEET, 2024)**: A 0.3 kg mass in SHM (amplitude 0.03 m, frequency 2 Hz). What is the maximum velocity?
-   - Options: (a) 0.37 m/s (b) 0.38 m/s (c) 0.39 m/s (d) 0.40 m/s
-100. **Problem 100 (NEET, 2020)**: A pendulum (length 0.16 m, \( g = 9.8 \, \text{m/s}^2 \)) at resonance. What is the driving period?
-    - Options: (a) 0.8 s (b) 0.9 s (c) 1.0 s (d) 1.1 s
+6. A mass on a spring ($k = 100 \, \text{N/m}$, $m = 0.4 \, \text{kg}$, $A = 0.05 \, \text{m}$) oscillates. Calculate the velocity at $x = 0.03 \, \text{m}$.  
+   - (a) $0.78 \, \text{m/s}$  
+   - (b) $0.79 \, \text{m/s}$  
+   - (c) $0.80 \, \text{m/s}$  
+   - (d) $0.81 \, \text{m/s}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. A damped oscillator has $m = 0.2 \, \text{kg}$, $k = 80 \, \text{N/m}$, and $b = 0.4 \, \text{kg/s}$. Calculate the damped frequency.  
+   - (a) $19.95 \, \text{rad/s}$  
+   - (b) $19.96 \, \text{rad/s}$  
+   - (c) $19.97 \, \text{rad/s}$  
+   - (d) $19.98 \, \text{rad/s}$
 
-[View Solutions](/books/physics/oscillations/solutions) -->
+8. A forced oscillator ($m = 0.6 \, \text{kg}$, $k = 240 \, \text{N/m}$, $b = 0.3 \, \text{kg/s}$, $F_0 = 2 \, \text{N}$) is at resonance. Calculate the maximum amplitude.  
+   - (a) $0.105 \, \text{m}$  
+   - (b) $0.110 \, \text{m}$  
+   - (c) $0.115 \, \text{m}$  
+   - (d) $0.120 \, \text{m}$
+
+9. A spring-mass system has $m = 1 \, \text{kg}$ and $k = 400 \, \text{N/m}$. Calculate the frequency of oscillation.  
+   - (a) $3.15 \, \text{Hz}$  
+   - (b) $3.18 \, \text{Hz}$  
+   - (c) $3.21 \, \text{Hz}$  
+   - (d) $3.24 \, \text{Hz}$
+
+10. A simple pendulum of length $0.5 \, \text{m}$ oscillates on Earth ($g = 9.8 \, \text{m/s}^2$). Calculate the period.  
+    - (a) $1.40 \, \text{s}$  
+    - (b) $1.41 \, \text{s}$  
+    - (c) $1.42 \, \text{s}$  
+    - (d) $1.43 \, \text{s}$
+
+11. A mass of $0.1 \, \text{kg}$ on a spring ($k = 50 \, \text{N/m}$) has $A = 0.04 \, \text{m}$. Calculate the maximum acceleration.  
+    - (a) $19.5 \, \text{m/s}^2$  
+    - (b) $20.0 \, \text{m/s}^2$  
+    - (c) $20.5 \, \text{m/s}^2$  
+    - (d) $21.0 \, \text{m/s}^2$
+
+12. A spring-mass system ($m = 0.25 \, \text{kg}$, $k = 100 \, \text{N/m}$, $A = 0.03 \, \text{m}$) oscillates. Calculate the potential energy at $x = 0.02 \, \text{m}$.  
+    - (a) $0.020 \, \text{J}$  
+    - (b) $0.021 \, \text{J}$  
+    - (c) $0.022 \, \text{J}$  
+    - (d) $0.023 \, \text{J}$
+
+13. A pendulum ($m = 0.15 \, \text{kg}$, $L = 1 \, \text{m}$, $\theta_{\text{max}} = 0.15 \, \text{rad}$, $g = 9.8 \, \text{m/s}^2$) oscillates. Calculate the maximum potential energy.  
+    - (a) $0.016 \, \text{J}$  
+    - (b) $0.017 \, \text{J}$  
+    - (c) $0.018 \, \text{J}$  
+    - (d) $0.019 \, \text{J}$
+
+14. A mass on a spring ($k = 300 \, \text{N/m}$, $m = 0.6 \, \text{kg}$, $A = 0.07 \, \text{m}$) oscillates. Calculate the kinetic energy at $x = 0.04 \, \text{m}$.  
+    - (a) $0.52 \, \text{J}$  
+    - (b) $0.53 \, \text{J}$  
+    - (c) $0.54 \, \text{J}$  
+    - (d) $0.55 \, \text{J}$
+
+15. A damped oscillator has $m = 0.4 \, \text{kg}$, $k = 160 \, \text{N/m}$, and $b = 0.8 \, \text{kg/s}$. Calculate the time for the amplitude to reduce to $1/e$ of its initial value.  
+    - (a) $0.48 \, \text{s}$  
+    - (b) $0.49 \, \text{s}$  
+    - (c) $0.50 \, \text{s}$  
+    - (d) $0.51 \, \text{s}$
+
+16. A system ($m = 0.2 \, \text{kg}$, $k = 80 \, \text{N/m}$, $b = 0.5 \, \text{kg/s}$, $F_0 = 1 \, \text{N}$) is at resonance. Calculate the maximum energy.  
+    - (a) $0.040 \, \text{J}$  
+    - (b) $0.045 \, \text{J}$  
+    - (c) $0.050 \, \text{J}$  
+    - (d) $0.055 \, \text{J}$
+
+17. A spring-mass system has $m = 0.9 \, \text{kg}$ and $k = 360 \, \text{N/m}$. Calculate the period of oscillation.  
+    - (a) $0.30 \, \text{s}$  
+    - (b) $0.31 \, \text{s}$  
+    - (c) $0.32 \, \text{s}$  
+    - (d) $0.33 \, \text{s}$
+
+18. A simple pendulum of length $2 \, \text{m}$ oscillates on Earth ($g = 9.8 \, \text{m/s}^2$). Calculate the frequency.  
+    - (a) $0.34 \, \text{Hz}$  
+    - (b) $0.35 \, \text{Hz}$  
+    - (c) $0.36 \, \text{Hz}$  
+    - (d) $0.37 \, \text{Hz}$
+
+19. A mass of $0.3 \, \text{kg}$ on a spring ($k = 120 \, \text{N/m}$) has $A = 0.05 \, \text{m}$. Calculate the maximum velocity.  
+    - (a) $0.95 \, \text{m/s}$  
+    - (b) $1.00 \, \text{m/s}$  
+    - (c) $1.05 \, \text{m/s}$  
+    - (d) $1.10 \, \text{m/s}$
+
+20. A spring-mass system ($m = 0.7 \, \text{kg}$, $k = 280 \, \text{N/m}$, $A = 0.04 \, \text{m}$) oscillates. Calculate the total energy.  
+    - (a) $0.22 \, \text{J}$  
+    - (b) $0.23 \, \text{J}$  
+    - (c) $0.24 \, \text{J}$  
+    - (d) $0.25 \, \text{J}$
+
+21. A pendulum ($m = 0.1 \, \text{kg}$, $L = 0.6 \, \text{m}$, $\theta_{\text{max}} = 0.2 \, \text{rad}$, $g = 9.8 \, \text{m/s}^2$) oscillates. Calculate the maximum kinetic energy.  
+    - (a) $0.011 \, \text{J}$  
+    - (b) $0.012 \, \text{J}$  
+    - (c) $0.013 \, \text{J}$  
+    - (d) $0.014 \, \text{J}$
+
+22. A mass on a spring ($k = 150 \, \text{N/m}$, $m = 0.3 \, \text{kg}$, $A = 0.06 \, \text{m}$) oscillates. Calculate the velocity at $x = 0.02 \, \text{m}$.  
+    - (a) $1.32 \, \text{m/s}$  
+    - (b) $1.33 \, \text{m/s}$  
+    - (c) $1.34 \, \text{m/s}$  
+    - (d) $1.35 \, \text{m/s}$
+
+23. A damped oscillator has $m = 0.5 \, \text{kg}$, $k = 200 \, \text{N/m}$, and $b = 1.0 \, \text{kg/s}$. Calculate the damped frequency.  
+    - (a) $19.90 \, \text{rad/s}$  
+    - (b) $19.92 \, \text{rad/s}$  
+    - (c) $19.94 \, \text{rad/s}$  
+    - (d) $19.96 \, \text{rad/s}$
+
+24. A forced oscillator ($m = 0.4 \, \text{kg}$, $k = 160 \, \text{N/m}$, $b = 0.2 \, \text{kg/s}$, $F_0 = 1.5 \, \text{N}$) is at resonance. Calculate the maximum amplitude.  
+    - (a) $0.185 \, \text{m}$  
+    - (b) $0.190 \, \text{m}$  
+    - (c) $0.195 \, \text{m}$  
+    - (d) $0.200 \, \text{m}$
+
+25. A spring-mass system has $m = 0.2 \, \text{kg}$ and $k = 80 \, \text{N/m}$. Calculate the frequency.  
+    - (a) $3.15 \, \text{Hz}$  
+    - (b) $3.18 \, \text{Hz}$  
+    - (c) $3.21 \, \text{Hz}$  
+    - (d) $3.24 \, \text{Hz}$
+
+26. A simple pendulum of length $0.8 \, \text{m}$ oscillates on Earth ($g = 9.8 \, \text{m/s}^2$). Calculate the period.  
+    - (a) $1.78 \, \text{s}$  
+    - (b) $1.79 \, \text{s}$  
+    - (c) $1.80 \, \text{s}$  
+    - (d) $1.81 \, \text{s}$
+
+27. A mass of $0.4 \, \text{kg}$ on a spring ($k = 160 \, \text{N/m}$) has $A = 0.03 \, \text{m}$. Calculate the maximum acceleration.  
+    - (a) $11.5 \, \text{m/s}^2$  
+    - (b) $12.0 \, \text{m/s}^2$  
+    - (c) $12.5 \, \text{m/s}^2$  
+    - (d) $13.0 \, \text{m/s}^2$
+
+28. A spring-mass system ($m = 0.6 \, \text{kg}$, $k = 240 \, \text{N/m}$, $A = 0.05 \, \text{m}$) oscillates. Calculate the potential energy at $x = 0.03 \, \text{m}$.  
+    - (a) $0.100 \, \text{J}$  
+    - (b) $0.105 \, \text{J}$  
+    - (c) $0.110 \, \text{J}$  
+    - (d) $0.115 \, \text{J}$
+
+29. A pendulum ($m = 0.05 \, \text{kg}$, $L = 0.4 \, \text{m}$, $\theta_{\text{max}} = 0.1 \, \text{rad}$, $g = 9.8 \, \text{m/s}^2$) oscillates. Calculate the maximum potential energy.  
+    - (a) $0.0020 \, \text{J}$  
+    - (b) $0.0021 \, \text{J}$  
+    - (c) $0.0022 \, \text{J}$  
+    - (d) $0.0023 \, \text{J}$
+
+30. A mass on a spring ($k = 200 \, \text{N/m}$, $m = 0.5 \, \text{kg}$, $A = 0.04 \, \text{m}$) oscillates. Calculate the kinetic energy at $x = 0.02 \, \text{m}$.  
+    - (a) $0.060 \, \text{J}$  
+    - (b) $0.065 \, \text{J}$  
+    - (c) $0.070 \, \text{J}$  
+    - (d) $0.075 \, \text{J}$
+
+31. A damped oscillator has $m = 0.3 \, \text{kg}$, $k = 120 \, \text{N/m}$, and $b = 0.6 \, \text{kg/s}$. Calculate the time for the amplitude to reduce to $1/e$ of its initial value.  
+    - (a) $0.48 \, \text{s}$  
+    - (b) $0.49 \, \text{s}$  
+    - (c) $0.50 \, \text{s}$  
+    - (d) $0.51 \, \text{s}$
+
+32. A system ($m = 0.1 \, \text{kg}$, $k = 40 \, \text{N/m}$, $b = 0.2 \, \text{kg/s}$) has a Q-factor of 10. Calculate $b$.  
+    - (a) $0.15 \, \text{kg/s}$  
+    - (b) $0.20 \, \text{kg/s}$  
+    - (c) $0.25 \, \text{kg/s}$  
+    - (d) $0.30 \, \text{kg/s}$
+
+33. A rocket component ($m = 2 \, \text{kg}$, $k = 800 \, \text{N/m}$, $b = 4 \, \text{kg/s}$) vibrates. Calculate the resonance frequency.  
+    - (a) $3.15 \, \text{Hz}$  
+    - (b) $3.18 \, \text{Hz}$  
+    - (c) $3.21 \, \text{Hz}$  
+    - (d) $3.24 \, \text{Hz}$
+
+34. A spring-mass system ($m = 0.8 \, \text{kg}$, $k = 320 \, \text{N/m}$, $A = 0.02 \, \text{m}$) oscillates. Calculate the total energy.  
+    - (a) $0.060 \, \text{J}$  
+    - (b) $0.062 \, \text{J}$  
+    - (c) $0.064 \, \text{J}$  
+    - (d) $0.066 \, \text{J}$
+
+35. A forced oscillator ($m = 0.5 \, \text{kg}$, $k = 200 \, \text{N/m}$, $b = 0.5 \, \text{kg/s}$, $F_0 = 2 \, \text{N}$) is at resonance. Calculate the maximum energy.  
+    - (a) $0.080 \, \text{J}$  
+    - (b) $0.085 \, \text{J}$  
+    - (c) $0.090 \, \text{J}$  
+    - (d) $0.095 \, \text{J}$
+
+---
+
+## Conceptual Problems
+
+36. What condition defines simple harmonic motion (SHM)?  
+   - (a) Acceleration is constant  
+   - (b) Acceleration is proportional to velocity  
+   - (c) Acceleration is proportional to displacement and opposite in direction  
+   - (d) Acceleration is independent of displacement
+
+37. What does the total energy in SHM depend on?  
+   - (a) Position  
+   - (b) Velocity  
+   - (c) Amplitude and spring constant  
+   - (d) Phase constant
+
+38. What happens to the frequency of a simple pendulum if its length is doubled?  
+   - (a) Increases by a factor of 2  
+   - (b) Decreases by a factor of $\sqrt{2}$  
+   - (c) Decreases by a factor of 2  
+   - (d) Remains the same
+
+39. What does damping do to an oscillatory system?  
+   - (a) Increases amplitude  
+   - (b) Decreases amplitude over time  
+   - (c) Increases frequency  
+   - (d) Decreases total energy to zero instantly
+
+40. What is the unit of angular frequency in SHM?  
+   - (a) $\text{Hz}$  
+   - (b) $\text{rad/s}$  
+   - (c) $\text{s}$  
+   - (d) $\text{J}$
+
+41. What happens to the velocity in SHM at the extreme positions?  
+   - (a) Maximum  
+   - (b) Zero  
+   - (c) Constant  
+   - (d) Minimum but non-zero
+
+42. What does a high Q-factor indicate in a forced oscillator?  
+   - (a) High damping  
+   - (b) Low damping, sharp resonance  
+   - (c) Low amplitude  
+   - (d) High frequency
+
+43. What is the physical significance of $-\omega^2 x$ in SHM?  
+   - (a) Velocity  
+   - (b) Acceleration  
+   - (c) Potential energy  
+   - (d) Kinetic energy
+
+44. What does resonance in a forced oscillator imply?  
+   - (a) Minimum amplitude  
+   - (b) Maximum amplitude at driving frequency equal to natural frequency  
+   - (c) No oscillation  
+   - (d) Constant amplitude
+
+45. What is the dimension of the spring constant $k$?  
+   - (a) $[\text{M} \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+46. What does a zero kinetic energy in SHM indicate?  
+   - (a) System is at equilibrium  
+   - (b) System is at the extreme position  
+   - (c) System is damped  
+   - (d) System is at resonance
+
+47. What is the significance of $A \omega$ in SHM?  
+   - (a) Maximum acceleration  
+   - (b) Maximum velocity  
+   - (c) Total energy  
+   - (d) Period
+
+48. What happens to the period of a spring-mass system if the mass is quadrupled?  
+   - (a) Doubles  
+   - (b) Halves  
+   - (c) Quadruples  
+   - (d) Remains the same
+
+49. What does critical damping imply?  
+   - (a) System oscillates with decreasing amplitude  
+   - (b) System returns to equilibrium without oscillation  
+   - (c) System oscillates with constant amplitude  
+   - (d) System does not return to equilibrium
+
+50. How does the amplitude of a damped oscillator behave over time?  
+   - (a) Increases exponentially  
+   - (b) Decreases exponentially  
+   - (c) Remains constant  
+   - (d) Increases linearly
+
+---
+
+## Derivation Problems
+
+51. Derive the equation of motion for SHM $a = -\omega^2 x$.
+
+52. Derive the period of a spring-mass system $T = 2 \pi \sqrt{\frac{m}{k}}$.
+
+53. Derive the total energy in SHM $E = \frac{1}{2} k A^2$.
+
+54. Derive the velocity in SHM as a function of position $v = \omega \sqrt{A^2 - x^2}$.
+
+55. Derive the period of a simple pendulum $T = 2 \pi \sqrt{\frac{L}{g}}$ for small angles.
+
+56. Derive the solution to damped SHM $x(t) = A e^{-\gamma t} \cos(\omega' t + \phi)$.
+
+57. Derive the maximum amplitude at resonance for a forced oscillator.
+
+58. Derive the Q-factor $Q = \frac{\omega_0}{2 \gamma}$ for a damped oscillator.
+
+59. Derive the velocity and acceleration in SHM from $x(t) = A \cos(\omega t + \phi)$.
+
+60. Derive the energy oscillation in SHM showing $K + U = \text{constant}$.
+
+61. Derive the damped frequency $\omega' = \sqrt{\omega_0^2 - \gamma^2}$.
+
+62. Derive the maximum kinetic energy of a pendulum using small-angle approximation.
+
+63. Derive the energy decay in a damped oscillator $E(t) \propto e^{-2 \gamma t}$.
+
+64. Derive the resonance frequency for a forced oscillator.
+
+65. Derive the maximum acceleration in SHM $a_{\text{max}} = A \omega^2$.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of frequency in SI units?  
+   - (a) $\text{Hz}$  
+   - (b) $\text{rad/s}$  
+   - (c) $\text{J}$  
+   - (d) $\text{s}$
+
+67. What does a zero velocity in SHM indicate?  
+   - (a) System is at equilibrium  
+   - (b) System is at the extreme position  
+   - (c) System is damped  
+   - (d) System is at resonance
+
+68. Which condition results in resonance in a forced oscillator?  
+   - (a) Driving frequency equals natural frequency  
+   - (b) Driving frequency is zero  
+   - (c) Damping is zero  
+   - (d) Amplitude is zero
+
+69. What happens to the total energy in SHM if amplitude doubles?  
+   - (a) Doubles  
+   - (b) Quadruples  
+   - (c) Halves  
+   - (d) Remains the same
+
+70. What is the dimension of angular frequency?  
+   - (a) $[\text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-1}]$
+
+71. What does the phase constant $\phi$ in SHM determine?  
+   - (a) Amplitude  
+   - (b) Frequency  
+   - (c) Initial position and velocity  
+   - (d) Total energy
+
+72. What is the role of the restoring force in SHM?  
+   - (a) Increases amplitude  
+   - (b) Brings the system back to equilibrium  
+   - (c) Increases frequency  
+   - (d) Reduces damping
+
+73. What happens to the period of a pendulum if $g$ is reduced by a factor of 4?  
+   - (a) Doubles  
+   - (b) Halves  
+   - (c) Quadruples  
+   - (d) Remains the same
+
+74. Why does damping reduce the amplitude of oscillation?  
+   - (a) Increases frequency  
+   - (b) Dissipates energy as heat  
+   - (c) Increases potential energy  
+   - (d) Reduces spring constant
+
+75. What is the unit of the damping coefficient $b$?  
+   - (a) $\text{kg/s}$  
+   - (b) $\text{N/m}$  
+   - (c) $\text{Pa}$  
+   - (d) $\text{J}$
+
+76. What does a constant total energy in SHM imply?  
+   - (a) No damping  
+   - (b) System is at resonance  
+   - (c) System is overdamped  
+   - (d) System is critically damped
+
+77. Which type of motion does a spring-mass system exhibit for small displacements?  
+   - (a) Circular  
+   - (b) Simple harmonic  
+   - (c) Parabolic  
+   - (d) Linear
+
+78. What is the direction of the acceleration in SHM?  
+   - (a) Always toward the equilibrium position  
+   - (b) Away from the equilibrium position  
+   - (c) Along the velocity  
+   - (d) Perpendicular to displacement
+
+79. What does a pseudo-force do in a non-inertial frame for oscillations?  
+   - (a) Maintains SHM  
+   - (b) Affects the effective acceleration  
+   - (c) Provides damping  
+   - (d) Reduces amplitude
+
+80. What is the dimension of total energy in SHM?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of resonance in a rocket engine?  
+   - (a) Increases efficiency  
+   - (b) Can cause destructive vibrations if not managed  
+   - (c) Reduces amplitude  
+   - (d) Increases damping
+
+82. What happens to kinetic energy at the equilibrium position in SHM?  
+   - (a) Zero  
+   - (b) Maximum  
+   - (c) Constant  
+   - (d) Minimum but non-zero
+
+83. Why does a simple pendulum exhibit SHM for small angles?  
+   - (a) $\sin \theta \approx \theta$, making the restoring force linear  
+   - (b) Large angles increase frequency  
+   - (c) Damping is negligible  
+   - (d) Gravity is constant
+
+84. What is the significance of $\frac{1}{2} k A^2$ in SHM?  
+   - (a) Maximum velocity  
+   - (b) Maximum acceleration  
+   - (c) Total mechanical energy  
+   - (d) Damped frequency
+
+85. What is the unit of the Q-factor?  
+   - (a) Dimensionless  
+   - (b) $\text{Hz}$  
+   - (c) $\text{rad/s}$  
+   - (d) $\text{J}$
+
+86. What does a zero acceleration in SHM indicate?  
+   - (a) System is at the extreme position  
+   - (b) System is at equilibrium  
+   - (c) System is damped  
+   - (d) System is at resonance
+
+87. What is the physical significance of $\sqrt{\frac{k}{m}}$?  
+   - (a) Period  
+   - (b) Angular frequency  
+   - (c) Amplitude  
+   - (d) Damping coefficient
+
+88. Why does a high damping coefficient reduce oscillation amplitude quickly?  
+   - (a) Increases frequency  
+   - (b) Increases energy loss per cycle  
+   - (c) Reduces spring constant  
+   - (d) Increases potential energy
+
+89. What is the dimension of velocity in SHM?  
+   - (a) $[\text{L} \text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does resonance affect a rocket structure during launch?  
+   - (a) Increases stability  
+   - (b) Can amplify vibrations, risking structural failure  
+   - (c) Reduces frequency  
+   - (d) Increases damping
+
+91. What is the role of the spring constant in SHM?  
+   - (a) Determines damping  
+   - (b) Determines the restoring force per unit displacement  
+   - (c) Reduces amplitude  
+   - (d) Increases phase constant
+
+92. What does a negative acceleration in SHM indicate?  
+   - (a) Motion toward the equilibrium position  
+   - (b) Motion away from the equilibrium position  
+   - (c) System is overdamped  
+   - (d) System is at resonance
+
+93. What is the physical significance of $e^{-\gamma t}$ in damped oscillations?  
+   - (a) Frequency decay  
+   - (b) Amplitude decay factor  
+   - (c) Energy increase  
+   - (d) Phase constant
+
+94. What is the dimension of acceleration in SHM?  
+   - (a) $[\text{L} \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-1}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does the frequency of a spring-mass system not depend on amplitude?  
+   - (a) SHM is linear  
+   - (b) Damping is present  
+   - (c) Energy is constant  
+   - (d) Gravity affects it
+
+---
+
+## NEET-style Numerical Problems
+
+96. A spring-mass system has $m = 0.4 \, \text{kg}$ and $k = 160 \, \text{N/m}$. What is the period of oscillation?  
+   - (a) $0.31 \, \text{s}$  
+   - (b) $0.32 \, \text{s}$  
+   - (c) $0.33 \, \text{s}$  
+   - (d) $0.34 \, \text{s}$
+
+97. A simple pendulum of length $1.5 \, \text{m}$ oscillates on Earth ($g = 9.8 \, \text{m/s}^2$). What is the frequency?  
+   - (a) $0.40 \, \text{Hz}$  
+   - (b) $0.41 \, \text{Hz}$  
+   - (c) $0.42 \, \text{Hz}$  
+   - (d) $0.43 \, \text{Hz}$
+
+98. A mass of $0.2 \, \text{kg}$ on a spring ($k = 80 \, \text{N/m}$) has $A = 0.05 \, \text{m}$. What is the maximum velocity?  
+   - (a) $0.95 \, \text{m/s}$  
+   - (b) $1.00 \, \text{m/s}$  
+   - (c) $1.05 \, \text{m/s}$  
+   - (d) $1.10 \, \text{m/s}$
+
+99. A damped oscillator has $m = 0.1 \, \text{kg}$, $k = 40 \, \text{N/m}$, and $b = 0.2 \, \text{kg/s}$. What is the damped frequency?  
+   - (a) $19.95 \, \text{rad/s}$  
+   - (b) $19.96 \, \text{rad/s}$  
+   - (c) $19.97 \, \text{rad/s}$  
+   - (d) $19.98 \, \text{rad/s}$
+
+100. A forced oscillator ($m = 0.3 \, \text{kg}$, $k = 120 \, \text{N/m}$, $b = 0.3 \, \text{kg/s}$, $F_0 = 1.2 \, \text{N}$) is at resonance. What is the maximum amplitude?  
+    - (a) $0.095 \, \text{m}$  
+    - (b) $0.100 \, \text{m}$  
+    - (c) $0.105 \, \text{m}$  
+    - (d) $0.110 \, \text{m}$
 
 ## Back to Chapter
 [Return to Oscillations Chapter](./index.md)
