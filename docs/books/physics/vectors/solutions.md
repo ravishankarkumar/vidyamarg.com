@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Vectors Solutions for JEE & NEET
 description: Sample solutions for vectors problems, covering vector representation, addition, subtraction, components, dot and cross products, and applications, tailored for JEE and NEET preparation.
-slug: book/physics/vectors-solutions
+slug: books/physics/vectors/solutions
 keywords: physics vectors solutions, JEE physics vectors solutions, NEET physics vectors solutions, dot product, cross product
 og:image: https://vidyamarg.com/og-physics-vectors.jpg
 ---

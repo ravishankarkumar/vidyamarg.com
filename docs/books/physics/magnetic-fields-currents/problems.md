@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Magnetic Fields Due to Currents Problems for JEE & NEET
 description: Practice 100 problems on magnetic fields due to currents for JEE and NEET, inspired by exam patterns, covering Biot-Savart law, Ampere’s law, specific current configurations, superposition, and electromagnetism applications.
-slug: book/physics/magnetic-fields-currents-problems
+slug: books/physics/magnetic-fields-currents/problems
 keywords: physics magnetic fields currents problems, JEE physics Biot-Savart law problems, NEET physics Ampere’s law problems, electromagnetism
 og:image: https://vidyamarg.com/og-physics-magnetic-fields-currents.jpg
 ---

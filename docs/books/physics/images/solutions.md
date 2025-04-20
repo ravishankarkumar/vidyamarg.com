@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Images Solutions for JEE & NEET
 description: Sample solutions for image formation problems, covering reflection, refraction, mirrors, lenses, and optical instruments, tailored for JEE and NEET preparation.
-slug: book/physics/images-solutions
+slug: books/physics/images/solutions
 keywords: physics images solutions, JEE physics geometric optics solutions, NEET physics lenses solutions, ray optics
 og:image: https://vidyamarg.com/og-physics-images.jpg
 ---

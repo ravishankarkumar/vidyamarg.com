@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Motion Along a Straight Line Problems for JEE & NEET
 description: Practice 100 motion along a straight line problems for JEE and NEET, inspired by exam patterns, covering displacement, velocity, acceleration, kinematic equations, and free fall.
-slug: book/physics/motion-straight-line-problems
+slug: books/physics/motion-straight-line/problems
 keywords: physics motion problems, JEE physics kinematics problems, NEET physics motion problems, kinematic equations
 og:image: https://vidyamarg.com/og-physics-motion-straight-line.jpg
 ---

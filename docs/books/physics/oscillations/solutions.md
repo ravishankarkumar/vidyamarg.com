@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Oscillations Solutions for JEE & NEET
 description: Sample solutions for oscillations problems, covering simple harmonic motion, energy, damped and forced oscillations, resonance, and applications, tailored for JEE and NEET preparation.
-slug: book/physics/oscillations-solutions
+slug: books/physics/oscillations/solutions
 keywords: physics oscillations solutions, JEE physics simple harmonic motion solutions, NEET physics resonance solutions, damped oscillations
 og:image: https://vidyamarg.com/og-physics-oscillations.jpg
 ---

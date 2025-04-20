@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Motion in Two and Three Dimensions for JEE & NEET
 description: Comprehensive guide to motion in two and three dimensions for JEE and NEET, covering position, displacement, velocity, acceleration, projectile motion, circular motion, and relative motion, with extensive examples.
-slug: book/physics/motion-2d-3d
+slug: books/physics/motion-2d-3d
 keywords: physics motion 2d 3d, JEE physics projectile motion, NEET physics circular motion, relative motion
 og:image: https://vidyamarg.com/og-physics-motion-2d-3d.jpg
 ---
@@ -343,6 +343,6 @@ Our Hinglish video lessons make motion in two and three dimensions engaging for 
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing projectile motion, circular motion, and relative velocity coming soon!*
+*Animation for visualizing projectile motion, circular motion, and relative velocity coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

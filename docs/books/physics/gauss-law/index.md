@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Gauss’s Law for JEE & NEET
 description: Comprehensive guide on Gauss’s law for JEE and NEET, covering electric flux, Gauss’s law applications, field calculations for symmetric charge distributions, and conductors, with extensive examples.
-slug: book/physics/gauss-law
+slug: books/physics/gauss-law
 keywords: physics Gauss’s law, JEE physics electric flux, NEET physics field calculations, electrostatics
 og:image: https://vidyamarg.com/og-physics-gauss-law.jpg
 ---
@@ -269,6 +269,6 @@ Our Hinglish video lessons make electrostatics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing Gaussian surfaces, field distributions, and conductor effects coming soon!*
+*Animation for visualizing Gaussian surfaces, field distributions, and conductor effects coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

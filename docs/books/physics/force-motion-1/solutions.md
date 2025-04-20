@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Force and Motion—I Solutions for JEE & NEET
 description: Sample solutions for force and motion problems, covering Newton’s laws, inertial frames, applications in linear motion, and problem-solving techniques, tailored for JEE and NEET preparation.
-slug: book/physics/force-motion-1-solutions
+slug: books/physics/force-motion-1/solutions
 keywords: physics force motion solutions, JEE physics Newton’s laws solutions, NEET physics dynamics solutions, inertial frames
 og:image: https://vidyamarg.com/og-physics-force-motion-1.jpg
 ---

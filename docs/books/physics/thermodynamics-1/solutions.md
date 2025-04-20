@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Temperature, Heat, and the First Law of Thermodynamics Solutions for JEE & NEET
 description: Sample solutions for thermodynamics problems, covering temperature scales, heat transfer, specific heat, calorimetry, thermal expansion, and the first law of thermodynamics, tailored for JEE and NEET preparation.
-slug: book/physics/thermodynamics-1-solutions
+slug: books/physics/thermodynamics-1/solutions
 keywords: physics thermodynamics solutions, JEE physics temperature and heat solutions, NEET physics first law of thermodynamics solutions, thermal expansion
 og:image: https://vidyamarg.com/og-physics-thermodynamics-1.jpg
 ---

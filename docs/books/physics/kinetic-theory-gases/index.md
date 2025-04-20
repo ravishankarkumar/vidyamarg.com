@@ -1,7 +1,7 @@
 ---
 title: Physics Book - The Kinetic Theory of Gases for JEE & NEET
 description: Comprehensive guide on the kinetic theory of gases for JEE and NEET, covering molecular motion, pressure, temperature, Maxwell-Boltzmann distribution, degrees of freedom, and specific heats, with extensive examples.
-slug: book/physics/kinetic-theory-gases
+slug: books/physics/kinetic-theory-gases
 keywords: physics kinetic theory, JEE physics ideal gas, NEET physics Maxwell-Boltzmann distribution, degrees of freedom
 og:image: https://vidyamarg.com/og-physics-kinetic-theory-gases.jpg
 ---
@@ -283,6 +283,6 @@ Our Hinglish video lessons make kinetic theory engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing molecular motion, Maxwell-Boltzmann distribution, and specific heats coming soon!*
+*Animation for visualizing molecular motion, Maxwell-Boltzmann distribution, and specific heats coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

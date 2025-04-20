@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Potential Energy and Conservation of Energy Problems for JEE & NEET
 description: Practice 100 potential energy and conservation of energy problems for JEE and NEET, inspired by exam patterns, covering gravitational and elastic potential energy, conservative forces, and energy conservation.
-slug: book/physics/potential-energy-conservation-problems
+slug: books/physics/potential-energy-conservation/problems
 keywords: physics potential energy conservation problems, JEE physics energy conservation problems, NEET physics conservative forces problems, elastic potential energy
 og:image: https://vidyamarg.com/og-physics-potential-energy-conservation.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Gravitation Problems for JEE & NEET
 description: Practice 100 gravitation problems for JEE and NEET, inspired by exam patterns, covering Newton’s law, gravitational fields, potential energy, Kepler’s laws, orbital motion, and escape velocity.
-slug: book/physics/gravitation-problems
+slug: books/physics/gravitation/problems
 keywords: physics gravitation problems, JEE physics gravitation problems, NEET physics orbital motion problems, escape velocity
 og:image: https://vidyamarg.com/og-physics-gravitation.jpg
 ---

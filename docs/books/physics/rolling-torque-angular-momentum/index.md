@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Rolling, Torque, and Angular Momentum for JEE & NEET
 description: Comprehensive guide on rolling, torque, and angular momentum for JEE and NEET, covering dynamics of rotation, rolling motion, angular momentum conservation, and applications, with extensive examples and exam strategies.
-slug: book/physics/rolling-torque-angular-momentum
+slug: books/physics/rolling-torque-angular-momentum
 keywords: physics rolling torque angular momentum, JEE physics torque, NEET physics rolling motion, angular momentum conservation
 og:image: https://vidyamarg.com/og-physics-rolling-torque-angular-momentum.jpg
 ---
@@ -345,6 +345,6 @@ Our Hinglish video lessons make these concepts engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing rolling, torque, and angular momentum coming soon!*
+*Animation for visualizing rolling, torque, and angular momentum coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

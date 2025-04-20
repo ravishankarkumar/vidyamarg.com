@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Images for JEE & NEET
 description: Comprehensive guide on image formation for JEE and NEET, covering reflection, refraction, mirrors, lenses, and optical instruments, with extensive examples.
-slug: book/physics/images
+slug: books/physics/images
 keywords: physics images, JEE physics geometric optics, NEET physics lenses, ray optics
 og:image: https://vidyamarg.com/og-physics-images.jpg
 ---
@@ -313,6 +313,6 @@ Our Hinglish video lessons make optics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing ray diagrams, lens systems, and telescope optics coming soon!*
+*Animation for visualizing ray diagrams, lens systems, and telescope optics coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

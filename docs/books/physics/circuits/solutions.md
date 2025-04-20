@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Circuits Solutions for JEE & NEET
 description: Sample solutions for circuit problems, covering Kirchhoff's laws, series and parallel resistors, capacitors in circuits, RC circuits, and DC circuit applications, tailored for JEE and NEET preparation.
-slug: book/physics/circuits-solutions
+slug: books/physics/circuits/solutions
 keywords: physics circuits solutions, JEE physics Kirchhoff's laws solutions, NEET physics RC circuits solutions, DC circuits
 og:image: https://vidyamarg.com/og-physics-circuits.jpg
 ---

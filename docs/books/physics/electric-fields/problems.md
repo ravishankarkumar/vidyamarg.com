@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Electric Fields Problems for JEE & NEET
 description: Practice 100 electrostatics problems for JEE and NEET, inspired by exam patterns, covering electric field calculations, charge distributions, field lines, and motion of charges.
-slug: book/physics/electric-fields-problems
+slug: books/physics/electric-fields/problems
 keywords: physics electric fields problems, JEE physics field calculations problems, NEET physics field lines problems, electrostatics
 og:image: https://vidyamarg.com/og-physics-electric-fields.jpg
 ---

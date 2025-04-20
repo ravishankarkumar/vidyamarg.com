@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Force and Motion—II Solutions for JEE & NEET
 description: Sample solutions for advanced force and motion problems, covering friction, circular motion dynamics, drag forces, and complex systems, tailored for JEE and NEET preparation.
-slug: book/physics/force-motion-2-solutions
+slug: books/physics/force-motion-2/solutions
 keywords: physics force motion solutions, JEE physics friction solutions, NEET physics circular motion solutions, drag forces
 og:image: https://vidyamarg.com/og-physics-force-motion-2.jpg
 ---

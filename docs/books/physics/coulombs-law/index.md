@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Coulomb’s Law for JEE & NEET
 description: Comprehensive guide on Coulomb’s law for JEE and NEET, covering electric forces, vector analysis, superposition principle, and applications in electrostatics, with extensive examples.
-slug: book/physics/coulombs-law
+slug: books/physics/coulombs-law
 keywords: physics Coulomb’s law, JEE physics electric force, NEET physics superposition principle, electrostatics
 og:image: https://vidyamarg.com/og-physics-coulombs-law.jpg
 ---
@@ -262,6 +262,6 @@ Our Hinglish video lessons make electrostatics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing electric forces, field lines, and charge distributions coming soon!*
+*Animation for visualizing electric forces, field lines, and charge distributions coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Electric Potential for JEE & NEET
 description: Comprehensive guide on electric potential for JEE and NEET, covering potential definitions, potential due to charge distributions, potential energy, and applications in electrostatics, with extensive examples.
-slug: book/physics/electric-potential
+slug: books/physics/electric-potential
 keywords: physics electric potential, JEE physics potential energy, NEET physics potential calculations, electrostatics
 og:image: https://vidyamarg.com/og-physics-electric-potential.jpg
 ---
@@ -294,6 +294,6 @@ Our Hinglish video lessons make electrostatics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing potential gradients, equipotential surfaces, and capacitor fields coming soon!*
+*Animation for visualizing potential gradients, equipotential surfaces, and capacitor fields coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Induction and Inductance Solutions for JEE & NEET
 description: Sample solutions for induction and inductance problems, covering Faraday’s law, Lenz’s law, self and mutual inductance, and circuit applications, tailored for JEE and NEET preparation.
-slug: book/physics/induction-inductance-solutions
+slug: books/physics/induction-inductance/solutions
 keywords: physics induction inductance solutions, JEE physics Faraday’s law solutions, NEET physics inductance solutions, electromagnetism
 og:image: https://vidyamarg.com/og-physics-induction-inductance.jpg
 ---

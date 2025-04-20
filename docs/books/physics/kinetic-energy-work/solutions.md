@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Kinetic Energy and Work Solutions for JEE & NEET
 description: Sample solutions for kinetic energy and work problems, covering work, kinetic energy, work-energy theorem, variable forces, and power, tailored for JEE and NEET preparation.
-slug: book/physics/kinetic-energy-work-solutions
+slug: books/physics/kinetic-energy-work/solutions
 keywords: physics kinetic energy work solutions, JEE physics work-energy theorem solutions, NEET physics power solutions, variable forces
 og:image: https://vidyamarg.com/og-physics-kinetic-energy-work.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Entropy and the Second Law of Thermodynamics Solutions for JEE & NEET
 description: Sample solutions for thermodynamics problems, covering entropy changes, the second law, heat engines, refrigerators, and the Carnot cycle, tailored for JEE and NEET preparation.
-slug: book/physics/entropy-thermodynamics-solutions
+slug: books/physics/entropy-thermodynamics/solutions
 keywords: physics entropy solutions, JEE physics second law of thermodynamics solutions, NEET physics Carnot cycle solutions, heat engines
 og:image: https://vidyamarg.com/og-physics-entropy-thermodynamics.jpg
 ---

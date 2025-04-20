@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Motion Along a Straight Line for JEE & NEET
 description: Learn motion along a straight line for JEE and NEET, covering displacement, velocity, acceleration, kinematic equations, and free fall, with practice MCQs.
-slug: book/physics/motion-straight-line
+slug: books/physics/motion-straight-line
 keywords: physics motion, JEE physics kinematics, NEET physics motion, kinematic equations
 og:image: https://vidyamarg.com/og-physics-motion-straight-line.jpg
 ---
@@ -238,6 +238,6 @@ Our Hinglish video lessons make motion along a straight line engaging for JEE an
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing kinematic equations and free fall coming soon!*
+*Animation for visualizing kinematic equations and free fall coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

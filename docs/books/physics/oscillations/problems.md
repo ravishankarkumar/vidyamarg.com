@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Oscillations Problems for JEE & NEET
 description: Practice 100 oscillations problems for JEE and NEET, inspired by exam patterns, covering simple harmonic motion, energy, damped and forced oscillations, resonance, and applications in pendulums and springs.
-slug: book/physics/oscillations-problems
+slug: books/physics/oscillations/problems
 keywords: physics oscillations problems, JEE physics simple harmonic motion problems, NEET physics resonance problems, damped oscillations
 og:image: https://vidyamarg.com/og-physics-oscillations.jpg
 ---

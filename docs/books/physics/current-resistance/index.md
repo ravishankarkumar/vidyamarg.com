@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Current and Resistance for JEE & NEET
 description: Comprehensive guide on current and resistance for JEE and NEET, covering electric current, Ohm's law, resistivity, temperature effects, electrical power, and applications in circuits, with extensive examples.
-slug: book/physics/current-resistance
+slug: books/physics/current-resistance
 keywords: physics current resistance, JEE physics Ohm's law, NEET physics electrical power, circuits
 og:image: https://vidyamarg.com/og-physics-current-resistance.jpg
 ---
@@ -293,6 +293,6 @@ Our Hinglish video lessons make electrostatics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing current flow, resistance effects, and power dissipation coming soon!*
+*Animation for visualizing current flow, resistance effects, and power dissipation coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

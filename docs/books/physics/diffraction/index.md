@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Diffraction for JEE & NEET
 description: Comprehensive guide on diffraction of light for JEE and NEET, covering Huygens' principle, single-slit diffraction, diffraction gratings, and applications, with extensive examples.
-slug: book/physics/diffraction
+slug: books/physics/diffraction
 keywords: physics diffraction, JEE physics wave optics, NEET physics single-slit diffraction, diffraction patterns
 og:image: https://vidyamarg.com/og-physics-diffraction.jpg
 ---
@@ -246,6 +246,6 @@ Our Hinglish video lessons make wave optics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing diffraction patterns, grating spectra, and resolving power coming soon!*
+*Animation for visualizing diffraction patterns, grating spectra, and resolving power coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

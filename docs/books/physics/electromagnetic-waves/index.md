@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Electromagnetic Waves for JEE & NEET
 description: Comprehensive guide on electromagnetic waves for JEE and NEET, covering wave generation, propagation, electromagnetic spectrum, and energy transport, with extensive examples.
-slug: book/physics/electromagnetic-waves
+slug: books/physics/electromagnetic-waves
 keywords: physics electromagnetic waves, JEE physics wave propagation, NEET physics electromagnetic spectrum, electromagnetism
 og:image: https://vidyamarg.com/og-physics-electromagnetic-waves.jpg
 ---
@@ -261,6 +261,6 @@ Our Hinglish video lessons make electromagnetism engaging! Subscribe for updates
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing wave propagation, spectrum ranges, and Poynting vector coming soon!*
+*Animation for visualizing wave propagation, spectrum ranges, and Poynting vector coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

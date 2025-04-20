@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Waves—II for JEE & NEET
 description: Comprehensive guide on advanced wave phenomena for JEE and NEET, covering sound waves, Doppler effect, wave intensity, shock waves, and applications, with extensive examples.
-slug: book/physics/waves-2
+slug: books/physics/waves-2
 keywords: physics waves, JEE physics sound waves, NEET physics Doppler effect, shock waves
 og:image: https://vidyamarg.com/og-physics-waves-2.jpg
 ---
@@ -272,6 +272,6 @@ Our Hinglish video lessons make waves engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing sound waves, Doppler effect, and shock waves coming soon!*
+*Animation for visualizing sound waves, Doppler effect, and shock waves coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

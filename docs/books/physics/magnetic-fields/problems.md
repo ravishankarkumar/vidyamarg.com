@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Magnetic Fields Problems for JEE & NEET
 description: Practice 100 problems on magnetic fields for JEE and NEET, inspired by exam patterns, covering Biot-Savart law, Ampere’s law, magnetic fields due to current distributions, and electromagnetism applications.
-slug: book/physics/magnetic-fields-problems
+slug: books/physics/magnetic-fields/problems
 keywords: physics magnetic fields problems, JEE physics Biot-Savart law problems, NEET physics Ampere’s law problems, electromagnetism
 og:image: https://vidyamarg.com/og-physics-magnetic-fields.jpg
 ---

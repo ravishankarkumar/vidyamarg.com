@@ -1,7 +1,7 @@
 ---
 title: Physics Book - The Kinetic Theory of Gases Problems for JEE & NEET
 description: Practice 100 kinetic theory problems for JEE and NEET, inspired by exam patterns, covering ideal gas law, molecular motion, Maxwell-Boltzmann distribution, degrees of freedom, and specific heats.
-slug: book/physics/kinetic-theory-gases-problems
+slug: books/physics/kinetic-theory-gases/problems
 keywords: physics kinetic theory problems, JEE physics ideal gas problems, NEET physics Maxwell-Boltzmann distribution problems, degrees of freedom
 og:image: https://vidyamarg.com/og-physics-kinetic-theory-gases.jpg
 ---

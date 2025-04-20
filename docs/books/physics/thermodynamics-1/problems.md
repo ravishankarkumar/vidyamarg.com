@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Temperature, Heat, and the First Law of Thermodynamics Problems for JEE & NEET
 description: Practice 100 thermodynamics problems for JEE and NEET, inspired by exam patterns, covering temperature scales, heat transfer, specific heat, calorimetry, thermal expansion, and the first law of thermodynamics.
-slug: book/physics/thermodynamics-1-problems
+slug: books/physics/thermodynamics-1/problems
 keywords: physics thermodynamics problems, JEE physics temperature and heat problems, NEET physics first law of thermodynamics problems, thermal expansion
 og:image: https://vidyamarg.com/og-physics-thermodynamics-1.jpg
 ---

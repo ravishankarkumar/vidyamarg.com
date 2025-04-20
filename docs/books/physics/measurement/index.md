@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Measurement for JEE & NEET
 description: Learn measurement for JEE and NEET, covering SI units, dimensional analysis, significant figures, and error analysis, with practice MCQs.
-slug: book/physics/measurement
+slug: books/physics/measurement
 keywords: physics measurement, JEE physics SI units, NEET physics dimensional analysis, significant figures
 og:image: https://vidyamarg.com/og-physics-measurement.jpg
 ---
@@ -190,6 +190,6 @@ Our Hinglish video lessons make measurement engaging for JEE and NEET! Subscribe
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing dimensional analysis and error propagation coming soon!*
+*Animation for visualizing dimensional analysis and error propagation coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

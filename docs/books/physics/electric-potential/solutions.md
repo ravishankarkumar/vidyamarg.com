@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Electric Potential Solutions for JEE & NEET
 description: Sample solutions for electrostatics problems, covering electric potential, potential energy, field-potential relations, conductors, and capacitors, tailored for JEE and NEET preparation.
-slug: book/physics/electric-potential-solutions
+slug: books/physics/electric-potential/solutions
 keywords: physics electric potential solutions, JEE physics potential energy solutions, NEET physics potential calculations solutions, electrostatics
 og:image: https://vidyamarg.com/og-physics-electric-potential.jpg
 ---

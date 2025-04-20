@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Oscillations for JEE & NEET
 description: Comprehensive guide on oscillations for JEE and NEET, covering simple harmonic motion, damped and forced oscillations, resonance, and applications, with extensive examples and exam strategies.
-slug: book/physics/oscillations
+slug: books/physics/oscillations
 keywords: physics oscillations, JEE physics simple harmonic motion, NEET physics resonance, damped oscillations
 og:image: https://vidyamarg.com/og-physics-oscillations.jpg
 ---
@@ -252,6 +252,6 @@ Our Hinglish video lessons make oscillations engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing SHM, damping, and resonance coming soon!*
+*Animation for visualizing SHM, damping, and resonance coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

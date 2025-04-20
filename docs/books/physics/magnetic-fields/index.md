@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Magnetic Fields for JEE & NEET
 description: Comprehensive guide on magnetic fields for JEE and NEET, covering Biot-Savart law, Ampere’s law, magnetic fields due to current configurations, and applications in electromagnetism, with extensive examples.
-slug: book/physics/magnetic-fields
+slug: books/physics/magnetic-fields
 keywords: physics magnetic fields, JEE physics Biot-Savart law, NEET physics Ampere’s law, electromagnetism
 og:image: https://vidyamarg.com/og-physics-magnetic-fields.jpg
 ---
@@ -277,6 +277,6 @@ Our Hinglish video lessons make electromagnetism engaging! Subscribe for updates
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing magnetic field lines, solenoid fields, and toroid fields coming soon!*
+*Animation for visualizing magnetic field lines, solenoid fields, and toroid fields coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

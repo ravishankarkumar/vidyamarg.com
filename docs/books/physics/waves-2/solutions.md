@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Waves—II Solutions for JEE & NEET
 description: Sample solutions for advanced wave problems, covering sound waves, Doppler effect, wave intensity, shock waves, and applications, tailored for JEE and NEET preparation.
-slug: book/physics/waves-2-solutions
+slug: books/physics/waves-2/solutions
 keywords: physics waves solutions, JEE physics sound waves solutions, NEET physics Doppler effect solutions, shock waves
 og:image: https://vidyamarg.com/og-physics-waves-2.jpg
 ---

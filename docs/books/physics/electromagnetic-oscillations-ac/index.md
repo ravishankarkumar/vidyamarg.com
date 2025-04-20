@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Electromagnetic Oscillations and Alternating Current for JEE & NEET
 description: Comprehensive guide on electromagnetic oscillations and AC circuits for JEE and NEET, covering LC oscillations, phasors, impedance, resonance, and power in AC circuits, with extensive examples.
-slug: book/physics/electromagnetic-oscillations-ac
+slug: books/physics/electromagnetic-oscillations-ac
 keywords: physics electromagnetic oscillations, JEE physics AC circuits, NEET physics resonance, electromagnetism
 og:image: https://vidyamarg.com/og-physics-electromagnetic-oscillations-ac.jpg
 ---
@@ -257,6 +257,6 @@ Our Hinglish video lessons make electromagnetism engaging! Subscribe for updates
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing LC oscillations, phasor diagrams, and resonance curves coming soon!*
+*Animation for visualizing LC oscillations, phasor diagrams, and resonance curves coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

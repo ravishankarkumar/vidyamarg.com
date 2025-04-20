@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Coulomb’s Law Problems for JEE & NEET
 description: Practice 100 electrostatics problems for JEE and NEET, inspired by exam patterns, covering Coulomb’s law, vector forces, superposition principle, equilibrium, and electric fields.
-slug: book/physics/coulombs-law-problems
+slug: books/physics/coulombs-law/problems
 keywords: physics Coulomb’s law problems, JEE physics electric force problems, NEET physics superposition principle problems, electrostatics
 og:image: https://vidyamarg.com/og-physics-coulombs-law.jpg
 ---

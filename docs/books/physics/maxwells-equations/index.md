@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Maxwell’s Equations; Magnetism of Matter for JEE & NEET
 description: Comprehensive guide on Maxwell’s equations and magnetism of matter for JEE and NEET, covering Gauss’s laws, Ampere-Maxwell law, Faraday’s law, magnetic properties of materials, and applications, with extensive examples.
-slug: book/physics/maxwells-equations
+slug: books/physics/maxwells-equations
 keywords: physics Maxwell’s equations, JEE physics magnetism of matter, NEET physics electromagnetic theory, electromagnetism
 og:image: https://vidyamarg.com/og-physics-maxwells-equations.jpg
 ---
@@ -248,6 +248,6 @@ Our Hinglish video lessons make electromagnetism engaging! Subscribe for updates
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing field lines, hysteresis loops, and displacement current coming soon!*
+*Animation for visualizing field lines, hysteresis loops, and displacement current coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

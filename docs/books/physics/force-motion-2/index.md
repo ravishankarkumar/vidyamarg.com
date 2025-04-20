@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Force and Motion—II for JEE & NEET
 description: Comprehensive guide to advanced force and motion for JEE and NEET, covering friction, circular motion dynamics, drag forces, and complex systems, with extensive examples.
-slug: book/physics/force-motion-2
+slug: books/physics/force-motion-2
 keywords: physics force motion, JEE physics friction, NEET physics circular motion, drag forces
 og:image: https://vidyamarg.com/og-physics-force-motion-2.jpg
 ---
@@ -263,6 +263,6 @@ Our Hinglish video lessons make force and motion—II engaging for JEE and NEET!
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing friction, circular motion, and drag forces coming soon!*
+*Animation for visualizing friction, circular motion, and drag forces coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Entropy and the Second Law of Thermodynamics Problems for JEE & NEET
 description: Practice 100 thermodynamics problems for JEE and NEET, inspired by exam patterns, covering entropy changes, the second law, heat engines, refrigerators, and the Carnot cycle.
-slug: book/physics/entropy-thermodynamics-problems
+slug: books/physics/entropy-thermodynamics/problems
 keywords: physics entropy problems, JEE physics second law of thermodynamics problems, NEET physics Carnot cycle problems, heat engines
 og:image: https://vidyamarg.com/og-physics-entropy-thermodynamics.jpg
 ---

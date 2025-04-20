@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Fluids Solutions for JEE & NEET
 description: Sample solutions for fluid mechanics problems, covering fluid statics, dynamics, viscosity, surface tension, and applications, tailored for JEE and NEET preparation.
-slug: book/physics/fluids-solutions
+slug: books/physics/fluids/solutions
 keywords: physics fluids solutions, JEE physics fluid mechanics solutions, NEET physics Bernoulli’s principle solutions, viscosity
 og:image: https://vidyamarg.com/og-physics-fluids.jpg
 ---

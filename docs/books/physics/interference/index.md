@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Interference for JEE & NEET
 description: Comprehensive guide on interference of light for JEE and NEET, covering the principle of superposition, Young's double-slit experiment, interference patterns, and applications, with extensive examples.
-slug: book/physics/interference
+slug: books/physics/interference
 keywords: physics interference, JEE physics wave optics, NEET physics Young's double-slit experiment, interference patterns
 og:image: https://vidyamarg.com/og-physics-interference.jpg
 ---
@@ -271,6 +271,6 @@ Our Hinglish video lessons make wave optics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing interference patterns, Young's experiment, and thin film effects coming soon!*
+*Animation for visualizing interference patterns, Young's experiment, and thin film effects coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

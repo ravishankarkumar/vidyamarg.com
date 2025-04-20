@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Nuclear Physics Problems for JEE & NEET
-description: Practice 100 nuclear physics problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
-slug: book/physics/nuclear-physics-problems
-keywords: physics nuclear physics problems, JEE physics radioactivity problems, NEET physics nuclear reactions problems, modern physics
+description: Practice 100 problems on nuclear physics for JEE and NEET, inspired by exam patterns, covering nuclear structure, radioactivity, nuclear reactions, and applications like nuclear power and medical imaging.
+slug: books/physics/nuclear-physics/problems
+keywords: physics nuclear physics problems, JEE physics radioactivity problems, NEET physics nuclear reactions problems, nuclear power applications
 og:image: https://vidyamarg.com/og-physics-nuclear-physics.jpg
 ---
 
 # Nuclear Physics Problems
 
-This section provides **100 problems** to test your understanding of nuclear physics, including nuclear structure, radioactivity, nuclear reactions, and applications. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of nuclear physics, including calculations of binding energy, mass defect, decay constants, half-life, Q-values, and reaction rates, as well as applications like carbon dating and nuclear propulsion in spacecraft. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering nuclear physics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on nuclear radius, half-life, binding energy, and reaction energy, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., decay processes, medical uses), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. Calculate the mass defect of $_2^4\text{He}$ (in u). Given: $m( _2^4\text{He} ) = 4.002602 \, \text{u}$, $m_p = 1.007825 \, \text{u}$, $m_n = 1.008665 \, \text{u}$.  
+   - (a) 0.03037 u  
+   - (b) 0.03038 u  
+   - (c) 0.03039 u  
+   - (d) 0.03040 u
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: Calculate the radius of an oxygen-16 nucleus (\( A = 16 \), \( R_0 = 1.2 \times 10^{-15} \, \text{m} \)).
-   - Options: (a) 2.99 fm (b) 3.00 fm (c) 3.01 fm (d) 3.02 fm
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A sample has a half-life of 4.0 days. Calculate the fraction remaining after 12.0 days.
-   - Options: (a) 0.124 (b) 0.125 (c) 0.126 (d) 0.127
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: Calculate the binding energy of carbon-12 (\( ^12_6\text{C} \), atomic mass 12.000000 u, \( m_p = 1.007825 \, \text{u} \), \( m_n = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-   - Options: (a) 91.9 MeV (b) 92.0 MeV (c) 92.1 MeV (d) 92.2 MeV
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A carbon-14 sample has 20% of its original activity. Calculate its age (\( T_{1/2} = 5730 \, \text{years} \)).
-   - Options: (a) 13300 years (b) 13400 years (c) 13500 years (d) 13600 years
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: Calculate the radius of a uranium-238 nucleus (\( A = 238 \), \( R_0 = 1.2 \times 10^{-15} \, \text{m} \)).
-   - Options: (a) 7.43 fm (b) 7.44 fm (c) 7.45 fm (d) 7.46 fm
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A radioactive sample has a decay constant of 0.02 s⁻¹. Calculate its half-life.
-   - Options: (a) 34.6 s (b) 34.7 s (c) 34.8 s (d) 34.9 s
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: Calculate the binding energy of helium-4 (\( ^4_2\text{He} \), atomic mass 4.002602 u, \( m_p = 1.007825 \, \text{u} \), \( m_n = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-   - Options: (a) 28.2 MeV (b) 28.3 MeV (c) 28.4 MeV (d) 28.5 MeV
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A sample has a half-life of 5.0 years. Calculate the time for 75% to decay.
-   - Options: (a) 9.97 years (b) 9.98 years (c) 9.99 years (d) 10.0 years
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: Calculate the radius of a nitrogen-14 nucleus (\( A = 14 \), \( R_0 = 1.2 \times 10^{-15} \, \text{m} \)).
-   - Options: (a) 2.80 fm (b) 2.81 fm (c) 2.82 fm (d) 2.83 fm
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A radioactive sample has 10% of its original activity after 100 days. Calculate its half-life.
-    - Options: (a) 30.1 days (b) 30.2 days (c) 30.3 days (d) 30.4 days
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: Calculate the binding energy of oxygen-16 (\( ^16_8\text{O} \), atomic mass 15.994915 u, \( m_p = 1.007825 \, \text{u} \), \( m_n = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 127.6 MeV (b) 127.7 MeV (c) 127.8 MeV (d) 127.9 MeV
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A sample has a half-life of 3.0 days. Calculate the fraction remaining after 9.0 days.
-    - Options: (a) 0.124 (b) 0.125 (c) 0.126 (d) 0.127
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: Calculate the radius of a sodium-23 nucleus (\( A = 23 \), \( R_0 = 1.2 \times 10^{-15} \, \text{m} \)).
-    - Options: (a) 3.59 fm (b) 3.60 fm (c) 3.61 fm (d) 3.62 fm
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A carbon-14 sample has 30% of its original activity. Calculate its age (\( T_{1/2} = 5730 \, \text{years} \)).
-    - Options: (a) 9950 years (b) 10000 years (c) 10100 years (d) 10200 years
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A radioactive sample has a decay constant of 0.01 s⁻¹. Calculate its half-life.
-    - Options: (a) 69.2 s (b) 69.3 s (c) 69.4 s (d) 69.5 s
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: Calculate the binding energy of lithium-7 (\( ^7_3\text{Li} \), atomic mass 7.016004 u, \( m_p = 1.007825 \, \text{u} \), \( m_n = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 39.2 MeV (b) 39.3 MeV (c) 39.4 MeV (d) 39.5 MeV
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A sample has a half-life of 10.0 years. Calculate the time for 90% to decay.
-    - Options: (a) 33.2 years (b) 33.3 years (c) 33.4 years (d) 33.5 years
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: Calculate the radius of a gold-197 nucleus (\( A = 197 \), \( R_0 = 1.2 \times 10^{-15} \, \text{m} \)).
-    - Options: (a) 7.00 fm (b) 7.01 fm (c) 7.02 fm (d) 7.03 fm
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A radioactive sample has 15% of its original activity after 50 days. Calculate its half-life.
-    - Options: (a) 19.9 days (b) 20.0 days (c) 20.1 days (d) 20.2 days
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: Calculate the binding energy of nitrogen-14 (\( ^14_7\text{N} \), atomic mass 14.003074 u, \( m_p = 1.007825 \, \text{u} \), \( m_n = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 104.6 MeV (b) 104.7 MeV (c) 104.8 MeV (d) 104.9 MeV
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A sample has a half-life of 2.5 days. Calculate the fraction remaining after 7.5 days.
-    - Options: (a) 0.124 (b) 0.125 (c) 0.126 (d) 0.127
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: Calculate the radius of a calcium-40 nucleus (\( A = 40 \), \( R_0 = 1.2 \times 10^{-15} \, \text{m} \)).
-    - Options: (a) 4.34 fm (b) 4.35 fm (c) 4.36 fm (d) 4.37 fm
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: A carbon-14 sample has 40% of its original activity. Calculate its age (\( T_{1/2} = 5730 \, \text{years} \)).
-    - Options: (a) 7570 years (b) 7580 years (c) 7590 years (d) 7600 years
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A radioactive sample has a decay constant of 0.05 s⁻¹. Calculate its half-life.
-    - Options: (a) 13.8 s (b) 13.9 s (c) 14.0 s (d) 14.1 s
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: Calculate the binding energy of neon-20 (\( ^20_{10}\text{Ne} \), atomic mass 19.992440 u, \( m_p = 1.007825 \, \text{u} \), \( m_n = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 160.6 MeV (b) 160.7 MeV (c) 160.8 MeV (d) 160.9 MeV
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A sample has a half-life of 6.0 years. Calculate the time for 80% to decay.
-    - Options: (a) 13.9 years (b) 14.0 years (c) 14.1 years (d) 14.2 years
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: Calculate the radius of an iron-56 nucleus (\( A = 56 \), \( R_0 = 1.2 \times 10^{-15} \, \text{m} \)).
-    - Options: (a) 4.81 fm (b) 4.82 fm (c) 4.83 fm (d) 4.84 fm
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A radioactive sample has 5% of its original activity after 200 days. Calculate its half-life.
-    - Options: (a) 49.9 days (b) 50.0 days (c) 50.1 days (d) 50.2 days
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: Calculate the binding energy of fluorine-19 (\( ^19_9\text{F} \), atomic mass 18.998403 u, \( m_p = 1.007825 \, \text{u} \), \( m_n = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 147.8 MeV (b) 147.9 MeV (c) 148.0 MeV (d) 148.1 MeV
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A sample has a half-life of 8.0 days. Calculate the fraction remaining after 24.0 days.
-    - Options: (a) 0.124 (b) 0.125 (c) 0.126 (d) 0.127
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: Calculate the radius of a lead-208 nucleus (\( A = 208 \), \( R_0 = 1.2 \times 10^{-15} \, \text{m} \)).
-    - Options: (a) 7.09 fm (b) 7.10 fm (c) 7.11 fm (d) 7.12 fm
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A carbon-14 sample has 50% of its original activity. Calculate its age (\( T_{1/2} = 5730 \, \text{years} \)).
-    - Options: (a) 5720 years (b) 5730 years (c) 5740 years (d) 5750 years
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A radioactive sample has a decay constant of 0.03 s⁻¹. Calculate its half-life.
-    - Options: (a) 23.0 s (b) 23.1 s (c) 23.2 s (d) 23.3 s
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: Calculate the binding energy of boron-11 (\( ^11_5\text{B} \), atomic mass 11.009305 u, \( m_p = 1.007825 \, \text{u} \), \( m_n = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 76.2 MeV (b) 76.3 MeV (c) 76.4 MeV (d) 76.5 MeV
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A sample has a half-life of 12.0 years. Calculate the time for 95% to decay.
-    - Options: (a) 49.9 years (b) 50.0 years (c) 50.1 years (d) 50.2 years
+2. Calculate the binding energy per nucleon of $_6^{12}\text{C}$ in MeV. Given: $m( _6^{12}\text{C} ) = 12.000000 \, \text{u}$, $m_p = 1.007825 \, \text{u}$, $m_n = 1.008665 \, \text{u}$, $c^2 = 931.494 \, \text{MeV/u}$.  
+   - (a) 7.67 MeV  
+   - (b) 7.68 MeV  
+   - (c) 7.69 MeV  
+   - (d) 7.70 MeV
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is the nucleus composed of?
-   - Options: (a) Protons, neutrons (b) Electrons, protons (c) No particles (d) Fixed particles
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What is alpha decay?
-   - Options: (a) Helium nucleus emission (b) Electron emission (c) No emission (d) Fixed emission
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What is binding energy?
-   - Options: (a) Energy to separate nucleons (b) Electron energy (c) No energy (d) Fixed energy
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is nuclear fission?
-   - Options: (a) Nucleus splitting (b) Nucleus fusion (c) No reaction (d) Fixed reaction
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What is used in carbon dating?
-   - Options: (a) Carbon-14 (b) Carbon-12 (c) No isotope (d) Fixed isotope
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What is the unit of binding energy?
-   - Options: (a) MeV (b) kg (c) No unit (d) Fixed unit
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Why do nuclei decay?
-   - Options: (a) Achieve stability (b) No stability (c) Fixed stability (d) Only theoretical
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: What is the half-life formula?
-   - Options: (a) \( \frac{0.693}{\lambda} \) (b) \( \lambda \ln 2 \) (c) No formula (d) Fixed formula
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: How does mass defect relate to energy?
-   - Options: (a) \( E = \Delta m c^2 \) (b) No relation (c) Fixed relation (d) Only theoretical
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is a PET scan’s basis?
-   - Options: (a) Positron emission (b) No emission (c) Fixed emission (d) Only theoretical
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Why is nuclear radius proportional to \( A^{1/3} \)?
-   - Options: (a) Nuclear density (b) No proportionality (c) Fixed proportionality (d) Only theoretical
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: What is beta-plus decay?
-   - Options: (a) Positron emission (b) Electron emission (c) No emission (d) Fixed emission
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: How does \( A \) affect nuclear size?
-   - Options: (a) Increases size (b) Decreases size (c) No effect (d) Fixed effect
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: What is nuclear fusion’s role?
-   - Options: (a) Powers stars (b) No role (c) Fixed role (d) Only theoretical
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: Why study nuclear physics?
-   - Options: (a) Energy, medicine (b) No use (c) Fixed use (d) Only theoretical
+3. A radioactive sample has a half-life of 3 days. If the initial activity is 800 Bq, calculate the activity after 9 days in Bq.  
+   - (a) 99 Bq  
+   - (b) 100 Bq  
+   - (c) 101 Bq  
+   - (d) 102 Bq
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the nuclear radius formula \( R \approx R_0 A^{1/3} \).
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the radioactive decay law \( N = N_0 e^{-\lambda t} \).
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the binding energy formula \( E_b = \Delta m c^2 \).
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the half-life formula \( T_{1/2} = \frac{\ln 2}{\lambda} \).
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the energy release in nuclear fission.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the conservation laws in nuclear reactions.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the mass defect in nuclear binding.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the decay constant’s relation to activity.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the nuclear fusion energy release.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the alpha decay process.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the beta decay mechanism.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the nuclear radius dependence on \( A \).
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the carbon dating age formula.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the gamma decay energy emission.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the nuclear stability curve.
+4. Calculate the Q-value of the reaction $_1^2\text{H} + _1^3\text{H} \to _2^4\text{He} + _0^1\text{n}$ in MeV. Given: $m( _1^2\text{H} ) = 2.0141 \, \text{u}$, $m( _1^3\text{H} ) = 3.0160 \, \text{u}$, $m( _2^4\text{He} ) = 4.0026 \, \text{u}$, $m( _0^1\text{n} ) = 1.0087 \, \text{u}$.  
+   - (a) 17.50 MeV  
+   - (b) 17.51 MeV  
+   - (c) 17.52 MeV  
+   - (d) 17.53 MeV
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is the nucleus made of?
-   - Options: (a) Nucleons (b) Electrons (c) No particles (d) Fixed particles
-67. **Problem 67 (NEET, 2022)**: What is beta-minus decay?
-   - Options: (a) Electron emission (b) Positron emission (c) No emission (d) Fixed emission
-68. **Problem 68 (NEET, 2021)**: What is nuclear binding energy?
-   - Options: (a) Holds nucleus (b) Electron binding (c) No energy (d) Fixed energy
-69. **Problem 69 (NEET, 2024)**: What is nuclear fusion?
-   - Options: (a) Nuclei combine (b) Nuclei split (c) No reaction (d) Fixed reaction
-70. **Problem 70 (NEET, 2020)**: What is used in PET scans?
-   - Options: (a) Positrons (b) Electrons (c) No particles (d) Fixed particles
-71. **Problem 71 (NEET, 2023)**: What is the unit of half-life?
-   - Options: (a) Seconds (b) MeV (c) No unit (d) Fixed unit
-72. **Problem 72 (NEET, 2022)**: Why do nuclei decay?
-   - Options: (a) Gain stability (b) Lose stability (c) No stability (d) Fixed stability
-73. **Problem 73 (NEET, 2021)**: What is the decay constant?
-   - Options: (a) Decay rate (b) No rate (c) Fixed rate (d) Only theoretical
-74. **Problem 74 (NEET, 2024)**: How does mass defect produce energy?
-   - Options: (a) Converted to energy (b) No energy (c) Fixed energy (d) Only theoretical
-75. **Problem 75 (NEET, 2020)**: What is carbon dating?
-   - Options: (a) Age determination (b) No age (c) Fixed age (d) Only theoretical
-76. **Problem 76 (NEET, 2023)**: Why is nuclear radius small?
-   - Options: (a) Dense nucleus (b) Large nucleus (c) No size (d) Fixed size
-77. **Problem 77 (NEET, 2022)**: What is alpha particle?
-   - Options: (a) Helium nucleus (b) Electron (c) No particle (d) Fixed particle
-78. **Problem 78 (NEET, 2021)**: How does \( A \) affect nucleus?
-   - Options: (a) Increases size (b) Decreases size (c) No effect (d) Fixed effect
-79. **Problem 79 (NEET, 2024)**: What powers nuclear reactors?
-   - Options: (a) Fission (b) Fusion (c) No reaction (d) Fixed reaction
-80. **Problem 80 (NEET, 2020)**: Why study nuclear physics?
-   - Options: (a) Applications (b) No use (c) Fixed use (d) Only theoretical
-81. **Problem 81 (NEET, 2023)**: What is a medical isotope’s role?
-   - Options: (a) Imaging, therapy (b) No role (c) Fixed role (d) Only theoretical
-82. **Problem 82 (NEET, 2022)**: What is the unit of nuclear mass?
-   - Options: (a) u (b) MeV (c) No unit (d) Fixed unit
-83. **Problem 83 (NEET, 2021)**: How does radioactivity occur?
-   - Options: (a) Spontaneous decay (b) Forced decay (c) No decay (d) Fixed decay
-84. **Problem 84 (NEET, 2024)**: What is gamma decay?
-   - Options: (a) Photon emission (b) Particle emission (c) No emission (d) Fixed emission
-85. **Problem 85 (NEET, 2020)**: Why is fission powerful?
-   - Options: (a) Energy release (b) No energy (c) Fixed energy (d) Only theoretical
-86. **Problem 86 (NEET, 2023)**: How does half-life affect decay?
-   - Options: (a) Shorter, faster decay (b) Longer, faster (c) No effect (d) Fixed effect
-87. **Problem 87 (NEET, 2022)**: What is the strong force’s role?
-   - Options: (a) Holds nucleus (b) No role (c) Fixed role (d) Only theoretical
-88. **Problem 88 (NEET, 2021)**: Why use nuclear power?
-   - Options: (a) Energy production (b) No use (c) Fixed use (d) Only theoretical
-89. **Problem 89 (NEET, 2024)**: What is a neutron’s role in fission?
-   - Options: (a) Triggers reaction (b) No role (c) Fixed role (d) Only theoretical
-90. **Problem 90 (NEET, 2020)**: How does binding energy affect stability?
-   - Options: (a) Higher, more stable (b) Lower, more stable (c) No effect (d) Fixed effect
-91. **Problem 91 (NEET, 2023)**: Why use isotopes in medicine?
-   - Options: (a) Diagnostic, therapeutic (b) No use (c) Fixed use (d) Only theoretical
-92. **Problem 92 (NEET, 2022)**: What is the role of protons?
-   - Options: (a) Positive charge (b) No charge (c) Fixed charge (d) Only theoretical
-93. **Problem 93 (NEET, 2021)**: How does decay produce energy?
-   - Options: (a) Mass conversion (b) No conversion (c) Fixed conversion (d) Only theoretical
-94. **Problem 94 (NEET, 2024)**: What is the unit of decay constant?
-   - Options: (a) s⁻¹ (b) MeV (c) No unit (d) Fixed unit
-95. **Problem 95 (NEET, 2020)**: Why is nuclear physics significant?
-   - Options: (a) Energy, medicine (b) No significance (c) Fixed significance (d) Only theoretical
+5. A sample of $^{14}\text{C}$ has an activity 1/16 of a living sample ($T_{1/2} = 5730 \, \text{years}$). Calculate the age of the sample in years.  
+   - (a) 22918  
+   - (b) 22919  
+   - (c) 22920  
+   - (d) 22921
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A sample has a half-life of 2.0 days. Calculate the fraction remaining after 6.0 days.
-   - Options: (a) 0.124 (b) 0.125 (c) 0.126 (d) 0.127
-97. **Problem 97 (NEET, 2022)**: Calculate the radius of a carbon-12 nucleus (\( A = 12 \), \( R_0 = 1.2 \times 10^{-15} \, \text{m} \)).
-   - Options: (a) 2.74 fm (b) 2.75 fm (c) 2.76 fm (d) 2.77 fm
-98. **Problem 98 (NEET, 2021)**: A carbon-14 sample has 25% of its original activity. Calculate its age (\( T_{1/2} = 5730 \, \text{years} \)).
-   - Options: (a) 11460 years (b) 11470 years (c) 11480 years (d) 11490 years
-99. **Problem 99 (NEET, 2024)**: Calculate the binding energy of helium-4 (\( ^4_2\text{He} \), atomic mass 4.002602 u, \( m_p = 1.007825 \, \text{u} \), \( m_n = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-   - Options: (a) 28.2 MeV (b) 28.3 MeV (c) 28.4 MeV (d) 28.5 MeV
-100. **Problem 100 (NEET, 2020)**: A radioactive sample has a decay constant of 0.02 s⁻¹. Calculate its half-life.
-    - Options: (a) 34.6 s (b) 34.7 s (c) 34.8 s (d) 34.9 s
+6. A nuclear reactor produces 2 MW of power. If each fission releases 200 MeV, calculate the number of fissions per second.  
+   - (a) $6.24 \times 10^{16}$  
+   - (b) $6.25 \times 10^{16}$  
+   - (c) $6.26 \times 10^{16}$  
+   - (d) $6.27 \times 10^{16}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. Calculate the binding energy of $_8^{16}\text{O}$ in MeV. Given: $m( _8^{16}\text{O} ) = 15.994915 \, \text{u}$, $m_p = 1.007825 \, \text{u}$, $m_n = 1.008665 \, \text{u}$.  
+   - (a) 127.60 MeV  
+   - (b) 127.61 MeV  
+   - (c) 127.62 MeV  
+   - (d) 127.63 MeV
 
-[View Solutions](/books/physics/nuclear-physics/solutions) -->
+8. A radioactive isotope has a decay constant $\lambda = 0.02 \, \text{s}^{-1}$ and initial number of nuclei $N_0 = 10^9$. Calculate the activity after 50 s in Bq.  
+   - (a) $7.36 \times 10^7$  
+   - (b) $7.37 \times 10^7$  
+   - (c) $7.38 \times 10^7$  
+   - (d) $7.39 \times 10^7$
+
+9. Calculate the Q-value of $_7^{14}\text{N} + _0^1\text{n} \to _6^{14}\text{C} + _1^1\text{H}$ in MeV. Given: $m( _7^{14}\text{N} ) = 14.0031 \, \text{u}$, $m( _0^1\text{n} ) = 1.0087 \, \text{u}$, $m( _6^{14}\text{C} ) = 14.0032 \, \text{u}$, $m( _1^1\text{H} ) = 1.0078 \, \text{u}$.  
+   - (a) 0.74 MeV  
+   - (b) 0.75 MeV  
+   - (c) 0.76 MeV  
+   - (d) 0.77 MeV
+
+10. A sample has $T_{1/2} = 4 \, \text{years}$, initial activity 1600 Bq. Calculate the activity after 8 years in Bq.  
+    - (a) 399 Bq  
+    - (b) 400 Bq  
+    - (c) 401 Bq  
+    - (d) 402 Bq
+
+11. Calculate the binding energy per nucleon of $_26^{56}\text{Fe}$ in MeV. Given: $m( _26^{56}\text{Fe} ) = 55.9349 \, \text{u}$, $m_p = 1.007825 \, \text{u}$, $m_n = 1.008665 \, \text{u}$.  
+    - (a) 8.78 MeV  
+    - (b) 8.79 MeV  
+    - (c) 8.80 MeV  
+    - (d) 8.81 MeV
+
+12. A radioactive sample has $\lambda = 0.01 \, \text{s}^{-1}$, $N_0 = 10^{10}$. Calculate $N$ after 100 s.  
+    - (a) $3.67 \times 10^9$  
+    - (b) $3.68 \times 10^9$  
+    - (c) $3.69 \times 10^9$  
+    - (d) $3.70 \times 10^9$
+
+13. Calculate the Q-value of $_1^2\text{H} + _1^2\text{H} \to _2^3\text{He} + _0^1\text{n}$ in MeV. Given: $m( _1^2\text{H} ) = 2.0141 \, \text{u}$, $m( _2^3\text{He} ) = 3.0160 \, \text{u}$, $m( _0^1\text{n} ) = 1.0087 \, \text{u}$.  
+    - (a) 3.26 MeV  
+    - (b) 3.27 MeV  
+    - (c) 3.28 MeV  
+    - (d) 3.29 MeV
+
+14. A sample has $T_{1/2} = 5 \, \text{days}$, initial $N_0 = 10^{12}$. Calculate $N$ after 10 days.  
+    - (a) $2.49 \times 10^{11}$  
+    - (b) $2.50 \times 10^{11}$  
+    - (c) $2.51 \times 10^{11}$  
+    - (d) $2.52 \times 10^{11}$
+
+15. Calculate the mass defect of $_92^{238}\text{U}$ in u. Given: $m( _92^{238}\text{U} ) = 238.0508 \, \text{u}$, $m_p = 1.007825 \, \text{u}$, $m_n = 1.008665 \, \text{u}$.  
+    - (a) 1.9340 u  
+    - (b) 1.9341 u  
+    - (c) 1.9342 u  
+    - (d) 1.9343 u
+
+16. A radioactive isotope has $T_{1/2} = 2 \, \text{hours}$, initial activity 500 Bq. Calculate activity after 6 hours in Bq.  
+    - (a) 62.4 Bq  
+    - (b) 62.5 Bq  
+    - (c) 62.6 Bq  
+    - (d) 62.7 Bq
+
+17. Calculate the binding energy of $_3^7\text{Li}$ in MeV. Given: $m( _3^7\text{Li} ) = 7.0160 \, \text{u}$, $m_p = 1.007825 \, \text{u}$, $m_n = 1.008665 \, \text{u}$.  
+    - (a) 39.24 MeV  
+    - (b) 39.25 MeV  
+    - (c) 39.26 MeV  
+    - (d) 39.27 MeV
+
+18. A sample has $\lambda = 0.005 \, \text{s}^{-1}$, $N_0 = 10^8$. Calculate $A$ after 200 s in Bq.  
+    - (a) $1.84 \times 10^5$  
+    - (b) $1.85 \times 10^5$  
+    - (c) $1.86 \times 10^5$  
+    - (d) $1.87 \times 10^5$
+
+19. Calculate the Q-value of $_94^{239}\text{Pu} \to _92^{235}\text{U} + _2^4\text{He}$ in MeV. Given: $m( _94^{239}\text{Pu} ) = 239.0522 \, \text{u}$, $m( _92^{235}\text{U} ) = 235.0439 \, \text{u}$, $m( _2^4\text{He} ) = 4.0026 \, \text{u}$.  
+    - (a) 5.24 MeV  
+    - (b) 5.25 MeV  
+    - (c) 5.26 MeV  
+    - (d) 5.27 MeV
+
+20. A sample has $T_{1/2} = 10 \, \text{years}$, initial $N_0 = 10^{11}$. Calculate $N$ after 20 years.  
+    - (a) $2.49 \times 10^{10}$  
+    - (b) $2.50 \times 10^{10}$  
+    - (c) $2.51 \times 10^{10}$  
+    - (d) $2.52 \times 10^{10}$
+
+21. Calculate the binding energy per nucleon of $_92^{238}\text{U}$ in MeV (use mass defect from Problem 15).  
+    - (a) 7.57 MeV  
+    - (b) 7.58 MeV  
+    - (c) 7.59 MeV  
+    - (d) 7.60 MeV
+
+22. A radioactive sample has $T_{1/2} = 1 \, \text{day}$, initial activity 2000 Bq. Calculate activity after 3 days in Bq.  
+    - (a) 249 Bq  
+    - (b) 250 Bq  
+    - (c) 251 Bq  
+    - (d) 252 Bq
+
+23. Calculate the Q-value of $_6^{11}\text{C} \to _5^{11}\text{B} + e^+ + \nu_e$ in MeV. Given: $m( _6^{11}\text{C} ) = 11.0114 \, \text{u}$, $m( _5^{11}\text{B} ) = 11.0093 \, \text{u}$, $m( e^+ ) = 0.00054858 \, \text{u}$.  
+    - (a) 0.96 MeV  
+    - (b) 0.97 MeV  
+    - (c) 0.98 MeV  
+    - (d) 0.99 MeV
+
+24. A sample has $\lambda = 0.003 \, \text{s}^{-1}$, $N_0 = 10^7$. Calculate $N$ after 300 s.  
+    - (a) $4.06 \times 10^5$  
+    - (b) $4.07 \times 10^5$  
+    - (c) $4.08 \times 10^5$  
+    - (d) $4.09 \times 10^5$
+
+25. Calculate the mass defect of $_7^{14}\text{N}$ in u. Given: $m( _7^{14}\text{N} ) = 14.0031 \, \text{u}$, $m_p = 1.007825 \, \text{u}$, $m_n = 1.008665 \, \text{u}$.  
+    - (a) 0.1123 u  
+    - (b) 0.1124 u  
+    - (c) 0.1125 u  
+    - (d) 0.1126 u
+
+26. A radioactive isotope has $T_{1/2} = 6 \, \text{hours}$, initial $N_0 = 10^{10}$. Calculate $N$ after 12 hours.  
+    - (a) $2.49 \times 10^9$  
+    - (b) $2.50 \times 10^9$  
+    - (c) $2.51 \times 10^9$  
+    - (d) $2.52 \times 10^9$
+
+27. Calculate the binding energy of $_1^3\text{H}$ in MeV. Given: $m( _1^3\text{H} ) = 3.0160 \, \text{u}$, $m_p = 1.007825 \, \text{u}$, $m_n = 1.008665 \, \text{u}$.  
+    - (a) 8.47 MeV  
+    - (b) 8.48 MeV  
+    - (c) 8.49 MeV  
+    - (d) 8.50 MeV
+
+28. A sample has $\lambda = 0.008 \, \text{s}^{-1}$, $N_0 = 10^6$. Calculate $A$ after 125 s in Bq.  
+    - (a) $2.68 \times 10^3$  
+    - (b) $2.69 \times 10^3$  
+    - (c) $2.70 \times 10^3$  
+    - (d) $2.71 \times 10^3$
+
+29. Calculate the Q-value of $_88^{226}\text{Ra} \to _86^{222}\text{Rn} + _2^4\text{He}$ in MeV. Given: $m( _88^{226}\text{Ra} ) = 226.0254 \, \text{u}$, $m( _86^{222}\text{Rn} ) = 222.0176 \, \text{u}$, $m( _2^4\text{He} ) = 4.0026 \, \text{u}$.  
+    - (a) 4.86 MeV  
+    - (b) 4.87 MeV  
+    - (c) 4.88 MeV  
+    - (d) 4.89 MeV
+
+30. A sample has $T_{1/2} = 15 \, \text{years}$, initial activity 3200 Bq. Calculate activity after 30 years in Bq.  
+    - (a) 799 Bq  
+    - (b) 800 Bq  
+    - (c) 801 Bq  
+    - (d) 802 Bq
+
+31. A spacecraft RTG uses $^{238}\text{Pu}$ with $T_{1/2} = 87.7 \, \text{years}$, activity 2 Ci. Calculate $\lambda$ in s$^{-1}$.  
+    - (a) $2.49 \times 10^{-10}$  
+    - (b) $2.50 \times 10^{-10}$  
+    - (c) $2.51 \times 10^{-10}$  
+    - (d) $2.52 \times 10^{-10}$
+
+32. Calculate the binding energy per nucleon of $_20^{40}\text{Ca}$ in MeV. Given: $m( _20^{40}\text{Ca} ) = 39.9626 \, \text{u}$, $m_p = 1.007825 \, \text{u}$, $m_n = 1.008665 \, \text{u}$.  
+    - (a) 8.54 MeV  
+    - (b) 8.55 MeV  
+    - (c) 8.56 MeV  
+    - (d) 8.57 MeV
+
+33. A radioactive sample has $T_{1/2} = 8 \, \text{days}$, initial $N_0 = 10^{15}$. Calculate $N$ after 16 days.  
+    - (a) $2.49 \times 10^{14}$  
+    - (b) $2.50 \times 10^{14}$  
+    - (c) $2.51 \times 10^{14}$  
+    - (d) $2.52 \times 10^{14}$
+
+34. Calculate the Q-value of $_6^{14}\text{C} \to _7^{14}\text{N} + e^- + \bar{\nu}_e$ in MeV. Given: $m( _6^{14}\text{C} ) = 14.0032 \, \text{u}$, $m( _7^{14}\text{N} ) = 14.0031 \, \text{u}$, $m( e^- ) = 0.00054858 \, \text{u}$.  
+    - (a) 0.15 MeV  
+    - (b) 0.16 MeV  
+    - (c) 0.17 MeV  
+    - (d) 0.18 MeV
+
+35. A sample has $T_{1/2} = 20 \, \text{years}$, initial activity 6400 Bq. Calculate activity after 40 years in Bq.  
+    - (a) 1599 Bq  
+    - (b) 1600 Bq  
+    - (c) 1601 Bq  
+    - (d) 1602 Bq
+
+---
+
+## Conceptual Problems
+
+36. What does the mass number $A$ represent in a nucleus?  
+    - (a) Number of protons  
+    - (b) Number of neutrons  
+    - (c) Total number of nucleons  
+    - (d) Number of electrons
+
+37. What type of decay does $_92^{238}\text{U} \to _90^{234}\text{Th} + _2^4\text{He}$ represent?  
+    - (a) Alpha decay  
+    - (b) Beta decay  
+    - (c) Gamma decay  
+    - (d) Fission
+
+38. What is the unit of activity $A$ in SI units?  
+    - (a) Becquerel (Bq)  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+39. What happens to the activity of a radioactive sample after one half-life?  
+    - (a) Doubles  
+    - (b) Halves  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+40. What type of reaction is $_1^2\text{H} + _1^3\text{H} \to _2^4\text{He} + _0^1\text{n}$?  
+    - (a) Fission  
+    - (b) Fusion  
+    - (c) Alpha decay  
+    - (d) Beta decay
+
+41. What is the unit of binding energy $E_b$ commonly used in nuclear physics?  
+    - (a) MeV  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+42. What does a positive Q-value indicate about a nuclear reaction?  
+    - (a) Endothermic  
+    - (b) Exothermic  
+    - (c) No energy change  
+    - (d) Unstable reaction
+
+43. What happens to the atomic number $Z$ in $\beta^-$ decay?  
+    - (a) Decreases by 1  
+    - (b) Increases by 1  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+44. What does the binding energy per nucleon indicate about a nucleus?  
+    - (a) Number of protons  
+    - (b) Stability of the nucleus  
+    - (c) Decay rate  
+    - (d) Reaction type
+
+45. What is the dimension of mass defect $\Delta m$?  
+    - (a) $[\text{M}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does gamma decay emit?  
+    - (a) Alpha particles  
+    - (b) Beta particles  
+    - (c) High-energy photons  
+    - (d) Neutrons
+
+47. What is the significance of $N = N_0 e^{-\lambda t}$?  
+    - (a) Binding energy  
+    - (b) Radioactive decay law  
+    - (c) Q-value  
+    - (d) Nuclear reaction rate
+
+48. What happens to the mass number $A$ in alpha decay?  
+    - (a) Increases by 4  
+    - (b) Decreases by 4  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+49. What does carbon dating use to determine the age of a sample?  
+    - (a) $^{238}\text{U}$ decay  
+    - (b) $^{14}\text{C}$ decay  
+    - (c) $^{60}\text{Co}$ decay  
+    - (d) $^{241}\text{Am}$ decay
+
+50. How is nuclear physics applied in spacecraft power systems?  
+    - (a) Increases radiation  
+    - (b) Uses RTGs with isotopes like $^{238}\text{Pu}$ for power  
+    - (c) Reduces stability  
+    - (d) Increases mass defect
+
+---
+
+## Derivation Problems
+
+51. Derive the binding energy $E_b$ of a nucleus using the mass defect formula $E_b = \Delta m c^2$.
+
+52. Derive the radioactive decay law $N = N_0 e^{-\lambda t}$.
+
+53. Derive the Q-value of a nuclear reaction $Q = \left[m_{\text{reactants}} - m_{\text{products}}\right] c^2$.
+
+54. Derive the half-life $T_{1/2} = \frac{\ln 2}{\lambda}$ for radioactive decay.
+
+55. Derive the binding energy per nucleon for a given nucleus.
+
+56. Derive the activity $A = \lambda N$ for a radioactive sample.
+
+57. Derive the mass defect $\Delta m$ for a given nucleus.
+
+58. Derive the age of a sample using carbon dating $t = \frac{\ln(A_0/A)}{\lambda}$.
+
+59. Derive the energy released per fission in a nuclear reactor.
+
+60. Derive the number of nuclei $N$ after a given time $t$ for a radioactive sample.
+
+61. Derive the Q-value for an alpha decay reaction.
+
+62. Derive the decay constant $\lambda$ from the half-life $T_{1/2}$.
+
+63. Derive the energy released in a fusion reaction.
+
+64. Derive the activity $A$ after a given time $t$ for a radioactive sample.
+
+65. Derive the number of fissions per second in a nuclear reactor given power output.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of the Q-value in nuclear reactions?  
+    - (a) MeV  
+    - (b) Radian  
+    - (c) Hertz  
+    - (d) Watt
+
+67. What does the reaction $_92^{235}\text{U} + _0^1\text{n} \to _56^{141}\text{Ba} + _36^{92}\text{Kr} + 3 _0^1\text{n}$ represent?  
+    - (a) Fusion  
+    - (b) Fission  
+    - (c) Alpha decay  
+    - (d) Beta decay
+
+68. What is the relationship between $N$ and $t$ in radioactive decay?  
+    - (a) $N \propto t$  
+    - (b) $N = N_0 e^{-\lambda t}$  
+    - (c) $N$ is independent of $t$  
+    - (d) $N \propto t^2$
+
+69. What happens to the number of nuclei $N$ after two half-lives?  
+    - (a) Doubles  
+    - (b) Reduces to 1/4  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+70. What is the dimension of binding energy $E_b$?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the strong nuclear force do in a nucleus?  
+    - (a) Repels protons  
+    - (b) Binds nucleons together  
+    - (c) Emits radiation  
+    - (d) Increases mass defect
+
+72. What is the role of $^{238}\text{Pu}$ in spacecraft power systems?  
+    - (a) Increases radiation  
+    - (b) Provides power via decay in RTGs  
+    - (c) Reduces stability  
+    - (d) Increases mass defect
+
+73. What happens to $Z$ in $\beta^+$ decay?  
+    - (a) Increases by 1  
+    - (b) Decreases by 1  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+74. Why does fusion release energy?  
+    - (a) Due to mass increase  
+    - (b) Due to increased binding energy per nucleon  
+    - (c) Due to nuclear force reduction  
+    - (d) Due to proton repulsion
+
+75. What is the unit of decay constant $\lambda$ in SI units?  
+    - (a) s$^{-1}$  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+76. What does a high binding energy per nucleon indicate?  
+    - (a) Low stability  
+    - (b) High stability  
+    - (c) High decay rate  
+    - (d) Low mass defect
+
+77. Which decay emits an electron and an antineutrino?  
+    - (a) Alpha decay  
+    - (b) Beta minus decay  
+    - (c) Gamma decay  
+    - (d) Beta plus decay
+
+78. What is the effect of alpha decay on a nucleus?  
+    - (a) Increases $Z$ by 2  
+    - (b) Decreases $Z$ by 2  
+    - (c) Increases $A$ by 4  
+    - (d) No change in $A$
+
+79. What does a pseudo-force do in a non-inertial frame for nuclear calculations?  
+    - (a) Affects perceived decay rate  
+    - (b) Affects binding energy  
+    - (c) Creates nuclear reactions  
+    - (d) Reduces stability
+
+80. What is the dimension of $\lambda N$?  
+    - (a) $[\text{T}^{-1}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of $^{60}\text{Co}$ in medical applications?  
+    - (a) Carbon dating  
+    - (b) Radiation therapy via gamma rays  
+    - (c) Smoke detection  
+    - (d) Nuclear power
+
+82. What happens to the energy released in fission?  
+    - (a) Decreases due to mass defect  
+    - (b) Increases due to higher binding energy per nucleon in products  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+83. Why are heavy nuclei used in fission reactions?  
+    - (a) Due to high stability  
+    - (b) Due to lower binding energy per nucleon  
+    - (c) Due to high mass defect  
+    - (d) Due to low decay rate
+
+84. What is the significance of $931.494 \, \text{MeV/u}$?  
+    - (a) Decay constant  
+    - (b) Energy equivalent of 1 u mass defect  
+    - (c) Q-value  
+    - (d) Half-life
+
+85. What is the unit of half-life $T_{1/2}$?  
+    - (a) Second  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+86. What does a low Q-value in a nuclear reaction indicate?  
+    - (a) High energy release  
+    - (b) Low energy release or absorption  
+    - (c) No energy change  
+    - (d) High stability
+
+87. What is the physical significance of $\Delta m c^2$?  
+    - (a) Mass defect  
+    - (b) Energy released or absorbed in a reaction  
+    - (c) Decay constant  
+    - (d) Half-life
+
+88. Why is $_26^{56}\text{Fe}$ the most stable nucleus?  
+    - (a) Due to low binding energy  
+    - (b) Due to highest binding energy per nucleon  
+    - (c) Due to high decay rate  
+    - (d) Due to low mass defect
+
+89. What is the dimension of $e^{-\lambda t}$?  
+    - (a) Dimensionless  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does nuclear physics contribute to medical imaging?  
+    - (a) Via nuclear reactors  
+    - (b) Via radioactive tracers like $^{99m}\text{Tc}$  
+    - (c) Via smoke detectors  
+    - (d) Via carbon dating
+
+91. What is the role of neutrons in fission?  
+    - (a) Decrease $Z$  
+    - (b) Trigger chain reactions  
+    - (c) Increase stability  
+    - (d) Emit gamma rays
+
+92. What does a bright line in an emission spectrum indicate?  
+    - (a) Electron absorption  
+    - (b) Electron emission  
+    - (c) Nuclear decay  
+    - (d) Continuous energy
+
+93. What is the physical significance of $\frac{\ln 2}{\lambda}$?  
+    - (a) Binding energy  
+    - (b) Half-life of a radioactive sample  
+    - (c) Q-value  
+    - (d) Mass defect
+
+94. What is the dimension of $c^2$ in $E = \Delta m c^2$?  
+    - (a) $[\text{L}^2 \text{T}^{-2}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does fission produce neutrons?  
+    - (a) To increase $Z$  
+    - (b) To sustain chain reactions  
+    - (c) To emit gamma rays  
+    - (d) To reduce mass defect
+
+---
+
+## NEET-style Numerical Problems
+
+96. Calculate the binding energy per nucleon of $_2^4\text{He}$ in MeV (use mass defect from Problem 1).  
+    - (a) 7.06 MeV  
+    - (b) 7.07 MeV  
+    - (c) 7.08 MeV  
+    - (d) 7.09 MeV
+
+97. A radioactive sample has $T_{1/2} = 5 \, \text{years}$, initial activity 400 Bq. Calculate activity after 10 years in Bq.  
+    - (a) 99 Bq  
+    - (b) 100 Bq  
+    - (c) 101 Bq  
+    - (d) 102 Bq
+
+98. Calculate the Q-value of $_1^3\text{H} + _1^3\text{H} \to _2^4\text{He} + 2 _0^1\text{n}$ in MeV. Given: $m( _1^3\text{H} ) = 3.0160 \, \text{u}$, $m( _2^4\text{He} ) = 4.0026 \, \text{u}$, $m( _0^1\text{n} ) = 1.0087 \, \text{u}$.  
+    - (a) 11.30 MeV  
+    - (b) 11.31 MeV  
+    - (c) 11.32 MeV  
+    - (d) 11.33 MeV
+
+99. A sample has $\lambda = 0.004 \, \text{s}^{-1}$, $N_0 = 10^9$. Calculate $N$ after 250 s.  
+    - (a) $3.67 \times 10^8$  
+    - (b) $3.68 \times 10^8$  
+    - (c) $3.69 \times 10^8$  
+    - (d) $3.70 \times 10^8$
+
+100. A nuclear reactor produces 5 MW. If each fission releases 200 MeV, calculate fissions per second.  
+    - (a) $1.56 \times 10^{17}$  
+    - (b) $1.57 \times 10^{17}$  
+    - (c) $1.58 \times 10^{17}$  
+    - (d) $1.59 \times 10^{17}$
 
 ## Back to Chapter
 [Return to Nuclear Physics Chapter](./index.md)

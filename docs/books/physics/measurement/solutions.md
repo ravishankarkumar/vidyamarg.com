@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Measurement Solutions for JEE & NEET
 description: Sample solutions for measurement problems, covering SI units, dimensional analysis, significant figures, and error analysis, tailored for JEE and NEET preparation.
-slug: book/physics/measurement-solutions
+slug: books/physics/measurement/solutions
 keywords: physics measurement solutions, JEE physics SI units solutions, NEET physics dimensional analysis solutions, significant figures
 og:image: https://vidyamarg.com/og-physics-measurement.jpg
 ---

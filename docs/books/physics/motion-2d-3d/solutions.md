@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Motion in Two and Three Dimensions Solutions for JEE & NEET
 description: Sample solutions for motion in two and three dimensions problems, covering position, displacement, velocity, acceleration, projectile motion, circular motion, and relative motion, tailored for JEE and NEET preparation.
-slug: book/physics/motion-2d-3d-solutions
+slug: books/physics/motion-2d-3d/solutions
 keywords: physics motion 2d 3d solutions, JEE physics projectile motion solutions, NEET physics circular motion solutions, relative motion
 og:image: https://vidyamarg.com/og-physics-motion-2d-3d.jpg
 ---

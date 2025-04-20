@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Center of Mass and Linear Momentum for JEE & NEET
 description: Comprehensive guide to center of mass and linear momentum for JEE and NEET, covering center of mass, momentum conservation, impulse, and collisions, with extensive examples.
-slug: book/physics/center-mass-momentum
+slug: books/physics/center-mass-momentum
 keywords: physics center of mass momentum, JEE physics momentum conservation, NEET physics collisions, impulse
 og:image: https://vidyamarg.com/og-physics-center-mass-momentum.jpg
 ---
@@ -304,6 +304,6 @@ Our Hinglish video lessons make center of mass and linear momentum engaging for 
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing center of mass, collisions, and momentum conservation coming soon!*
+*Animation for visualizing center of mass, collisions, and momentum conservation coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

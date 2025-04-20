@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Electric Fields for JEE & NEET
 description: Comprehensive guide on electric fields for JEE and NEET, covering field definitions, calculations for charge distributions, field lines, and applications in electrostatics, with extensive examples.
-slug: book/physics/electric-fields
+slug: books/physics/electric-fields
 keywords: physics electric fields, JEE physics field calculations, NEET physics field lines, electrostatics
 og:image: https://vidyamarg.com/og-physics-electric-fields.jpg
 ---
@@ -276,6 +276,6 @@ Our Hinglish video lessons make electrostatics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing electric fields, field lines, and charge motion coming soon!*
+*Animation for visualizing electric fields, field lines, and charge motion coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

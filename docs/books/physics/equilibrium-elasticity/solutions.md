@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Equilibrium and Elasticity Solutions for JEE & NEET
 description: Sample solutions for equilibrium and elasticity problems, covering static and dynamic equilibrium, center of gravity, stress, strain, elastic moduli, and beam applications, tailored for JEE and NEET preparation.
-slug: book/physics/equilibrium-elasticity-solutions
+slug: books/physics/equilibrium-elasticity/solutions
 keywords: physics equilibrium elasticity solutions, JEE physics equilibrium solutions, NEET physics stress strain solutions, elastic moduli
 og:image: https://vidyamarg.com/og-physics-equilibrium-elasticity.jpg
 ---

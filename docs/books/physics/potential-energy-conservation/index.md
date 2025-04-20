@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Potential Energy and Conservation of Energy for JEE & NEET
 description: Comprehensive guide to potential energy and conservation of energy for JEE and NEET, covering gravitational and elastic potential energy, conservative forces, and energy conservation, with extensive examples.
-slug: book/physics/potential-energy-conservation
+slug: books/physics/potential-energy-conservation
 keywords: physics potential energy conservation, JEE physics energy conservation, NEET physics conservative forces, elastic potential energy
 og:image: https://vidyamarg.com/og-physics-potential-energy-conservation.jpg
 ---
@@ -308,6 +308,6 @@ Our Hinglish video lessons make potential energy and conservation engaging for J
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing energy conservation, springs, and gravitational systems coming soon!*
+*Animation for visualizing energy conservation, springs, and gravitational systems coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Waves—I Solutions for JEE & NEET
 description: Sample solutions for wave motion problems, covering wave characteristics, wave equations, superposition, interference, standing waves, and applications, tailored for JEE and NEET preparation.
-slug: book/physics/waves-1-solutions
+slug: books/physics/waves-1/solutions
 keywords: physics waves solutions, JEE physics wave motion solutions, NEET physics interference solutions, standing waves
 og:image: https://vidyamarg.com/og-physics-waves-1.jpg
 ---

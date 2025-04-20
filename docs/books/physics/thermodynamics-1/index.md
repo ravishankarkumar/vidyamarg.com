@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Temperature, Heat, and the First Law of Thermodynamics for JEE & NEET
 description: Comprehensive guide on thermodynamics for JEE and NEET, covering temperature scales, heat transfer, specific heat, thermal expansion, and the first law of thermodynamics, with extensive examples.
-slug: book/physics/thermodynamics-1
+slug: books/physics/thermodynamics-1
 keywords: physics thermodynamics, JEE physics temperature and heat, NEET physics first law of thermodynamics, thermal expansion
 og:image: https://vidyamarg.com/og-physics-thermodynamics-1.jpg
 ---
@@ -269,6 +269,6 @@ Our Hinglish video lessons make thermodynamics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing heat transfer, thermal expansion, and thermodynamic processes coming soon!*
+*Animation for visualizing heat transfer, thermal expansion, and thermodynamic processes coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

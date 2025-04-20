@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Current and Resistance Solutions for JEE & NEET
 description: Sample solutions for problems on current and resistance, covering electric current, Ohm's law, resistivity, temperature effects, and electrical power in circuits, tailored for JEE and NEET preparation.
-slug: book/physics/current-resistance-solutions
+slug: books/physics/current-resistance/solutions
 keywords: physics current resistance solutions, JEE physics Ohm's law solutions, NEET physics electrical power solutions, circuits
 og:image: https://vidyamarg.com/og-physics-current-resistance.jpg
 ---

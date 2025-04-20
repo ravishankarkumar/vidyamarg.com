@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Magnetic Fields Due to Currents for JEE & NEET
 description: Comprehensive guide on magnetic fields due to currents for JEE and NEET, covering Biot-Savart law, Ampere’s law, magnetic fields from current configurations, and applications in electromagnetism, with extensive examples.
-slug: book/physics/magnetic-fields-currents
+slug: books/physics/magnetic-fields-currents
 keywords: physics magnetic fields currents, JEE physics Biot-Savart law, NEET physics Ampere’s law, electromagnetism
 og:image: https://vidyamarg.com/og-physics-magnetic-fields-currents.jpg
 ---
@@ -272,6 +272,6 @@ Our Hinglish video lessons make electromagnetism engaging! Subscribe for updates
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing field superposition, solenoid fields, and toroid fields coming soon!*
+*Animation for visualizing field superposition, solenoid fields, and toroid fields coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

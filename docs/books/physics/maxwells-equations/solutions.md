@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Maxwell’s Equations; Magnetism of Matter Solutions for JEE & NEET
 description: Sample solutions for Maxwell’s equations and magnetism of matter problems, covering Gauss’s laws, Faraday’s law, Ampere-Maxwell law, and magnetic properties of materials, tailored for JEE and NEET preparation.
-slug: book/physics/maxwells-equations-solutions
+slug: books/physics/maxwells-equations/solutions
 keywords: physics Maxwell’s equations solutions, JEE physics magnetism of matter solutions, NEET physics electromagnetic theory solutions, electromagnetism
 og:image: https://vidyamarg.com/og-physics-maxwells-equations.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Force and Motion—I for JEE & NEET
 description: Comprehensive guide to force and motion for JEE and NEET, covering Newton’s laws, inertial frames, applications in linear motion, and problem-solving techniques, with extensive examples.
-slug: book/physics/force-motion-1
+slug: books/physics/force-motion-1
 keywords: physics force motion, JEE physics Newton’s laws, NEET physics dynamics, inertial frames
 og:image: https://vidyamarg.com/og-physics-force-motion-1.jpg
 ---
@@ -284,6 +284,6 @@ Our Hinglish video lessons make force and motion engaging for JEE and NEET! Subs
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing Newton’s laws, pulley systems, and non-inertial frames coming soon!*
+*Animation for visualizing Newton’s laws, pulley systems, and non-inertial frames coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

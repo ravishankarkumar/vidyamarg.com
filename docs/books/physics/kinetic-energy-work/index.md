@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Kinetic Energy and Work for JEE & NEET
 description: Comprehensive guide to kinetic energy and work for JEE and NEET, covering work, kinetic energy, work-energy theorem, variable forces, and power, with extensive examples.
-slug: book/physics/kinetic-energy-work
+slug: books/physics/kinetic-energy-work
 keywords: physics kinetic energy work, JEE physics work-energy theorem, NEET physics power, variable forces
 og:image: https://vidyamarg.com/og-physics-kinetic-energy-work.jpg
 ---
@@ -281,6 +281,6 @@ Our Hinglish video lessons make kinetic energy and work engaging for JEE and NEE
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing work, kinetic energy, and power coming soon!*
+*Animation for visualizing work, kinetic energy, and power coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Center of Mass and Linear Momentum Solutions for JEE & NEET
 description: Sample solutions for center of mass and linear momentum problems, covering center of mass, momentum conservation, impulse, and collisions, tailored for JEE and NEET preparation.
-slug: book/physics/center-mass-momentum-solutions
+slug: books/physics/center-mass-momentum/solutions
 keywords: physics center of mass momentum solutions, JEE physics momentum conservation solutions, NEET physics collisions solutions, impulse
 og:image: https://vidyamarg.com/og-physics-center-mass-momentum.jpg
 ---

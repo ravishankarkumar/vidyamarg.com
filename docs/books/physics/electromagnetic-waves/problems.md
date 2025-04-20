@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Electromagnetic Waves Problems for JEE & NEET
 description: Practice 100 problems on electromagnetic waves for JEE and NEET, inspired by exam patterns, covering wave generation, propagation, electromagnetic spectrum, and energy transport.
-slug: book/physics/electromagnetic-waves-problems
+slug: books/physics/electromagnetic-waves/problems
 keywords: physics electromagnetic waves problems, JEE physics wave propagation problems, NEET physics electromagnetic spectrum problems, electromagnetism
 og:image: https://vidyamarg.com/og-physics-electromagnetic-waves.jpg
 ---

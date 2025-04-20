@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Circuits for JEE & NEET
 description: Comprehensive guide on circuits for JEE and NEET, covering Kirchhoff's laws, series and parallel resistors, capacitors in circuits, RC circuits, and applications in DC circuits, with extensive examples.
-slug: book/physics/circuits
+slug: books/physics/circuits
 keywords: physics circuits, JEE physics Kirchhoff's laws, NEET physics RC circuits, DC circuits
 og:image: https://vidyamarg.com/og-physics-circuits.jpg
 ---
@@ -283,6 +283,6 @@ Our Hinglish video lessons make circuit analysis engaging! Subscribe for updates
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing Kirchhoff's laws, resistor networks, and RC transients coming soon!*
+*Animation for visualizing Kirchhoff's laws, resistor networks, and RC transients coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

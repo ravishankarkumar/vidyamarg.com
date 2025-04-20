@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Free Chapters & MCQs for JEE & NEET
 description: Master physics for JEE Main, JEE Advanced, and NEET with our free book! English chapters, practice MCQs, and YouTube videos for exam success.
-slug: book/physics
+slug: books/physics
 keywords: JEE physics book, NEET physics book, physics book, physics for JEE and NEET
 og:image: https://vidyamarg.com/og-physics-book.jpg
 ---

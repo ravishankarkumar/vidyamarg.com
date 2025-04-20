@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Induction and Inductance for JEE & NEET
 description: Comprehensive guide on induction and inductance for JEE and NEET, covering Faraday’s law, Lenz’s law, self and mutual inductance, and applications in circuits, with extensive examples.
-slug: book/physics/induction-inductance
+slug: books/physics/induction-inductance
 keywords: physics induction inductance, JEE physics Faraday’s law, NEET physics inductance, electromagnetism
 og:image: https://vidyamarg.com/og-physics-induction-inductance.jpg
 ---
@@ -258,6 +258,6 @@ Our Hinglish video lessons make electromagnetism engaging! Subscribe for updates
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing flux changes, RL transients, and LC oscillations coming soon!*
+*Animation for visualizing flux changes, RL transients, and LC oscillations coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

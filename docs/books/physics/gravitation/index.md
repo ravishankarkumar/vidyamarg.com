@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Gravitation for JEE & NEET
 description: Comprehensive guide on gravitation for JEE and NEET, covering Newton’s law of gravitation, gravitational fields, potential energy, Kepler’s laws, orbital motion, and escape velocity, with extensive examples.
-slug: book/physics/gravitation
+slug: books/physics/gravitation
 keywords: physics gravitation, JEE physics gravitation, NEET physics orbital motion, escape velocity
 og:image: https://vidyamarg.com/og-physics-gravitation.jpg
 ---
@@ -338,6 +338,6 @@ Our Hinglish video lessons make gravitation engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing orbits, fields, and escape trajectories coming soon!*
+*Animation for visualizing orbits, fields, and escape trajectories coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

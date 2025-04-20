@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Waves—I for JEE & NEET
 description: Comprehensive guide on wave motion for JEE and NEET, covering wave characteristics, types of waves, wave equations, superposition, interference, and standing waves, with extensive examples.
-slug: book/physics/waves-1
+slug: books/physics/waves-1
 keywords: physics waves, JEE physics wave motion, NEET physics interference, standing waves
 og:image: https://vidyamarg.com/og-physics-waves-1.jpg
 ---
@@ -269,6 +269,6 @@ Our Hinglish video lessons make waves engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing wave propagation, interference, and standing waves coming soon!*
+*Animation for visualizing wave propagation, interference, and standing waves coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

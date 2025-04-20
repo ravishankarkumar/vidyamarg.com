@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Gravitation Solutions for JEE & NEET
 description: Sample solutions for gravitation problems, covering Newton’s law, gravitational fields, potential energy, Kepler’s laws, orbital motion, and escape velocity, tailored for JEE and NEET preparation.
-slug: book/physics/gravitation-solutions
+slug: books/physics/gravitation/solutions
 keywords: physics gravitation solutions, JEE physics gravitation solutions, NEET physics orbital motion solutions, escape velocity
 og:image: https://vidyamarg.com/og-physics-gravitation.jpg
 ---

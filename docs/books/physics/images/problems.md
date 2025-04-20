@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Images Problems for JEE & NEET
 description: Practice 100 problems on image formation for JEE and NEET, inspired by exam patterns, covering reflection, refraction, mirrors, lenses, and optical instruments.
-slug: book/physics/images-problems
+slug: books/physics/images/problems
 keywords: physics images problems, JEE physics geometric optics problems, NEET physics lenses problems, ray optics
 og:image: https://vidyamarg.com/og-physics-images.jpg
 ---

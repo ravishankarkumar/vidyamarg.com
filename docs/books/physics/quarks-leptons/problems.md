@@ -1,221 +1,572 @@
 ---
-title: Physics Book - More About Matter Waves Problems for JEE & NEET
-description: Practice 100 advanced matter wave problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
-slug: book/physics/matter-waves-advanced-problems
-keywords: physics matter waves problems, JEE physics Heisenberg uncertainty problems, NEET physics quantum tunneling problems, quantum mechanics
-og:image: https://vidyamarg.com/og-physics-matter-waves-advanced.jpg
+title: Physics Book - Quarks, Leptons, and the Big Bang Problems for JEE & NEET
+description: Practice 100 problems on particle physics and cosmology for JEE and NEET, inspired by exam patterns, covering quarks, leptons, the Standard Model, and the Big Bang.
+slug: books/physics/quarks-leptons/problems
+keywords: physics quarks leptons problems, JEE physics standard model problems, NEET physics big bang problems, particle physics cosmology
+og:image: https://vidyamarg.com/og-physics-quarks-leptons.jpg
 ---
 
-# More About Matter Waves Problems
+# Quarks, Leptons, and the Big Bang Problems
 
-This section provides **100 problems** to test your understanding of advanced matter wave concepts, including the Heisenberg uncertainty principle, wave functions, particle in a box, and quantum tunneling. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of particle physics and cosmology, including calculations of particle charges, conservation numbers, decay products, Hubble’s law velocities, and CMB temperature shifts, as well as applications like cosmic ray effects on spacecraft. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering particle physics and cosmology, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on uncertainty calculations, energy levels, wave function normalization, and tunneling probabilities, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., quantum effects, tunneling), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. Calculate the electric charge of a proton (uud) in units of elementary charge. Given: up quark charge $q_u = +2/3$, down quark charge $q_d = -1/3$.  
+   - (a) +0.99  
+   - (b) +1.00  
+   - (c) +1.01  
+   - (d) +1.02
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: An electron has a position uncertainty of 0.05 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 1.05 × 10^{-24} kg·m/s (b) 1.06 × 10^{-24} kg·m/s (c) 1.07 × 10^{-24} kg·m/s (d) 1.08 × 10^{-24} kg·m/s
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: An electron is confined in a 1D box of length 0.1 nm. Calculate the energy of the \( n = 3 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) 338 eV (b) 339 eV (c) 340 eV (d) 341 eV
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: An electron with energy 4 eV approaches a 8 eV barrier of width 0.2 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) -0.45 (b) -0.46 (c) -0.47 (d) -0.48
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A particle has a wave function \( \psi(x) = A \exp(-x^2/a^2) \). Calculate the normalization constant \( A \) for \( a = 1 \, \text{nm} \).
-   - Options: (a) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^5 \, \text{m}^{-1/2} \) (b) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^4 \, \text{m}^{-1/2} \) (c) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^6 \, \text{m}^{-1/2} \) (d) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^3 \, \text{m}^{-1/2} \)
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: An electron has a momentum uncertainty of \( 2.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 0.026 nm (b) 0.027 nm (c) 0.028 nm (d) 0.029 nm
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: An electron is in a 1D box of length 0.3 nm. Calculate the energy difference between \( n = 2 \) and \( n = 1 \) states (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) 37.6 eV (b) 37.7 eV (c) 37.8 eV (d) 37.9 eV
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A proton with energy 2 eV approaches a 5 eV barrier of width 0.15 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-   - Options: (a) -0.62 (b) -0.63 (c) -0.64 (d) -0.65
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A particle has a position uncertainty of 0.2 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 2.63 × 10^{-25} kg·m/s (b) 2.64 × 10^{-25} kg·m/s (c) 2.65 × 10^{-25} kg·m/s (d) 2.66 × 10^{-25} kg·m/s
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: An electron is in a 1D box of length 0.5 nm. Calculate the energy of the \( n = 4 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) 240 eV (b) 241 eV (c) 242 eV (d) 243 eV
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A particle has a wave function \( \psi(x) = A \sin(\pi x/L) \) in a box of length \( L = 1 \, \text{nm} \). Calculate the normalization constant \( A \).
-    - Options: (a) \( \sqrt{2} \times 10^5 \, \text{m}^{-1/2} \) (b) \( \sqrt{2} \times 10^4 \, \text{m}^{-1/2} \) (c) \( \sqrt{2} \times 10^6 \, \text{m}^{-1/2} \) (d) \( \sqrt{2} \times 10^3 \, \text{m}^{-1/2} \)
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: An electron with energy 6 eV approaches a 12 eV barrier of width 0.1 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) -0.22 (b) -0.23 (c) -0.24 (d) -0.25
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A particle has a momentum uncertainty of \( 1.0 \times 10^{-24} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 0.052 nm (b) 0.053 nm (c) 0.054 nm (d) 0.055 nm
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: An electron is in a 1D box of length 0.4 nm. Calculate the energy of the \( n = 2 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 94.0 eV (b) 94.1 eV (c) 94.2 eV (d) 94.3 eV
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A proton with energy 3 eV approaches a 6 eV barrier of width 0.2 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) -0.83 (b) -0.84 (c) -0.85 (d) -0.86
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A particle has a wave function \( \psi(x) = A \exp(-x^2/a^2) \). Calculate the normalization constant \( A \) for \( a = 0.5 \, \text{nm} \).
-    - Options: (a) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^6 \, \text{m}^{-1/2} \) (b) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^5 \, \text{m}^{-1/2} \) (c) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^7 \, \text{m}^{-1/2} \) (d) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^4 \, \text{m}^{-1/2} \)
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: An electron has a position uncertainty of 0.03 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 1.75 × 10^{-24} kg·m/s (b) 1.76 × 10^{-24} kg·m/s (c) 1.77 × 10^{-24} kg·m/s (d) 1.78 × 10^{-24} kg·m/s
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: An electron is in a 1D box of length 0.25 nm. Calculate the energy difference between \( n = 3 \) and \( n = 2 \) states (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 240 eV (b) 241 eV (c) 242 eV (d) 243 eV
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: An electron with energy 5 eV approaches a 9 eV barrier of width 0.05 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) -0.11 (b) -0.12 (c) -0.13 (d) -0.14
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A particle has a momentum uncertainty of \( 5.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 0.105 nm (b) 0.106 nm (c) 0.107 nm (d) 0.108 nm
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: An electron is in a 1D box of length 0.15 nm. Calculate the energy of the \( n = 5 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 1000 eV (b) 1001 eV (c) 1002 eV (d) 1003 eV
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A proton with energy 4 eV approaches a 7 eV barrier of width 0.1 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) -0.42 (b) -0.43 (c) -0.44 (d) -0.45
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A particle has a position uncertainty of 0.08 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 6.57 × 10^{-25} kg·m/s (b) 6.58 × 10^{-25} kg·m/s (c) 6.59 × 10^{-25} kg·m/s (d) 6.60 × 10^{-25} kg·m/s
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: An electron is in a 1D box of length 0.2 nm. Calculate the energy difference between \( n = 4 \) and \( n = 3 \) states (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 451 eV (b) 452 eV (c) 453 eV (d) 454 eV
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A particle has a wave function \( \psi(x) = A \sin(2\pi x/L) \) in a box of length \( L = 0.5 \, \text{nm} \). Calculate the normalization constant \( A \).
-    - Options: (a) \( \sqrt{2} \times 10^6 \, \text{m}^{-1/2} \) (b) \( \sqrt{2} \times 10^5 \, \text{m}^{-1/2} \) (c) \( \sqrt{2} \times 10^7 \, \text{m}^{-1/2} \) (d) \( \sqrt{2} \times 10^4 \, \text{m}^{-1/2} \)
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: An electron with energy 3 eV approaches a 6 eV barrier of width 0.3 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) -0.67 (b) -0.68 (c) -0.69 (d) -0.70
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A particle has a momentum uncertainty of \( 3.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 0.175 nm (b) 0.176 nm (c) 0.177 nm (d) 0.178 nm
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: An electron is in a 1D box of length 0.1 nm. Calculate the energy of the \( n = 1 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 37.6 eV (b) 37.7 eV (c) 37.8 eV (d) 37.9 eV
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A proton with energy 5 eV approaches a 10 eV barrier of width 0.05 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) -0.21 (b) -0.22 (c) -0.23 (d) -0.24
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A particle has a position uncertainty of 0.15 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 3.50 × 10^{-25} kg·m/s (b) 3.51 × 10^{-25} kg·m/s (c) 3.52 × 10^{-25} kg·m/s (d) 3.53 × 10^{-25} kg·m/s
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: An electron is in a 1D box of length 0.3 nm. Calculate the energy of the \( n = 3 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 112 eV (b) 113 eV (c) 114 eV (d) 115 eV
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A particle has a wave function \( \psi(x) = A \exp(-x^2/a^2) \). Calculate the normalization constant \( A \) for \( a = 0.2 \, \text{nm} \).
-    - Options: (a) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^7 \, \text{m}^{-1/2} \) (b) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^6 \, \text{m}^{-1/2} \) (c) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^8 \, \text{m}^{-1/2} \) (d) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^5 \, \text{m}^{-1/2} \)
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: An electron with energy 7 eV approaches a 15 eV barrier of width 0.1 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) -0.26 (b) -0.27 (c) -0.28 (d) -0.29
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A particle has a momentum uncertainty of \( 4.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 0.131 nm (b) 0.132 nm (c) 0.133 nm (d) 0.134 nm
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: An electron is in a 1D box of length 0.2 nm. Calculate the energy difference between \( n = 5 \) and \( n = 4 \) states (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 639 eV (b) 640 eV (c) 641 eV (d) 642 eV
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A proton with energy 6 eV approaches a 12 eV barrier of width 0.15 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) -0.57 (b) -0.58 (c) -0.59 (d) -0.60
+2. A galaxy is at a distance of 20 Mpc from Earth. Using Hubble’s law with $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+   - (a) 1347 km/s  
+   - (b) 1348 km/s  
+   - (c) 1349 km/s  
+   - (d) 1350 km/s
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is the Heisenberg uncertainty principle?
-   - Options: (a) Limits measurement precision (b) No limits (c) Fixed limits (d) Only theoretical
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What is the role of \( |\psi|^2 \)?
-   - Options: (a) Probability density (b) Wave amplitude (c) No role (d) Fixed role
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What is the particle in a box energy?
-   - Options: (a) Quantized (b) Continuous (c) No energy (d) Fixed energy
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is quantum tunneling?
-   - Options: (a) Barrier penetration (b) No penetration (c) Fixed penetration (d) Only theoretical
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What is \( \hbar \)?
-   - Options: (a) Reduced Planck’s constant (b) Planck’s constant (c) No constant (d) Fixed constant
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What is the unit of \( \Delta x \cdot \Delta p \)?
-   - Options: (a) J·s (b) kg·m²/s (c) No unit (d) Fixed unit
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Why are energy levels quantized in a box?
-   - Options: (a) Boundary conditions (b) No quantization (c) Fixed quantization (d) Only theoretical
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: What is wave function normalization?
-   - Options: (a) Probability = 1 (b) Probability = 0 (c) No normalization (d) Fixed normalization
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: How does barrier width affect tunneling?
-   - Options: (a) Wider reduces probability (b) Wider increases (c) No effect (d) Fixed effect
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is the significance of STM?
-   - Options: (a) Uses tunneling (b) No significance (c) Fixed significance (d) Only theoretical
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Why does uncertainty exist?
-   - Options: (a) Quantum nature (b) No uncertainty (c) Fixed uncertainty (d) Only theoretical
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: What is the particle in a box wave function?
-   - Options: (a) Sinusoidal (b) Exponential (c) No wave function (d) Fixed wave function
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: How does energy affect tunneling?
-   - Options: (a) Higher energy increases probability (b) Decreases (c) No effect (d) Fixed effect
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: What is quantum computing’s basis?
-   - Options: (a) Quantum states (b) No basis (c) Fixed basis (d) Only theoretical
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: Why study matter waves?
-   - Options: (a) Quantum applications (b) No use (c) Fixed use (d) Only theoretical
+3. Calculate the baryon number of a neutron (udd). Given: each quark has a baryon number $B_q = 1/3$.  
+   - (a) 0.99  
+   - (b) 1.00  
+   - (c) 1.01  
+   - (d) 1.02
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the Heisenberg uncertainty principle.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the particle in a box energy levels.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the wave function normalization condition.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the tunneling probability exponent.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the particle in a box wave function.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the uncertainty relation for energy and time.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the probability density from wave functions.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the quantization in a 1D box.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the effect of barrier height on tunneling.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the normalization for a Gaussian wave function.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the energy level dependence on box length.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the tunneling probability for a rectangular barrier.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the uncertainty principle using wave packets.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the particle in a box boundary conditions.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the tunneling effect in quantum mechanics.
+4. A spacecraft moves at $v = 400 \, \text{km/s}$ relative to the CMB frame ($T_{\text{CMB}} = 2.7 \, \text{K}$, $c = 3 \times 10^5 \, \text{km/s}$). Calculate the temperature shift $\Delta T$ in K due to the Doppler effect ($\Delta T/T \approx v/c$).  
+   - (a) $3.59 \times 10^{-3}$ K  
+   - (b) $3.60 \times 10^{-3}$ K  
+   - (c) $3.61 \times 10^{-3}$ K  
+   - (d) $3.62 \times 10^{-3}$ K
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is the Heisenberg uncertainty principle?
-   - Options: (a) Measurement limit (b) No limit (c) Fixed limit (d) Only theoretical
-67. **Problem 67 (NEET, 2022)**: What is \( |\psi|^2 \)?
-   - Options: (a) Probability density (b) Wave function (c) No density (d) Fixed density
-68. **Problem 68 (NEET, 2021)**: What is particle in a box energy?
-   - Options: (a) Discrete (b) Continuous (c) No energy (d) Fixed energy
-69. **Problem 69 (NEET, 2024)**: What is quantum tunneling?
-   - Options: (a) Barrier crossing (b) No crossing (c) Fixed crossing (d) Only theoretical
-70. **Problem 70 (NEET, 2020)**: What is \( \hbar \)?
-   - Options: (a) Reduced Planck’s (b) Planck’s (c) No constant (d) Fixed constant
-71. **Problem 71 (NEET, 2023)**: What is the unit of uncertainty product?
-   - Options: (a) J·s (b) kg·m/s (c) No unit (d) Fixed unit
-72. **Problem 72 (NEET, 2022)**: Why is energy quantized?
-   - Options: (a) Confinement (b) No quantization (c) Fixed quantization (d) Only theoretical
-73. **Problem 73 (NEET, 2021)**: What is normalization?
-   - Options: (a) Total probability = 1 (b) No probability (c) Fixed probability (d) Only theoretical
-74. **Problem 74 (NEET, 2024)**: How does width affect tunneling?
-   - Options: (a) Wider reduces (b) Wider increases (c) No effect (d) Fixed effect
-75. **Problem 75 (NEET, 2020)**: What is STM’s basis?
-   - Options: (a) Tunneling (b) No basis (c) Fixed basis (d) Only theoretical
-76. **Problem 76 (NEET, 2023)**: Why does uncertainty occur?
-   - Options: (a) Quantum limits (b) No limits (c) Fixed limits (d) Only theoretical
-77. **Problem 77 (NEET, 2022)**: What is the box wave function?
-   - Options: (a) Sine function (b) Constant (c) No function (d) Fixed function
-78. **Problem 78 (NEET, 2021)**: How does energy affect tunneling?
-   - Options: (a) Increases probability (b) Decreases (c) No effect (d) Fixed effect
-79. **Problem 79 (NEET, 2024)**: What is quantum computing?
-   - Options: (a) Uses quantum states (b) No use (c) Fixed use (d) Only theoretical
-80. **Problem 80 (NEET, 2020)**: Why study quantum mechanics?
-   - Options: (a) Technology (b) No use (c) Fixed use (d) Only theoretical
-81. **Problem 81 (NEET, 2023)**: What is tunneling’s application?
-   - Options: (a) Microscopy (b) No application (c) Fixed application (d) Only theoretical
-82. **Problem 82 (NEET, 2022)**: What is the unit of energy?
-   - Options: (a) eV or J (b) Meter (c) No unit (d) Fixed unit
-83. **Problem 83 (NEET, 2021)**: How do wave functions describe particles?
-   - Options: (a) Probability (b) No description (c) Fixed description (d) Only theoretical
-84. **Problem 84 (NEET, 2024)**: What is nuclear fusion’s relation to tunneling?
-   - Options: (a) Enables reaction (b) No relation (c) Fixed relation (d) Only theoretical
-85. **Problem 85 (NEET, 2020)**: Why is quantization important?
-   - Options: (a) Discrete states (b) No importance (c) Fixed importance (d) Only theoretical
-86. **Problem 86 (NEET, 2023)**: How does box size affect energy?
-   - Options: (a) Smaller increases (b) Smaller decreases (c) No effect (d) Fixed effect
-87. **Problem 87 (NEET, 2022)**: What is the role of \( \psi \)?
-   - Options: (a) Quantum state (b) No role (c) Fixed role (d) Only theoretical
-88. **Problem 88 (NEET, 2021)**: Why use uncertainty in quantum mechanics?
-   - Options: (a) Fundamental limit (b) No limit (c) Fixed limit (d) Only theoretical
-89. **Problem 89 (NEET, 2024)**: What is the tunneling probability?
-   - Options: (a) Exponential decay (b) Linear (c) No probability (d) Fixed probability
-90. **Problem 90 (NEET, 2020)**: How does mass affect tunneling?
-   - Options: (a) Larger reduces (b) Larger increases (c) No effect (d) Fixed effect
-91. **Problem 91 (NEET, 2023)**: Why use wave functions?
-   - Options: (a) Describe particles (b) No use (c) Fixed use (d) Only theoretical
-92. **Problem 92 (NEET, 2022)**: What is the role of quantum numbers?
-   - Options: (a) Define states (b) No role (c) Fixed role (d) Only theoretical
-93. **Problem 93 (NEET, 2021)**: How does barrier height affect tunneling?
-   - Options: (a) Higher reduces (b) Higher increases (c) No effect (d) Fixed effect
-94. **Problem 94 (NEET, 2024)**: What is the unit of \( \psi \)?
-   - Options: (a) m^{-1/2} (b) Meter (c) No unit (d) Fixed unit
-95. **Problem 95 (NEET, 2020)**: Why is tunneling significant?
-   - Options: (a) Quantum applications (b) No significance (c) Fixed significance (d) Only theoretical
+5. Calculate the lepton number in the decay $\mu^- \to e^- + \bar{\nu}_e + \nu_\mu$. Given: $\mu^-$ ($L = 1$), $e^-$ ($L = 1$), $\bar{\nu}_e$ ($L = -1$), $\nu_\mu$ ($L = 1$).  
+   - (a) 0.99  
+   - (b) 1.00  
+   - (c) 1.01  
+   - (d) 1.02
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: An electron has a position uncertainty of 0.1 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 5.27 × 10^{-25} kg·m/s (b) 5.28 × 10^{-25} kg·m/s (c) 5.29 × 10^{-25} kg·m/s (d) 5.30 × 10^{-25} kg·m/s
-97. **Problem 97 (NEET, 2022)**: An electron is in a 1D box of length 0.2 nm. Calculate the energy of the \( n = 2 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) 150 eV (b) 151 eV (c) 152 eV (d) 153 eV
-98. **Problem 98 (NEET, 2021)**: An electron with energy 5 eV approaches a 10 eV barrier of width 0.1 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) -0.22 (b) -0.23 (c) -0.24 (d) -0.25
-99. **Problem 99 (NEET, 2024)**: A particle has a momentum uncertainty of \( 2.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 0.263 nm (b) 0.264 nm (c) 0.265 nm (d) 0.266 nm
-100. **Problem 100 (NEET, 2020)**: An electron is in a 1D box of length 0.3 nm. Calculate the energy of the \( n = 1 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 12.5 eV (b) 12.6 eV (c) 12.7 eV (d) 12.8 eV
+6. A galaxy cluster is at 50 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+   - (a) 3369 km/s  
+   - (b) 3370 km/s  
+   - (c) 3371 km/s  
+   - (d) 3372 km/s
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. Calculate the electric charge of a $\pi^+$ meson (u$\bar{\text{d}}$) in units of elementary charge. Given: $q_u = +2/3$, $q_{\bar{\text{d}}} = +1/3$.  
+   - (a) +0.99  
+   - (b) +1.00  
+   - (c) +1.01  
+   - (d) +1.02
 
-[View Solutions](/books/physics/matter-waves-advanced/solutions) -->
+8. A spacecraft moves at $v = 500 \, \text{km/s}$ relative to the CMB frame ($T_{\text{CMB}} = 2.7 \, \text{K}$). Calculate $\Delta T$ in K due to the Doppler effect.  
+   - (a) $4.49 \times 10^{-3}$ K  
+   - (b) $4.50 \times 10^{-3}$ K  
+   - (c) $4.51 \times 10^{-3}$ K  
+   - (d) $4.52 \times 10^{-3}$ K
+
+9. Calculate the baryon number of a $\pi^0$ meson (u$\bar{\text{u}}$). Given: $B_q = 1/3$, $B_{\bar{q}} = -1/3$.  
+   - (a) -0.01  
+   - (b) 0.00  
+   - (c) 0.01  
+   - (d) 0.02
+
+10. A quasar is at 100 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+    - (a) 6739 km/s  
+    - (b) 6740 km/s  
+    - (c) 6741 km/s  
+    - (d) 6742 km/s
+
+11. Calculate the lepton number in the decay $n \to p + e^- + \bar{\nu}_e$. Given: $n$ ($L = 0$), $p$ ($L = 0$), $e^-$ ($L = 1$), $\bar{\nu}_e$ ($L = -1$).  
+    - (a) -0.01  
+    - (b) 0.00  
+    - (c) 0.01  
+    - (d) 0.02
+
+12. A spacecraft moves at $v = 600 \, \text{km/s}$ relative to the CMB frame ($T_{\text{CMB}} = 2.7 \, \text{K}$). Calculate $\Delta T$ in K.  
+    - (a) $5.39 \times 10^{-3}$ K  
+    - (b) $5.40 \times 10^{-3}$ K  
+    - (c) $5.41 \times 10^{-3}$ K  
+    - (d) $5.42 \times 10^{-3}$ K
+
+13. Calculate the electric charge of a $\Delta^{++}$ baryon (uuu). Given: $q_u = +2/3$.  
+    - (a) +1.99  
+    - (b) +2.00  
+    - (c) +2.01  
+    - (d) +2.02
+
+14. A galaxy is at 30 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+    - (a) 2021 km/s  
+    - (b) 2022 km/s  
+    - (c) 2023 km/s  
+    - (d) 2024 km/s
+
+15. Calculate the baryon number of a $K^+$ meson (u$\bar{\text{s}}$). Given: $B_q = 1/3$, $B_{\bar{q}} = -1/3$.  
+    - (a) -0.01  
+    - (b) 0.00  
+    - (c) 0.01  
+    - (d) 0.02
+
+16. A spacecraft moves at $v = 300 \, \text{km/s}$ relative to the CMB frame ($T_{\text{CMB}} = 2.7 \, \text{K}$). Calculate $\Delta T$ in K.  
+    - (a) $2.69 \times 10^{-3}$ K  
+    - (b) $2.70 \times 10^{-3}$ K  
+    - (c) $2.71 \times 10^{-3}$ K  
+    - (d) $2.72 \times 10^{-3}$ K
+
+17. Calculate the electric charge of a $\Sigma^-$ baryon (dds). Given: $q_d = -1/3$.  
+    - (a) -0.99  
+    - (b) -1.00  
+    - (c) -1.01  
+    - (d) -1.02
+
+18. A galaxy cluster is at 80 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+    - (a) 5391 km/s  
+    - (b) 5392 km/s  
+    - (c) 5393 km/s  
+    - (d) 5394 km/s
+
+19. Calculate the lepton number in the decay $\tau^- \to \mu^- + \bar{\nu}_\mu + \nu_\tau$. Given: $\tau^-$ ($L = 1$), $\mu^-$ ($L = 1$), $\bar{\nu}_\mu$ ($L = -1$), $\nu_\tau$ ($L = 1$).  
+    - (a) 0.99  
+    - (b) 1.00  
+    - (c) 1.01  
+    - (d) 1.02
+
+20. A quasar is at 150 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+    - (a) 10109 km/s  
+    - (b) 10110 km/s  
+    - (c) 10111 km/s  
+    - (d) 10112 km/s
+
+21. Calculate the electric charge of a $D^+$ meson (c$\bar{\text{d}}$). Given: $q_c = +2/3$, $q_{\bar{\text{d}}} = +1/3$.  
+    - (a) +0.99  
+    - (b) +1.00  
+    - (c) +1.01  
+    - (d) +1.02
+
+22. A spacecraft moves at $v = 200 \, \text{km/s}$ relative to the CMB frame ($T_{\text{CMB}} = 2.7 \, \text{K}$). Calculate $\Delta T$ in K.  
+    - (a) $1.79 \times 10^{-3}$ K  
+    - (b) $1.80 \times 10^{-3}$ K  
+    - (c) $1.81 \times 10^{-3}$ K  
+    - (d) $1.82 \times 10^{-3}$ K
+
+23. Calculate the baryon number of a $\Lambda^0$ baryon (uds). Given: $B_q = 1/3$.  
+    - (a) 0.99  
+    - (b) 1.00  
+    - (c) 1.01  
+    - (d) 1.02
+
+24. A galaxy is at 40 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+    - (a) 2695 km/s  
+    - (b) 2696 km/s  
+    - (c) 2697 km/s  
+    - (d) 2698 km/s
+
+25. Calculate the lepton number in the decay $p \to n + e^+ + \nu_e$ (hypothetical). Given: $p$ ($L = 0$), $n$ ($L = 0$), $e^+$ ($L = -1$), $\nu_e$ ($L = 1$).  
+    - (a) -0.01  
+    - (b) 0.00  
+    - (c) 0.01  
+    - (d) 0.02
+
+26. A galaxy cluster is at 60 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+    - (a) 4043 km/s  
+    - (b) 4044 km/s  
+    - (c) 4045 km/s  
+    - (d) 4046 km/s
+
+27. Calculate the electric charge of a $B^-$ meson (b$\bar{\text{u}}$). Given: $q_b = -1/3$, $q_{\bar{\text{u}}} = -2/3$.  
+    - (a) -0.99  
+    - (b) -1.00  
+    - (c) -1.01  
+    - (d) -1.02
+
+28. A spacecraft moves at $v = 100 \, \text{km/s}$ relative to the CMB frame ($T_{\text{CMB}} = 2.7 \, \text{K}$). Calculate $\Delta T$ in K.  
+    - (a) $8.99 \times 10^{-4}$ K  
+    - (b) $9.00 \times 10^{-4}$ K  
+    - (c) $9.01 \times 10^{-4}$ K  
+    - (d) $9.02 \times 10^{-4}$ K
+
+29. Calculate the baryon number of a $\Xi^0$ baryon (uss). Given: $B_q = 1/3$.  
+    - (a) 0.99  
+    - (b) 1.00  
+    - (c) 1.01  
+    - (d) 1.02
+
+30. A quasar is at 200 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+    - (a) 13479 km/s  
+    - (b) 13480 km/s  
+    - (c) 13481 km/s  
+    - (d) 13482 km/s
+
+31. A spacecraft detects a cosmic ray proton (uud) with energy 10 GeV. If its velocity is $v \approx c$, calculate its Lorentz factor $\gamma$ ($E = \gamma m c^2$, $m_p c^2 = 0.938 \, \text{GeV}$).  
+    - (a) 10.65  
+    - (b) 10.66  
+    - (c) 10.67  
+    - (d) 10.68
+
+32. Calculate the electric charge of a $\Omega^-$ baryon (sss). Given: $q_s = -1/3$.  
+    - (a) -0.99  
+    - (b) -1.00  
+    - (c) -1.01  
+    - (d) -1.02
+
+33. A galaxy is at 70 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+    - (a) 4717 km/s  
+    - (b) 4718 km/s  
+    - (c) 4719 km/s  
+    - (d) 4720 km/s
+
+34. Calculate the lepton number in the decay $\mu^+ \to e^+ + \nu_e + \bar{\nu}_\mu$. Given: $\mu^+$ ($L = -1$), $e^+$ ($L = -1$), $\nu_e$ ($L = 1$), $\bar{\nu}_\mu$ ($L = -1$).  
+    - (a) -1.01  
+    - (b) -1.00  
+    - (c) -0.99  
+    - (d) -0.98
+
+35. A spacecraft moves at $v = 700 \, \text{km/s}$ relative to the CMB frame ($T_{\text{CMB}} = 2.7 \, \text{K}$). Calculate $\Delta T$ in K.  
+    - (a) $6.29 \times 10^{-3}$ K  
+    - (b) $6.30 \times 10^{-3}$ K  
+    - (c) $6.31 \times 10^{-3}$ K  
+    - (d) $6.32 \times 10^{-3}$ K
+
+---
+
+## Conceptual Problems
+
+36. What is the electric charge of an up quark?  
+    - (a) $+1/3$  
+    - (b) $+2/3$  
+    - (c) $-1/3$  
+    - (d) $-2/3$
+
+37. Which force is responsible for beta decay?  
+    - (a) Strong force  
+    - (b) Electromagnetic force  
+    - (c) Weak force  
+    - (d) Gravitational force
+
+38. What is the unit of Hubble’s constant $H_0$ in the given form ($H_0 = 67.4 \, \text{km/s/Mpc}$)?  
+    - (a) km/s  
+    - (b) km/s/Mpc  
+    - (c) Mpc  
+    - (d) s$^{-1}$
+
+39. What happens to a particle’s lepton number in the decay $\pi^+ \to \mu^+ + \nu_\mu$?  
+    - (a) Increases  
+    - (b) Decreases  
+    - (c) Remains zero  
+    - (d) Becomes undefined
+
+40. What particles make up the first generation of the Standard Model?  
+    - (a) u, d, e$^-$, $\nu_e$  
+    - (b) c, s, $\mu^-$, $\nu_\mu$  
+    - (c) t, b, $\tau^-$, $\nu_\tau$  
+    - (d) u, d, $\mu^-$, $\nu_\mu$
+
+41. What is the unit of the CMB temperature shift $\Delta T$?  
+    - (a) Kelvin (K)  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+42. What does a positive baryon number indicate about a particle?  
+    - (a) It is a lepton  
+    - (b) It is a baryon or quark  
+    - (c) It is a meson  
+    - (d) It is a photon
+
+43. What happens during the quark-hadron transition in the early universe?  
+    - (a) Quarks form protons and neutrons  
+    - (b) Nuclei form atoms  
+    - (c) Photons decouple  
+    - (d) Universe cools to 2.7 K
+
+44. What is a major limitation of the Standard Model?  
+    - (a) Includes gravity  
+    - (b) Excludes gravity and dark matter  
+    - (c) Explains dark energy  
+    - (d) Predicts neutrino masses
+
+45. What is the dimension of Hubble’s constant $H_0$ in km/s/Mpc?  
+    - (a) $[\text{L} \text{T}^{-1} \text{L}^{-1}]$  
+    - (b) $[\text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does the weak force mediate in particle interactions?  
+    - (a) Binding of quarks  
+    - (b) Electromagnetic attraction  
+    - (c) Decays like beta decay  
+    - (d) Gravitational pull
+
+47. What is the significance of the CMB temperature of 2.7 K?  
+    - (a) Temperature at the Big Bang  
+    - (b) Remnant radiation from the Big Bang  
+    - (c) Nucleosynthesis temperature  
+    - (d) Recombination temperature
+
+48. What happens to the universe’s expansion rate due to dark energy?  
+    - (a) Slows down  
+    - (b) Accelerates  
+    - (c) Remains constant  
+    - (d) Stops
+
+49. What does the Higgs boson do in the Standard Model?  
+    - (a) Mediates the strong force  
+    - (b) Gives particles mass via the Higgs field  
+    - (c) Mediates gravity  
+    - (d) Explains dark matter
+
+50. How do cosmic rays affect spacecraft electronics?  
+    - (a) Increase efficiency  
+    - (b) Cause single-event upsets via particle interactions  
+    - (c) Reduce radiation  
+    - (d) Increase mass
+
+---
+
+## Derivation Problems
+
+51. Derive the electric charge of a proton (uud) using quark charges.
+
+52. Derive the recession velocity of a galaxy using Hubble’s law $v = H_0 d$.
+
+53. Derive the baryon number conservation in the decay $n \to p + e^- + \bar{\nu}_e$.
+
+54. Derive the temperature shift $\Delta T$ of the CMB due to the Doppler effect.
+
+55. Derive the lepton number conservation in the decay $\mu^- \to e^- + \bar{\nu}_e + \nu_\mu$.
+
+56. Derive the electric charge of a $\pi^+$ meson (u$\bar{\text{d}}$).
+
+57. Derive the baryon number of a $\pi^0$ meson (u$\bar{\text{u}}$).
+
+58. Derive the recession velocity of a galaxy cluster using Hubble’s law.
+
+59. Derive the lepton number conservation in the decay $p \to n + e^+ + \nu_e$ (hypothetical).
+
+60. Derive the temperature shift $\Delta T$ for a spacecraft moving relative to the CMB.
+
+61. Derive the electric charge of a $\Delta^{++}$ baryon (uuu).
+
+62. Derive the baryon number of a $\Lambda^0$ baryon (uds).
+
+63. Derive the lepton number in the decay $\tau^- \to \mu^- + \bar{\nu}_\mu + \nu_\tau$.
+
+64. Derive the Lorentz factor $\gamma$ of a cosmic ray proton using $E = \gamma m c^2$.
+
+65. Derive the electric charge of a $\Omega^-$ baryon (sss).
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of the recession velocity in Hubble’s law?  
+    - (a) km/s  
+    - (b) Mpc  
+    - (c) Hertz  
+    - (d) Watt
+
+67. What particles are produced in the decay $n \to p + e^- + \bar{\nu}_e$?  
+    - (a) Proton, electron, neutrino  
+    - (b) Proton, electron, antineutrino  
+    - (c) Neutron, positron, neutrino  
+    - (d) Proton, positron, antineutrino
+
+68. What is the relationship between velocity $v$ and distance $d$ in Hubble’s law?  
+    - (a) $v \propto d$  
+    - (b) $v \propto 1/d$  
+    - (c) $v$ is independent of $d$  
+    - (d) $v \propto d^2$
+
+69. What happens to the CMB temperature if a spacecraft moves toward the CMB frame?  
+    - (a) Increases  
+    - (b) Decreases  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+70. What is the dimension of lepton number $L$?  
+    - (a) Dimensionless  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the strong force do in particle interactions?  
+    - (a) Binds quarks into hadrons  
+    - (b) Causes beta decay  
+    - (c) Mediates electromagnetic attraction  
+    - (d) Affects gravity
+
+72. What is the role of particle physics in spacecraft electronics?  
+    - (a) Increases efficiency  
+    - (b) Predicts cosmic ray effects causing upsets  
+    - (c) Reduces radiation  
+    - (d) Increases mass
+
+73. What happens to the universe’s density during inflation?  
+    - (a) Increases  
+    - (b) Decreases rapidly  
+    - (c) Remains constant  
+    - (d) Becomes zero
+
+74. Why does the weak force have a short range?  
+    - (a) Due to massless mediators  
+    - (b) Due to massive W and Z bosons  
+    - (c) Due to infinite range  
+    - (d) Due to strong interaction
+
+75. What is the unit of the Lorentz factor $\gamma$?  
+    - (a) Dimensionless  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+76. What does a high recession velocity of a galaxy indicate?  
+    - (a) Closer distance  
+    - (b) Greater distance from Earth  
+    - (c) No expansion  
+    - (d) Constant velocity
+
+77. Which particles are in the second generation of the Standard Model?  
+    - (a) u, d, e$^-$, $\nu_e$  
+    - (b) c, s, $\mu^-$, $\nu_\mu$  
+    - (c) t, b, $\tau^-$, $\nu_\tau$  
+    - (d) u, d, $\tau^-$, $\nu_\tau$
+
+78. What is the effect of recombination in the early universe?  
+    - (a) Quarks form hadrons  
+    - (b) Atoms form, CMB emitted  
+    - (c) Nuclei form  
+    - (d) Universe inflates
+
+79. What does a pseudo-force do in a non-inertial frame for cosmology calculations?  
+    - (a) Affects perceived expansion rate  
+    - (b) Affects particle charge  
+    - (c) Creates decays  
+    - (d) Reduces forces
+
+80. What is the dimension of $\Delta T/T$ in the CMB Doppler effect?  
+    - (a) Dimensionless  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of the CMB in spacecraft navigation?  
+    - (a) Increases radiation  
+    - (b) Provides a reference for velocity via Doppler shifts  
+    - (c) Reduces efficiency  
+    - (d) Increases mass
+
+82. What happens to the universe’s temperature after the Big Bang?  
+    - (a) Increases  
+    - (b) Decreases due to expansion  
+    - (c) Remains constant  
+    - (d) Becomes zero
+
+83. Why are neutrinos difficult to detect?  
+    - (a) Due to high charge  
+    - (b) Due to weak interactions and no charge  
+    - (c) Due to strong force  
+    - (d) Due to high mass
+
+84. What is the significance of $10^{-36}$ s in the Big Bang timeline?  
+    - (a) Nucleosynthesis begins  
+    - (b) Inflation occurs  
+    - (c) Recombination happens  
+    - (d) CMB is emitted
+
+85. What is the unit of particle mass in the form $m c^2$ (e.g., MeV/$c^2$)?  
+    - (a) MeV/$c^2$  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+86. What does a high Lorentz factor $\gamma$ indicate for a cosmic ray?  
+    - (a) Low energy  
+    - (b) High energy, relativistic speed  
+    - (c) No motion  
+    - (d) Constant mass
+
+87. What is the physical significance of $H_0 d$?  
+    - (a) Temperature shift  
+    - (b) Recession velocity of a galaxy  
+    - (c) Baryon number  
+    - (d) Lepton number
+
+88. Why is the CMB uniform across the sky?  
+    - (a) Due to nucleosynthesis  
+    - (b) Due to early thermal equilibrium  
+    - (c) Due to dark matter  
+    - (d) Due to inflation only
+
+89. What is the dimension of $v/c$ in the CMB Doppler effect?  
+    - (a) Dimensionless  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does dark energy affect the universe?  
+    - (a) Slows expansion  
+    - (b) Accelerates expansion  
+    - (c) Stops expansion  
+    - (d) Reduces density
+
+91. What is the role of gluons in the Standard Model?  
+    - (a) Mediate the weak force  
+    - (b) Mediate the strong force  
+    - (c) Give particles mass  
+    - (d) Mediate gravity
+
+92. What does the abundance of light elements (H:He ~3:1) indicate?  
+    - (a) Nucleosynthesis in the early universe  
+    - (b) Recombination  
+    - (c) Inflation  
+    - (d) Dark energy
+
+93. What is the physical significance of $E = \gamma m c^2$?  
+    - (a) Rest energy  
+    - (b) Total energy of a relativistic particle  
+    - (c) Baryon number  
+    - (d) Lepton number
+
+94. What is the dimension of $T_{\text{CMB}}$?  
+    - (a) $[\text{K}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why are top quarks short-lived?  
+    - (a) Due to low mass  
+    - (b) Due to high mass and rapid decay via weak force  
+    - (c) Due to strong force  
+    - (d) Due to electromagnetic force
+
+---
+
+## NEET-style Numerical Problems
+
+96. Calculate the electric charge of a neutron (udd). Given: $q_u = +2/3$, $q_d = -1/3$.  
+    - (a) -0.01  
+    - (b) 0.00  
+    - (c) 0.01  
+    - (d) 0.02
+
+97. A galaxy is at 25 Mpc. Using $H_0 = 67.4 \, \text{km/s/Mpc}$, calculate its recession velocity in km/s.  
+    - (a) 1684 km/s  
+    - (b) 1685 km/s  
+    - (c) 1686 km/s  
+    - (d) 1687 km/s
+
+98. Calculate the baryon number of a proton (uud). Given: $B_q = 1/3$.  
+    - (a) 0.99  
+    - (b) 1.00  
+    - (c) 1.01  
+    - (d) 1.02
+
+99. A spacecraft moves at $v = 800 \, \text{km/s}$ relative to the CMB frame ($T_{\text{CMB}} = 2.7 \, \text{K}$). Calculate $\Delta T$ in K.  
+    - (a) $7.19 \times 10^{-3}$ K  
+    - (b) $7.20 \times 10^{-3}$ K  
+    - (c) $7.21 \times 10^{-3}$ K  
+    - (d) $7.22 \times 10^{-3}$ K
+
+100. Calculate the electric charge of a $K^-$ meson (s$\bar{\text{u}}$). Given: $q_s = -1/3$, $q_{\bar{\text{u}}} = -2/3$.  
+    - (a) -0.99  
+    - (b) -1.00  
+    - (c) -1.01  
+    - (d) -1.02
 
 ## Back to Chapter
-[Return to More About Matter Waves Chapter](./index.md)
+[Return to Quarks, Leptons, and the Big Bang Chapter](./index.md)

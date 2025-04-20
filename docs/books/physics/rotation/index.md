@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Rotation for JEE & NEET
 description: Comprehensive guide to rotational motion for JEE and NEET, covering kinematics, dynamics, rotational energy, angular momentum, rolling motion, and gyroscopic effects, with extensive examples and applications.
-slug: book/physics/rotation
+slug: books/physics/rotation
 keywords: physics rotation, JEE physics rotational motion, NEET physics angular momentum, rolling motion
 og:image: https://vidyamarg.com/og-physics-rotation.jpg
 ---
@@ -433,6 +433,6 @@ Our Hinglish video lessons make rotational motion engaging for JEE and NEET! Sub
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing rotational motion, rolling, and gyroscopic effects coming soon!*
+*Animation for visualizing rotational motion, rolling, and gyroscopic effects coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

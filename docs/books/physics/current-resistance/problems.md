@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Current and Resistance Problems for JEE & NEET
 description: Practice 100 problems on current and resistance for JEE and NEET, inspired by exam patterns, covering electric current, Ohm's law, resistivity, temperature effects, and electrical power in circuits.
-slug: book/physics/current-resistance-problems
+slug: books/physics/current-resistance/problems
 keywords: physics current resistance problems, JEE physics Ohm's law problems, NEET physics electrical power problems, circuits
 og:image: https://vidyamarg.com/og-physics-current-resistance.jpg
 ---

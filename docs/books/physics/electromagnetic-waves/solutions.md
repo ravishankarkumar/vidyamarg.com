@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Electromagnetic Waves Solutions for JEE & NEET
 description: Sample solutions for electromagnetic wave problems, covering wave generation, propagation, electromagnetic spectrum, and energy transport, tailored for JEE and NEET preparation.
-slug: book/physics/electromagnetic-waves-solutions
+slug: books/physics/electromagnetic-waves/solutions
 keywords: physics electromagnetic waves solutions, JEE physics wave propagation solutions, NEET physics electromagnetic spectrum solutions, electromagnetism
 og:image: https://vidyamarg.com/og-physics-electromagnetic-waves.jpg
 ---

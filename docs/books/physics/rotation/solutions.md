@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Rotation Solutions for JEE & NEET
 description: Sample solutions for rotational motion problems, covering kinematics, dynamics, rotational energy, angular momentum, rolling motion, and gyroscopic effects, tailored for JEE and NEET preparation.
-slug: book/physics/rotation-solutions
+slug: books/physics/rotation/solutions
 keywords: physics rotation solutions, JEE physics rotational motion solutions, NEET physics angular momentum solutions, rolling motion
 og:image: https://vidyamarg.com/og-physics-rotation.jpg
 ---

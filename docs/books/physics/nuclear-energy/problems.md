@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Energy from the Nucleus Problems for JEE & NEET
-description: Practice 100 nuclear energy problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
-slug: book/physics/nuclear-energy-problems
-keywords: physics nuclear energy problems, JEE physics nuclear fission problems, NEET physics nuclear fusion problems, modern physics
+description: Practice 100 problems on nuclear energy for JEE and NEET, inspired by exam patterns, covering fission, fusion, nuclear reactors, applications like nuclear power, and challenges.
+slug: books/physics/nuclear-energy/problems
+keywords: physics nuclear energy problems, JEE physics nuclear fission problems, NEET physics nuclear reactors problems, nuclear power applications
 og:image: https://vidyamarg.com/og-physics-nuclear-energy.jpg
 ---
 
 # Energy from the Nucleus Problems
 
-This section provides **100 problems** to test your understanding of nuclear energy, including nuclear fission and chain reactions, nuclear fusion processes, energy calculations, and applications and challenges. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of nuclear energy, including calculations of energy release in fission and fusion, nuclear reactor dynamics (e.g., fission rates, criticality), applications like RTGs and nuclear propulsion in spacecraft, and challenges such as radioactive waste decay. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering nuclear energy, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on fission energy, Q-values, fusion energy, and reactor mass consumption, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., reactor safety, fusion in stars), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. Calculate the Q-value of the fission reaction $_92^{235}\text{U} + _0^1\text{n} \to _56^{141}\text{Ba} + _36^{92}\text{Kr} + 3 _0^1\text{n}$ in MeV. Given: $m( _92^{235}\text{U} ) = 235.0439 \, \text{u}$, $m( _0^1\text{n} ) = 1.0087 \, \text{u}$, $m( _56^{141}\text{Ba} ) = 140.9144 \, \text{u}$, $m( _36^{92}\text{Kr} ) = 91.9262 \, \text{u}$, $c^2 = 931.494 \, \text{MeV/u}$.  
+   - (a) 173.2 MeV  
+   - (b) 173.3 MeV  
+   - (c) 173.4 MeV  
+   - (d) 173.5 MeV
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: The fission of \( ^{235}_{92}\text{U} \) releases 200 MeV per reaction. Calculate the energy from 0.5 kg of uranium-235 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-   - Options: (a) 4.10 × 10^{13} J (b) 4.11 × 10^{13} J (c) 4.12 × 10^{13} J (d) 4.13 × 10^{13} J
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: For the fusion reaction \( ^2_1\text{H} + ^2_1\text{H} \rightarrow ^3_2\text{He} + ^1_0\text{n} \), calculate the energy released (masses: \( ^2_1\text{H} = 2.014102 \, \text{u} \), \( ^3_2\text{He} = 3.016029 \, \text{u} \), \( ^1_0\text{n} = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-   - Options: (a) 3.26 MeV (b) 3.27 MeV (c) 3.28 MeV (d) 3.29 MeV
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A 500 MW nuclear reactor operates at 25% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-   - Options: (a) 1.72 kg (b) 1.73 kg (c) 1.74 kg (d) 1.75 kg
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: For the reaction \( ^{13}_6\text{C} + ^1_1\text{H} \rightarrow ^{14}_7\text{N} + \gamma \), calculate the Q-value (masses: \( ^{13}_6\text{C} = 13.003355 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), \( ^{14}_7\text{N} = 14.003074 \, \text{u} \), 1 u = 931.494 MeV/c²).
-   - Options: (a) 7.55 MeV (b) 7.56 MeV (c) 7.57 MeV (d) 7.58 MeV
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: The fission of \( ^{239}_{94}\text{Pu} \) releases 210 MeV per reaction. Calculate the energy from 0.2 kg of plutonium-239 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-   - Options: (a) 1.70 × 10^{13} J (b) 1.71 × 10^{13} J (c) 1.72 × 10^{13} J (d) 1.73 × 10^{13} J
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: For the fusion reaction \( ^3_1\text{H} + ^3_1\text{H} \rightarrow ^4_2\text{He} + 2 ^1_0\text{n} \), calculate the energy released (masses: \( ^3_1\text{H} = 3.016049 \, \text{u} \), \( ^4_2\text{He} = 4.002602 \, \text{u} \), \( ^1_0\text{n} = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-   - Options: (a) 11.2 MeV (b) 11.3 MeV (c) 11.4 MeV (d) 11.5 MeV
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A 2000 MW nuclear reactor operates at 40% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-   - Options: (a) 2.66 kg (b) 2.67 kg (c) 2.68 kg (d) 2.69 kg
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: For the reaction \( ^{10}_5\text{B} + ^4_2\text{He} \rightarrow ^{13}_6\text{C} + ^1_1\text{H} \), calculate the Q-value (masses: \( ^{10}_5\text{B} = 10.012937 \, \text{u} \), \( ^4_2\text{He} = 4.002602 \, \text{u} \), \( ^{13}_6\text{C} = 13.003355 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), 1 u = 931.494 MeV/c²).
-   - Options: (a) 4.02 MeV (b) 4.03 MeV (c) 4.04 MeV (d) 4.05 MeV
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: The fission of \( ^{235}_{92}\text{U} \) releases 200 MeV per reaction. Calculate the energy from 1 g of uranium-235 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-   - Options: (a) 8.20 × 10^{10} J (b) 8.21 × 10^{10} J (c) 8.22 × 10^{10} J (d) 8.23 × 10^{10} J
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A 100 MW nuclear reactor operates at 20% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 0.431 kg (b) 0.432 kg (c) 0.433 kg (d) 0.434 kg
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: For the fusion reaction \( ^1_1\text{H} + ^1_1\text{H} \rightarrow ^2_1\text{H} + \beta^+ + \nu \), calculate the Q-value (masses: \( ^1_1\text{H} = 1.007825 \, \text{u} \), \( ^2_1\text{H} = 2.014102 \, \text{u} \), \( \beta^+ = 0.00054858 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 0.42 MeV (b) 0.43 MeV (c) 0.44 MeV (d) 0.45 MeV
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: The fission of \( ^{239}_{94}\text{Pu} \) releases 210 MeV per reaction. Calculate the energy from 0.1 kg of plutonium-239 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 8.50 × 10^{12} J (b) 8.51 × 10^{12} J (c) 8.52 × 10^{12} J (d) 8.53 × 10^{12} J
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: A 1500 MW nuclear reactor operates at 30% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 2.59 kg (b) 2.60 kg (c) 2.61 kg (d) 2.62 kg
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: For the reaction \( ^{12}_6\text{C} + ^1_1\text{H} \rightarrow ^{13}_7\text{N} + \gamma \), calculate the Q-value (masses: \( ^{12}_6\text{C} = 12.000000 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), \( ^{13}_7\text{N} = 13.005739 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 1.94 MeV (b) 1.95 MeV (c) 1.96 MeV (d) 1.97 MeV
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: The fission of \( ^{235}_{92}\text{U} \) releases 200 MeV per reaction. Calculate the energy from 2 kg of uranium-235 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 1.64 × 10^{14} J (b) 1.65 × 10^{14} J (c) 1.66 × 10^{14} J (d) 1.67 × 10^{14} J
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: For the fusion reaction \( ^2_1\text{H} + ^3_1\text{H} \rightarrow ^4_2\text{He} + ^1_0\text{n} \), calculate the energy released (masses: \( ^2_1\text{H} = 2.014102 \, \text{u} \), \( ^3_1\text{H} = 3.016049 \, \text{u} \), \( ^4_2\text{He} = 4.002602 \, \text{u} \), \( ^1_0\text{n} = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 17.5 MeV (b) 17.6 MeV (c) 17.7 MeV (d) 17.8 MeV
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A 300 MW nuclear reactor operates at 35% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 0.739 kg (b) 0.740 kg (c) 0.741 kg (d) 0.742 kg
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: For the reaction \( ^9_4\text{Be} + ^4_2\text{He} \rightarrow ^{12}_6\text{C} + ^1_0\text{n} \), calculate the Q-value (masses: \( ^9_4\text{Be} = 9.012182 \, \text{u} \), \( ^4_2\text{He} = 4.002602 \, \text{u} \), \( ^{12}_6\text{C} = 12.000000 \, \text{u} \), \( ^1_0\text{n} = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 5.70 MeV (b) 5.71 MeV (c) 5.72 MeV (d) 5.73 MeV
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: The fission of \( ^{239}_{94}\text{Pu} \) releases 210 MeV per reaction. Calculate the energy from 0.5 kg of plutonium-239 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 4.25 × 10^{13} J (b) 4.26 × 10^{13} J (c) 4.27 × 10^{13} J (d) 4.28 × 10^{13} J
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A 2500 MW nuclear reactor operates at 45% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 2.99 kg (b) 3.00 kg (c) 3.01 kg (d) 3.02 kg
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: For the reaction \( ^{14}_7\text{N} + ^1_0\text{n} \rightarrow ^{14}_6\text{C} + ^1_1\text{H} \), calculate the Q-value (masses: \( ^{14}_7\text{N} = 14.003074 \, \text{u} \), \( ^1_0\text{n} = 1.008665 \, \text{u} \), \( ^{14}_6\text{C} = 14.003242 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 0.62 MeV (b) 0.63 MeV (c) 0.64 MeV (d) 0.65 MeV
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: The fission of \( ^{235}_{92}\text{U} \) releases 200 MeV per reaction. Calculate the energy from 0.01 kg of uranium-235 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 8.20 × 10^{11} J (b) 8.21 × 10^{11} J (c) 8.22 × 10^{11} J (d) 8.23 × 10^{11} J
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: A 1000 MW nuclear reactor operates at 33% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 3.18 kg (b) 3.19 kg (c) 3.20 kg (d) 3.21 kg
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: For the fusion reaction \( ^2_1\text{H} + ^1_1\text{H} \rightarrow ^3_2\text{He} + \gamma \), calculate the Q-value (masses: \( ^2_1\text{H} = 2.014102 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), \( ^3_2\text{He} = 3.016029 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 5.49 MeV (b) 5.50 MeV (c) 5.51 MeV (d) 5.52 MeV
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: The fission of \( ^{239}_{94}\text{Pu} \) releases 210 MeV per reaction. Calculate the energy from 1 kg of plutonium-239 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 8.50 × 10^{13} J (b) 8.51 × 10^{13} J (c) 8.52 × 10^{13} J (d) 8.53 × 10^{13} J
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A 750 MW nuclear reactor operates at 30% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 2.39 kg (b) 2.40 kg (c) 2.41 kg (d) 2.42 kg
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: For the reaction \( ^{11}_5\text{B} + ^1_1\text{H} \rightarrow ^{12}_6\text{C} + \gamma \), calculate the Q-value (masses: \( ^{11}_5\text{B} = 11.009305 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), \( ^{12}_6\text{C} = 12.000000 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 15.9 MeV (b) 16.0 MeV (c) 16.1 MeV (d) 16.2 MeV
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: The fission of \( ^{235}_{92}\text{U} \) releases 200 MeV per reaction. Calculate the energy from 0.05 kg of uranium-235 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 4.10 × 10^{12} J (b) 4.11 × 10^{12} J (c) 4.12 × 10^{12} J (d) 4.13 × 10^{12} J
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: For the fusion reaction \( ^3_2\text{He} + ^3_2\text{He} \rightarrow ^4_2\text{He} + 2 ^1_1\text{H} \), calculate the Q-value (masses: \( ^3_2\text{He} = 3.016029 \, \text{u} \), \( ^4_2\text{He} = 4.002602 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 12.8 MeV (b) 12.9 MeV (c) 13.0 MeV (d) 13.1 MeV
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A 400 MW nuclear reactor operates at 28% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 1.23 kg (b) 1.24 kg (c) 1.25 kg (d) 1.26 kg
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: For the reaction \( ^7_3\text{Li} + ^1_1\text{H} \rightarrow ^4_2\text{He} + ^4_2\text{He} \), calculate the Q-value (masses: \( ^7_3\text{Li} = 7.016004 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), \( ^4_2\text{He} = 4.002602 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 17.3 MeV (b) 17.4 MeV (c) 17.5 MeV (d) 17.6 MeV
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: The fission of \( ^{239}_{94}\text{Pu} \) releases 210 MeV per reaction. Calculate the energy from 0.02 kg of plutonium-239 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 1.70 × 10^{12} J (b) 1.71 × 10^{12} J (c) 1.72 × 10^{12} J (d) 1.73 × 10^{12} J
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A 600 MW nuclear reactor operates at 32% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 1.62 kg (b) 1.63 kg (c) 1.64 kg (d) 1.65 kg
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: For the reaction \( ^{15}_7\text{N} + ^1_1\text{H} \rightarrow ^{12}_6\text{C} + ^4_2\text{He} \), calculate the Q-value (masses: \( ^{15}_7\text{N} = 15.000109 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), \( ^{12}_6\text{C} = 12.000000 \, \text{u} \), \( ^4_2\text{He} = 4.002602 \, \text{u} \), 1 u = 931.494 MeV/c²).
-    - Options: (a) 4.41 MeV (b) 4.42 MeV (c) 4.43 MeV (d) 4.44 MeV
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: The fission of \( ^{235}_{92}\text{U} \) releases 200 MeV per reaction. Calculate the energy from 0.1 kg of uranium-235 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 8.20 × 10^{12} J (b) 8.21 × 10^{12} J (c) 8.22 × 10^{12} J (d) 8.23 × 10^{12} J
+2. A nuclear reactor produces 2000 MW of thermal power. If each fission releases 200 MeV, calculate the number of fissions per second.  
+   - (a) $6.24 \times 10^{19}$  
+   - (b) $6.25 \times 10^{19}$  
+   - (c) $6.26 \times 10^{19}$  
+   - (d) $6.27 \times 10^{19}$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is nuclear fission?
-   - Options: (a) Nucleus splitting (b) Nucleus combining (c) No reaction (d) Fixed reaction
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What is a chain reaction’s requirement?
-   - Options: (a) \( k \approx 1 \) (b) \( k = 0 \) (c) No requirement (d) Fixed requirement
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What is nuclear fusion?
-   - Options: (a) Light nuclei combine (b) Heavy nuclei split (c) No reaction (d) Fixed reaction
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is the Q-value for exothermic reactions?
-   - Options: (a) Positive (b) Negative (c) Zero (d) Fixed
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What is a challenge of nuclear fission?
-   - Options: (a) Radioactive waste (b) Low energy (c) No challenge (d) Fixed challenge
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What is the unit of Q-value?
-   - Options: (a) MeV (b) kg (c) No unit (d) Fixed unit
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Why does fusion require high temperatures?
-   - Options: (a) Overcome repulsion (b) No repulsion (c) Fixed repulsion (d) Only theoretical
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: What powers stars?
-   - Options: (a) Fusion (b) Fission (c) No power (d) Fixed power
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: How does efficiency affect reactor fuel use?
-   - Options: (a) Lower efficiency, more fuel (b) Less fuel (c) No effect (d) Fixed effect
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is nuclear power’s application?
-   - Options: (a) Electricity generation (b) No application (c) Fixed application (d) Only theoretical
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Why is fission energy high?
-   - Options: (a) Mass defect (b) No defect (c) Fixed defect (d) Only theoretical
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: What triggers fission in \( ^{235}\text{U} \)?
-   - Options: (a) Neutron capture (b) Electron capture (c) No trigger (d) Fixed trigger
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: How does \( k > 1 \) affect a reactor?
-   - Options: (a) Runaway reaction (b) Stops reaction (c) No effect (d) Fixed effect
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: What is fusion’s challenge?
-   - Options: (a) High temperatures (b) Low temperatures (c) No challenge (d) Fixed challenge
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: Why study nuclear energy?
-   - Options: (a) Power, medicine (b) No use (c) Fixed use (d) Only theoretical
+3. Calculate the Q-value of the fusion reaction $_1^2\text{H} + _1^3\text{H} \to _2^4\text{He} + _0^1\text{n}$ in MeV. Given: $m( _1^2\text{H} ) = 2.0141 \, \text{u}$, $m( _1^3\text{H} ) = 3.0160 \, \text{u}$, $m( _2^4\text{He} ) = 4.0026 \, \text{u}$, $m( _0^1\text{n} ) = 1.0087 \, \text{u}$.  
+   - (a) 17.58 MeV  
+   - (b) 17.59 MeV  
+   - (c) 17.60 MeV  
+   - (d) 17.61 MeV
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the energy release in nuclear fission.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the Q-value formula \( Q = \Delta m c^2 \).
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the chain reaction condition \( k \approx 1 \).
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the energy release in nuclear fusion.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the mass consumption in a nuclear reactor.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the neutron multiplication factor’s role.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the fusion reaction energy calculation.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the efficiency effect on reactor fuel.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the mass defect in nuclear reactions.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the fission product energy distribution.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the fusion temperature requirement.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the Q-value for exothermic reactions.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the nuclear reactor power output.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the radioactive waste’s long-term impact.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the fusion reaction’s Coulomb barrier.
+4. An RTG using $^{238}\text{Pu}$ ($T_{1/2} = 87.7 \, \text{years}$) has an activity of 1000 Ci, with each decay releasing 5.5 MeV. Calculate the power output in Watts.  
+   - (a) 32.54 W  
+   - (b) 32.55 W  
+   - (c) 32.56 W  
+   - (d) 32.57 W
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is nuclear fission?
-   - Options: (a) Splits nucleus (b) Combines nuclei (c) No reaction (d) Fixed reaction
-67. **Problem 67 (NEET, 2022)**: What sustains a chain reaction?
-   - Options: (a) Neutron balance (b) No neutrons (c) Fixed neutrons (d) Only theoretical
-68. **Problem 68 (NEET, 2021)**: What is nuclear fusion?
-   - Options: (a) Nuclei combine (b) Nuclei split (c) No reaction (d) Fixed reaction
-69. **Problem 69 (NEET, 2024)**: What is Q-value’s sign for energy release?
-   - Options: (a) Positive (b) Negative (c) Zero (d) Fixed
-70. **Problem 70 (NEET, 2020)**: What is a nuclear reactor challenge?
-   - Options: (a) Waste disposal (b) No waste (c) Fixed waste (d) Only theoretical
-71. **Problem 71 (NEET, 2023)**: What is the unit of nuclear energy?
-   - Options: (a) MeV (b) kg (c) No unit (d) Fixed unit
-72. **Problem 72 (NEET, 2022)**: Why does fusion need high temperatures?
-   - Options: (a) Coulomb repulsion (b) No repulsion (c) Fixed repulsion (d) Only theoretical
-73. **Problem 73 (NEET, 2021)**: What powers the Sun?
-   - Options: (a) Fusion (b) Fission (c) No power (d) Fixed power
-74. **Problem 74 (NEET, 2024)**: How does efficiency affect reactors?
-   - Options: (a) Lower, more fuel (b) Less fuel (c) No effect (d) Fixed effect
-75. **Problem 75 (NEET, 2020)**: What is nuclear power’s use?
-   - Options: (a) Electricity (b) No use (c) Fixed use (d) Only theoretical
-76. **Problem 76 (NEET, 2023)**: Why is fission powerful?
-   - Options: (a) Mass conversion (b) No conversion (c) Fixed conversion (d) Only theoretical
-77. **Problem 77 (NEET, 2022)**: What triggers fission?
-   - Options: (a) Neutrons (b) Electrons (c) No trigger (d) Fixed trigger
-78. **Problem 78 (NEET, 2021)**: How does \( k > 1 \) affect fission?
-   - Options: (a) Explosive (b) Stops (c) No effect (d) Fixed effect
-79. **Problem 79 (NEET, 2024)**: What is fusion’s challenge?
-   - Options: (a) Temperature (b) No challenge (c) Fixed challenge (d) Only theoretical
-80. **Problem 80 (NEET, 2020)**: Why study nuclear energy?
-   - Options: (a) Energy solutions (b) No use (c) Fixed use (d) Only theoretical
-81. **Problem 81 (NEET, 2023)**: What is radiotherapy’s basis?
-   - Options: (a) Nuclear reactions (b) No reactions (c) Fixed reactions (d) Only theoretical
-82. **Problem 82 (NEET, 2022)**: What is the unit of mass defect?
-   - Options: (a) u (b) MeV (c) No unit (d) Fixed unit
-83. **Problem 83 (NEET, 2021)**: How is nuclear energy produced?
-   - Options: (a) Mass defect (b) No defect (c) Fixed defect (d) Only theoretical
-84. **Problem 84 (NEET, 2024)**: What is a fission product?
-   - Options: (a) Lighter nuclei (b) Heavier nuclei (c) No nuclei (d) Fixed nuclei
-85. **Problem 85 (NEET, 2020)**: Why is fusion clean?
-   - Options: (a) Less waste (b) More waste (c) No waste (d) Fixed waste
-86. **Problem 86 (NEET, 2023)**: How does neutron capture affect fission?
-   - Options: (a) Initiates reaction (b) Stops reaction (c) No effect (d) Fixed effect
-87. **Problem 87 (NEET, 2022)**: What is the role of control rods?
-   - Options: (a) Absorb neutrons (b) Release neutrons (c) No role (d) Fixed role
-88. **Problem 88 (NEET, 2021)**: Why use nuclear energy?
-   - Options: (a) High energy output (b) Low output (c) No output (d) Only theoretical
-89. **Problem 89 (NEET, 2024)**: What is a fusion reactor’s goal?
-   - Options: (a) Clean energy (b) No energy (c) Fixed energy (d) Only theoretical
-90. **Problem 90 (NEET, 2020)**: How does mass defect produce energy?
-   - Options: (a) Converted to energy (b) No energy (c) Fixed energy (d) Only theoretical
-91. **Problem 91 (NEET, 2023)**: Why are reactors shielded?
-   - Options: (a) Radiation safety (b) No safety (c) Fixed safety (d) Only theoretical
-92. **Problem 92 (NEET, 2022)**: What is the role of moderators?
-   - Options: (a) Slow neutrons (b) Speed neutrons (c) No role (d) Fixed role
-93. **Problem 93 (NEET, 2021)**: How does fusion power stars?
-   - Options: (a) Energy release (b) No release (c) Fixed release (d) Only theoretical
-94. **Problem 94 (NEET, 2024)**: What is the unit of reactor power?
-   - Options: (a) MW (b) MeV (c) No unit (d) Fixed unit
-95. **Problem 95 (NEET, 2020)**: Why is nuclear energy significant?
-   - Options: (a) Power generation (b) No significance (c) Fixed significance (d) Only theoretical
+5. A nuclear power plant produces 1200 MW of electrical power at 40% efficiency. Calculate the thermal power in MW.  
+   - (a) 2999 MW  
+   - (b) 3000 MW  
+   - (c) 3001 MW  
+   - (d) 3002 MW
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: The fission of \( ^{235}_{92}\text{U} \) releases 200 MeV per reaction. Calculate the energy from 0.1 kg of uranium-235 (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-   - Options: (a) 8.20 × 10^{12} J (b) 8.21 × 10^{12} J (c) 8.22 × 10^{12} J (d) 8.23 × 10^{12} J
-97. **Problem 97 (NEET, 2022)**: For the fusion reaction \( ^2_1\text{H} + ^3_1\text{H} \rightarrow ^4_2\text{He} + ^1_0\text{n} \), calculate the energy released (masses: \( ^2_1\text{H} = 2.014102 \, \text{u} \), \( ^3_1\text{H} = 3.016049 \, \text{u} \), \( ^4_2\text{He} = 4.002602 \, \text{u} \), \( ^1_0\text{n} = 1.008665 \, \text{u} \), 1 u = 931.494 MeV/c²).
-   - Options: (a) 17.5 MeV (b) 17.6 MeV (c) 17.7 MeV (d) 17.8 MeV
-98. **Problem 98 (NEET, 2021)**: A 1000 MW nuclear reactor operates at 33% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-   - Options: (a) 3.18 kg (b) 3.19 kg (c) 3.20 kg (d) 3.21 kg
-99. **Problem 99 (NEET, 2024)**: For the reaction \( ^{14}_7\text{N} + ^4_2\text{He} \rightarrow ^{17}_8\text{O} + ^1_1\text{H} \), calculate the Q-value (masses: \( ^{14}_7\text{N} = 14.003074 \, \text{u} \), \( ^4_2\text{He} = 4.002602 \, \text{u} \), \( ^{17}_8\text{O} = 16.999132 \, \text{u} \), \( ^1_1\text{H} = 1.007825 \, \text{u} \), 1 u = 931.494 MeV/c²).
-   - Options: (a) -1.18 MeV (b) -1.19 MeV (c) -1.20 MeV (d) -1.21 MeV
-100. **Problem 100 (NEET, 2020)**: A 500 MW nuclear reactor operates at 25% efficiency. Calculate the mass of \( ^{235}\text{U} \) consumed per day, assuming 200 MeV per fission (\( N_A = 6.022 \times 10^{23} \, \text{mol}^{-1} \)).
-    - Options: (a) 1.72 kg (b) 1.73 kg (c) 1.74 kg (d) 1.75 kg
+6. High-level nuclear waste contains $^{137}\text{Cs}$ ($T_{1/2} = 30.17 \, \text{years}$) with an initial activity of 800 Ci. Calculate the time (in years) for the activity to reduce to 1 Ci.  
+   - (a) 299 years  
+   - (b) 300 years  
+   - (c) 301 years  
+   - (d) 302 years
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. A spacecraft nuclear thermal propulsion (NTP) system produces 150 MW of thermal power, using $^{235}\text{U}$ with each fission releasing 200 MeV. Calculate the fission rate in fissions per second.  
+   - (a) $4.68 \times 10^{18}$  
+   - (b) $4.69 \times 10^{18}$  
+   - (c) $4.70 \times 10^{18}$  
+   - (d) $4.71 \times 10^{18}$
 
-[View Solutions](/books/physics/nuclear-energy/solutions) -->
+8. Calculate the Q-value of the fusion reaction $_1^2\text{H} + _1^2\text{H} \to _2^3\text{He} + _0^1\text{n}$ in MeV. Given: $m( _1^2\text{H} ) = 2.0141 \, \text{u}$, $m( _2^3\text{He} ) = 3.0160 \, \text{u}$, $m( _0^1\text{n} ) = 1.0087 \, \text{u}$.  
+   - (a) 3.26 MeV  
+   - (b) 3.27 MeV  
+   - (c) 3.28 MeV  
+   - (d) 3.29 MeV
+
+9. A nuclear plant produces 500 MW electrical power at 35% efficiency. Calculate the mass of $^{235}\text{U}$ consumed per day (in kg), assuming 200 MeV per fission. Given: molar mass of $^{235}\text{U} = 235 \, \text{g/mol}$.  
+   - (a) 0.96 kg  
+   - (b) 0.97 kg  
+   - (c) 0.98 kg  
+   - (d) 0.99 kg
+
+10. An RTG with $^{238}\text{Pu}$ ($T_{1/2} = 87.7 \, \text{years}$) has an initial activity of 200 Ci. Calculate the activity after 100 years in Ci.  
+    - (a) 61.5 Ci  
+    - (b) 61.6 Ci  
+    - (c) 61.7 Ci  
+    - (d) 61.8 Ci
+
+11. A reactor produces 4000 MW thermal power. If each fission releases 200 MeV, calculate the mass of $^{235}\text{U}$ consumed per day (in kg).  
+    - (a) 1.92 kg  
+    - (b) 1.93 kg  
+    - (c) 1.94 kg  
+    - (d) 1.95 kg
+
+12. High-level waste with $^{90}\text{Sr}$ ($T_{1/2} = 28.8 \, \text{years}$) has an initial activity of 600 Ci. Calculate the activity after 50 years in Ci.  
+    - (a) 149 Ci  
+    - (b) 150 Ci  
+    - (c) 151 Ci  
+    - (d) 152 Ci
+
+13. A fusion reactor produces 1 GW using the D-T reaction ($Q = 17.6 \, \text{MeV}$). Calculate the fusion rate in fusions per second.  
+    - (a) $3.54 \times 10^{20}$  
+    - (b) $3.55 \times 10^{20}$  
+    - (c) $3.56 \times 10^{20}$  
+    - (d) $3.57 \times 10^{20}$
+
+14. A nuclear plant produces 800 MW electrical power at 32% efficiency. Calculate the thermal power in MW.  
+    - (a) 2499 MW  
+    - (b) 2500 MW  
+    - (c) 2501 MW  
+    - (d) 2502 MW
+
+15. An RTG with $^{238}\text{Pu}$ ($T_{1/2} = 87.7 \, \text{years}$) produces 50 W initially, with each decay releasing 5.5 MeV. Calculate the initial activity in Ci.  
+    - (a) 356 Ci  
+    - (b) 357 Ci  
+    - (c) 358 Ci  
+    - (d) 359 Ci
+
+16. A reactor with a fission rate of $5 \times 10^{19}$ fissions/s releases 200 MeV per fission. Calculate the thermal power in MW.  
+    - (a) 1599 MW  
+    - (b) 1600 MW  
+    - (c) 1601 MW  
+    - (d) 1602 MW
+
+17. High-level waste with $^{137}\text{Cs}$ ($T_{1/2} = 30.17 \, \text{years}$) has an initial activity of 1000 Ci. Calculate the time (in years) for activity to reduce to 10 Ci.  
+    - (a) 229 years  
+    - (b) 230 years  
+    - (c) 231 years  
+    - (d) 232 years
+
+18. A spacecraft NTP system produces 200 MW, heating hydrogen at 1 kg/s, $T = 2800 \, \text{K}$, $\gamma = 1.4$, molar mass $M = 2 \, \text{g/mol}$. Calculate exhaust velocity in m/s ($R = 8.314 \, \text{J/mol·K}$).  
+    - (a) 8099 m/s  
+    - (b) 8100 m/s  
+    - (c) 8101 m/s  
+    - (d) 8102 m/s
+
+19. A fusion reactor produces 500 MW using D-T fusion ($Q = 17.6 \, \text{MeV}$). Calculate the mass of deuterium consumed per day (in kg), molar mass $M = 2 \, \text{g/mol}$.  
+    - (a) 0.122 kg  
+    - (b) 0.123 kg  
+    - (c) 0.124 kg  
+    - (d) 0.125 kg
+
+20. A reactor produces 3000 MW thermal power. If each fission releases 200 MeV, calculate the mass of $^{235}\text{U}$ consumed per day (in kg).  
+    - (a) 1.44 kg  
+    - (b) 1.45 kg  
+    - (c) 1.46 kg  
+    - (d) 1.47 kg
+
+21. High-level waste with $^{90}\text{Sr}$ ($T_{1/2} = 28.8 \, \text{years}$) has an initial activity of 400 Ci. Calculate the activity after 100 years in Ci.  
+    - (a) 36.0 Ci  
+    - (b) 36.1 Ci  
+    - (c) 36.2 Ci  
+    - (d) 36.3 Ci
+
+22. An RTG with $^{238}\text{Pu}$ ($T_{1/2} = 87.7 \, \text{years}$) produces 20 W, with each decay releasing 5.5 MeV. Calculate the initial activity in Ci.  
+    - (a) 142 Ci  
+    - (b) 143 Ci  
+    - (c) 144 Ci  
+    - (d) 145 Ci
+
+23. A nuclear plant produces 1500 MW electrical power at 38% efficiency. Calculate the thermal power in MW.  
+    - (a) 3946 MW  
+    - (b) 3947 MW  
+    - (c) 3948 MW  
+    - (d) 3949 MW
+
+24. A reactor with a fission rate of $2 \times 10^{20}$ fissions/s releases 200 MeV per fission. Calculate the thermal power in MW.  
+    - (a) 6399 MW  
+    - (b) 6400 MW  
+    - (c) 6401 MW  
+    - (d) 6402 MW
+
+25. A fusion reactor produces 2 GW using D-T fusion ($Q = 17.6 \, \text{MeV}$). Calculate the fusion rate in fusions per second.  
+    - (a) $7.09 \times 10^{20}$  
+    - (b) $7.10 \times 10^{20}$  
+    - (c) $7.11 \times 10^{20}$  
+    - (d) $7.12 \times 10^{20}$
+
+26. High-level waste with $^{137}\text{Cs}$ ($T_{1/2} = 30.17 \, \text{years}$) has an initial activity of 500 Ci. Calculate the activity after 200 years in Ci.  
+    - (a) 4.54 Ci  
+    - (b) 4.55 Ci  
+    - (c) 4.56 Ci  
+    - (d) 4.57 Ci
+
+27. A spacecraft NTP system produces 300 MW, heating hydrogen at 1.5 kg/s, $T = 3000 \, \text{K}$, $\gamma = 1.4$, $M = 2 \, \text{g/mol}$. Calculate exhaust velocity in m/s.  
+    - (a) 8348 m/s  
+    - (b) 8349 m/s  
+    - (c) 8350 m/s  
+    - (d) 8351 m/s
+
+28. A reactor produces 2500 MW thermal power. Calculate the mass of $^{235}\text{U}$ consumed per day (in kg) if each fission releases 200 MeV.  
+    - (a) 1.20 kg  
+    - (b) 1.21 kg  
+    - (c) 1.22 kg  
+    - (d) 1.23 kg
+
+29. An RTG with $^{238}\text{Pu}$ ($T_{1/2} = 87.7 \, \text{years}$) has an initial activity of 300 Ci. Calculate the activity after 50 years in Ci.  
+    - (a) 168 Ci  
+    - (b) 169 Ci  
+    - (c) 170 Ci  
+    - (d) 171 Ci
+
+30. A nuclear plant produces 600 MW electrical power at 30% efficiency. Calculate the thermal power in MW.  
+    - (a) 1999 MW  
+    - (b) 2000 MW  
+    - (c) 2001 MW  
+    - (d) 2002 MW
+
+31. A spacecraft fusion engine produces 1 GW, $Q = 17.6 \, \text{MeV}$. Calculate the mass of deuterium consumed per day (in kg), $M = 2 \, \text{g/mol}$.  
+    - (a) 0.244 kg  
+    - (b) 0.245 kg  
+    - (c) 0.246 kg  
+    - (d) 0.247 kg
+
+32. High-level waste with $^{90}\text{Sr}$ ($T_{1/2} = 28.8 \, \text{years}$) has an initial activity of 1000 Ci. Calculate the time (in years) to reduce to 1 Ci.  
+    - (a) 191 years  
+    - (b) 192 years  
+    - (c) 193 years  
+    - (d) 194 years
+
+33. A reactor with a fission rate of $1 \times 10^{20}$ fissions/s releases 200 MeV per fission. Calculate the thermal power in MW.  
+    - (a) 3199 MW  
+    - (b) 3200 MW  
+    - (c) 3201 MW  
+    - (d) 3202 MW
+
+34. A nuclear plant produces 1800 MW electrical power at 36% efficiency. Calculate the thermal power in MW.  
+    - (a) 4999 MW  
+    - (b) 5000 MW  
+    - (c) 5001 MW  
+    - (d) 5002 MW
+
+35. An RTG with $^{238}\text{Pu}$ ($T_{1/2} = 87.7 \, \text{years}$) has an initial activity of 150 Ci. Calculate the activity after 150 years in Ci.  
+    - (a) 29.9 Ci  
+    - (b) 30.0 Ci  
+    - (c) 30.1 Ci  
+    - (d) 30.2 Ci
+
+---
+
+## Conceptual Problems
+
+36. What is the primary source of energy in nuclear fission?  
+    - (a) Kinetic energy of neutrons  
+    - (b) Increase in binding energy per nucleon in products  
+    - (c) Decrease in mass number  
+    - (d) Increase in atomic number
+
+37. What is the role of control rods in a nuclear reactor?  
+    - (a) Slow neutrons  
+    - (b) Absorb neutrons to regulate reaction rate  
+    - (c) Cool the reactor  
+    - (d) Fuel the reactor
+
+38. What is the unit of power output in a nuclear reactor in SI units?  
+    - (a) Watt  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Becquerel
+
+39. What happens to the reaction rate in a nuclear reactor if the multiplication factor $k > 1$?  
+    - (a) Decreases  
+    - (b) Increases exponentially  
+    - (c) Remains constant  
+    - (d) Becomes zero
+
+40. What type of reaction powers the Sun?  
+    - (a) Fission  
+    - (b) Fusion  
+    - (c) Alpha decay  
+    - (d) Beta decay
+
+41. What is the unit of Q-value in nuclear reactions?  
+    - (a) MeV  
+    - (b) Radian  
+    - (c) Hertz  
+    - (d) Watt
+
+42. What does a high specific impulse in NTP indicate?  
+    - (a) Low efficiency  
+    - (b) High efficiency for propulsion  
+    - (c) High mass consumption  
+    - (d) Low thrust
+
+43. What happens to nuclear waste activity over time?  
+    - (a) Increases exponentially  
+    - (b) Decreases exponentially  
+    - (c) Remains constant  
+    - (d) Becomes zero instantly
+
+44. What is a major challenge of nuclear energy?  
+    - (a) High CO$_2$ emissions  
+    - (b) Radioactive waste management  
+    - (c) Low energy output  
+    - (d) Fuel abundance
+
+45. What is the dimension of $Q = \Delta m c^2$?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does the moderator do in a nuclear reactor?  
+    - (a) Absorbs neutrons  
+    - (b) Slows neutrons to thermal energies  
+    - (c) Increases reaction rate  
+    - (d) Cools the reactor
+
+47. What is the significance of $k = 1$ in a nuclear reactor?  
+    - (a) Critical state, steady reaction  
+    - (b) Supercritical state  
+    - (c) Subcritical state  
+    - (d) Shutdown state
+
+48. What happens to the efficiency of a nuclear power plant?  
+    - (a) 100% due to high energy release  
+    - (b) ~33–40% due to thermodynamic limits  
+    - (c) 0% due to energy loss  
+    - (d) Varies randomly
+
+49. What does an RTG use to produce power?  
+    - (a) Fission reactions  
+    - (b) Fusion reactions  
+    - (c) Decay heat from isotopes like $^{238}\text{Pu}$  
+    - (d) Chemical reactions
+
+50. How does nuclear energy contribute to spacecraft propulsion?  
+    - (a) Increases mass  
+    - (b) Enables NTP and RTGs for efficient power and thrust  
+    - (c) Reduces efficiency  
+    - (d) Increases CO$_2$ emissions
+
+---
+
+## Derivation Problems
+
+51. Derive the Q-value $Q = \left[m_{\text{reactants}} - m_{\text{products}}\right] c^2$ for a nuclear reaction.
+
+52. Derive the fission rate in a nuclear reactor given its thermal power output.
+
+53. Derive the power output of an RTG given its activity and energy per decay.
+
+54. Derive the time for nuclear waste to decay to a specific activity level.
+
+55. Derive the thermal power in a nuclear reactor given the fission rate.
+
+56. Derive the exhaust velocity in an NTP system $v_e \approx \sqrt{\frac{\gamma R T}{M}}$.
+
+57. Derive the mass of fuel consumed in a reactor given its power output.
+
+58. Derive the activity $A$ of nuclear waste after a given time $t$.
+
+59. Derive the fusion rate in a reactor given its power output.
+
+60. Derive the thermal power of a nuclear plant given its electrical power and efficiency.
+
+61. Derive the Q-value for a fusion reaction.
+
+62. Derive the mass of deuterium consumed in a fusion reactor.
+
+63. Derive the time for an RTG's activity to decrease to a specific level.
+
+64. Derive the fission rate in an NTP system given its power output.
+
+65. Derive the efficiency $\eta$ of a nuclear power plant given electrical and thermal power.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of energy release $Q$ in nuclear reactions?  
+    - (a) MeV  
+    - (b) Radian  
+    - (c) Hertz  
+    - (d) Watt
+
+67. What does the reaction $_92^{235}\text{U} + _0^1\text{n} \to _56^{141}\text{Ba} + _36^{92}\text{Kr} + 3 _0^1\text{n}$ represent?  
+    - (a) Fusion  
+    - (b) Fission  
+    - (c) Alpha decay  
+    - (d) Beta decay
+
+68. What is the relationship between thermal power and electrical power in a nuclear plant?  
+    - (a) $\text{Power}_{\text{thermal}} = \text{Power}_{\text{electrical}}$  
+    - (b) $\text{Power}_{\text{thermal}} = \text{Power}_{\text{electrical}} / \eta$  
+    - (c) $\text{Power}_{\text{thermal}}$ is independent  
+    - (d) $\text{Power}_{\text{thermal}} \propto \text{Power}_{\text{electrical}}^2$
+
+69. What happens to the activity of nuclear waste after one half-life?  
+    - (a) Doubles  
+    - (b) Halves  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+70. What is the dimension of power output in a nuclear reactor?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-3}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does the coolant do in a nuclear reactor?  
+    - (a) Slows neutrons  
+    - (b) Transfers heat to produce steam  
+    - (c) Absorbs neutrons  
+    - (d) Fuels the reactor
+
+72. What is the role of nuclear energy in spacecraft?  
+    - (a) Increases CO$_2$ emissions  
+    - (b) Powers systems via RTGs and NTP  
+    - (c) Reduces efficiency  
+    - (d) Increases mass defect
+
+73. What happens to the reaction rate in a reactor if $k < 1$?  
+    - (a) Increases exponentially  
+    - (b) Decreases and stops  
+    - (c) Remains constant  
+    - (d) Becomes infinite
+
+74. Why does fusion require high temperatures?  
+    - (a) To increase mass defect  
+    - (b) To overcome Coulomb repulsion between nuclei  
+    - (c) To reduce binding energy  
+    - (d) To decrease reaction rate
+
+75. What is the unit of activity in nuclear waste decay?  
+    - (a) Curie (Ci)  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+76. What does a high exhaust velocity in NTP indicate?  
+    - (a) Low efficiency  
+    - (b) High specific impulse  
+    - (c) High mass consumption  
+    - (d) Low power output
+
+77. Which process produces less radioactive waste?  
+    - (a) Fission  
+    - (b) Fusion  
+    - (c) Alpha decay  
+    - (d) Beta decay
+
+78. What is the effect of a nuclear accident like Fukushima?  
+    - (a) Increases CO$_2$ emissions  
+    - (b) Radioactive contamination  
+    - (c) Increases efficiency  
+    - (d) Reduces waste
+
+79. What does a pseudo-force do in a non-inertial frame for nuclear energy calculations?  
+    - (a) Affects perceived reaction rate  
+    - (b) Affects Q-value  
+    - (c) Creates fusion  
+    - (d) Reduces efficiency
+
+80. What is the dimension of $\sqrt{\frac{\gamma R T}{M}}$?  
+    - (a) $[\text{L} \text{T}^{-1}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of nuclear energy in desalination?  
+    - (a) Increases CO$_2$ emissions  
+    - (b) Provides heat for water purification  
+    - (c) Reduces efficiency  
+    - (d) Increases waste
+
+82. What happens to the energy release in fusion?  
+    - (a) Decreases due to mass defect  
+    - (b) Increases due to higher binding energy per nucleon  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+83. Why are advanced reactors (Gen IV) being developed?  
+    - (a) To increase CO$_2$ emissions  
+    - (b) To improve efficiency and reduce waste  
+    - (c) To decrease safety  
+    - (d) To increase proliferation
+
+84. What is the significance of $17.6 \, \text{MeV}$ in the D-T fusion reaction?  
+    - (a) Decay constant  
+    - (b) Q-value of the reaction  
+    - (c) Mass defect  
+    - (d) Half-life
+
+85. What is the unit of exhaust velocity $v_e$ in NTP?  
+    - (a) m/s  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+86. What does a high $k$ value in a reactor indicate?  
+    - (a) Stable operation  
+    - (b) Potential for uncontrolled reaction  
+    - (c) Shutdown state  
+    - (d) Low efficiency
+
+87. What is the physical significance of $e^{-\lambda t}$ in waste decay?  
+    - (a) Q-value  
+    - (b) Exponential decrease in activity  
+    - (c) Mass defect  
+    - (d) Fission rate
+
+88. Why is nuclear energy considered low-carbon?  
+    - (a) Due to high CO$_2$ emissions  
+    - (b) Due to minimal greenhouse gas emissions  
+    - (c) Due to high waste production  
+    - (d) Due to low efficiency
+
+89. What is the dimension of $A \times Q$ in RTG power calculation?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-3}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does fusion energy aim to impact future energy production?  
+    - (a) Increases waste  
+    - (b) Provides a clean, limitless energy source  
+    - (c) Reduces safety  
+    - (d) Increases CO$_2$ emissions
+
+91. What is the role of thermocouples in an RTG?  
+    - (a) Increase decay rate  
+    - (b) Convert heat to electricity  
+    - (c) Absorb neutrons  
+    - (d) Cool the system
+
+92. What does a low efficiency in nuclear plants indicate?  
+    - (a) High thermal power  
+    - (b) Thermodynamic limitations  
+    - (c) High electrical power  
+    - (d) No energy loss
+
+93. What is the physical significance of $\frac{\text{Power}}{Q}$?  
+    - (a) Mass defect  
+    - (b) Reaction rate in a reactor  
+    - (c) Decay constant  
+    - (d) Efficiency
+
+94. What is the dimension of $\Delta m c^2$?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why are nuclear plants efficient for large-scale energy?  
+    - (a) Due to high CO$_2$ emissions  
+    - (b) Due to high energy density of nuclear fuel  
+    - (c) Due to low output  
+    - (d) Due to high waste
+
+---
+
+## NEET-style Numerical Problems
+
+96. Calculate the Q-value of $_92^{235}\text{U} + _0^1\text{n} \to _54^{139}\text{Xe} + _38^{95}\text{Sr} + 2 _0^1\text{n}$ in MeV. Given: $m( _92^{235}\text{U} ) = 235.0439 \, \text{u}$, $m( _0^1\text{n} ) = 1.0087 \, \text{u}$, $m( _54^{139}\text{Xe} ) = 138.9188 \, \text{u}$, $m( _38^{95}\text{Sr} ) = 94.9194 \, \text{u}$.  
+    - (a) 185.1 MeV  
+    - (b) 185.2 MeV  
+    - (c) 185.3 MeV  
+    - (d) 185.4 MeV
+
+97. A nuclear reactor produces 1000 MW thermal power. If each fission releases 200 MeV, calculate the fission rate in fissions per second.  
+    - (a) $3.12 \times 10^{19}$  
+    - (b) $3.13 \times 10^{19}$  
+    - (c) $3.14 \times 10^{19}$  
+    - (d) $3.15 \times 10^{19}$
+
+98. An RTG with $^{238}\text{Pu}$ ($T_{1/2} = 87.7 \, \text{years}$) has an initial activity of 400 Ci. Calculate the activity after 100 years in Ci.  
+    - (a) 123.2 Ci  
+    - (b) 123.3 Ci  
+    - (c) 123.4 Ci  
+    - (d) 123.5 Ci
+
+99. A nuclear plant produces 900 MW electrical power at 34% efficiency. Calculate the thermal power in MW.  
+    - (a) 2646 MW  
+    - (b) 2647 MW  
+    - (c) 2648 MW  
+    - (d) 2649 MW
+
+100. A spacecraft NTP system produces 250 MW, heating hydrogen at 2 kg/s, $T = 2900 \, \text{K}$, $\gamma = 1.4$, $M = 2 \, \text{g/mol}$. Calculate exhaust velocity in m/s.  
+    - (a) 8224 m/s  
+    - (b) 8225 m/s  
+    - (c) 8226 m/s  
+    - (d) 8227 m/s
 
 ## Back to Chapter
 [Return to Energy from the Nucleus Chapter](./index.md)

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Fluids for JEE & NEET
 description: Comprehensive guide on fluids for JEE and NEET, covering fluid statics, dynamics, pressure, buoyancy, Bernoulli’s principle, viscosity, and surface tension, with extensive examples.
-slug: book/physics/fluids
+slug: books/physics/fluids
 keywords: physics fluids, JEE physics fluid mechanics, NEET physics Bernoulli’s principle, viscosity
 og:image: https://vidyamarg.com/og-physics-fluids.jpg
 ---
@@ -278,6 +278,6 @@ Our Hinglish video lessons make fluids engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing fluid flow, capillary action, and Bernoulli’s principle coming soon!*
+*Animation for visualizing fluid flow, capillary action, and Bernoulli’s principle coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

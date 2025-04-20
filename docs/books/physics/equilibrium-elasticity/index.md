@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Equilibrium and Elasticity for JEE & NEET
 description: Comprehensive guide on equilibrium and elasticity for JEE and NEET, covering static and dynamic equilibrium, center of gravity, stress, strain, elastic moduli, and applications, with extensive examples.
-slug: book/physics/equilibrium-elasticity
+slug: books/physics/equilibrium-elasticity
 keywords: physics equilibrium elasticity, JEE physics equilibrium, NEET physics stress strain, elastic moduli
 og:image: https://vidyamarg.com/og-physics-equilibrium-elasticity.jpg
 ---
@@ -323,6 +323,6 @@ Our Hinglish video lessons make equilibrium and elasticity engaging! Subscribe f
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing equilibrium, stress, and beam bending coming soon!*
+*Animation for visualizing equilibrium, stress, and beam bending coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

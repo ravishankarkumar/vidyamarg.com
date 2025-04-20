@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Equilibrium and Elasticity Problems for JEE & NEET
 description: Practice 100 problems on equilibrium and elasticity for JEE and NEET, inspired by exam patterns, covering static and dynamic equilibrium, center of gravity, stress, strain, elastic moduli, and beam applications.
-slug: book/physics/equilibrium-elasticity-problems
+slug: books/physics/equilibrium-elasticity/problems
 keywords: physics equilibrium elasticity problems, JEE physics equilibrium problems, NEET physics stress strain problems, elastic moduli
 og:image: https://vidyamarg.com/og-physics-equilibrium-elasticity.jpg
 ---

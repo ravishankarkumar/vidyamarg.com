@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Gauss’s Law Solutions for JEE & NEET
 description: Sample solutions for electrostatics problems, covering electric flux, Gauss’s law applications, field calculations for symmetric charge distributions, and conductors, tailored for JEE and NEET preparation.
-slug: book/physics/gauss-law-solutions
+slug: books/physics/gauss-law/solutions
 keywords: physics Gauss’s law solutions, JEE physics electric flux solutions, NEET physics field calculations solutions, electrostatics
 og:image: https://vidyamarg.com/og-physics-gauss-law.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Rolling, Torque, and Angular Momentum Problems for JEE & NEET
 description: Practice 100 problems on rolling, torque, and angular momentum for JEE and NEET, inspired by exam patterns, covering rotational dynamics, angular momentum conservation, and rolling motion.
-slug: book/physics/rolling-torque-angular-momentum-problems
+slug: books/physics/rolling-torque-angular-momentum/problems
 keywords: physics rolling torque angular momentum problems, JEE physics torque problems, NEET physics rolling motion problems, angular momentum
 og:image: https://vidyamarg.com/og-physics-rolling-torque-angular-momentum.jpg
 ---

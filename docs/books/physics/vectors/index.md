@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Vectors for JEE & NEET
 description: Comprehensive guide to vectors for JEE and NEET, covering vector representation, addition, subtraction, components, dot and cross products, and applications in physics, with extensive examples.
-slug: book/physics/vectors
+slug: books/physics/vectors
 keywords: physics vectors, JEE physics vectors, NEET physics vectors, dot product, cross product
 og:image: https://vidyamarg.com/og-physics-vectors.jpg
 ---
@@ -451,6 +451,6 @@ Our Hinglish video lessons make vectors engaging for JEE and NEET! Subscribe for
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u) <!-- Update with specific video link when available -->
 
-*Manim animation for visualizing vector addition, dot/cross products, and 3D vectors coming soon!*
+*Animation for visualizing vector addition, dot/cross products, and 3D vectors coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

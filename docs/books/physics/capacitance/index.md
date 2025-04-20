@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Capacitance for JEE & NEET
 description: Comprehensive guide on capacitance for JEE and NEET, covering capacitor definitions, series and parallel combinations, energy storage, dielectrics, and applications in electrostatics, with extensive examples.
-slug: book/physics/capacitance
+slug: books/physics/capacitance
 keywords: physics capacitance, JEE physics capacitors, NEET physics energy storage, electrostatics
 og:image: https://vidyamarg.com/og-physics-capacitance.jpg
 ---
@@ -275,6 +275,6 @@ Our Hinglish video lessons make electrostatics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing capacitor fields, series-parallel circuits, and dielectric effects coming soon!*
+*Animation for visualizing capacitor fields, series-parallel circuits, and dielectric effects coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

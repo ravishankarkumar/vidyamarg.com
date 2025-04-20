@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Electromagnetic Oscillations and Alternating Current Solutions for JEE & NEET
 description: Sample solutions for electromagnetic oscillations and AC circuit problems, covering LC oscillations, phasors, impedance, resonance, and power in AC circuits, tailored for JEE and NEET preparation.
-slug: book/physics/electromagnetic-oscillations-ac-solutions
+slug: books/physics/electromagnetic-oscillations-ac/solutions
 keywords: physics electromagnetic oscillations solutions, JEE physics AC circuits solutions, NEET physics resonance solutions, electromagnetism
 og:image: https://vidyamarg.com/og-physics-electromagnetic-oscillations-ac.jpg
 ---

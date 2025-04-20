@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Coulomb’s Law Solutions for JEE & NEET
 description: Sample solutions for electrostatics problems, covering Coulomb’s law, vector forces, superposition principle, equilibrium, and electric fields, tailored for JEE and NEET preparation.
-slug: book/physics/coulombs-law-solutions
+slug: books/physics/coulombs-law/solutions
 keywords: physics Coulomb’s law solutions, JEE physics electric force solutions, NEET physics superposition principle solutions, electrostatics
 og:image: https://vidyamarg.com/og-physics-coulombs-law.jpg
 ---

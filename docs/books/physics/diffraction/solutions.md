@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Diffraction Solutions for JEE & NEET
 description: Sample solutions for diffraction of light problems, covering Huygens' principle, single-slit diffraction, diffraction gratings, and applications, tailored for JEE and NEET preparation.
-slug: book/physics/diffraction-solutions
+slug: books/physics/diffraction/solutions
 keywords: physics diffraction solutions, JEE physics wave optics solutions, NEET physics single-slit diffraction solutions, diffraction patterns
 og:image: https://vidyamarg.com/og-physics-diffraction.jpg
 ---

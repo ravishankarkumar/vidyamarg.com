@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Induction and Inductance Problems for JEE & NEET
 description: Practice 100 problems on induction and inductance for JEE and NEET, inspired by exam patterns, covering Faraday’s law, Lenz’s law, self and mutual inductance, and circuit applications.
-slug: book/physics/induction-inductance-problems
+slug: books/physics/induction-inductance/problems
 keywords: physics induction inductance problems, JEE physics Faraday’s law problems, NEET physics inductance problems, electromagnetism
 og:image: https://vidyamarg.com/og-physics-induction-inductance.jpg
 ---

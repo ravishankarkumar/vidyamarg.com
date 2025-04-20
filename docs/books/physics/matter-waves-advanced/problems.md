@@ -1,221 +1,572 @@
 ---
 title: Physics Book - More About Matter Waves Problems for JEE & NEET
-description: Practice 100 advanced matter wave problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
-slug: book/physics/matter-waves-advanced-problems
-keywords: physics matter waves problems, JEE physics Heisenberg uncertainty problems, NEET physics quantum tunneling problems, quantum mechanics
+description: Practice 100 problems on advanced matter waves for JEE and NEET, inspired by exam patterns, covering wave functions, particle in a box, quantum tunneling, and uncertainty principle.
+slug: books/physics/matter-waves-advanced/problems
+keywords: physics matter waves advanced problems, JEE physics wave function problems, NEET physics quantum tunneling problems, uncertainty principle
 og:image: https://vidyamarg.com/og-physics-matter-waves-advanced.jpg
 ---
 
 # More About Matter Waves Problems
 
-This section provides **100 problems** to test your understanding of advanced matter wave concepts, including the Heisenberg uncertainty principle, wave functions, particle in a box, and quantum tunneling. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of advanced matter wave concepts, including calculations of wave function probabilities, energy quantization in a box, tunneling probabilities, and uncertainty principle quantities, as well as applications like quantum tunneling in nanotechnology and quantum sensors in spacecraft systems. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering quantum mechanics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on uncertainty calculations, energy levels, wave function normalization, and tunneling probabilities, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., quantum effects, tunneling), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A particle has a normalized wave function $\psi(x) = \sqrt{\frac{2}{a}} \sin\left(\frac{\pi x}{a}\right)$ for $0 \leq x \leq a$. Calculate the probability of finding the particle between $x = 0$ and $x = \frac{a}{2}$.  
+   - (a) 0.49  
+   - (b) 0.50  
+   - (c) 0.51  
+   - (d) 0.52
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: An electron has a position uncertainty of 0.05 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 1.05 × 10^{-24} kg·m/s (b) 1.06 × 10^{-24} kg·m/s (c) 1.07 × 10^{-24} kg·m/s (d) 1.08 × 10^{-24} kg·m/s
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: An electron is confined in a 1D box of length 0.1 nm. Calculate the energy of the \( n = 3 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) 338 eV (b) 339 eV (c) 340 eV (d) 341 eV
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: An electron with energy 4 eV approaches a 8 eV barrier of width 0.2 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) -0.45 (b) -0.46 (c) -0.47 (d) -0.48
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A particle has a wave function \( \psi(x) = A \exp(-x^2/a^2) \). Calculate the normalization constant \( A \) for \( a = 1 \, \text{nm} \).
-   - Options: (a) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^5 \, \text{m}^{-1/2} \) (b) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^4 \, \text{m}^{-1/2} \) (c) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^6 \, \text{m}^{-1/2} \) (d) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^3 \, \text{m}^{-1/2} \)
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: An electron has a momentum uncertainty of \( 2.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 0.026 nm (b) 0.027 nm (c) 0.028 nm (d) 0.029 nm
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: An electron is in a 1D box of length 0.3 nm. Calculate the energy difference between \( n = 2 \) and \( n = 1 \) states (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) 37.6 eV (b) 37.7 eV (c) 37.8 eV (d) 37.9 eV
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A proton with energy 2 eV approaches a 5 eV barrier of width 0.15 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-   - Options: (a) -0.62 (b) -0.63 (c) -0.64 (d) -0.65
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A particle has a position uncertainty of 0.2 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 2.63 × 10^{-25} kg·m/s (b) 2.64 × 10^{-25} kg·m/s (c) 2.65 × 10^{-25} kg·m/s (d) 2.66 × 10^{-25} kg·m/s
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: An electron is in a 1D box of length 0.5 nm. Calculate the energy of the \( n = 4 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) 240 eV (b) 241 eV (c) 242 eV (d) 243 eV
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A particle has a wave function \( \psi(x) = A \sin(\pi x/L) \) in a box of length \( L = 1 \, \text{nm} \). Calculate the normalization constant \( A \).
-    - Options: (a) \( \sqrt{2} \times 10^5 \, \text{m}^{-1/2} \) (b) \( \sqrt{2} \times 10^4 \, \text{m}^{-1/2} \) (c) \( \sqrt{2} \times 10^6 \, \text{m}^{-1/2} \) (d) \( \sqrt{2} \times 10^3 \, \text{m}^{-1/2} \)
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: An electron with energy 6 eV approaches a 12 eV barrier of width 0.1 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) -0.22 (b) -0.23 (c) -0.24 (d) -0.25
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A particle has a momentum uncertainty of \( 1.0 \times 10^{-24} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 0.052 nm (b) 0.053 nm (c) 0.054 nm (d) 0.055 nm
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: An electron is in a 1D box of length 0.4 nm. Calculate the energy of the \( n = 2 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 94.0 eV (b) 94.1 eV (c) 94.2 eV (d) 94.3 eV
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A proton with energy 3 eV approaches a 6 eV barrier of width 0.2 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) -0.83 (b) -0.84 (c) -0.85 (d) -0.86
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A particle has a wave function \( \psi(x) = A \exp(-x^2/a^2) \). Calculate the normalization constant \( A \) for \( a = 0.5 \, \text{nm} \).
-    - Options: (a) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^6 \, \text{m}^{-1/2} \) (b) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^5 \, \text{m}^{-1/2} \) (c) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^7 \, \text{m}^{-1/2} \) (d) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^4 \, \text{m}^{-1/2} \)
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: An electron has a position uncertainty of 0.03 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 1.75 × 10^{-24} kg·m/s (b) 1.76 × 10^{-24} kg·m/s (c) 1.77 × 10^{-24} kg·m/s (d) 1.78 × 10^{-24} kg·m/s
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: An electron is in a 1D box of length 0.25 nm. Calculate the energy difference between \( n = 3 \) and \( n = 2 \) states (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 240 eV (b) 241 eV (c) 242 eV (d) 243 eV
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: An electron with energy 5 eV approaches a 9 eV barrier of width 0.05 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) -0.11 (b) -0.12 (c) -0.13 (d) -0.14
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A particle has a momentum uncertainty of \( 5.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 0.105 nm (b) 0.106 nm (c) 0.107 nm (d) 0.108 nm
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: An electron is in a 1D box of length 0.15 nm. Calculate the energy of the \( n = 5 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 1000 eV (b) 1001 eV (c) 1002 eV (d) 1003 eV
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A proton with energy 4 eV approaches a 7 eV barrier of width 0.1 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) -0.42 (b) -0.43 (c) -0.44 (d) -0.45
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A particle has a position uncertainty of 0.08 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 6.57 × 10^{-25} kg·m/s (b) 6.58 × 10^{-25} kg·m/s (c) 6.59 × 10^{-25} kg·m/s (d) 6.60 × 10^{-25} kg·m/s
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: An electron is in a 1D box of length 0.2 nm. Calculate the energy difference between \( n = 4 \) and \( n = 3 \) states (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 451 eV (b) 452 eV (c) 453 eV (d) 454 eV
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A particle has a wave function \( \psi(x) = A \sin(2\pi x/L) \) in a box of length \( L = 0.5 \, \text{nm} \). Calculate the normalization constant \( A \).
-    - Options: (a) \( \sqrt{2} \times 10^6 \, \text{m}^{-1/2} \) (b) \( \sqrt{2} \times 10^5 \, \text{m}^{-1/2} \) (c) \( \sqrt{2} \times 10^7 \, \text{m}^{-1/2} \) (d) \( \sqrt{2} \times 10^4 \, \text{m}^{-1/2} \)
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: An electron with energy 3 eV approaches a 6 eV barrier of width 0.3 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) -0.67 (b) -0.68 (c) -0.69 (d) -0.70
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A particle has a momentum uncertainty of \( 3.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 0.175 nm (b) 0.176 nm (c) 0.177 nm (d) 0.178 nm
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: An electron is in a 1D box of length 0.1 nm. Calculate the energy of the \( n = 1 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 37.6 eV (b) 37.7 eV (c) 37.8 eV (d) 37.9 eV
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A proton with energy 5 eV approaches a 10 eV barrier of width 0.05 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) -0.21 (b) -0.22 (c) -0.23 (d) -0.24
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A particle has a position uncertainty of 0.15 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 3.50 × 10^{-25} kg·m/s (b) 3.51 × 10^{-25} kg·m/s (c) 3.52 × 10^{-25} kg·m/s (d) 3.53 × 10^{-25} kg·m/s
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: An electron is in a 1D box of length 0.3 nm. Calculate the energy of the \( n = 3 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 112 eV (b) 113 eV (c) 114 eV (d) 115 eV
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A particle has a wave function \( \psi(x) = A \exp(-x^2/a^2) \). Calculate the normalization constant \( A \) for \( a = 0.2 \, \text{nm} \).
-    - Options: (a) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^7 \, \text{m}^{-1/2} \) (b) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^6 \, \text{m}^{-1/2} \) (c) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^8 \, \text{m}^{-1/2} \) (d) \( \left( \frac{2}{\pi} \right)^{1/4} \times 10^5 \, \text{m}^{-1/2} \)
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: An electron with energy 7 eV approaches a 15 eV barrier of width 0.1 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) -0.26 (b) -0.27 (c) -0.28 (d) -0.29
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A particle has a momentum uncertainty of \( 4.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-    - Options: (a) 0.131 nm (b) 0.132 nm (c) 0.133 nm (d) 0.134 nm
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: An electron is in a 1D box of length 0.2 nm. Calculate the energy difference between \( n = 5 \) and \( n = 4 \) states (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 639 eV (b) 640 eV (c) 641 eV (d) 642 eV
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A proton with energy 6 eV approaches a 12 eV barrier of width 0.15 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_p = 1.67 \times 10^{-27} \, \text{kg} \)).
-    - Options: (a) -0.57 (b) -0.58 (c) -0.59 (d) -0.60
+2. An electron ($m = 9.11 \times 10^{-31} \, \text{kg}$) is confined in a box of length $L = 1 \, \text{nm}$. Calculate the energy $E_1$ for $n=1$ in eV.  
+   - (a) 0.375 eV  
+   - (b) 0.376 eV  
+   - (c) 0.377 eV  
+   - (d) 0.378 eV
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is the Heisenberg uncertainty principle?
-   - Options: (a) Limits measurement precision (b) No limits (c) Fixed limits (d) Only theoretical
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What is the role of \( |\psi|^2 \)?
-   - Options: (a) Probability density (b) Wave amplitude (c) No role (d) Fixed role
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What is the particle in a box energy?
-   - Options: (a) Quantized (b) Continuous (c) No energy (d) Fixed energy
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is quantum tunneling?
-   - Options: (a) Barrier penetration (b) No penetration (c) Fixed penetration (d) Only theoretical
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What is \( \hbar \)?
-   - Options: (a) Reduced Planck’s constant (b) Planck’s constant (c) No constant (d) Fixed constant
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What is the unit of \( \Delta x \cdot \Delta p \)?
-   - Options: (a) J·s (b) kg·m²/s (c) No unit (d) Fixed unit
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Why are energy levels quantized in a box?
-   - Options: (a) Boundary conditions (b) No quantization (c) Fixed quantization (d) Only theoretical
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: What is wave function normalization?
-   - Options: (a) Probability = 1 (b) Probability = 0 (c) No normalization (d) Fixed normalization
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: How does barrier width affect tunneling?
-   - Options: (a) Wider reduces probability (b) Wider increases (c) No effect (d) Fixed effect
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is the significance of STM?
-   - Options: (a) Uses tunneling (b) No significance (c) Fixed significance (d) Only theoretical
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Why does uncertainty exist?
-   - Options: (a) Quantum nature (b) No uncertainty (c) Fixed uncertainty (d) Only theoretical
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: What is the particle in a box wave function?
-   - Options: (a) Sinusoidal (b) Exponential (c) No wave function (d) Fixed wave function
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: How does energy affect tunneling?
-   - Options: (a) Higher energy increases probability (b) Decreases (c) No effect (d) Fixed effect
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: What is quantum computing’s basis?
-   - Options: (a) Quantum states (b) No basis (c) Fixed basis (d) Only theoretical
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: Why study matter waves?
-   - Options: (a) Quantum applications (b) No use (c) Fixed use (d) Only theoretical
+3. An electron tunnels through a barrier with $V_0 - E = 1 \, \text{eV}$ and width $a = 0.5 \, \text{nm}$. Calculate the tunneling probability $T$.  
+   - (a) 0.076  
+   - (b) 0.077  
+   - (c) 0.078  
+   - (d) 0.079
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the Heisenberg uncertainty principle.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the particle in a box energy levels.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the wave function normalization condition.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the tunneling probability exponent.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the particle in a box wave function.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the uncertainty relation for energy and time.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the probability density from wave functions.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the quantization in a 1D box.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the effect of barrier height on tunneling.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the normalization for a Gaussian wave function.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the energy level dependence on box length.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the tunneling probability for a rectangular barrier.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the uncertainty principle using wave packets.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the particle in a box boundary conditions.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the tunneling effect in quantum mechanics.
+4. A particle has a position uncertainty $\Delta x = 0.2 \, \text{nm}$. Calculate the minimum momentum uncertainty $\Delta p$ in kg·m/s.  
+   - (a) 2.63 $\times 10^{-25}$  
+   - (b) 2.64 $\times 10^{-25}$  
+   - (c) 2.65 $\times 10^{-25}$  
+   - (d) 2.66 $\times 10^{-25}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is the Heisenberg uncertainty principle?
-   - Options: (a) Measurement limit (b) No limit (c) Fixed limit (d) Only theoretical
-67. **Problem 67 (NEET, 2022)**: What is \( |\psi|^2 \)?
-   - Options: (a) Probability density (b) Wave function (c) No density (d) Fixed density
-68. **Problem 68 (NEET, 2021)**: What is particle in a box energy?
-   - Options: (a) Discrete (b) Continuous (c) No energy (d) Fixed energy
-69. **Problem 69 (NEET, 2024)**: What is quantum tunneling?
-   - Options: (a) Barrier crossing (b) No crossing (c) Fixed crossing (d) Only theoretical
-70. **Problem 70 (NEET, 2020)**: What is \( \hbar \)?
-   - Options: (a) Reduced Planck’s (b) Planck’s (c) No constant (d) Fixed constant
-71. **Problem 71 (NEET, 2023)**: What is the unit of uncertainty product?
-   - Options: (a) J·s (b) kg·m/s (c) No unit (d) Fixed unit
-72. **Problem 72 (NEET, 2022)**: Why is energy quantized?
-   - Options: (a) Confinement (b) No quantization (c) Fixed quantization (d) Only theoretical
-73. **Problem 73 (NEET, 2021)**: What is normalization?
-   - Options: (a) Total probability = 1 (b) No probability (c) Fixed probability (d) Only theoretical
-74. **Problem 74 (NEET, 2024)**: How does width affect tunneling?
-   - Options: (a) Wider reduces (b) Wider increases (c) No effect (d) Fixed effect
-75. **Problem 75 (NEET, 2020)**: What is STM’s basis?
-   - Options: (a) Tunneling (b) No basis (c) Fixed basis (d) Only theoretical
-76. **Problem 76 (NEET, 2023)**: Why does uncertainty occur?
-   - Options: (a) Quantum limits (b) No limits (c) Fixed limits (d) Only theoretical
-77. **Problem 77 (NEET, 2022)**: What is the box wave function?
-   - Options: (a) Sine function (b) Constant (c) No function (d) Fixed function
-78. **Problem 78 (NEET, 2021)**: How does energy affect tunneling?
-   - Options: (a) Increases probability (b) Decreases (c) No effect (d) Fixed effect
-79. **Problem 79 (NEET, 2024)**: What is quantum computing?
-   - Options: (a) Uses quantum states (b) No use (c) Fixed use (d) Only theoretical
-80. **Problem 80 (NEET, 2020)**: Why study quantum mechanics?
-   - Options: (a) Technology (b) No use (c) Fixed use (d) Only theoretical
-81. **Problem 81 (NEET, 2023)**: What is tunneling’s application?
-   - Options: (a) Microscopy (b) No application (c) Fixed application (d) Only theoretical
-82. **Problem 82 (NEET, 2022)**: What is the unit of energy?
-   - Options: (a) eV or J (b) Meter (c) No unit (d) Fixed unit
-83. **Problem 83 (NEET, 2021)**: How do wave functions describe particles?
-   - Options: (a) Probability (b) No description (c) Fixed description (d) Only theoretical
-84. **Problem 84 (NEET, 2024)**: What is nuclear fusion’s relation to tunneling?
-   - Options: (a) Enables reaction (b) No relation (c) Fixed relation (d) Only theoretical
-85. **Problem 85 (NEET, 2020)**: Why is quantization important?
-   - Options: (a) Discrete states (b) No importance (c) Fixed importance (d) Only theoretical
-86. **Problem 86 (NEET, 2023)**: How does box size affect energy?
-   - Options: (a) Smaller increases (b) Smaller decreases (c) No effect (d) Fixed effect
-87. **Problem 87 (NEET, 2022)**: What is the role of \( \psi \)?
-   - Options: (a) Quantum state (b) No role (c) Fixed role (d) Only theoretical
-88. **Problem 88 (NEET, 2021)**: Why use uncertainty in quantum mechanics?
-   - Options: (a) Fundamental limit (b) No limit (c) Fixed limit (d) Only theoretical
-89. **Problem 89 (NEET, 2024)**: What is the tunneling probability?
-   - Options: (a) Exponential decay (b) Linear (c) No probability (d) Fixed probability
-90. **Problem 90 (NEET, 2020)**: How does mass affect tunneling?
-   - Options: (a) Larger reduces (b) Larger increases (c) No effect (d) Fixed effect
-91. **Problem 91 (NEET, 2023)**: Why use wave functions?
-   - Options: (a) Describe particles (b) No use (c) Fixed use (d) Only theoretical
-92. **Problem 92 (NEET, 2022)**: What is the role of quantum numbers?
-   - Options: (a) Define states (b) No role (c) Fixed role (d) Only theoretical
-93. **Problem 93 (NEET, 2021)**: How does barrier height affect tunneling?
-   - Options: (a) Higher reduces (b) Higher increases (c) No effect (d) Fixed effect
-94. **Problem 94 (NEET, 2024)**: What is the unit of \( \psi \)?
-   - Options: (a) m^{-1/2} (b) Meter (c) No unit (d) Fixed unit
-95. **Problem 95 (NEET, 2020)**: Why is tunneling significant?
-   - Options: (a) Quantum applications (b) No significance (c) Fixed significance (d) Only theoretical
+5. A particle in a box has $E_1 = 0.2 \, \text{eV}$ for $n=1$. Calculate $E_3$ in eV.  
+   - (a) 1.7 eV  
+   - (b) 1.8 eV  
+   - (c) 1.9 eV  
+   - (d) 2.0 eV
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: An electron has a position uncertainty of 0.1 nm. Calculate the minimum momentum uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 5.27 × 10^{-25} kg·m/s (b) 5.28 × 10^{-25} kg·m/s (c) 5.29 × 10^{-25} kg·m/s (d) 5.30 × 10^{-25} kg·m/s
-97. **Problem 97 (NEET, 2022)**: An electron is in a 1D box of length 0.2 nm. Calculate the energy of the \( n = 2 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) 150 eV (b) 151 eV (c) 152 eV (d) 153 eV
-98. **Problem 98 (NEET, 2021)**: An electron with energy 5 eV approaches a 10 eV barrier of width 0.1 nm. Calculate the tunneling probability exponent (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-   - Options: (a) -0.22 (b) -0.23 (c) -0.24 (d) -0.25
-99. **Problem 99 (NEET, 2024)**: A particle has a momentum uncertainty of \( 2.0 \times 10^{-25} \, \text{kg·m/s} \). Calculate the minimum position uncertainty (\( h = 6.626 \times 10^{-34} \, \text{J·s} \)).
-   - Options: (a) 0.263 nm (b) 0.264 nm (c) 0.265 nm (d) 0.266 nm
-100. **Problem 100 (NEET, 2020)**: An electron is in a 1D box of length 0.3 nm. Calculate the energy of the \( n = 1 \) state (\( h = 6.626 \times 10^{-34} \, \text{J·s} \), \( m_e = 9.11 \times 10^{-31} \, \text{kg} \)).
-    - Options: (a) 12.5 eV (b) 12.6 eV (c) 12.7 eV (d) 12.8 eV
+6. A proton ($m = 1.67 \times 10^{-27} \, \text{kg}$) tunnels through a barrier with $V_0 - E = 0.5 \, \text{eV}$, $a = 0.1 \, \text{nm}$. Calculate $T$.  
+   - (a) 0.766  
+   - (b) 0.767  
+   - (c) 0.768  
+   - (d) 0.769
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. An electron in a box ($L = 0.5 \, \text{nm}$). Calculate $E_2$ in eV.  
+   - (a) 0.599 eV  
+   - (b) 0.600 eV  
+   - (c) 0.601 eV  
+   - (d) 0.602 eV
 
-[View Solutions](/books/physics/matter-waves-advanced/solutions) -->
+8. A particle with $\Delta p = 5 \times 10^{-20} \, \text{kg·m/s}$. Calculate the minimum $\Delta x$ in meters.  
+   - (a) 1.05 $\times 10^{-15}$  
+   - (b) 1.06 $\times 10^{-15}$  
+   - (c) 1.07 $\times 10^{-15}$  
+   - (d) 1.08 $\times 10^{-15}$
+
+9. A wave function $\psi(x) = \sqrt{\frac{2}{a}} \sin\left(\frac{2\pi x}{a}\right)$ for $0 \leq x \leq a$. Calculate the probability between $x = 0$ and $x = \frac{a}{4}$.  
+   - (a) 0.24  
+   - (b) 0.25  
+   - (c) 0.26  
+   - (d) 0.27
+
+10. A particle in a box ($L = 2 \, \text{nm}$, $m = 9.11 \times 10^{-31} \, \text{kg}$). Calculate $E_1$ in Joules.  
+    - (a) 1.50 $\times 10^{-20}$  
+    - (b) 1.51 $\times 10^{-20}$  
+    - (c) 1.52 $\times 10^{-20}$  
+    - (d) 1.53 $\times 10^{-20}$
+
+11. An electron tunnels with $V_0 - E = 0.8 \, \text{eV}$, $a = 0.3 \, \text{nm}$. Calculate $T$.  
+    - (a) 0.145  
+    - (b) 0.146  
+    - (c) 0.147  
+    - (d) 0.148
+
+12. A particle with $\Delta x = 1 \times 10^{-11} \, \text{m}$, $m = 1 \times 10^{-30} \, \text{kg}$. Calculate the minimum velocity uncertainty $\Delta v$ in m/s.  
+    - (a) 5.27 $\times 10^{6}$  
+    - (b) 5.28 $\times 10^{6}$  
+    - (c) 5.29 $\times 10^{6}$  
+    - (d) 5.30 $\times 10^{6}$
+
+13. A particle in a box with $E_2 = 0.8 \, \text{eV}$. Calculate $E_1$ in eV.  
+    - (a) 0.19 eV  
+    - (b) 0.20 eV  
+    - (c) 0.21 eV  
+    - (d) 0.22 eV
+
+14. A wave function $\psi(x) = \sqrt{\frac{2}{a}} \sin\left(\frac{3\pi x}{a}\right)$ for $0 \leq x \leq a$. Calculate the probability between $x = \frac{a}{3}$ and $x = \frac{2a}{3}$.  
+    - (a) 0.33  
+    - (b) 0.34  
+    - (c) 0.35  
+    - (d) 0.36
+
+15. A proton in a box ($L = 1 \, \text{nm}$). Calculate $E_1$ in eV.  
+    - (a) 0.000204 eV  
+    - (b) 0.000205 eV  
+    - (c) 0.000206 eV  
+    - (d) 0.000207 eV
+
+16. An electron with $\Delta E = 2 \times 10^{-19} \, \text{J}$. Calculate the minimum $\Delta t$ in seconds.  
+    - (a) 2.63 $\times 10^{-16}$  
+    - (b) 2.64 $\times 10^{-16}$  
+    - (c) 2.65 $\times 10^{-16}$  
+    - (d) 2.66 $\times 10^{-16}$
+
+17. An electron tunnels with $V_0 - E = 1.5 \, \text{eV}$, $a = 0.2 \, \text{nm}$. Calculate $T$.  
+    - (a) 0.168  
+    - (b) 0.169  
+    - (c) 0.170  
+    - (d) 0.171
+
+18. A wave function $\psi(x) = \sqrt{\frac{2}{a}} \sin\left(\frac{\pi x}{a}\right)$ for $0 \leq x \leq a$. Calculate $\langle x \rangle$ in terms of $a$.  
+    - (a) $0.49a$  
+    - (b) $0.50a$  
+    - (c) $0.51a$  
+    - (d) $0.52a$
+
+19. A particle in a box ($L = 0.1 \, \text{nm}$, $m = 9.11 \times 10^{-31} \, \text{kg}$). Calculate $E_1$ in eV.  
+    - (a) 37.5 eV  
+    - (b) 37.6 eV  
+    - (c) 37.7 eV  
+    - (d) 37.8 eV
+
+20. A proton with $\Delta p = 3 \times 10^{-20} \, \text{kg·m/s}$. Calculate the minimum $\Delta x$ in meters.  
+    - (a) 1.75 $\times 10^{-15}$  
+    - (b) 1.76 $\times 10^{-15}$  
+    - (c) 1.77 $\times 10^{-15}$  
+    - (d) 1.78 $\times 10^{-15}$
+
+21. An electron in a box ($L = 1.5 \, \text{nm}$). Calculate $E_3$ in eV.  
+    - (a) 0.149 eV  
+    - (b) 0.150 eV  
+    - (c) 0.151 eV  
+    - (d) 0.152 eV
+
+22. A wave function $\psi(x) = \sqrt{\frac{2}{a}} \sin\left(\frac{2\pi x}{a}\right)$ for $0 \leq x \leq a$. Calculate the probability between $x = \frac{a}{4}$ and $x = \frac{3a}{4}$.  
+    - (a) 0.49  
+    - (b) 0.50  
+    - (c) 0.51  
+    - (d) 0.52
+
+23. An electron tunnels with $V_0 - E = 0.5 \, \text{eV}$, $a = 0.4 \, \text{nm}$. Calculate $T$.  
+    - (a) 0.055  
+    - (b) 0.056  
+    - (c) 0.057  
+    - (d) 0.058
+
+24. A particle with $\Delta x = 0.1 \, \text{nm}$, $m = 1.67 \times 10^{-27} \, \text{kg}$. Calculate the minimum $\Delta v$ in m/s.  
+    - (a) 3.15 $\times 10^{2}$  
+    - (b) 3.16 $\times 10^{2}$  
+    - (c) 3.17 $\times 10^{2}$  
+    - (d) 3.18 $\times 10^{2}$
+
+25. A particle in a box with $E_1 = 0.05 \, \text{eV}$, $n=4$. Calculate $E_4$ in eV.  
+    - (a) 0.79 eV  
+    - (b) 0.80 eV  
+    - (c) 0.81 eV  
+    - (d) 0.82 eV
+
+26. A wave function $\psi(x) = \sqrt{\frac{2}{a}} \sin\left(\frac{3\pi x}{a}\right)$ for $0 \leq x \leq a$. Calculate $\langle x \rangle$ in terms of $a$.  
+    - (a) $0.49a$  
+    - (b) $0.50a$  
+    - (c) $0.51a$  
+    - (d) $0.52a$
+
+27. An electron with $\Delta E = 1 \times 10^{-18} \, \text{J}$. Calculate the minimum $\Delta t$ in seconds.  
+    - (a) 5.27 $\times 10^{-17}$  
+    - (b) 5.28 $\times 10^{-17}$  
+    - (c) 5.29 $\times 10^{-17}$  
+    - (d) 5.30 $\times 10^{-17}$
+
+28. A proton in a box ($L = 0.2 \, \text{nm}$). Calculate $E_1$ in eV.  
+    - (a) 0.00510 eV  
+    - (b) 0.00511 eV  
+    - (c) 0.00512 eV  
+    - (d) 0.00513 eV
+
+29. An electron tunnels with $V_0 - E = 2.0 \, \text{eV}$, $a = 0.1 \, \text{nm}$. Calculate $T$.  
+    - (a) 0.364  
+    - (b) 0.365  
+    - (c) 0.366  
+    - (d) 0.367
+
+30. A wave function $\psi(x) = \sqrt{\frac{2}{a}} \sin\left(\frac{\pi x}{a}\right)$ for $0 \leq x \leq a$. Calculate the probability between $x = 0$ and $x = \frac{a}{4}$.  
+    - (a) 0.09  
+    - (b) 0.10  
+    - (c) 0.11  
+    - (d) 0.12
+
+31. A spacecraft quantum system confines an electron in a box ($L = 0.5 \, \text{nm}$). Calculate $E_1$ in eV.  
+    - (a) 1.49 eV  
+    - (b) 1.50 eV  
+    - (c) 1.51 eV  
+    - (d) 1.52 eV
+
+32. A particle with $\Delta p = 2 \times 10^{-21} \, \text{kg·m/s}$. Calculate the minimum $\Delta x$ in meters.  
+    - (a) 2.63 $\times 10^{-14}$  
+    - (b) 2.64 $\times 10^{-14}$  
+    - (c) 2.65 $\times 10^{-14}$  
+    - (d) 2.66 $\times 10^{-14}$
+
+33. A particle in a box ($L = 1 \, \text{nm}$, $m = 1.67 \times 10^{-27} \, \text{kg}$). Calculate $E_2$ in eV.  
+    - (a) 0.000816 eV  
+    - (b) 0.000817 eV  
+    - (c) 0.000818 eV  
+    - (d) 0.000819 eV
+
+34. A wave function $\psi(x) = \sqrt{\frac{2}{a}} \sin\left(\frac{2\pi x}{a}\right)$ for $0 \leq x \leq a$. Calculate $\langle x \rangle$ in terms of $a$.  
+    - (a) $0.49a$  
+    - (b) $0.50a$  
+    - (c) $0.51a$  
+    - (d) $0.52a$
+
+35. An electron tunnels with $V_0 - E = 0.2 \, \text{eV}$, $a = 0.6 \, \text{nm}$. Calculate $T$.  
+    - (a) 0.042  
+    - (b) 0.043  
+    - (c) 0.044  
+    - (d) 0.045
+
+---
+
+## Conceptual Problems
+
+36. What does the wave function $\psi(x)$ represent?  
+    - (a) Probability of finding a particle  
+    - (b) Quantum state of a particle  
+    - (c) Energy of a particle  
+    - (d) Momentum of a particle
+
+37. What does $|\psi(x)|^2$ represent?  
+    - (a) Wave function  
+    - (b) Probability density  
+    - (c) Energy density  
+    - (d) Momentum density
+
+38. What is the unit of the wave function $\psi(x)$ in one dimension?  
+    - (a) m  
+    - (b) m$^{-1/2}$  
+    - (c) kg·m/s  
+    - (d) Joule
+
+39. What happens to the energy levels in a particle in a box as $n$ increases?  
+    - (a) Decrease  
+    - (b) Increase as $n^2$  
+    - (c) Remain the same  
+    - (d) Become zero
+
+40. What does quantum tunneling allow a particle to do?  
+    - (a) Increase its energy  
+    - (b) Pass through a potential barrier  
+    - (c) Reflect completely  
+    - (d) Absorb energy
+
+41. What is the unit of tunneling probability $T$?  
+    - (a) Dimensionless  
+    - (b) Meter  
+    - (c) Joule  
+    - (d) kg·m/s
+
+42. What does a smaller $\Delta x$ in the uncertainty principle indicate?  
+    - (a) Smaller $\Delta p$  
+    - (b) Larger $\Delta p$  
+    - (c) No change in $\Delta p$  
+    - (d) Zero $\Delta p$
+
+43. What happens to the tunneling probability as the barrier width $a$ increases?  
+    - (a) Increases  
+    - (b) Decreases  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+44. What does the particle in a box model demonstrate?  
+    - (a) Continuous energy levels  
+    - (b) Quantized energy levels  
+    - (c) Tunneling  
+    - (d) Uncertainty principle
+
+45. What is the dimension of $E_n$ in the particle in a box?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does the normalization condition $\int |\psi|^2 dx = 1$ ensure?  
+    - (a) Energy conservation  
+    - (b) Total probability is 1  
+    - (c) Momentum conservation  
+    - (d) Wave function is real
+
+47. What is the significance of $\frac{n^2 \pi^2 \hbar^2}{2 m L^2}$?  
+    - (a) Wave function  
+    - (b) Energy levels in a box  
+    - (c) Tunneling probability  
+    - (d) Uncertainty product
+
+48. What happens to the energy levels in a box as $L$ increases?  
+    - (a) Increase  
+    - (b) Decrease  
+    - (c) Remain the same  
+    - (d) Become zero
+
+49. What does the uncertainty principle apply to?  
+    - (a) Classical particles only  
+    - (b) Quantum particles only  
+    - (c) Both classical and quantum particles  
+    - (d) Photons only
+
+50. How does quantum tunneling assist in spacecraft nanotechnology?  
+    - (a) Increases energy  
+    - (b) Enables quantum switching in devices  
+    - (c) Reduces momentum  
+    - (d) Increases wavelength
+
+---
+
+## Derivation Problems
+
+51. Derive the probability density $|\psi(x)|^2$ for a particle in a box with $\psi(x) = \sqrt{\frac{2}{L}} \sin\left(\frac{n \pi x}{L}\right)$.
+
+52. Derive the energy levels $E_n = \frac{n^2 \pi^2 \hbar^2}{2 m L^2}$ for a particle in a box.
+
+53. Derive the tunneling probability $T \approx e^{-2 \kappa a}$ for a rectangular barrier.
+
+54. Derive the uncertainty principle $\Delta x \cdot \Delta p \geq \frac{\hbar}{2}$.
+
+55. Derive the wave function $\psi_n(x) = \sqrt{\frac{2}{L}} \sin\left(\frac{n \pi x}{L}\right)$ for a particle in a box.
+
+56. Derive the expectation value $\langle x \rangle$ for $\psi(x) = \sqrt{\frac{2}{L}} \sin\left(\frac{\pi x}{L}\right)$.
+
+57. Derive the probability of finding a particle in a box between $x = 0$ and $x = \frac{L}{2}$ for $n=1$.
+
+58. Derive the energy $E_1$ for an electron in a box of length $L$.
+
+59. Derive the tunneling probability $T$ for an electron with given $V_0 - E$ and $a$.
+
+60. Derive the minimum $\Delta p$ for a given $\Delta x$ using the uncertainty principle.
+
+61. Derive the number of nodes in a particle in a box wave function for a given $n$.
+
+62. Derive the minimum $\Delta x$ for a given $\Delta p$ using the uncertainty principle.
+
+63. Derive the energy difference $E_2 - E_1$ for a particle in a box.
+
+64. Derive the probability density for a particle in a box with $n=2$.
+
+65. Derive the minimum $\Delta t$ for a given $\Delta E$ using the uncertainty principle.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of energy $E_n$ in the particle in a box model?  
+    - (a) Joule  
+    - (b) Radian  
+    - (c) Hertz  
+    - (d) Watt
+
+67. What does a larger $n$ in the particle in a box indicate?  
+    - (a) Lower energy  
+    - (b) Higher energy  
+    - (c) No energy change  
+    - (d) Zero energy
+
+68. What is the relationship between $E_n$ and $L$ in the particle in a box?  
+    - (a) $E_n \propto L$  
+    - (b) $E_n \propto \frac{1}{L^2}$  
+    - (c) $E_n$ is independent of $L$  
+    - (d) $E_n \propto L^2$
+
+69. What happens to the tunneling probability if $V_0 - E$ increases?  
+    - (a) Increases  
+    - (b) Decreases  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+70. What is the dimension of $\Delta x \cdot \Delta p$?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-2}]$
+
+71. What does the boundary condition $\psi(0) = 0$ in a box represent?  
+    - (a) Infinite potential at the walls  
+    - (b) Zero probability at the walls  
+    - (c) Maximum probability at the walls  
+    - (d) Energy at the walls
+
+72. What is the role of the uncertainty principle in electron microscopy?  
+    - (a) Increases energy  
+    - (b) Limits resolution due to position-momentum uncertainty  
+    - (c) Reduces momentum  
+    - (d) Increases wavelength
+
+73. What happens to the number of nodes in a particle in a box as $n$ increases?  
+    - (a) Decreases  
+    - (b) Increases  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+74. Why does quantum tunneling occur in quantum mechanics?  
+    - (a) Due to classical mechanics  
+    - (b) Due to the wave nature of particles  
+    - (c) Due to high energy  
+    - (d) Due to low energy
+
+75. What is the unit of probability density $|\psi(x)|^2$ in one dimension?  
+    - (a) m$^{-1}$  
+    - (b) m  
+    - (c) Joule  
+    - (d) kg·m/s
+
+76. What does a larger $\Delta E$ in the uncertainty principle indicate?  
+    - (a) Larger $\Delta t$  
+    - (b) Smaller $\Delta t$  
+    - (c) No change in $\Delta t$  
+    - (d) Zero $\Delta t$
+
+77. Which quantum number determines the energy in a particle in a box?  
+    - (a) $l$  
+    - (b) $n$  
+    - (c) $m$  
+    - (d) $s$
+
+78. What is the effect of infinite potential walls in a box?  
+    - (a) Continuous energy levels  
+    - (b) Quantized energy levels  
+    - (c) No energy levels  
+    - (d) Random energy levels
+
+79. What does a pseudo-force do in a non-inertial frame for quantum calculations?  
+    - (a) Affects perceived wave function  
+    - (b) Affects energy  
+    - (c) Creates tunneling  
+    - (d) Reduces momentum
+
+80. What is the dimension of $\frac{\hbar^2}{2 m L^2}$?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of quantum tunneling in spacecraft quantum devices?  
+    - (a) Increases energy  
+    - (b) Enables nanoscale switching  
+    - (c) Reduces momentum  
+    - (d) Increases wavelength
+
+82. What happens to the wave function at the boundaries of a box?  
+    - (a) Maximum value  
+    - (b) Zero value  
+    - (c) Constant value  
+    - (d) Infinite value
+
+83. Why does the uncertainty principle limit precision in measurements?  
+    - (a) Due to $\Delta x \cdot \Delta p \geq \frac{\hbar}{2}$  
+    - (b) Due to classical mechanics  
+    - (c) Due to high energy  
+    - (d) Due to low energy
+
+84. What is the significance of $e^{-2 \kappa a}$?  
+    - (a) Wave function  
+    - (b) Energy level  
+    - (c) Tunneling probability  
+    - (d) Uncertainty product
+
+85. What is the unit of $\kappa$ in tunneling probability?  
+    - (a) m$^{-1}$  
+    - (b) m  
+    - (c) Joule  
+    - (d) kg·m/s
+
+86. What does a high tunneling probability indicate?  
+    - (a) High barrier width  
+    - (b) Low barrier width  
+    - (c) No barrier  
+    - (d) Constant barrier
+
+87. What is the physical significance of $\frac{\hbar}{2}$?  
+    - (a) Energy level  
+    - (b) Minimum uncertainty product  
+    - (c) Wave function  
+    - (d) Tunneling probability
+
+88. Why does the particle in a box have quantized energy levels?  
+    - (a) Due to infinite potential walls  
+    - (b) Due to continuous potential  
+    - (c) Due to tunneling  
+    - (d) Due to uncertainty
+
+89. What is the dimension of $\sin\left(\frac{n \pi x}{L}\right)$?  
+    - (a) Dimensionless  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+90. How does the uncertainty principle affect quantum systems in spacecraft?  
+    - (a) Increases energy  
+    - (b) Limits precision in navigation sensors  
+    - (c) Reduces momentum  
+    - (d) Increases wavelength
+
+91. What is the role of the quantum number $n$ in a box?  
+    - (a) Determines the wavelength  
+    - (b) Determines the energy level  
+    - (c) Determines the momentum  
+    - (d) Determines the position
+
+92. What does a large probability density $|\psi(x)|^2$ indicate?  
+    - (a) Low probability of finding the particle  
+    - (b) High probability of finding the particle  
+    - (c) No probability  
+    - (d) Constant probability
+
+93. What is the physical significance of $\frac{2}{L} \sin^2\left(\frac{n \pi x}{L}\right)$?  
+    - (a) Energy level  
+    - (b) Probability density in a box  
+    - (c) Tunneling probability  
+    - (d) Uncertainty product
+
+94. What is the dimension of $\Delta E \cdot \Delta t$?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-2}]$
+
+95. Why does tunneling probability depend on the particle’s mass?  
+    - (a) Due to $\kappa \propto \sqrt{m}$  
+    - (b) Due to energy levels  
+    - (c) Due to wave function  
+    - (d) Due to uncertainty
+
+---
+
+## NEET-style Numerical Problems
+
+96. A particle has $\psi(x) = \sqrt{\frac{2}{a}} \sin\left(\frac{\pi x}{a}\right)$ for $0 \leq x \leq a$. Calculate the probability between $x = \frac{a}{4}$ and $x = \frac{3a}{4}$.  
+    - (a) 0.817  
+    - (b) 0.818  
+    - (c) 0.819  
+    - (d) 0.820
+
+97. An electron in a box ($L = 1 \, \text{nm}$). Calculate $E_1$ in eV.  
+    - (a) 0.375 eV  
+    - (b) 0.376 eV  
+    - (c) 0.377 eV  
+    - (d) 0.378 eV
+
+98. An electron tunnels with $V_0 - E = 1 \, \text{eV}$, $a = 0.2 \, \text{nm}$. Calculate $T$.  
+    - (a) 0.364  
+    - (b) 0.365  
+    - (c) 0.366  
+    - (d) 0.367
+
+99. A particle with $\Delta x = 0.5 \, \text{nm}$. Calculate the minimum $\Delta p$ in kg·m/s.  
+    - (a) 1.05 $\times 10^{-25}$  
+    - (b) 1.06 $\times 10^{-25}$  
+    - (c) 1.07 $\times 10^{-25}$  
+    - (d) 1.08 $\times 10^{-25}$
+
+100. A particle in a box with $E_1 = 0.3 \, \text{eV}$, $n=2$. Calculate $E_2$ in eV.  
+    - (a) 1.1 eV  
+    - (b) 1.2 eV  
+    - (c) 1.3 eV  
+    - (d) 1.4 eV
 
 ## Back to Chapter
 [Return to More About Matter Waves Chapter](./index.md)

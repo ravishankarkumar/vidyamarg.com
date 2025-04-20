@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Entropy and the Second Law of Thermodynamics for JEE & NEET
 description: Comprehensive guide on entropy and the second law of thermodynamics for JEE and NEET, covering entropy changes, heat engines, refrigerators, Carnot cycle, and irreversibility, with extensive examples.
-slug: book/physics/entropy-thermodynamics
+slug: books/physics/entropy-thermodynamics
 keywords: physics entropy, JEE physics second law of thermodynamics, NEET physics Carnot cycle, heat engines
 og:image: https://vidyamarg.com/og-physics-entropy-thermodynamics.jpg
 ---
@@ -262,6 +262,6 @@ Our Hinglish video lessons make thermodynamics engaging! Subscribe for updates.
 
 [Watch Now](https://www.youtube.com/@VidyaMargbyRaviShankar-w9u)
 
-*Manim animation for visualizing entropy changes, Carnot cycle, and engine efficiency coming soon!*
+*Animation for visualizing entropy changes, Carnot cycle, and engine efficiency coming soon!*
 
 *Note: Content regularly updated to align with current JEE/NEET syllabi.*

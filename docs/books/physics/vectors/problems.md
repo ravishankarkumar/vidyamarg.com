@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Vectors Problems for JEE & NEET
 description: Practice 100 vectors problems for JEE and NEET, inspired by exam patterns, covering vector representation, addition, subtraction, components, dot and cross products, and applications.
-slug: book/physics/vectors-problems
+slug: books/physics/vectors/problems
 keywords: physics vectors problems, JEE physics vectors problems, NEET physics vectors problems, dot product, cross product
 og:image: https://vidyamarg.com/og-physics-vectors.jpg
 ---

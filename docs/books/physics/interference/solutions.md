@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Interference Solutions for JEE & NEET
 description: Sample solutions for interference of light problems, covering the principle of superposition, Young's double-slit experiment, thin film interference, and applications, tailored for JEE and NEET preparation.
-slug: book/physics/interference-solutions
+slug: books/physics/interference/solutions
 keywords: physics interference solutions, JEE physics wave optics solutions, NEET physics Young's double-slit solutions, interference patterns
 og:image: https://vidyamarg.com/og-physics-interference.jpg
 ---

@@ -1,221 +1,572 @@
 ---
 title: Physics Book - Relativity Problems for JEE & NEET
-description: Practice 100 special relativity problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
-slug: book/physics/relativity-problems
-keywords: physics special relativity problems, JEE physics time dilation problems, NEET physics mass-energy equivalence problems, modern physics
+description: Practice 100 problems on special relativity for JEE and NEET, inspired by exam patterns, covering postulates, time dilation, length contraction, relativistic dynamics, and mass-energy equivalence.
+slug: books/physics/relativity/problems
+keywords: physics relativity problems, JEE physics special relativity problems, NEET physics time dilation problems, mass-energy equivalence
 og:image: https://vidyamarg.com/og-physics-relativity.jpg
 ---
 
 # Relativity Problems
 
-This section provides **100 problems** to test your understanding of special relativity, including Einstein’s postulates, time dilation, length contraction, relativistic velocity addition, momentum, and mass-energy equivalence. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by difficulty and type to support progressive learning and build confidence.
+This section provides **100 problems** to test your understanding of special relativity, including calculations of the Lorentz factor, time dilation, length contraction, relativistic velocity, momentum, kinetic energy, and mass-energy conversion, as well as applications like nuclear reactions and spacecraft navigation. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering modern physics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward MCQs on time dilation, length contraction, velocity addition, and energy calculations, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: MCQs emphasizing real-world applications (e.g., relativistic effects, energy equivalence), inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A spaceship moves at $v = 0.6c$ relative to Earth. Calculate the Lorentz factor $\gamma$.  
+   - (a) 1.24  
+   - (b) 1.25  
+   - (c) 1.26  
+   - (d) 1.27
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A spaceship moves at 0.5c relative to Earth. A process takes 20 s in its rest frame. Calculate the time observed on Earth (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-   - Options: (a) 22.9 s (b) 23.0 s (c) 23.1 s (d) 23.2 s
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A rod has a proper length of 10 m. It moves at 0.6c relative to an observer. Calculate its observed length.
-   - Options: (a) 7.99 m (b) 8.00 m (c) 8.01 m (d) 8.02 m
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A spaceship moves at 0.7c, firing a missile at 0.4c in the same direction. Calculate the missile’s speed relative to Earth.
-   - Options: (a) 0.849c (b) 0.850c (c) 0.851c (d) 0.852c
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A particle with rest mass 9.11 × 10⁻³¹ kg moves at 0.8c. Calculate its total energy (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-   - Options: (a) 1.36 × 10⁻¹³ J (b) 1.37 × 10⁻¹³ J (c) 1.38 × 10⁻¹³ J (d) 1.39 × 10⁻¹³ J
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: A clock in a spaceship moving at 0.9c ticks every 5 s in its rest frame. Calculate the time interval observed on Earth.
-   - Options: (a) 11.4 s (b) 11.5 s (c) 11.6 s (d) 11.7 s
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A spaceship moves at 0.4c, firing a projectile at 0.3c in the same direction. Calculate the projectile’s speed relative to Earth.
-   - Options: (a) 0.649c (b) 0.650c (c) 0.651c (d) 0.652c
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A rod has a proper length of 5 m. It moves at 0.8c relative to an observer. Calculate its observed length.
-   - Options: (a) 2.99 m (b) 3.00 m (c) 3.01 m (d) 3.02 m
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A particle with rest mass 1.67 × 10⁻²⁷ kg moves at 0.6c. Calculate its relativistic momentum (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-   - Options: (a) 3.74 × 10⁻¹⁹ kg·m/s (b) 3.75 × 10⁻¹⁹ kg·m/s (c) 3.76 × 10⁻¹⁹ kg·m/s (d) 3.77 × 10⁻¹⁹ kg·m/s
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: A spaceship moves at 0.7c. A process takes 15 s in its rest frame. Calculate the time observed on Earth.
-   - Options: (a) 21.0 s (b) 21.1 s (c) 21.2 s (d) 21.3 s
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A particle with rest mass 9.11 × 10⁻³¹ kg moves at 0.9c. Calculate its kinetic energy (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 7.85 × 10⁻¹⁴ J (b) 7.86 × 10⁻¹⁴ J (c) 7.87 × 10⁻¹⁴ J (d) 7.88 × 10⁻¹⁴ J
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A rod has a proper length of 12 m. It moves at 0.5c relative to an observer. Calculate its observed length.
-    - Options: (a) 10.3 m (b) 10.4 m (c) 10.5 m (d) 10.6 m
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A spaceship moves at 0.8c, firing a missile at 0.6c in the same direction. Calculate the missile’s speed relative to Earth.
-    - Options: (a) 0.945c (b) 0.946c (c) 0.947c (d) 0.948c
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: A clock in a spaceship moving at 0.6c ticks every 8 s in its rest frame. Calculate the time interval observed on Earth.
-    - Options: (a) 9.99 s (b) 10.0 s (c) 10.1 s (d) 10.2 s
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A particle with rest mass 1.67 × 10⁻²⁷ kg moves at 0.7c. Calculate its total energy (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 2.09 × 10⁻¹⁰ J (b) 2.10 × 10⁻¹⁰ J (c) 2.11 × 10⁻¹⁰ J (d) 2.12 × 10⁻¹⁰ J
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A spaceship moves at 0.5c, firing a projectile at 0.5c in the same direction. Calculate the projectile’s speed relative to Earth.
-    - Options: (a) 0.799c (b) 0.800c (c) 0.801c (d) 0.802c
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A rod has a proper length of 15 m. It moves at 0.9c relative to an observer. Calculate its observed length.
-    - Options: (a) 6.54 m (b) 6.55 m (c) 6.56 m (d) 6.57 m
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A particle with rest mass 9.11 × 10⁻³¹ kg moves at 0.6c. Calculate its relativistic momentum (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 2.27 × 10⁻²² kg·m/s (b) 2.28 × 10⁻²² kg·m/s (c) 2.29 × 10⁻²² kg·m/s (d) 2.30 × 10⁻²² kg·m/s
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A clock in a spaceship moving at 0.8c ticks every 12 s in its rest frame. Calculate the time interval observed on Earth.
-    - Options: (a) 19.9 s (b) 20.0 s (c) 20.1 s (d) 20.2 s
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A spaceship moves at 0.6c, firing a missile at 0.7c in the same direction. Calculate the missile’s speed relative to Earth.
-    - Options: (a) 0.897c (b) 0.898c (c) 0.899c (d) 0.900c
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A particle with rest mass 1.67 × 10⁻²⁷ kg moves at 0.9c. Calculate its kinetic energy (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 1.90 × 10⁻¹⁰ J (b) 1.91 × 10⁻¹⁰ J (c) 1.92 × 10⁻¹⁰ J (d) 1.93 × 10⁻¹⁰ J
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A rod has a proper length of 8 m. It moves at 0.7c relative to an observer. Calculate its observed length.
-    - Options: (a) 5.71 m (b) 5.72 m (c) 5.73 m (d) 5.74 m
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A clock in a spaceship moving at 0.4c ticks every 10 s in its rest frame. Calculate the time interval observed on Earth.
-    - Options: (a) 10.7 s (b) 10.8 s (c) 10.9 s (d) 11.0 s
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: A spaceship moves at 0.9c, firing a projectile at 0.8c in the same direction. Calculate the projectile’s speed relative to Earth.
-    - Options: (a) 0.987c (b) 0.988c (c) 0.989c (d) 0.990c
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A particle with rest mass 9.11 × 10⁻³¹ kg moves at 0.7c. Calculate its total energy (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 1.04 × 10⁻¹³ J (b) 1.05 × 10⁻¹³ J (c) 1.06 × 10⁻¹³ J (d) 1.07 × 10⁻¹³ J
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A rod has a proper length of 20 m. It moves at 0.8c relative to an observer. Calculate its observed length.
-    - Options: (a) 11.9 m (b) 12.0 m (c) 12.1 m (d) 12.2 m
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A clock in a spaceship moving at 0.5c ticks every 6 s in its rest frame. Calculate the time interval observed on Earth.
-    - Options: (a) 6.92 s (b) 6.93 s (c) 6.94 s (d) 6.95 s
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A particle with rest mass 1.67 × 10⁻²⁷ kg moves at 0.8c. Calculate its relativistic momentum (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 5.00 × 10⁻¹⁹ kg·m/s (b) 5.01 × 10⁻¹⁹ kg·m/s (c) 5.02 × 10⁻¹⁹ kg·m/s (d) 5.03 × 10⁻¹⁹ kg·m/s
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A spaceship moves at 0.7c, firing a missile at 0.5c in the same direction. Calculate the missile’s speed relative to Earth.
-    - Options: (a) 0.889c (b) 0.890c (c) 0.891c (d) 0.892c
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A particle with rest mass 9.11 × 10⁻³¹ kg moves at 0.9c. Calculate its total energy (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 1.87 × 10⁻¹³ J (b) 1.88 × 10⁻¹³ J (c) 1.89 × 10⁻¹³ J (d) 1.90 × 10⁻¹³ J
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A clock in a spaceship moving at 0.6c ticks every 4 s in its rest frame. Calculate the time interval observed on Earth.
-    - Options: (a) 4.99 s (b) 5.00 s (c) 5.01 s (d) 5.02 s
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A rod has a proper length of 6 m. It moves at 0.4c relative to an observer. Calculate its observed length.
-    - Options: (a) 5.39 m (b) 5.40 m (c) 5.41 m (d) 5.42 m
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A particle with rest mass 1.67 × 10⁻²⁷ kg moves at 0.5c. Calculate its relativistic momentum (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 2.88 × 10⁻¹⁹ kg·m/s (b) 2.89 × 10⁻¹⁹ kg·m/s (c) 2.90 × 10⁻¹⁹ kg·m/s (d) 2.91 × 10⁻¹⁹ kg·m/s
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A spaceship moves at 0.8c, firing a missile at 0.7c in the same direction. Calculate the missile’s speed relative to Earth.
-    - Options: (a) 0.964c (b) 0.965c (c) 0.966c (d) 0.967c
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A particle with rest mass 9.11 × 10⁻³¹ kg moves at 0.8c. Calculate its kinetic energy (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 5.44 × 10⁻¹⁴ J (b) 5.45 × 10⁻¹⁴ J (c) 5.46 × 10⁻¹⁴ J (d) 5.47 × 10⁻¹⁴ J
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A rod has a proper length of 18 m. It moves at 0.6c relative to an observer. Calculate its observed length.
-    - Options: (a) 14.3 m (b) 14.4 m (c) 14.5 m (d) 14.6 m
+2. A clock on a spaceship moving at $v = 0.8c$ measures 5 s. Calculate the time interval in the Earth frame.  
+   - (a) 8.32 s  
+   - (b) 8.33 s  
+   - (c) 8.34 s  
+   - (d) 8.35 s
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: What is the first postulate of special relativity?
-   - Options: (a) Same laws in inertial frames (b) Constant light speed (c) No postulate (d) Fixed postulate
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: What is time dilation?
-   - Options: (a) Slower moving clocks (b) Faster clocks (c) No dilation (d) Fixed dilation
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: What is the formula for length contraction?
-   - Options: (a) \( L = L_0 \sqrt{1 - v^2/c^2} \) (b) \( L = L_0 / \sqrt{1 - v^2/c^2} \) (c) No formula (d) Fixed formula
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: What is relativistic velocity addition?
-   - Options: (a) \( \frac{u + v}{1 + uv/c^2} \) (b) \( u + v \) (c) No addition (d) Fixed addition
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: What is mass-energy equivalence?
-   - Options: (a) \( E = mc^2 \) (b) \( E = mv^2/2 \) (c) No equivalence (d) Fixed equivalence
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: What is the unit of relativistic energy?
-   - Options: (a) Joule (b) Newton (c) No unit (d) Fixed unit
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Why is light speed constant?
-   - Options: (a) Second postulate (b) First postulate (c) No reason (d) Fixed reason
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: What is proper time?
-   - Options: (a) Rest frame time (b) Moving frame time (c) No time (d) Fixed time
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: How does velocity affect momentum?
-   - Options: (a) Increases via \( \gamma \) (b) Decreases (c) No effect (d) Fixed effect
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: What is the significance of \( E_0 = m_0 c^2 \)?
-   - Options: (a) Rest energy (b) Kinetic energy (c) No energy (d) Fixed energy
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Why does length contract?
-   - Options: (a) Relative motion (b) No contraction (c) Fixed contraction (d) Only theoretical
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: What is relativistic momentum?
-   - Options: (a) \( \gamma m_0 v \) (b) \( m_0 v \) (c) No momentum (d) Fixed momentum
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: How is \( \gamma \) defined?
-   - Options: (a) \( \frac{1}{\sqrt{1 - v^2/c^2}} \) (b) \( \sqrt{1 - v^2/c^2} \) (c) No definition (d) Fixed definition
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: What is the role of \( c \)?
-   - Options: (a) Universal constant (b) No role (c) Fixed role (d) Only theoretical
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: Why study relativity?
-   - Options: (a) High-speed physics (b) No use (c) Fixed use (d) Only theoretical
+3. A rod has a proper length $L_0 = 10 \, \text{m}$ and moves at $v = 0.5c$ relative to an observer. Calculate its length in the observer’s frame.  
+   - (a) 8.65 m  
+   - (b) 8.66 m  
+   - (c) 8.67 m  
+   - (d) 8.68 m
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the time dilation formula.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the length contraction formula.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the relativistic velocity addition formula.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the mass-energy equivalence formula.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the relativistic momentum formula.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the Lorentz factor \( \gamma \).
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the kinetic energy in relativity.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the total energy formula.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the relation between proper and observed time.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the relativistic addition of velocities.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the rest energy formula.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the effect of velocity on mass.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the length contraction from Lorentz transformations.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the momentum-energy relation.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the time dilation using light clocks.
+4. A rocket moves at $v = 0.6c$ relative to Earth. A projectile is fired from the rocket at $u' = 0.4c$ in the same direction. Calculate the projectile’s speed in the Earth frame.  
+   - (a) 0.806c  
+   - (b) 0.807c  
+   - (c) 0.808c  
+   - (d) 0.809c
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: What is special relativity’s first postulate?
-   - Options: (a) Same laws (b) Light speed (c) No postulate (d) Fixed postulate
-67. **Problem 67 (NEET, 2022)**: What is time dilation?
-   - Options: (a) Slower clocks (b) Faster clocks (c) No dilation (d) Fixed dilation
-68. **Problem 68 (NEET, 2021)**: What is length contraction?
-   - Options: (a) Shorter length (b) Longer length (c) No contraction (d) Fixed contraction
-69. **Problem 69 (NEET, 2024)**: What is velocity addition in relativity?
-   - Options: (a) Modified addition (b) Classical addition (c) No addition (d) Fixed addition
-70. **Problem 70 (NEET, 2020)**: What is \( E = mc^2 \)?
-   - Options: (a) Mass-energy (b) Kinetic energy (c) No energy (d) Fixed energy
-71. **Problem 71 (NEET, 2023)**: What is the unit of energy?
-   - Options: (a) Joule (b) Meter (c) No unit (d) Fixed unit
-72. **Problem 72 (NEET, 2022)**: Why is light speed constant?
-   - Options: (a) Postulate (b) No reason (c) Fixed reason (d) Only theoretical
-73. **Problem 73 (NEET, 2021)**: What is proper time?
-   - Options: (a) Rest frame (b) Moving frame (c) No time (d) Fixed time
-74. **Problem 74 (NEET, 2024)**: How does velocity affect momentum?
-   - Options: (a) Increases (b) Decreases (c) No effect (d) Fixed effect
-75. **Problem 75 (NEET, 2020)**: What is rest energy?
-   - Options: (a) \( m_0 c^2 \) (b) \( mv^2/2 \) (c) No energy (d) Fixed energy
-76. **Problem 76 (NEET, 2023)**: Why does length contract?
-   - Options: (a) Motion (b) No contraction (c) Fixed contraction (d) Only theoretical
-77. **Problem 77 (NEET, 2022)**: What is relativistic momentum?
-   - Options: (a) Modified momentum (b) Classical (c) No momentum (d) Fixed momentum
-78. **Problem 78 (NEET, 2021)**: What is \( \gamma \)?
-   - Options: (a) Lorentz factor (b) No factor (c) Fixed factor (d) Only theoretical
-79. **Problem 79 (NEET, 2024)**: What is \( c \)?
-   - Options: (a) Light speed (b) No speed (c) Fixed speed (d) Only theoretical
-80. **Problem 80 (NEET, 2020)**: Why study relativity?
-   - Options: (a) Modern physics (b) No use (c) Fixed use (d) Only theoretical
-81. **Problem 81 (NEET, 2023)**: What is GPS’s relation to relativity?
-   - Options: (a) Time dilation correction (b) No relation (c) Fixed relation (d) Only theoretical
-82. **Problem 82 (NEET, 2022)**: What is the unit of momentum?
-   - Options: (a) kg·m/s (b) Joule (c) No unit (d) Fixed unit
-83. **Problem 83 (NEET, 2021)**: How does relativity affect time?
-   - Options: (a) Slows moving clocks (b) Speeds clocks (c) No effect (d) Fixed effect
-84. **Problem 84 (NEET, 2024)**: What is a particle accelerator’s relation to relativity?
-   - Options: (a) High-speed effects (b) No relation (c) Fixed relation (d) Only theoretical
-85. **Problem 85 (NEET, 2020)**: Why is mass-energy equivalent?
-   - Options: (a) Einstein’s theory (b) No equivalence (c) Fixed equivalence (d) Only theoretical
-86. **Problem 86 (NEET, 2023)**: How does speed affect energy?
-   - Options: (a) Increases via \( \gamma \) (b) Decreases (c) No effect (d) Fixed effect
-87. **Problem 87 (NEET, 2022)**: What is the role of inertial frames?
-   - Options: (a) Same laws (b) No role (c) Fixed role (d) Only theoretical
-88. **Problem 88 (NEET, 2021)**: Why use relativity in nuclear reactions?
-   - Options: (a) Energy conversion (b) No use (c) Fixed use (d) Only theoretical
-89. **Problem 89 (NEET, 2024)**: What is proper length?
-   - Options: (a) Rest frame length (b) Moving frame (c) No length (d) Fixed length
-90. **Problem 90 (NEET, 2020)**: How does velocity affect \( \gamma \)?
-   - Options: (a) Increases with speed (b) Decreases (c) No effect (d) Fixed effect
-91. **Problem 91 (NEET, 2023)**: Why is relativity counterintuitive?
-   - Options: (a) Non-classical effects (b) Classical effects (c) No effects (d) Fixed effects
-92. **Problem 92 (NEET, 2022)**: What is the role of \( m_0 \)?
-   - Options: (a) Rest mass (b) Moving mass (c) No mass (d) Fixed mass
-93. **Problem 93 (NEET, 2021)**: How does relativity affect velocity?
-   - Options: (a) Modified addition (b) Classical addition (c) No effect (d) Fixed effect
-94. **Problem 94 (NEET, 2024)**: What is the unit of \( \gamma \)?
-   - Options: (a) None (b) Meter (c) Second (d) Fixed unit
-95. **Problem 95 (NEET, 2020)**: Why is light speed universal?
-   - Options: (a) Postulate (b) No reason (c) Fixed reason (d) Only theoretical
+5. A particle with rest mass $m_0 = 1 \, \text{kg}$ moves at $v = 0.8c$. Calculate its relativistic momentum.  
+   - (a) $3.99 \times 10^8 \, \text{kg·m/s}$  
+   - (b) $4.00 \times 10^8 \, \text{kg·m/s}$  
+   - (c) $4.01 \times 10^8 \, \text{kg·m/s}$  
+   - (d) $4.02 \times 10^8 \, \text{kg·m/s}$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A spaceship moves at 0.6c. A process takes 10 s in its rest frame. Calculate the time observed on Earth (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-   - Options: (a) 12.4 s (b) 12.5 s (c) 12.6 s (d) 12.7 s
-97. **Problem 97 (NEET, 2022)**: A rod has a proper length of 10 m. It moves at 0.8c relative to an observer. Calculate its observed length.
-   - Options: (a) 5.99 m (b) 6.00 m (c) 6.01 m (d) 6.02 m
-98. **Problem 98 (NEET, 2021)**: A spaceship moves at 0.5c, firing a missile at 0.5c in the same direction. Calculate the missile’s speed relative to Earth.
-    - Options: (a) 0.799c (b) 0.800c (c) 0.801c (d) 0.802c
-99. **Problem 99 (NEET, 2024)**: A particle with rest mass 9.11 × 10⁻³¹ kg moves at 0.6c. Calculate its total energy (\( c = 3.00 \times 10^8 \, \text{m/s} \)).
-    - Options: (a) 1.02 × 10⁻¹³ J (b) 1.03 × 10⁻¹³ J (c) 1.04 × 10⁻¹³ J (d) 1.05 × 10⁻¹³ J
-100. **Problem 100 (NEET, 2020)**: A clock in a spaceship moving at 0.7c ticks every 5 s in its rest frame. Calculate the time interval observed on Earth.
-    - Options: (a) 6.99 s (b) 7.00 s (c) 7.01 s (d) 7.02 s
+6. An electron ($m_0 = 9.11 \times 10^{-31} \, \text{kg}$) moves at $v = 0.99c$. Calculate its kinetic energy in MeV.  
+   - (a) 1.54 MeV  
+   - (b) 1.55 MeV  
+   - (c) 1.56 MeV  
+   - (d) 1.57 MeV
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. A nuclear reaction has a mass defect of $\Delta m = 0.02 \, \text{kg}$. Calculate the energy released in joules.  
+   - (a) $1.79 \times 10^{15} \, \text{J}$  
+   - (b) $1.80 \times 10^{15} \, \text{J}$  
+   - (c) $1.81 \times 10^{15} \, \text{J}$  
+   - (d) $1.82 \times 10^{15} \, \text{J}$
 
-[View Solutions](/books/physics/relativity/solutions) -->
+8. A spaceship moves at $v = 0.9c$. A clock on the ship measures 2 s. Calculate the time in the Earth frame.  
+   - (a) 4.57 s  
+   - (b) 4.58 s  
+   - (c) 4.59 s  
+   - (d) 4.60 s
+
+9. A rod ($L_0 = 20 \, \text{m}$) moves at $v = 0.6c$. Calculate its length in the observer’s frame.  
+   - (a) 15.99 m  
+   - (b) 16.00 m  
+   - (c) 16.01 m  
+   - (d) 16.02 m
+
+10. A rocket at $v = 0.7c$ fires a projectile at $u' = 0.5c$ in the same direction. Calculate the projectile’s speed in the Earth frame.  
+    - (a) 0.909c  
+    - (b) 0.910c  
+    - (c) 0.911c  
+    - (d) 0.912c
+
+11. A proton ($m_0 = 1.67 \times 10^{-27} \, \text{kg}$) moves at $v = 0.95c$. Calculate its momentum.  
+    - (a) $1.59 \times 10^{-18} \, \text{kg·m/s}$  
+    - (b) $1.60 \times 10^{-18} \, \text{kg·m/s}$  
+    - (c) $1.61 \times 10^{-18} \, \text{kg·m/s}$  
+    - (d) $1.62 \times 10^{-18} \, \text{kg·m/s}$
+
+12. A particle ($m_0 = 2 \, \text{kg}$, $v = 0.5c$). Calculate its kinetic energy in joules.  
+    - (a) $2.07 \times 10^{16} \, \text{J}$  
+    - (b) $2.08 \times 10^{16} \, \text{J}$  
+    - (c) $2.09 \times 10^{16} \, \text{J}$  
+    - (d) $2.10 \times 10^{16} \, \text{J}$
+
+13. A photon has energy $E = 3 \, \text{MeV}$. Calculate its momentum.  
+    - (a) $1.59 \times 10^{-21} \, \text{kg·m/s}$  
+    - (b) $1.60 \times 10^{-21} \, \text{kg·m/s}$  
+    - (c) $1.61 \times 10^{-21} \, \text{kg·m/s}$  
+    - (d) $1.62 \times 10^{-21} \, \text{kg·m/s}$
+
+14. A spaceship ($v = 0.99c$) measures a time interval of 1 s. Calculate the time in the Earth frame.  
+    - (a) 7.08 s  
+    - (b) 7.09 s  
+    - (c) 7.10 s  
+    - (d) 7.11 s
+
+15. A rod ($L_0 = 5 \, \text{m}$) moves at $v = 0.8c$. Calculate its length in the observer’s frame.  
+    - (a) 2.99 m  
+    - (b) 3.00 m  
+    - (c) 3.01 m  
+    - (d) 3.02 m
+
+16. A rocket at $v = 0.4c$ fires a projectile at $u' = 0.3c$ in the same direction. Calculate the projectile’s speed in the Earth frame.  
+    - (a) 0.649c  
+    - (b) 0.650c  
+    - (c) 0.651c  
+    - (d) 0.652c
+
+17. A particle ($m_0 = 1 \, \text{kg}$, $v = 0.9c$). Calculate its total energy in joules.  
+    - (a) $2.06 \times 10^{17} \, \text{J}$  
+    - (b) $2.07 \times 10^{17} \, \text{J}$  
+    - (c) $2.08 \times 10^{17} \, \text{J}$  
+    - (d) $2.09 \times 10^{17} \, \text{J}$
+
+18. A muon ($v = 0.98c$, $\tau_0 = 2.2 \, \mu\text{s}$). Calculate its lifetime in the lab frame.  
+    - (a) 11.0 $\mu$s  
+    - (b) 11.1 $\mu$s  
+    - (c) 11.2 $\mu$s  
+    - (d) 11.3 $\mu$s
+
+19. A rod ($L_0 = 15 \, \text{m}$) moves at $v = 0.95c$. Calculate its length in the observer’s frame.  
+    - (a) 4.67 m  
+    - (b) 4.68 m  
+    - (c) 4.69 m  
+    - (d) 4.70 m
+
+20. A spaceship at $v = 0.85c$ fires a projectile at $u' = 0.6c$ in the same direction. Calculate the projectile’s speed in the Earth frame.  
+    - (a) 0.961c  
+    - (b) 0.962c  
+    - (c) 0.963c  
+    - (d) 0.964c
+
+21. An electron ($m_0 = 9.11 \times 10^{-31} \, \text{kg}$) moves at $v = 0.9c$. Calculate its momentum.  
+    - (a) $1.87 \times 10^{-22} \, \text{kg·m/s}$  
+    - (b) $1.88 \times 10^{-22} \, \text{kg·m/s}$  
+    - (c) $1.89 \times 10^{-22} \, \text{kg·m/s}$  
+    - (d) $1.90 \times 10^{-22} \, \text{kg·m/s}$
+
+22. A particle ($m_0 = 3 \, \text{kg}$, $v = 0.6c$). Calculate its kinetic energy in joules.  
+    - (a) $3.37 \times 10^{16} \, \text{J}$  
+    - (b) $3.38 \times 10^{16} \, \text{J}$  
+    - (c) $3.39 \times 10^{16} \, \text{J}$  
+    - (d) $3.40 \times 10^{16} \, \text{J}$
+
+23. A photon has energy $E = 1 \, \text{MeV}$. Calculate its momentum.  
+    - (a) $5.33 \times 10^{-22} \, \text{kg·m/s}$  
+    - (b) $5.34 \times 10^{-22} \, \text{kg·m/s}$  
+    - (c) $5.35 \times 10^{-22} \, \text{kg·m/s}$  
+    - (d) $5.36 \times 10^{-22} \, \text{kg·m/s}$
+
+24. A spaceship ($v = 0.7c$) measures 3 s. Calculate the time in the Earth frame.  
+    - (a) 4.19 s  
+    - (b) 4.20 s  
+    - (c) 4.21 s  
+    - (d) 4.22 s
+
+25. A rod ($L_0 = 8 \, \text{m}$) moves at $v = 0.4c$. Calculate its length in the observer’s frame.  
+    - (a) 7.41 m  
+    - (b) 7.42 m  
+    - (c) 7.43 m  
+    - (d) 7.44 m
+
+26. A rocket at $v = 0.5c$ fires a projectile at $u' = 0.2c$ in the same direction. Calculate the projectile’s speed in the Earth frame.  
+    - (a) 0.636c  
+    - (b) 0.637c  
+    - (c) 0.638c  
+    - (d) 0.639c
+
+27. A particle ($m_0 = 1 \, \text{kg}$, $v = 0.95c$). Calculate its total energy in joules.  
+    - (a) $2.87 \times 10^{17} \, \text{J}$  
+    - (b) $2.88 \times 10^{17} \, \text{J}$  
+    - (c) $2.89 \times 10^{17} \, \text{J}$  
+    - (d) $2.90 \times 10^{17} \, \text{J}$
+
+28. A muon ($v = 0.99c$, $\tau_0 = 2.2 \, \mu\text{s}$). Calculate its lifetime in the lab frame.  
+    - (a) 15.5 $\mu$s  
+    - (b) 15.6 $\mu$s  
+    - (c) 15.7 $\mu$s  
+    - (d) 15.8 $\mu$s
+
+29. A rod ($L_0 = 12 \, \text{m}$) moves at $v = 0.9c$. Calculate its length in the observer’s frame.  
+    - (a) 5.22 m  
+    - (b) 5.23 m  
+    - (c) 5.24 m  
+    - (d) 5.25 m
+
+30. A rocket at $v = 0.8c$ fires a projectile at $u' = 0.7c$ in the same direction. Calculate the projectile’s speed in the Earth frame.  
+    - (a) 0.974c  
+    - (b) 0.975c  
+    - (c) 0.976c  
+    - (d) 0.977c
+
+31. A spacecraft converts 0.05 kg of mass to energy for propulsion. Calculate the energy released in joules.  
+    - (a) $4.49 \times 10^{15} \, \text{J}$  
+    - (b) $4.50 \times 10^{15} \, \text{J}$  
+    - (c) $4.51 \times 10^{15} \, \text{J}$  
+    - (d) $4.52 \times 10^{15} \, \text{J}$
+
+32. A particle ($m_0 = 1 \, \text{kg}$, $v = 0.99c$). Calculate its kinetic energy in joules.  
+    - (a) $5.49 \times 10^{17} \, \text{J}$  
+    - (b) $5.50 \times 10^{17} \, \text{J}$  
+    - (c) $5.51 \times 10^{17} \, \text{J}$  
+    - (d) $5.52 \times 10^{17} \, \text{J}$
+
+33. A spaceship ($v = 0.5c$) measures 4 s. Calculate the time in the Earth frame.  
+    - (a) 4.61 s  
+    - (b) 4.62 s  
+    - (c) 4.63 s  
+    - (d) 4.64 s
+
+34. A rod ($L_0 = 25 \, \text{m}$) moves at $v = 0.85c$. Calculate its length in the observer’s frame.  
+    - (a) 13.05 m  
+    - (b) 13.06 m  
+    - (c) 13.07 m  
+    - (d) 13.08 m
+
+35. A proton ($m_0 = 1.67 \times 10^{-27} \, \text{kg}$, $v = 0.9c$). Calculate its total energy in joules.  
+    - (a) $3.44 \times 10^{-10} \, \text{J}$  
+    - (b) $3.45 \times 10^{-10} \, \text{J}$  
+    - (c) $3.46 \times 10^{-10} \, \text{J}$  
+    - (d) $3.47 \times 10^{-10} \, \text{J}$
+
+---
+
+## Conceptual Problems
+
+36. What does the first postulate of special relativity state?  
+   - (a) Speed of light varies in different frames  
+   - (b) Laws of physics are the same in all inertial frames  
+   - (c) Time is absolute across all frames  
+   - (d) Space is absolute across all frames
+
+37. What does the second postulate of special relativity state?  
+   - (a) Speed of light depends on the source’s motion  
+   - (b) Speed of light is constant in all inertial frames  
+   - (c) Speed of light is zero in moving frames  
+   - (d) Speed of light varies with observer’s motion
+
+38. What is the unit of the Lorentz factor $\gamma$?  
+   - (a) Meter  
+   - (b) Second  
+   - (c) Dimensionless  
+   - (d) Joule
+
+39. What happens to a clock moving relative to an observer?  
+   - (a) Ticks faster  
+   - (b) Ticks slower  
+   - (c) Stops ticking  
+   - (d) No change
+
+40. What does length contraction affect?  
+   - (a) Length perpendicular to motion  
+   - (b) Length parallel to motion  
+   - (c) Both directions  
+   - (d) No direction
+
+41. What is the unit of relativistic momentum $p$?  
+   - (a) kg·m/s  
+   - (b) Joule  
+   - (c) Watt  
+   - (d) Newton
+
+42. What does a larger $\gamma$ indicate?  
+   - (a) Lower speed  
+   - (b) Higher speed  
+   - (c) No speed  
+   - (d) Constant speed
+
+43. What happens to an object’s length as its speed approaches $c$?  
+   - (a) Increases  
+   - (b) Decreases to zero  
+   - (c) Remains the same  
+   - (d) Becomes infinite
+
+44. What does $E = mc^2$ represent?  
+   - (a) Kinetic energy  
+   - (b) Mass-energy equivalence  
+   - (c) Potential energy  
+   - (d) Momentum
+
+45. What is the dimension of relativistic energy $E$?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+46. What does proper time $\Delta t_0$ represent?  
+    - (a) Time in the observer’s frame  
+    - (b) Time in the moving frame  
+    - (c) Time in the rest frame of the event  
+    - (d) Time in all frames
+
+47. What is the significance of $\frac{u' + v}{1 + \frac{u' v}{c^2}}$?  
+    - (a) Classical velocity addition  
+    - (b) Relativistic velocity addition  
+    - (c) Time dilation  
+    - (d) Length contraction
+
+48. What happens to kinetic energy as $v \to c$?  
+    - (a) Becomes zero  
+    - (b) Approaches infinity  
+    - (c) Remains constant  
+    - (d) Decreases
+
+49. What does $E_0 = m_0 c^2$ represent?  
+    - (a) Kinetic energy  
+    - (b) Rest energy  
+    - (c) Total energy  
+    - (d) Momentum
+
+50. How does relativity assist in spacecraft navigation?  
+    - (a) Increases speed  
+    - (b) Accounts for time dilation in timing systems  
+    - (c) Reduces mass  
+    - (d) Increases length
+
+---
+
+## Derivation Problems
+
+51. Derive the Lorentz factor $\gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}$.
+
+52. Derive the time dilation formula $\Delta t = \gamma \Delta t_0$.
+
+53. Derive the length contraction formula $L = \frac{L_0}{\gamma}$.
+
+54. Derive the relativistic velocity addition formula $u = \frac{u' + v}{1 + \frac{u' v}{c^2}}$.
+
+55. Derive the relativistic momentum $p = \gamma m_0 v$.
+
+56. Derive the relativistic kinetic energy $KE = (\gamma - 1) m_0 c^2$.
+
+57. Derive the mass-energy equivalence $E = mc^2$.
+
+58. Derive the energy-momentum relation $E^2 = (pc)^2 + (m_0 c^2)^2$.
+
+59. Derive the time dilation for a moving muon’s lifetime.
+
+60. Derive the relativistic momentum of a particle moving at $v = 0.9c$.
+
+61. Derive the kinetic energy of a particle at low speeds ($v \ll c$).
+
+62. Derive the total energy of a photon using $E = pc$.
+
+63. Derive the length contraction for a moving rod at $v = 0.8c$.
+
+64. Derive the velocity addition for a projectile fired from a moving rocket.
+
+65. Derive the rest energy of an electron in eV.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of energy $E$ in SI units?  
+    - (a) Joule  
+    - (b) Radian  
+    - (c) Hertz  
+    - (d) Watt
+
+67. What does a clock at rest relative to an observer measure?  
+    - (a) Dilated time  
+    - (b) Proper time  
+    - (c) No time  
+    - (d) Infinite time
+
+68. What is the relationship between $\gamma$ and speed $v$?  
+    - (a) $\gamma \propto v$  
+    - (b) $\gamma$ increases with $v$  
+    - (c) $\gamma$ decreases with $v$  
+    - (d) $\gamma$ is independent of $v$
+
+69. What happens to simultaneity in different inertial frames?  
+    - (a) Always simultaneous  
+    - (b) Not simultaneous  
+    - (c) No effect  
+    - (d) Infinite simultaneity
+
+70. What is the dimension of momentum $p$?  
+    - (a) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (b) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+71. What does proper length $L_0$ represent?  
+    - (a) Length in the observer’s frame  
+    - (b) Length in the moving frame  
+    - (c) Length in the rest frame of the object  
+    - (d) Length in all frames
+
+72. What is the role of relativity in GPS systems?  
+    - (a) Increases speed  
+    - (b) Corrects for time dilation effects  
+    - (c) Reduces mass  
+    - (d) Increases length
+
+73. What happens to relativistic mass as $v \to c$?  
+    - (a) Becomes zero  
+    - (b) Approaches infinity  
+    - (c) Remains the same  
+    - (d) Decreases
+
+74. Why does a muon’s lifetime increase in the lab frame?  
+    - (a) Due to length contraction  
+    - (b) Due to time dilation  
+    - (c) Due to mass increase  
+    - (d) Due to velocity addition
+
+75. What is the unit of mass defect $\Delta m$?  
+    - (a) Kilogram  
+    - (b) Joule  
+    - (c) Watt  
+    - (d) Radian
+
+76. What does a velocity $u = c$ indicate in velocity addition?  
+    - (a) Exceeds $c$  
+    - (b) Equals $c$ for light  
+    - (c) Becomes zero  
+    - (d) Becomes infinite
+
+77. Which frame measures the proper time of an event?  
+    - (a) Moving frame  
+    - (b) Rest frame of the event  
+    - (c) Observer’s frame  
+    - (d) All frames
+
+78. What is the effect of relativity on simultaneity?  
+    - (a) Absolute simultaneity  
+    - (b) Relative simultaneity  
+    - (c) No simultaneity  
+    - (d) Infinite simultaneity
+
+79. What does a pseudo-force do in a non-inertial frame for relativity?  
+    - (a) Affects perceived time dilation  
+    - (b) Affects mass  
+    - (c) Creates energy  
+    - (d) Reduces momentum
+
+80. What is the dimension of $\gamma m_0$?  
+    - (a) $[\text{M}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of relativity in spacecraft propulsion?  
+    - (a) Increases speed  
+    - (b) Converts mass to energy for propulsion  
+    - (c) Reduces mass  
+    - (d) Increases length
+
+82. What happens to an object’s length perpendicular to its motion?  
+    - (a) Contracts  
+    - (b) Expands  
+    - (c) Remains the same  
+    - (d) Becomes zero
+
+83. Why does relativistic momentum increase with speed?  
+    - (a) Due to $p = \gamma m_0 v$  
+    - (b) Due to length contraction  
+    - (c) Due to time dilation  
+    - (d) Due to mass defect
+
+84. What is the significance of $(\gamma - 1) m_0 c^2$?  
+    - (a) Rest energy  
+    - (b) Kinetic energy  
+    - (c) Total energy  
+    - (d) Momentum
+
+85. What is the unit of speed $c$?  
+    - (a) m/s  
+    - (b) Joule  
+    - (c) Hertz  
+    - (d) Watt
+
+86. What does a high relativistic energy indicate?  
+    - (a) Low speed  
+    - (b) High speed  
+    - (c) No speed  
+    - (d) Constant speed
+
+87. What is the physical significance of $(pc)^2 + (m_0 c^2)^2$?  
+    - (a) Kinetic energy  
+    - (b) Total energy squared  
+    - (c) Momentum  
+    - (d) Mass defect
+
+88. Why does the speed of light remain constant in all frames?  
+    - (a) Due to the first postulate  
+    - (b) Due to the second postulate  
+    - (c) Due to time dilation  
+    - (d) Due to length contraction
+
+89. What is the dimension of $\frac{v}{c}$?  
+    - (a) Dimensionless  
+    - (b) $[\text{L} \text{T}^{-1}]$  
+    - (c) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (d) $[\text{L} \text{T}^{-2}]$
+
+90. How does relativity affect nuclear reactions?  
+    - (a) Increases mass  
+    - (b) Converts mass defect to energy  
+    - (c) Reduces energy  
+    - (d) Increases momentum
+
+91. What is the role of the Lorentz factor $\gamma$?  
+    - (a) Measures speed  
+    - (b) Relates quantities between inertial frames  
+    - (c) Reduces energy  
+    - (d) Increases length
+
+92. What does a dilated time interval indicate?  
+    - (a) Faster clock  
+    - (b) Slower clock in the moving frame  
+    - (c) No clock  
+    - (d) Constant clock
+
+93. What is the physical significance of $m_0 c^2$?  
+    - (a) Kinetic energy  
+    - (b) Rest energy  
+    - (c) Total energy  
+    - (d) Momentum
+
+94. What is the dimension of $E = mc^2$?  
+    - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+    - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+    - (c) $[\text{L} \text{T}^{-2}]$  
+    - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does relativistic velocity addition ensure $u \leq c$?  
+    - (a) Due to $\frac{u' v}{c^2}$ term  
+    - (b) Due to length contraction  
+    - (c) Due to time dilation  
+    - (d) Due to mass increase
+
+---
+
+## NEET-style Numerical Problems
+
+96. A spaceship moves at $v = 0.7c$. Calculate the Lorentz factor $\gamma$.  
+    - (a) 1.39  
+    - (b) 1.40  
+    - (c) 1.41  
+    - (d) 1.42
+
+97. A clock on a spaceship ($v = 0.9c$) measures 1 s. Calculate the time in the Earth frame.  
+    - (a) 2.28 s  
+    - (b) 2.29 s  
+    - (c) 2.30 s  
+    - (d) 2.31 s
+
+98. A rod ($L_0 = 10 \, \text{m}$) moves at $v = 0.6c$. Calculate its length in the observer’s frame.  
+    - (a) 7.99 m  
+    - (b) 8.00 m  
+    - (c) 8.01 m  
+    - (d) 8.02 m
+
+99. A rocket at $v = 0.8c$ fires a projectile at $u' = 0.5c$ in the same direction. Calculate the projectile’s speed in the Earth frame.  
+    - (a) 0.945c  
+    - (b) 0.946c  
+    - (c) 0.947c  
+    - (d) 0.948c
+
+100. A nuclear reaction has a mass defect $\Delta m = 0.01 \, \text{kg}$. Calculate the energy released in joules.  
+    - (a) $8.99 \times 10^{14} \, \text{J}$  
+    - (b) $9.00 \times 10^{14} \, \text{J}$  
+    - (c) $9.01 \times 10^{14} \, \text{J}$  
+    - (d) $9.02 \times 10^{14} \, \text{J}$
 
 ## Back to Chapter
 [Return to Relativity Chapter](./index.md)

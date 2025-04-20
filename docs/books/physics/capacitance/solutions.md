@@ -1,7 +1,7 @@
 ---
 title: Physics Book - Capacitance Solutions for JEE & NEET
 description: Sample solutions for electrostatics problems, covering capacitance calculations, series and parallel combinations, energy storage, and dielectrics in capacitors, tailored for JEE and NEET preparation.
-slug: book/physics/capacitance-solutions
+slug: books/physics/capacitance/solutions
 keywords: physics capacitance solutions, JEE physics capacitors solutions, NEET physics energy storage solutions, electrostatics
 og:image: https://vidyamarg.com/og-physics-capacitance.jpg
 ---
