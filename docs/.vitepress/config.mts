@@ -104,5 +104,67 @@ export default defineConfig({
     socialLinks: [
       { icon: 'youtube', link: 'https://www.youtube.com/@VidyaMargbyRaviShankar-w9u' }
     ]
-  }
+  },
+  vite: {
+    build: {
+      rollupOptions: {
+        output: {
+          manualChunks(id) {
+            if (id.includes('mathjax')) {
+              return 'mathjax'
+            }
+            // if (id.includes('vue') || id.includes('vitepress')) {
+            //   return 'vue'
+            // }
+            // Mechanics pages
+            if (
+              id.includes('/books/physics/measurement') ||
+              id.includes('/books/physics/motion-straight-line') ||
+              id.includes('/books/physics/vectors') ||
+              id.includes('/books/physics/motion-2d-3d') ||
+              id.includes('/books/physics/force-motion-1') ||
+              id.includes('/books/physics/force-motion-2') ||
+              id.includes('/books/physics/kinetic-energy-work') ||
+              id.includes('/books/physics/potential-energy-conservation') ||
+              id.includes('/books/physics/center-mass-momentum') ||
+              id.includes('/books/physics/rotation') ||
+              id.includes('/books/physics/rolling-torque-angular-momentum')
+            ) {
+              return 'physics-mechanics'
+            }
+
+            // Electromagnetism pages
+            if (
+              id.includes('/books/physics/coulombs-law') ||
+              id.includes('/books/physics/electric-fields') ||
+              id.includes('/books/physics/gauss-law') ||
+              id.includes('/books/physics/electric-potential') ||
+              id.includes('/books/physics/capacitance') ||
+              id.includes('/books/physics/current-resistance') ||
+              id.includes('/books/physics/circuits') ||
+              id.includes('/books/physics/magnetic-fields') ||
+              id.includes('/books/physics/magnetic-fields-currents') ||
+              id.includes('/books/physics/induction-inductance') ||
+              id.includes('/books/physics/electromagnetic-oscillations-ac') ||
+              id.includes('/books/physics/maxwells-equations') ||
+              id.includes('/books/physics/electromagnetic-waves')
+            ) {
+              return 'physics-electromagnetism'
+            }
+
+            // Other physics pages (e.g., Thermodynamics, Waves, etc.)
+            if (id.includes('/books/physics/') || id.includes('/jee-neet/physics/')) {
+              return 'physics-other'
+            }
+          }
+        }
+      }
+    },
+    server: {
+      fs: {
+        allow: [  '..'],
+      },
+    },
+  },
+  // lastUpdated: true,
 })
