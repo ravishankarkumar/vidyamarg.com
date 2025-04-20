@@ -1,176 +1,572 @@
 ---
 title: Physics Book - Equilibrium and Elasticity Problems for JEE & NEET
-description: Practice 100 equilibrium and elasticity problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 problems on equilibrium and elasticity for JEE and NEET, inspired by exam patterns, covering static and dynamic equilibrium, center of gravity, stress, strain, elastic moduli, and beam applications.
 slug: book/physics/equilibrium-elasticity-problems
-keywords: physics equilibrium problems, JEE physics statics problems, NEET physics elasticity problems, Hooke’s law physics
+keywords: physics equilibrium elasticity problems, JEE physics equilibrium problems, NEET physics stress strain problems, elastic moduli
 og:image: https://vidyamarg.com/og-physics-equilibrium-elasticity.jpg
 ---
 
 # Equilibrium and Elasticity Problems
 
-This section provides **100 problems** to test your understanding of equilibrium and elasticity, including static equilibrium, center of gravity, stress, strain, and Hooke’s law. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns, as requested (April 18, 2025). Problems are organized by difficulty and type to support progressive learning and build confidence for competitive exams.
+This section provides **100 problems** to test your understanding of equilibrium and elasticity, including static and dynamic equilibrium, center of gravity and stability, stress, strain, elastic moduli, and applications in beams and structures. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering these topics, which are crucial for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward problems focusing on force/torque balance, CG calculations, and stress-strain, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: Practical problems emphasizing real-world applications, with some numerical calculations, inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A uniform rod of mass $4 \, kg$ and length $2 \, m$ is pivoted at one end and held horizontal by a vertical rope at the other end. Calculate the tension in the rope ($g = 9.8 \, m/s^2$).  
+   - (a) $18.0 \, N$  
+   - (b) $19.6 \, N$  
+   - (c) $20.0 \, N$  
+   - (d) $21.5 \, N$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A 12 kg uniform beam (length 3 m) is supported by two ropes at its ends, with a 4 kg mass at 1 m from the left end. Calculate the tension in the left rope.
-   - Options: (a) 90 N (b) 100 N (c) 110 N (d) 120 N
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A 50 kg ladder (length 4 m) leans at 60° against a wall. Calculate the CG’s height.
-   - Options: (a) 1.7 m (b) 2.0 m (c) 2.3 m (d) 2.6 m
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A steel wire (length 2 m, area 1 mm², \( E = 2 \times 10^{11} \, \text{N/m}^2 \)) stretches by 0.2 mm under a 150 N force. Calculate the stress.
-   - Options: (a) \( 1.5 \times 10^8 \, \text{N/m}^2 \) (b) \( 1.8 \times 10^8 \, \text{N/m}^2 \) (c) \( 2.0 \times 10^8 \, \text{N/m}^2 \) (d) \( 2.2 \times 10^8 \, \text{N/m}^2 \)
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A spring (spring constant 200 N/m) is stretched by 0.03 m. Calculate the potential energy stored.
-   - Options: (a) 0.06 J (b) 0.09 J (c) 0.12 J (d) 0.15 J
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: A 20 kg block (height 0.8 m, base 0.3 m) tilts on a surface. Calculate the maximum tilt angle before tipping.
-   - Options: (a) 18° (b) 20° (c) 22° (d) 24°
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A 100 N force is applied 2 m from the pivot of a 4 m seesaw. Calculate the balancing force at the other end.
-   - Options: (a) 50 N (b) 60 N (c) 70 N (d) 80 N
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A copper rod (length 1.5 m, area 1.5 mm², \( E = 1.2 \times 10^{11} \, \text{N/m}^2 \)) under 100 N tension. Calculate the elongation.
-   - Options: (a) 0.83 mm (b) 0.93 mm (c) 1.03 mm (d) 1.13 mm
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A 15 kg uniform beam (length 2 m) is pivoted at one end with a 5 kg mass at the other end. Calculate the force needed at the center to balance it.
-   - Options: (a) 150 N (b) 175 N (c) 200 N (d) 225 N
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: A spring (spring constant 150 N/m) is compressed by 0.04 m. Calculate the force applied.
-   - Options: (a) 4 N (b) 5 N (c) 6 N (d) 7 N
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A 30 kg ladder (length 5 m) leans at 45° against a wall. Calculate the horizontal distance of the CG from the base.
-    - Options: (a) 1.5 m (b) 1.8 m (c) 2.1 m (d) 2.4 m
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A 10 kg block (height 0.6 m, base 0.2 m) tilts on a surface. Calculate the maximum tilt angle before tipping.
-    - Options: (a) 16° (b) 18° (c) 20° (d) 22°
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A steel wire (length 1 m, area 0.5 mm², \( E = 2 \times 10^{11} \, \text{N/m}^2 \)) under 50 N tension. Calculate the strain.
-    - Options: (a) \( 5 \times 10^{-4} \) (b) \( 6 \times 10^{-4} \) (c) \( 7 \times 10^{-4} \) (d) \( 8 \times 10^{-4} \)
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: A 200 N force balances a 4 m seesaw with a 100 kg mass at 1 m from the pivot. Calculate the distance of the force from the pivot.
-    - Options: (a) 1.5 m (b) 2.0 m (c) 2.5 m (d) 3.0 m
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A spring (spring constant 300 N/m) stores 0.45 J of energy. Calculate the extension.
-    - Options: (a) 0.03 m (b) 0.04 m (c) 0.05 m (d) 0.06 m
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A 25 kg uniform beam (length 4 m) is supported by a pivot at one end and a rope at 3 m. Calculate the rope’s tension to balance it.
-    - Options: (a) 150 N (b) 175 N (c) 200 N (d) 225 N
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A 40 kg ladder (length 6 m) leans at 30° against a wall. Calculate the CG’s height.
-    - Options: (a) 1.5 m (b) 1.8 m (c) 2.1 m (d) 2.4 m
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A copper rod (length 0.8 m, area 1 mm², \( E = 1.1 \times 10^{11} \, \text{N/m}^2 \)) stretches by 0.1 mm. Calculate the applied force.
-    - Options: (a) 1100 N (b) 1200 N (c) 1300 N (d) 1400 N
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A 8 kg uniform beam (length 2 m) is supported by a rope at one end and a pivot at 0.5 m. Calculate the tension in the rope.
-    - Options: (a) 60 N (b) 70 N (c) 80 N (d) 90 N
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A spring (spring constant 100 N/m) is stretched to store 0.2 J of energy. Calculate the extension.
-    - Options: (a) 0.05 m (b) 0.06 m (c) 0.07 m (d) 0.08 m
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A 15 kg block (height 1 m, base 0.4 m) tilts on a surface. Calculate the maximum tilt angle before tipping.
-    - Options: (a) 20° (b) 22° (c) 24° (d) 26°
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A 150 N force is applied 1.5 m from the pivot of a 3 m seesaw. Calculate the balancing force at the other end.
-    - Options: (a) 60 N (b) 70 N (c) 80 N (d) 90 N
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A steel wire (length 1.2 m, area 0.8 mm², \( E = 2 \times 10^{11} \, \text{N/m}^2 \)) under 80 N tension. Calculate the elongation.
-    - Options: (a) 0.6 mm (b) 0.7 mm (c) 0.8 mm (d) 0.9 mm
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: A 20 kg ladder (length 4 m) leans at 45° against a wall. Calculate the CG’s horizontal distance from the base.
-    - Options: (a) 1.4 m (b) 1.6 m (c) 1.8 m (d) 2.0 m
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A spring (spring constant 250 N/m) is compressed by 0.02 m. Calculate the force applied.
-    - Options: (a) 4 N (b) 5 N (c) 6 N (d) 7 N
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A 18 kg uniform beam (length 3 m) is supported by two ropes, with a 6 kg mass at 0.5 m from the left. Calculate the tension in the right rope.
-    - Options: (a) 90 N (b) 100 N (c) 110 N (d) 120 N
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A 12 kg block (height 0.5 m, base 0.2 m) tilts on a surface. Calculate the maximum tilt angle before tipping.
-    - Options: (a) 18° (b) 20° (c) 22° (d) 24°
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A copper rod (length 1 m, area 2 mm², \( E = 1.2 \times 10^{11} \, \text{N/m}^2 \)) under 200 N tension. Calculate the strain.
-    - Options: (a) \( 8.33 \times 10^{-4} \) (b) \( 9.33 \times 10^{-4} \) (c) \( 1.03 \times 10^{-3} \) (d) \( 1.13 \times 10^{-3} \)
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A 300 N force balances a 5 m seesaw with a 50 kg mass at 2 m from the pivot. Calculate the distance of the force from the pivot.
-    - Options: (a) 1.0 m (b) 1.5 m (c) 2.0 m (d) 2.5 m
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A spring (spring constant 400 N/m) stores 0.8 J of energy. Calculate the extension.
-    - Options: (a) 0.04 m (b) 0.05 m (c) 0.06 m (d) 0.07 m
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A 35 kg ladder (length 5 m) leans at 60° against a wall. Calculate the CG’s height.
-    - Options: (a) 2.0 m (b) 2.2 m (c) 2.4 m (d) 2.6 m
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A steel wire (length 0.5 m, area 0.4 mm², \( E = 2 \times 10^{11} \, \text{N/m}^2 \)) stretches by 0.05 mm. Calculate the applied force.
-    - Options: (a) 800 N (b) 900 N (c) 1000 N (d) 1100 N
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A 10 kg uniform beam (length 2 m) is pivoted at one end with a 3 kg mass at 1 m. Calculate the force needed at the other end to balance it.
-    - Options: (a) 100 N (b) 110 N (c) 120 N (d) 130 N
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A spring (spring constant 500 N/m) is stretched by 0.01 m. Calculate the potential energy stored.
-    - Options: (a) 0.025 J (b) 0.030 J (c) 0.035 J (d) 0.040 J
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A 16 kg block (height 0.7 m, base 0.3 m) tilts on a surface. Calculate the maximum tilt angle before tipping.
-    - Options: (a) 21° (b) 23° (c) 25° (d) 27°
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A 250 N force is applied 1 m from the pivot of a 3 m seesaw. Calculate the balancing force at 1.5 m from the pivot.
-    - Options: (a) 150 N (b) 160 N (c) 170 N (d) 180 N
+2. A 15 kg sign hangs from a 3 m rod attached to a wall with a hinge, supported by a wire at $30^\circ$ to the horizontal at the end. Calculate the tension in the wire ($g = 9.8 \, m/s^2$).  
+   - (a) $220 \, N$  
+   - (b) $235 \, N$  
+   - (c) $255 \, N$  
+   - (d) $270 \, N$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: Explain why a lower center of gravity enhances an object’s stability.
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: Discuss the role of torque balance in maintaining equilibrium of a suspended beam.
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: Explain how Young’s modulus determines a material’s elastic behavior.
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: Describe the conditions required for static equilibrium in a ladder system.
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: Discuss why a wider base improves stability in a tilting object.
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: Explain the significance of Hooke’s law in elastic deformations.
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Describe how the center of gravity affects a vehicle’s stability on an incline.
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: Explain why stress and strain are proportional in the elastic region.
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: Discuss the role of friction in maintaining equilibrium of a ladder against a wall.
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: Explain how the elastic limit affects material deformation.
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Describe the effect of multiple forces on a beam’s equilibrium.
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: Explain why a spring’s potential energy depends on its extension squared.
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: Discuss the role of the center of gravity in a seesaw’s balance.
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: Explain how material properties influence Young’s modulus.
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: Describe the conditions under which a block remains stable on an incline.
+3. A uniform block of mass $20 \, kg$, height $1.5 \, m$, and base $0.6 \, m$ is on a flat surface. Calculate the critical angle for tipping.  
+   - (a) $21.8^\circ$  
+   - (b) $22.5^\circ$  
+   - (c) $23.6^\circ$  
+   - (d) $24.5^\circ$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the conditions for static equilibrium using force and torque balance.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the expression for the center of gravity of a composite system.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive Hooke’s law for a spring using potential energy.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the relationship between stress, strain, and Young’s modulus.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the torque balance for a seesaw with multiple masses.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the stability condition for a tilting object.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the potential energy stored in a stretched spring.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the elongation of a rod under tension using Young’s modulus.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the force balance for a ladder leaning against a wall.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the strain in a wire under a given stress.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the equilibrium conditions for a beam with distributed loads.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the relationship between spring constant and potential energy.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the center of gravity for a non-uniform rod.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the stress in a rod under combined tension and compression.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the torque balance for a system with multiple pivots.
+4. A steel wire of length $1.5 \, m$ and diameter $0.8 \, mm$ is under a force $F = 80 \, N$. Given Young’s modulus $Y = 2 \times 10^{11} \, \text{Pa}$, calculate the extension.  
+   - (a) $0.95 \, \text{mm}$  
+   - (b) $1.00 \, \text{mm}$  
+   - (c) $1.05 \, \text{mm}$  
+   - (d) $1.10 \, \text{mm}$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: Explain how torque balance ensures a seesaw remains level.
-67. **Problem 67 (NEET, 2022)**: Discuss the role of the center of gravity in a human’s balance.
-68. **Problem 68 (NEET, 2021)**: Explain why a spring returns to its original shape after stretching.
-69. **Problem 69 (NEET, 2024)**: Describe how friction affects a ladder’s equilibrium against a wall.
-70. **Problem 70 (NEET, 2020)**: Explain the significance of Young’s modulus in bone strength.
-71. **Problem 71 (NEET, 2023)**: Discuss why a wider base enhances a chair’s stability.
-72. **Problem 72 (NEET, 2022)**: Explain how Hooke’s law applies to a rubber band.
-73. **Problem 73 (NEET, 2021)**: Describe the role of equilibrium in a balanced bridge.
-74. **Problem 74 (NEET, 2024)**: Explain why stress causes material deformation.
-75. **Problem 75 (NEET, 2020)**: Discuss the effect of CG height on a vehicle’s stability.
-76. **Problem 76 (NEET, 2023)**: Explain how torque affects a door’s rotation.
-77. **Problem 77 (NEET, 2022)**: Describe why elastic materials have a limit to deformation.
-78. **Problem 78 (NEET, 2021)**: Explain the role of force balance in a suspended sign.
-79. **Problem 79 (NEET, 2024)**: Discuss how strain measures material deformation.
-80. **Problem 80 (NEET, 2020)**: Explain why a low CG improves a building’s stability.
-81. **Problem 81 (NEET, 2023)**: Describe the effect of multiple forces on a beam’s balance.
-82. **Problem 82 (NEET, 2022)**: Explain how springs store energy during compression.
-83. **Problem 83 (NEET, 2021)**: Discuss the role of equilibrium in a crane’s operation.
-84. **Problem 84 (NEET, 2024)**: Explain why a material’s elastic properties depend on its structure.
-85. **Problem 85 (NEET, 2020)**: Describe how CG affects a tightrope walker’s balance.
-86. **Problem 86 (NEET, 2023)**: Explain the significance of torque in a wrench’s operation.
-87. **Problem 87 (NEET, 2022)**: Discuss why stress and strain are related in elastic materials.
-88. **Problem 88 (NEET, 2021)**: Explain how equilibrium ensures a shelf’s stability.
-89. **Problem 89 (NEET, 2024)**: Describe the role of Young’s modulus in engineering design.
-90. **Problem 90 (NEET, 2020)**: Explain why a high CG reduces a stack’s stability.
-91. **Problem 91 (NEET, 2023)**: Discuss how torque balance affects a mobile’s equilibrium.
-92. **Problem 92 (NEET, 2022)**: Explain the role of elasticity in a diving board’s motion.
-93. **Problem 93 (NEET, 2021)**: Describe why a spring’s force increases with extension.
-94. **Problem 94 (NEET, 2024)**: Explain how CG influences a bicycle’s balance.
-95. **Problem 95 (NEET, 2020)**: Discuss the effect of stress on a wire’s length.
+5. A simply supported beam of length $5 \, m$ has a uniform load $w = 400 \, \text{N/m}$. Calculate the maximum bending moment.  
+   - (a) $2400 \, N \cdot m$  
+   - (b) $2500 \, N \cdot m$  
+   - (c) $2600 \, N \cdot m$  
+   - (d) $2700 \, N \cdot m$
 
-### NEET-Style Numerical Problems
-96. **Problem 96 (NEET, 2023)**: A 0.5 m spring (spring constant 120 N/m) is stretched by 0.05 m. Calculate the potential energy stored.
-    - Options: (a) 0.15 J (b) 0.18 J (c) 0.21 J (d) 0.24 J
-97. **Problem 97 (NEET, 2022)**: A 40 kg uniform beam (length 2 m) is supported by a rope at one end and a pivot at 0.5 m. Calculate the tension in the rope.
-    - Options: (a) 300 N (b) 320 N (c) 340 N (d) 360 N
-98. **Problem 98 (NEET, 2021)**: A steel wire (length 1 m, area 0.2 mm², \( E = 2 \times 10^{11} \, \text{N/m}^2 \)) under 40 N tension. Calculate the elongation.
-    - Options: (a) 0.1 mm (b) 0.2 mm (c) 0.3 mm (d) 0.4 mm
-99. **Problem 99 (NEET, 2024)**: A 60 kg ladder (length 3 m) leans at 60° against a wall. Calculate the CG’s height.
-    - Options: (a) 1.3 m (b) 1.5 m (c) 1.7 m (d) 1.9 m
-100. **Problem 100 (NEET, 2020)**: A spring (spring constant 80 N/m) is compressed by 0.06 m. Calculate the force applied.
-     - Options: (a) 4.0 N (b) 4.8 N (c) 5.6 N (d) 6.4 N
+6. A cantilever beam of length $3 \, m$, with $Y = 1.5 \times 10^{11} \, \text{Pa}$ and $I = 1 \times 10^{-6} \, m^4$, has a load $F = 500 \, N$ at the free end. Calculate the deflection at the end.  
+   - (a) $15.0 \, \text{mm}$  
+   - (b) $16.5 \, \text{mm}$  
+   - (c) $18.0 \, \text{mm}$  
+   - (d) $19.5 \, \text{mm}$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+7. A ladder of mass $25 \, kg$ and length $6 \, m$ leans at $60^\circ$ against a frictionless wall, with friction at the floor ($\mu = 0.3$, $g = 9.8 \, m/s^2$). Calculate the friction force to prevent slipping.  
+   - (a) $60 \, N$  
+   - (b) $65 \, N$  
+   - (c) $70 \, N$  
+   - (d) $75 \, N$
 
-[View Solutions](/books/physics/equilibrium-elasticity/solutions) -->
+8. An L-shaped object has a horizontal arm of mass $3 \, kg$, length $1 \, m$, and a vertical arm of mass $4 \, kg$, length $2 \, m$. Calculate the x-coordinate of the center of gravity.  
+   - (a) $0.80 \, m$  
+   - (b) $0.85 \, m$  
+   - (c) $0.90 \, m$  
+   - (d) $0.95 \, m$
+
+9. A rubber block under shear force $F = 40 \, N$ over area $A = 0.02 \, m^2$ deforms by angle $\phi = 0.05 \, \text{rad}$. Calculate the shear modulus.  
+   - (a) $35 \, \text{kPa}$  
+   - (b) $40 \, \text{kPa}$  
+   - (c) $45 \, \text{kPa}$  
+   - (d) $50 \, \text{kPa}$
+
+10. A material under pressure $\Delta P = 2 \times 10^6 \, \text{Pa}$ has a fractional volume change $\Delta V/V_0 = -0.001$. Calculate the bulk modulus.  
+    - (a) $1.8 \times 10^9 \, \text{Pa}$  
+    - (b) $2.0 \times 10^9 \, \text{Pa}$  
+    - (c) $2.2 \times 10^9 \, \text{Pa}$  
+    - (d) $2.4 \times 10^9 \, \text{Pa}$
+
+11. A uniform rod of mass $6 \, kg$ and length $1.5 \, m$ is pivoted at one end, held horizontal by a rope at the other end. Calculate the tension in the rope ($g = 9.8 \, m/s^2$).  
+    - (a) $40.0 \, N$  
+    - (b) $42.5 \, N$  
+    - (c) $44.1 \, N$  
+    - (d) $46.0 \, N$
+
+12. A 12 kg sign hangs from a 2.5 m rod attached to a wall with a hinge, supported by a wire at $45^\circ$ at the end. Calculate the tension in the wire ($g = 9.8 \, m/s^2$).  
+    - (a) $160 \, N$  
+    - (b) $166 \, N$  
+    - (c) $172 \, N$  
+    - (d) $178 \, N$
+
+13. A block of mass $30 \, kg$, height $2 \, m$, and base $0.8 \, m$ is on an incline. Calculate the angle at which it tips.  
+    - (a) $21.8^\circ$  
+    - (b) $22.5^\circ$  
+    - (c) $23.6^\circ$  
+    - (d) $24.5^\circ$
+
+14. A copper wire of length $1 \, m$ and diameter $1.2 \, mm$ is under a force $F = 120 \, N$. Given $Y = 1.1 \times 10^{11} \, \text{Pa}$, calculate the extension.  
+    - (a) $0.90 \, \text{mm}$  
+    - (b) $0.96 \, \text{mm}$  
+    - (c) $1.00 \, \text{mm}$  
+    - (d) $1.05 \, \text{mm}$
+
+15. A simply supported beam of length $6 \, m$ has a uniform load $w = 300 \, \text{N/m}$. Calculate the maximum bending moment.  
+    - (a) $2600 \, N \cdot m$  
+    - (b) $2700 \, N \cdot m$  
+    - (c) $2800 \, N \cdot m$  
+    - (d) $2900 \, N \cdot m$
+
+16. A cantilever beam of length $2.5 \, m$, with $Y = 2 \times 10^{11} \, \text{Pa}$ and $I = 5 \times 10^{-7} \, m^4$, has a load $F = 800 \, N$ at the free end. Calculate the deflection at the end.  
+    - (a) $8.0 \, \text{mm}$  
+    - (b) $8.5 \, \text{mm}$  
+    - (c) $9.0 \, \text{mm}$  
+    - (d) $9.5 \, \text{mm}$
+
+17. A ladder of mass $15 \, kg$ and length $4 \, m$ leans at $45^\circ$ against a frictionless wall, with $\mu = 0.5$ at the floor ($g = 9.8 \, m/s^2$). Calculate the friction force to prevent slipping.  
+    - (a) $70 \, N$  
+    - (b) $72 \, N$  
+    - (c) $74 \, N$  
+    - (d) $76 \, N$
+
+18. An L-shaped object has a horizontal arm of mass $5 \, kg$, length $1.2 \, m$, and a vertical arm of mass $2 \, kg$, length $1.8 \, m$. Calculate the y-coordinate of the center of gravity.  
+    - (a) $0.50 \, m$  
+    - (b) $0.55 \, m$  
+    - (c) $0.60 \, m$  
+    - (d) $0.65 \, m$
+
+19. A material under shear force $F = 60 \, N$ over area $A = 0.03 \, m^2$ deforms by angle $\phi = 0.02 \, \text{rad}$. Calculate the shear modulus.  
+    - (a) $90 \, \text{kPa}$  
+    - (b) $95 \, \text{kPa}$  
+    - (c) $100 \, \text{kPa}$  
+    - (d) $105 \, \text{kPa}$
+
+20. A material under pressure $\Delta P = 3 \times 10^6 \, \text{Pa}$ has $\Delta V/V_0 = -0.003$. Calculate the bulk modulus.  
+    - (a) $0.8 \times 10^9 \, \text{Pa}$  
+    - (b) $0.9 \times 10^9 \, \text{Pa}$  
+    - (c) $1.0 \times 10^9 \, \text{Pa}$  
+    - (d) $1.1 \times 10^9 \, \text{Pa}$
+
+21. A uniform rod of mass $8 \, kg$ and length $3 \, m$ is pivoted at one end, held horizontal by a rope at the other end. Calculate the tension in the rope ($g = 9.8 \, m/s^2$).  
+    - (a) $110 \, N$  
+    - (b) $115 \, N$  
+    - (c) $117 \, N$  
+    - (d) $120 \, N$
+
+22. A 5 kg sign hangs from a 1 m rod attached to a wall with a hinge, supported by a wire at $60^\circ$ at the end. Calculate the tension in the wire ($g = 9.8 \, m/s^2$).  
+    - (a) $50 \, N$  
+    - (b) $55 \, N$  
+    - (c) $56.6 \, N$  
+    - (d) $60 \, N$
+
+23. A block of mass $40 \, kg$, height $1.8 \, m$, and base $0.9 \, m$ is on an incline. Calculate the angle at which it tips.  
+    - (a) $25.0^\circ$  
+    - (b) $26.0^\circ$  
+    - (c) $26.6^\circ$  
+    - (d) $27.5^\circ$
+
+24. A steel rod of length $2.5 \, m$ and diameter $1.5 \, mm$ is under a force $F = 150 \, N$. Given $Y = 2 \times 10^{11} \, \text{Pa}$, calculate the extension.  
+    - (a) $1.00 \, \text{mm}$  
+    - (b) $1.05 \, \text{mm}$  
+    - (c) $1.06 \, \text{mm}$  
+    - (d) $1.10 \, \text{mm}$
+
+25. A simply supported beam of length $8 \, m$ has a uniform load $w = 200 \, \text{N/m}$. Calculate the maximum bending moment.  
+    - (a) $3100 \, N \cdot m$  
+    - (b) $3200 \, N \cdot m$  
+    - (c) $3300 \, N \cdot m$  
+    - (d) $3400 \, N \cdot m$
+
+26. A cantilever beam of length $4 \, m$, with $Y = 1 \times 10^{11} \, \text{Pa}$ and $I = 2 \times 10^{-6} \, m^4$, has a load $F = 600 \, N$ at the free end. Calculate the deflection at the end.  
+    - (a) $30 \, \text{mm}$  
+    - (b) $32 \, \text{mm}$  
+    - (c) $34 \, \text{mm}$  
+    - (d) $36 \, \text{mm}$
+
+27. A ladder of mass $10 \, kg$ and length $3 \, m$ leans at $60^\circ$ against a frictionless wall, with $\mu = 0.4$ at the floor ($g = 9.8 \, m/s^2$). Calculate the friction force to prevent slipping.  
+    - (a) $25 \, N$  
+    - (b) $27 \, N$  
+    - (c) $28 \, N$  
+    - (d) $30 \, N$
+
+28. An L-shaped object has a horizontal arm of mass $2 \, kg$, length $0.8 \, m$, and a vertical arm of mass $3 \, kg$, length $1.2 \, m$. Calculate the x-coordinate of the center of gravity.  
+    - (a) $0.60 \, m$  
+    - (b) $0.64 \, m$  
+    - (c) $0.68 \, m$  
+    - (d) $0.72 \, m$
+
+29. A material under shear force $F = 100 \, N$ over area $A = 0.04 \, m^2$ deforms by angle $\phi = 0.01 \, \text{rad}$. Calculate the shear modulus.  
+    - (a) $240 \, \text{kPa}$  
+    - (b) $250 \, \text{kPa}$  
+    - (c) $260 \, \text{kPa}$  
+    - (d) $270 \, \text{kPa}$
+
+30. A material under pressure $\Delta P = 4 \times 10^6 \, \text{Pa}$ has $\Delta V/V_0 = -0.002$. Calculate the bulk modulus.  
+    - (a) $1.8 \times 10^9 \, \text{Pa}$  
+    - (b) $2.0 \times 10^9 \, \text{Pa}$  
+    - (c) $2.2 \times 10^9 \, \text{Pa}$  
+    - (d) $2.4 \times 10^9 \, \text{Pa}$
+
+31. A rocket strut (length $1.5 \, m$, diameter $0.02 \, m$, $Y = 2 \times 10^{11} \, \text{Pa}$) is under compression. Calculate the critical buckling load.  
+    - (a) $6500 \, N$  
+    - (b) $6800 \, N$  
+    - (c) $7000 \, N$  
+    - (d) $7200 \, N$
+
+32. A rectangular beam under shear force $V = 3000 \, N$ has a cross-section (width $0.04 \, m$, height $0.08 \, m$). Calculate the maximum shear stress.  
+    - (a) $0.90 \, \text{MPa}$  
+    - (b) $0.95 \, \text{MPa}$  
+    - (c) $1.00 \, \text{MPa}$  
+    - (d) $1.05 \, \text{MPa}$
+
+33. A seesaw has a 50 kg child at 2 m left of the pivot and a 40 kg child at 2.5 m right. Calculate the distance a 60 kg person must sit on the left to balance it ($g = 9.8 \, m/s^2$).  
+    - (a) $0.80 \, m$  
+    - (b) $0.85 \, m$  
+    - (c) $0.90 \, m$  
+    - (d) $0.95 \, m$
+
+34. A steel wire of length $3 \, m$ and diameter $2 \, mm$ is under a force $F = 200 \, N$. Given $Y = 2 \times 10^{11} \, \text{Pa}$, calculate the extension.  
+    - (a) $0.95 \, \text{mm}$  
+    - (b) $0.96 \, \text{mm}$  
+    - (c) $0.97 \, \text{mm}$  
+    - (d) $0.98 \, \text{mm}$
+
+35. A simply supported beam of length $10 \, m$ has a uniform load $w = 150 \, \text{N/m}$. Calculate the maximum bending moment.  
+    - (a) $3600 \, N \cdot m$  
+    - (b) $3700 \, N \cdot m$  
+    - (c) $3750 \, N \cdot m$  
+    - (d) $3800 \, N \cdot m$
+
+---
+
+## Conceptual Problems
+
+36. What is required for an object to be in static equilibrium?  
+   - (a) Net force is zero  
+   - (b) Net torque is zero  
+   - (c) Both net force and net torque are zero  
+   - (d) Object must be moving
+
+37. What does the center of gravity represent?  
+   - (a) The geometric center of an object  
+   - (b) The point where the weight acts  
+   - (c) The point of maximum mass  
+   - (d) The point of minimum stability
+
+38. What is stress in the context of elasticity?  
+   - (a) Deformation per unit length  
+   - (b) Force per unit area  
+   - (c) Change in volume  
+   - (d) Change in shape
+
+39. What does a high Young’s modulus indicate?  
+   - (a) High flexibility  
+   - (b) High stiffness  
+   - (c) High compressibility  
+   - (d) High shear resistance
+
+40. What is the unit of stress?  
+   - (a) $N \cdot m$  
+   - (b) $Pa$  
+   - (c) $J$  
+   - (d) $kg \cdot m/s$
+
+41. When does an object tip on an incline?  
+   - (a) When the incline angle exceeds the critical angle  
+   - (b) When the mass increases  
+   - (c) When the base widens  
+   - (d) When the height decreases
+
+42. What does Hooke’s law state in elasticity?  
+   - (a) Stress is proportional to strain  
+   - (b) Stress is inversely proportional to strain  
+   - (c) Stress equals strain  
+   - (d) Stress is independent of strain
+
+43. What is the physical significance of the bulk modulus?  
+   - (a) Resistance to shear  
+   - (b) Resistance to volume change  
+   - (c) Resistance to length change  
+   - (d) Resistance to bending
+
+44. What happens to a beam under bending?  
+   - (a) Uniform stress throughout  
+   - (b) Tensile stress on one side, compressive on the other  
+   - (c) Only shear stress  
+   - (d) No stress at the ends
+
+45. What is the dimension of strain?  
+   - (a) Dimensionless  
+   - (b) $[\text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L} \text{T}^{-2}]$  
+   - (d) $[\text{L}]$
+
+46. What does a zero net torque imply?  
+   - (a) No linear motion  
+   - (b) No rotational acceleration  
+   - (c) No linear acceleration  
+   - (d) No deformation
+
+47. What is the significance of $\frac{F}{A}$?  
+   - (a) Strain  
+   - (b) Stress  
+   - (c) Young’s modulus  
+   - (d) Shear modulus
+
+48. What does a high shear modulus indicate?  
+   - (a) Easy to compress  
+   - (b) Easy to stretch  
+   - (c) Resistance to shear deformation  
+   - (d) Resistance to bending
+
+49. What is the role of the center of gravity in stability?  
+   - (a) Determines linear acceleration  
+   - (b) Determines tipping behavior  
+   - (c) Determines shear stress  
+   - (d) Determines strain
+
+50. How does friction contribute to equilibrium in a ladder problem?  
+   - (a) Increases normal force  
+   - (b) Prevents slipping by providing torque  
+   - (c) Causes tipping  
+   - (d) Reduces weight
+
+---
+
+## Derivation Problems
+
+51. Derive the conditions for equilibrium using Newton’s laws.
+
+52. Derive the tipping condition for a block on an incline.
+
+53. Derive Young’s modulus $Y = \frac{F L_0}{A \Delta L}$.
+
+54. Derive the center of gravity for a system of particles.
+
+55. Derive the maximum bending moment for a simply supported beam with uniform load.
+
+56. Derive the shear modulus $G = \frac{F/A}{\phi}$.
+
+57. Derive the deflection of a cantilever beam under a point load.
+
+58. Derive the torque balance for a seesaw.
+
+59. Derive the bulk modulus $K = -\frac{\Delta P}{\Delta V/V_0}$.
+
+60. Derive the equilibrium of a hanging sign supported by a wire.
+
+61. Derive the maximum shear stress in a rectangular beam.
+
+62. Derive the critical buckling load for a column using Euler’s formula.
+
+63. Derive the center of gravity for an L-shaped object.
+
+64. Derive the stability condition for a ladder against a wall.
+
+65. Derive the stress in a wire under tension using Hooke’s law.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of Young’s modulus in SI units?  
+   - (a) $Pa$  
+   - (b) $N \cdot m$  
+   - (c) $J$  
+   - (d) $kg \cdot m/s$
+
+67. What does a zero net force indicate?  
+   - (a) Object is rotating  
+   - (b) Object has no linear acceleration  
+   - (c) Object is deforming  
+   - (d) Object is tipping
+
+68. Which quantity is dimensionless in elasticity?  
+   - (a) Stress  
+   - (b) Strain  
+   - (c) Young’s modulus  
+   - (d) Shear modulus
+
+69. What happens to a material when stress exceeds the elastic limit?  
+   - (a) Returns to original shape  
+   - (b) Permanently deforms  
+   - (c) Increases elasticity  
+   - (d) Decreases strain
+
+70. What is the dimension of shear modulus?  
+   - (a) $[\text{M} \text{L}^{-1} \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-1}]$
+
+71. What does the center of gravity determine?  
+   - (a) Point of maximum stress  
+   - (b) Point where weight acts  
+   - (c) Point of maximum strain  
+   - (d) Point of shear deformation
+
+72. What is the role of torque in equilibrium?  
+   - (a) Causes linear acceleration  
+   - (b) Must sum to zero for no rotation  
+   - (c) Causes deformation  
+   - (d) Increases stability
+
+73. What happens to a block’s stability when its base widens?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+74. Why does a material deform elastically?  
+   - (a) Stress exceeds elastic limit  
+   - (b) Stress is within elastic limit  
+   - (c) Strain is zero  
+   - (d) Modulus is zero
+
+75. What is the unit of strain?  
+   - (a) Dimensionless  
+   - (b) $Pa$  
+   - (c) $N \cdot m$  
+   - (d) $J$
+
+76. What does a constant bending moment imply?  
+   - (a) No bending  
+   - (b) Uniform bending  
+   - (c) Maximum shear stress  
+   - (d) No deflection
+
+77. Which type of stress is involved in bending a beam?  
+   - (a) Shear stress only  
+   - (b) Tensile and compressive stress  
+   - (c) Bulk stress  
+   - (d) No stress
+
+78. What is the direction of the normal force in equilibrium?  
+   - (a) Along the force  
+   - (b) Perpendicular to the surface  
+   - (c) Along the torque  
+   - (d) Along the displacement
+
+79. What does a pseudo-force do in a non-equilibrium frame?  
+   - (a) Maintains equilibrium  
+   - (b) Affects force balance  
+   - (c) Provides torque  
+   - (d) Reduces friction
+
+80. What is the dimension of the center of gravity position?  
+   - (a) $[\text{L}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L} \text{T}^{-2}]$  
+   - (d) $[\text{L} \text{T}^{-1}]$
+
+81. What is the role of friction in ladder equilibrium?  
+   - (a) Increases weight  
+   - (b) Prevents slipping  
+   - (c) Causes tipping  
+   - (d) Reduces stability
+
+82. What happens to strain when stress increases within the elastic limit?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+83. Why does a high bulk modulus indicate low compressibility?  
+   - (a) Less volume change under pressure  
+   - (b) More volume change under pressure  
+   - (c) No volume change  
+   - (d) Increases shear
+
+84. What is the significance of $\frac{F L_0}{A \Delta L}$?  
+   - (a) Shear modulus  
+   - (b) Bulk modulus  
+   - (c) Young’s modulus  
+   - (d) Stress
+
+85. What is the unit of the bending moment?  
+   - (a) $N \cdot m$  
+   - (b) $Pa$  
+   - (c) $J$  
+   - (d) $kg \cdot m/s$
+
+86. What does a zero deflection at the end of a cantilever beam indicate?  
+   - (a) No load applied  
+   - (b) Maximum load applied  
+   - (c) No bending moment  
+   - (d) Maximum shear stress
+
+87. What is the physical significance of $\sum \vec{F} = 0$?  
+   - (a) Rotational equilibrium  
+   - (b) Translational equilibrium  
+   - (c) Elastic deformation  
+   - (d) Structural failure
+
+88. Why does a wider base improve stability?  
+   - (a) Lowers the center of gravity  
+   - (b) Keeps COG over the base longer  
+   - (c) Increases weight  
+   - (d) Reduces friction
+
+89. What is the dimension of bulk modulus?  
+   - (a) $[\text{M} \text{L}^{-1} \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+90. How does shear stress affect a material?  
+   - (a) Changes its length  
+   - (b) Changes its volume  
+   - (c) Causes angular deformation  
+   - (d) Causes tipping
+
+91. What is the role of equilibrium in a rocket launch platform?  
+   - (a) Determines deformation  
+   - (b) Ensures stability before launch  
+   - (c) Increases stress  
+   - (d) Reduces strain
+
+92. What does a zero shear stress in a beam indicate?  
+   - (a) No bending  
+   - (b) No transverse force  
+   - (c) Maximum deflection  
+   - (d) Maximum bending moment
+
+93. What is the physical significance of $-\frac{\Delta P}{\Delta V/V_0}$?  
+   - (a) Young’s modulus  
+   - (b) Shear modulus  
+   - (c) Bulk modulus  
+   - (d) Strain
+
+94. What is the dimension of deflection in a beam?  
+   - (a) $[\text{L}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-1}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does a high center of gravity reduce stability?  
+   - (a) Increases weight  
+   - (b) Easier for COG to move outside the base  
+   - (c) Reduces friction  
+   - (d) Increases strain
+
+---
+
+## NEET-style Numerical Problems
+
+96. A uniform rod of mass $5 \, kg$ and length $1.5 \, m$ is pivoted at one end, held horizontal by a rope at the other end. What is the tension in the rope ($g = 9.8 \, m/s^2$)?  
+   - (a) $34.0 \, N$  
+   - (b) $36.0 \, N$  
+   - (c) $36.75 \, N$  
+   - (d) $38.0 \, N$
+
+97. A steel wire of length $2 \, m$ and diameter $1 \, mm$ is under a force $F = 100 \, N$. Given $Y = 2 \times 10^{11} \, \text{Pa}$, what is the extension?  
+   - (a) $1.25 \, \text{mm}$  
+   - (b) $1.27 \, \text{mm}$  
+   - (c) $1.30 \, \text{mm}$  
+   - (d) $1.35 \, \text{mm}$
+
+98. A simply supported beam of length $4 \, m$ has a uniform load $w = 500 \, \text{N/m}$. What is the maximum bending moment?  
+   - (a) $1900 \, N \cdot m$  
+   - (b) $2000 \, N \cdot m$  
+   - (c) $2100 \, N \cdot m$  
+   - (d) $2200 \, N \cdot m$
+
+99. A block of mass $10 \, kg$, height $1 \, m$, and base $0.5 \, m$ is on an incline. What is the angle at which it tips?  
+   - (a) $25.0^\circ$  
+   - (b) $26.0^\circ$  
+   - (c) $26.6^\circ$  
+   - (d) $27.5^\circ$
+
+100. A cantilever beam of length $2 \, m$, with $Y = 1 \times 10^{11} \, \text{Pa}$ and $I = 1 \times 10^{-6} \, m^4$, has a load $F = 1000 \, N$ at the free end. What is the deflection at the end?  
+    - (a) $25.0 \, \text{mm}$  
+    - (b) $26.0 \, \text{mm}$  
+    - (c) $26.7 \, \text{mm}$  
+    - (d) $27.5 \, \text{mm}$
 
 ## Back to Chapter
 [Return to Equilibrium and Elasticity Chapter](./index.md)

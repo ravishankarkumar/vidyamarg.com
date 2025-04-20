@@ -1,178 +1,572 @@
 ---
 title: Physics Book - Rolling, Torque, and Angular Momentum Problems for JEE & NEET
-description: Practice 100 rolling, torque, and angular momentum problems for JEE and NEET, inspired by JEE Main, JEE Advanced, and NEET PYQs (2020–2024), with year and paper details.
+description: Practice 100 problems on rolling, torque, and angular momentum for JEE and NEET, inspired by exam patterns, covering rotational dynamics, angular momentum conservation, and rolling motion.
 slug: book/physics/rolling-torque-angular-momentum-problems
-keywords: physics rolling motion problems, JEE physics torque problems, NEET physics angular momentum problems, conservation of angular momentum
+keywords: physics rolling torque angular momentum problems, JEE physics torque problems, NEET physics rolling motion problems, angular momentum
 og:image: https://vidyamarg.com/og-physics-rolling-torque-angular-momentum.jpg
 ---
 
 # Rolling, Torque, and Angular Momentum Problems
 
-This section provides **100 problems** to test your understanding of rolling motion, torque, and angular momentum, including rolling dynamics, torque applications, and conservation laws. Inspired by JEE Main, JEE Advanced, and NEET Previous Year Questions (PYQs) from 2020–2024, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. Each problem includes the year and paper of inspiration (e.g., JEE Main 2023 Paper 1) to reflect its alignment with exam patterns, as requested (April 18, 2025). Problems are organized by difficulty and type to support progressive learning and build confidence for competitive exams.
+This section provides **100 problems** to test your understanding of rolling, torque, and angular momentum, focusing on torque as the driver of rotational motion, angular momentum and its conservation, and rolling motion as a combination of translation and rotation. Inspired by JEE Main, JEE Advanced, and NEET exam patterns, these problems are tailored for exam preparation, offering a mix of numerical, conceptual, and derivation-based challenges. NEET-style problems (66–100) are formatted as multiple-choice questions (MCQs) to match the exam’s objective format. Problems are organized by type to support progressive learning and build confidence in mastering rotational dynamics, a key topic for JEE/NEET success.
 
-## Problem Types
-- **JEE Main PYQ-Style (35 Numerical)**: Straightforward problems focusing on rolling energy, torque, and angular momentum calculations, inspired by JEE Main papers (2020–2024, Paper 1 or 2).
-- **JEE Advanced PYQ-Style (30 Problems: 15 Conceptual, 15 Derivation)**: Multi-step problems requiring deep understanding or derivations, inspired by JEE Advanced papers (2020–2024, Paper 1 or 2).
-- **NEET PYQ-Style (35 Problems: 30 Conceptual, 5 Numerical)**: Practical problems emphasizing real-world applications, with some numerical calculations, inspired by NEET papers (2020–2024).
+## Numerical Problems
 
-## Problems
+1. A uniform rod of mass $3 \, kg$ and length $1.2 \, m$ is pivoted at one end. A force $F = 12 \, N$ is applied perpendicularly at the other end. Calculate the angular acceleration.  
+   - (a) $6.0 \, \text{rad/s}^2$  
+   - (b) $6.5 \, \text{rad/s}^2$  
+   - (c) $7.0 \, \text{rad/s}^2$  
+   - (d) $7.5 \, \text{rad/s}^2$
 
-### JEE Main-Style Numerical Problems
-1. **Problem 1 (JEE Main, 2023 Paper 1)**: A 1 kg solid cylinder (radius 0.2 m) rolls without slipping at 6 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the total kinetic energy.
-   - Options: (a) 27 J (b) 36 J (c) 45 J (d) 54 J
-2. **Problem 2 (JEE Main, 2022 Paper 2)**: A 0.4 m radius pulley (\( I = 0.1 \, \text{kg·m}^2 \)) has a 2 kg and 1 kg mass attached. Calculate the net torque.
-   - Options: (a) 1.96 N·m (b) 2.45 N·m (c) 2.94 N·m (d) 3.43 N·m
-3. **Problem 3 (JEE Main, 2021 Paper 1)**: A 0.5 kg disk (radius 0.1 m) rolls without slipping at 3 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the angular momentum about the center.
-   - Options: (a) 0.075 kg·m²/s (b) 0.150 kg·m²/s (c) 0.225 kg·m²/s (d) 0.300 kg·m²/s
-4. **Problem 4 (JEE Main, 2024 Paper 1)**: A 0.2 kg sphere (radius 0.05 m) rolls down an incline at 4 m/s (\( I = \frac{2}{5} m r^2 \)). Calculate the angular velocity.
-   - Options: (a) 40 rad/s (b) 60 rad/s (c) 80 rad/s (d) 100 rad/s
-5. **Problem 5 (JEE Main, 2020 Paper 2)**: A 0.3 m lever with a 12 N force at 30° to the lever arm, pivoted at one end. Calculate the torque.
-   - Options: (a) 1.8 N·m (b) 2.1 N·m (c) 2.4 N·m (d) 2.7 N·m
-6. **Problem 6 (JEE Main, 2023 Paper 2)**: A 60 kg skater spins at 2 rad/s (\( I = 3 \, \text{kg·m}^2 \)). Extending arms increases \( I \) to 4 kg·m². Calculate the final angular velocity.
-   - Options: (a) 1.2 rad/s (b) 1.5 rad/s (c) 1.8 rad/s (d) 2.1 rad/s
-7. **Problem 7 (JEE Main, 2022 Paper 1)**: A 0.4 kg point mass rotates at 6 rad/s, 0.2 m from the axis. Calculate the angular momentum.
-   - Options: (a) 0.048 kg·m²/s (b) 0.096 kg·m²/s (c) 0.144 kg·m²/s (d) 0.192 kg·m²/s
-8. **Problem 8 (JEE Main, 2021 Paper 2)**: A 1 kg cylinder (radius 0.3 m) rolls at 5 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the rotational kinetic energy.
-   - Options: (a) 12.5 J (b) 18.75 J (c) 25.0 J (d) 31.25 J
-9. **Problem 9 (JEE Main, 2024 Paper 2)**: A 0.5 kg disk (radius 0.2 m, \( I = \frac{1}{2} m r^2 \)) spins at 10 rad/s, catching a 0.2 kg mass at the edge. Calculate the final angular velocity.
-   - Options: (a) 5.0 rad/s (b) 5.7 rad/s (c) 6.4 rad/s (d) 7.1 rad/s
-10. **Problem 10 (JEE Main, 2020 Paper 1)**: A 0.2 m radius pulley (\( I = 0.02 \, \text{kg·m}^2 \)) has a 0.8 kg and 0.4 kg mass. Calculate the angular acceleration (\( g = 9.8 \, \text{m/s}^2 \)).
-    - Options: (a) 4 rad/s² (b) 5 rad/s² (c) 6 rad/s² (d) 7 rad/s²
-11. **Problem 11 (JEE Main, 2023 Paper 1)**: A 2 kg sphere (radius 0.1 m) rolls at 2 m/s (\( I = \frac{2}{5} m r^2 \)). Calculate the total kinetic energy.
-    - Options: (a) 5.6 J (b) 6.4 J (c) 7.2 J (d) 8.0 J
-12. **Problem 12 (JEE Main, 2022 Paper 2)**: A 0.5 kg point mass rotates at 4 rad/s, 0.3 m from the axis. Calculate the angular momentum.
-    - Options: (a) 0.06 kg·m²/s (b) 0.12 kg·m²/s (c) 0.18 kg·m²/s (d) 0.24 kg·m²/s
-13. **Problem 13 (JEE Main, 2021 Paper 1)**: A 0.4 m lever with a 15 N force at 60° to the lever arm. Calculate the torque.
-    - Options: (a) 3.0 N·m (b) 3.9 N·m (c) 4.8 N·m (d) 5.7 N·m
-14. **Problem 14 (JEE Main, 2024 Paper 1)**: A 1 kg disk (radius 0.2 m) rolls at 3 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the angular momentum.
-    - Options: (a) 0.3 kg·m²/s (b) 0.6 kg·m²/s (c) 0.9 kg·m²/s (d) 1.2 kg·m²/s
-15. **Problem 15 (JEE Main, 2020 Paper 2)**: A 0.3 kg cylinder (radius 0.1 m) rolls at 4 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the rotational kinetic energy.
-    - Options: (a) 4.8 J (b) 6.0 J (c) 7.2 J (d) 8.4 J
-16. **Problem 16 (JEE Main, 2023 Paper 2)**: A 40 kg skater spins at 1 rad/s (\( I = 2.5 \, \text{kg·m}^2 \)). Tucking arms reduces \( I \) to 2 kg·m². Calculate the final angular velocity.
-    - Options: (a) 1.1 rad/s (b) 1.3 rad/s (c) 1.5 rad/s (d) 1.7 rad/s
-17. **Problem 17 (JEE Main, 2022 Paper 1)**: A 0.2 kg sphere (radius 0.05 m) rolls at 5 m/s (\( I = \frac{2}{5} m r^2 \)). Calculate the angular momentum.
-    - Options: (a) 0.025 kg·m²/s (b) 0.050 kg·m²/s (c) 0.075 kg·m²/s (d) 0.100 kg·m²/s
-18. **Problem 18 (JEE Main, 2021 Paper 2)**: A 0.3 m radius pulley (\( I = 0.05 \, \text{kg·m}^2 \)) has a 1.5 kg and 0.5 kg mass. Calculate the net torque.
-    - Options: (a) 1.47 N·m (b) 1.96 N·m (c) 2.45 N·m (d) 2.94 N·m
-19. **Problem 19 (JEE Main, 2024 Paper 2)**: A 0.4 kg disk (radius 0.1 m, \( I = \frac{1}{2} m r^2 \)) spins at 12 rad/s, catching a 0.1 kg mass at the edge. Calculate the final angular velocity.
-    - Options: (a) 6.0 rad/s (b) 6.9 rad/s (c) 7.8 rad/s (d) 8.7 rad/s
-20. **Problem 20 (JEE Main, 2020 Paper 1)**: A 0.5 kg cylinder (radius 0.2 m) rolls at 2 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the total kinetic energy.
-    - Options: (a) 3.0 J (b) 3.5 J (c) 4.0 J (d) 4.5 J
-21. **Problem 21 (JEE Main, 2023 Paper 1)**: A 0.2 kg point mass rotates at 3 rad/s, 0.4 m from the axis. Calculate the angular momentum.
-    - Options: (a) 0.024 kg·m²/s (b) 0.048 kg·m²/s (c) 0.072 kg·m²/s (d) 0.096 kg·m²/s
-22. **Problem 22 (JEE Main, 2022 Paper 2)**: A 0.5 m lever with a 20 N force at 45° to the lever arm. Calculate the torque.
-    - Options: (a) 5.0 N·m (b) 6.0 N·m (c) 7.0 N·m (d) 8.0 N·m
-23. **Problem 23 (JEE Main, 2021 Paper 1)**: A 1 kg sphere (radius 0.1 m) rolls at 4 m/s (\( I = \frac{2}{5} m r^2 \)). Calculate the rotational kinetic energy.
-    - Options: (a) 3.2 J (b) 4.0 J (c) 4.8 J (d) 5.6 J
-24. **Problem 24 (JEE Main, 2024 Paper 1)**: A 0.3 kg disk (radius 0.2 m) rolls at 5 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the angular momentum.
-    - Options: (a) 0.15 kg·m²/s (b) 0.30 kg·m²/s (c) 0.45 kg·m²/s (d) 0.60 kg·m²/s
-25. **Problem 25 (JEE Main, 2020 Paper 2)**: A 0.2 kg cylinder (radius 0.05 m) rolls at 3 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the total kinetic energy.
-    - Options: (a) 2.7 J (b) 3.0 J (c) 3.3 J (d) 3.6 J
-26. **Problem 26 (JEE Main, 2023 Paper 2)**: A 50 kg skater spins at 4 rad/s (\( I = 2 \, \text{kg·m}^2 \)). Tucking arms reduces \( I \) to 1.5 kg·m². Calculate the final angular velocity.
-    - Options: (a) 4.8 rad/s (b) 5.3 rad/s (c) 5.8 rad/s (d) 6.3 rad/s
-27. **Problem 27 (JEE Main, 2022 Paper 1)**: A 0.3 kg point mass rotates at 5 rad/s, 0.2 m from the axis. Calculate the angular momentum.
-    - Options: (a) 0.06 kg·m²/s (b) 0.09 kg·m²/s (c) 0.12 kg·m²/s (d) 0.15 kg·m²/s
-28. **Problem 28 (JEE Main, 2021 Paper 2)**: A 0.2 m radius pulley (\( I = 0.03 \, \text{kg·m}^2 \)) has a 1 kg and 0.3 kg mass. Calculate the angular acceleration.
-    - Options: (a) 3 rad/s² (b) 4 rad/s² (c) 5 rad/s² (d) 6 rad/s²
-29. **Problem 29 (JEE Main, 2024 Paper 2)**: A 0.6 kg disk (radius 0.1 m, \( I = \frac{1}{2} m r^2 \)) spins at 8 rad/s, catching a 0.2 kg mass at the edge. Calculate the final angular velocity.
-    - Options: (a) 4.0 rad/s (b) 4.8 rad/s (c) 5.6 rad/s (d) 6.4 rad/s
-30. **Problem 30 (JEE Main, 2020 Paper 1)**: A 0.4 kg sphere (radius 0.05 m) rolls at 2 m/s (\( I = \frac{2}{5} m r^2 \)). Calculate the total kinetic energy.
-    - Options: (a) 1.12 J (b) 1.28 J (c) 1.44 J (d) 1.60 J
-31. **Problem 31 (JEE Main, 2023 Paper 1)**: A 0.1 kg point mass rotates at 4 rad/s, 0.5 m from the axis. Calculate the angular momentum.
-    - Options: (a) 0.02 kg·m²/s (b) 0.04 kg·m²/s (c) 0.06 kg·m²/s (d) 0.08 kg·m²/s
-32. **Problem 32 (JEE Main, 2022 Paper 2)**: A 0.4 m lever with a 10 N force at 60° to the lever arm. Calculate the torque.
-    - Options: (a) 2.0 N·m (b) 2.4 N·m (c) 2.8 N·m (d) 3.2 N·m
-33. **Problem 33 (JEE Main, 2021 Paper 1)**: A 0.5 kg cylinder (radius 0.1 m) rolls at 3 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the rotational kinetic energy.
-    - Options: (a) 2.25 J (b) 2.70 J (c) 3.15 J (d) 3.60 J
-34. **Problem 34 (JEE Main, 2024 Paper 1)**: A 0.2 kg disk (radius 0.05 m) rolls at 2 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the angular momentum.
-    - Options: (a) 0.02 kg·m²/s (b) 0.04 kg·m²/s (c) 0.06 kg·m²/s (d) 0.08 kg·m²/s
-35. **Problem 35 (JEE Main, 2020 Paper 2)**: A 0.3 kg sphere (radius 0.1 m) rolls at 4 m/s (\( I = \frac{2}{5} m r^2 \)). Calculate the total kinetic energy.
-    - Options: (a) 6.72 J (b) 7.20 J (c) 7.68 J (d) 8.16 J
+2. A disk of mass $2 \, kg$ and radius $0.4 \, m$ has a torque $\tau = 8 \, N \cdot m$ applied about its center. Calculate the angular acceleration.  
+   - (a) $20 \, \text{rad/s}^2$  
+   - (b) $22 \, \text{rad/s}^2$  
+   - (c) $24 \, \text{rad/s}^2$  
+   - (d) $25 \, \text{rad/s}^2$
 
-### JEE Advanced-Style Conceptual Problems
-36. **Problem 36 (JEE Advanced, 2023 Paper 1)**: Explain why a rolling object accelerates slower down an incline than a sliding object.
-37. **Problem 37 (JEE Advanced, 2022 Paper 2)**: Discuss how torque balance affects a pulley system with unequal masses.
-38. **Problem 38 (JEE Advanced, 2021 Paper 1)**: Explain the role of angular momentum in stabilizing a spinning top.
-39. **Problem 39 (JEE Advanced, 2024 Paper 2)**: Describe how friction enables rolling without slipping.
-40. **Problem 40 (JEE Advanced, 2020 Paper 1)**: Discuss why angular momentum conservation applies to a diver’s somersault.
-41. **Problem 41 (JEE Advanced, 2023 Paper 2)**: Explain the effect of changing moment of inertia on a gyroscope’s precession.
-42. **Problem 42 (JEE Advanced, 2022 Paper 1)**: Describe how torque from multiple forces affects a lever’s equilibrium.
-43. **Problem 43 (JEE Advanced, 2021 Paper 2)**: Explain why a rolling object’s kinetic energy includes both translational and rotational components.
-44. **Problem 44 (JEE Advanced, 2024 Paper 1)**: Discuss the role of angular momentum in a satellite’s spin stabilization.
-45. **Problem 45 (JEE Advanced, 2020 Paper 2)**: Explain how the parallel-axis theorem applies to rolling objects.
-46. **Problem 46 (JEE Advanced, 2023 Paper 1)**: Describe the effect of external torque on a spinning object’s angular momentum.
-47. **Problem 47 (JEE Advanced, 2022 Paper 2)**: Explain why a rolling cylinder’s acceleration depends on its moment of inertia.
-48. **Problem 48 (JEE Advanced, 2021 Paper 1)**: Discuss how angular momentum conservation affects a skater’s spin when tucking arms.
-49. **Problem 49 (JEE Advanced, 2024 Paper 2)**: Explain the significance of torque in a compound pendulum’s motion.
-50. **Problem 50 (JEE Advanced, 2020 Paper 1)**: Describe how rolling motion differs from pure rotation in terms of energy.
+3. A skater with moment of inertia $I = 4 \, kg \cdot m^2$ spins at $\omega = 5 \, \text{rad/s}$. She reduces $I$ to $2 \, kg \cdot m^2$ by pulling her arms in. Calculate her new angular velocity.  
+   - (a) $8 \, \text{rad/s}$  
+   - (b) $9 \, \text{rad/s}$  
+   - (c) $10 \, \text{rad/s}$  
+   - (d) $11 \, \text{rad/s}$
 
-### JEE Advanced-Style Derivation Problems
-51. **Problem 51 (JEE Advanced, 2023 Paper 1)**: Derive the total kinetic energy for a rolling object without slipping.
-52. **Problem 52 (JEE Advanced, 2022 Paper 2)**: Derive the angular acceleration for a pulley system with two masses.
-53. **Problem 53 (JEE Advanced, 2021 Paper 1)**: Derive the condition for rolling without slipping.
-54. **Problem 54 (JEE Advanced, 2024 Paper 2)**: Derive the conservation of angular momentum for a system with no external torque.
-55. **Problem 55 (JEE Advanced, 2020 Paper 1)**: Derive the torque equation for a rolling object on an incline.
-56. **Problem 56 (JEE Advanced, 2023 Paper 2)**: Derive the angular momentum for a rolling sphere about its center.
-57. **Problem 57 (JEE Advanced, 2022 Paper 1)**: Derive the precession frequency for a spinning top.
-58. **Problem 58 (JEE Advanced, 2021 Paper 2)**: Derive the moment of inertia for a rolling cylinder about its axis.
-59. **Problem 59 (JEE Advanced, 2024 Paper 1)**: Derive the relationship between torque and angular momentum.
-60. **Problem 60 (JEE Advanced, 2020 Paper 2)**: Derive the acceleration of a rolling object down an incline.
-61. **Problem 61 (JEE Advanced, 2023 Paper 1)**: Derive the angular momentum for a system with changing moment of inertia.
-62. **Problem 62 (JEE Advanced, 2022 Paper 2)**: Derive the rotational kinetic energy for a rolling object.
-63. **Problem 63 (JEE Advanced, 2021 Paper 1)**: Derive the torque balance for a pulley with friction.
-64. **Problem 64 (JEE Advanced, 2024 Paper 2)**: Derive the angular momentum about an external point for a rolling object.
-65. **Problem 65 (JEE Advanced, 2020 Paper 1)**: Derive the condition for equilibrium in a system with multiple torques.
+4. A solid sphere of mass $1 \, kg$ and radius $0.3 \, m$ rolls without slipping at $v_{\text{CM}} = 4 \, m/s$. Calculate the total kinetic energy.  
+   - (a) $8.0 \, J$  
+   - (b) $8.8 \, J$  
+   - (c) $9.0 \, J$  
+   - (d) $9.6 \, J$
 
-### NEET-Style Conceptual Problems
-66. **Problem 66 (NEET, 2023)**: Explain how angular momentum stabilizes a bicycle during motion.
-67. **Problem 67 (NEET, 2022)**: Discuss the role of torque in tightening a screw.
-68. **Problem 68 (NEET, 2021)**: Explain why a rolling ball eventually stops.
-69. **Problem 69 (NEET, 2024)**: Describe how the COM of a rolling wheel affects vehicle stability.
-70. **Problem 70 (NEET, 2020)**: Explain the significance of torque in a seesaw’s motion.
-71. **Problem 71 (NEET, 2023)**: Discuss why a diver tucks to increase rotation speed.
-72. **Problem 72 (NEET, 2022)**: Explain how friction affects a rolling cylinder’s motion.
-73. **Problem 73 (NEET, 2021)**: Describe the role of angular momentum in a spinning top’s precession.
-74. **Problem 74 (NEET, 2024)**: Explain why a rolling object’s energy is split between translation and rotation.
-75. **Problem 75 (NEET, 2020)**: Discuss how moment of inertia affects a windmill’s rotation.
-76. **Problem 76 (NEET, 2023)**: Explain the effect of arm position on a figure skater’s spin.
-77. **Problem 77 (NEET, 2022)**: Describe how torque is used in a steering wheel.
-78. **Problem 78 (NEET, 2021)**: Explain why a rotating object’s stability depends on its angular velocity.
-79. **Problem 79 (NEET, 2024)**: Discuss the role of angular momentum in a helicopter’s rotor.
-80. **Problem 80 (NEET, 2020)**: Explain how torque balance affects a ladder’s stability.
-81. **Problem 81 (NEET, 2023)**: Describe the effect of friction on a spinning coin.
-82. **Problem 82 (NEET, 2022)**: Explain why a rolling object accelerates down an incline.
-83. **Problem 83 (NEET, 2021)**: Discuss the role of angular momentum in a child’s swing.
-84. **Problem 84 (NEET, 2024)**: Explain how the COM of a rotating arm affects joint motion.
-85. **Problem 85 (NEET, 2020)**: Describe the significance of torque in a wrench’s operation.
-86. **Problem 86 (NEET, 2023)**: Explain how angular momentum aids a tightrope walker’s balance.
-87. **Problem 87 (NEET, 2022)**: Discuss why a rolling sphere’s motion depends on its moment of inertia.
-88. **Problem 88 (NEET, 2021)**: Explain the effect of torque on a door’s rotation.
-89. **Problem 89 (NEET, 2024)**: Describe how angular momentum stabilizes a satellite’s orientation.
-90. **Problem 90 (NEET, 2020)**: Explain the role of rolling motion in a car’s wheel.
+5. A cylinder rolls down an incline of height $5 \, m$ without slipping ($g = 9.8 \, m/s^2$). Calculate the speed of the center of mass at the bottom.  
+   - (a) $7.0 \, m/s$  
+   - (b) $7.5 \, m/s$  
+   - (c) $8.0 \, m/s$  
+   - (d) $8.5 \, m/s$
 
-### NEET-Style Numerical Problems
-91. **Problem 91 (NEET, 2023)**: A 0.3 kg disk (radius 0.1 m) rolls at 4 m/s (\( I = \frac{1}{2} m r^2 \)). Calculate the total kinetic energy.
-    - Options: (a) 4.8 J (b) 5.4 J (c) 6.0 J (d) 6.6 J
-92. **Problem 92 (NEET, 2022)**: A 0.2 kg point mass rotates at 5 rad/s, 0.3 m from the axis. Calculate the angular momentum.
-    - Options: (a) 0.09 kg·m²/s (b) 0.12 kg·m²/s (c) 0.15 kg·m²/s (d) 0.18 kg·m²/s
-93. **Problem 93 (NEET, 2021)**: A 0.2 m lever with a 8 N force at 45° to the lever arm. Calculate the torque.
-    - Options: (a) 0.8 N·m (b) 1.0 N·m (c) 1.2 N·m (d) 1.4 N·m
-94. **Problem 94 (NEET, 2024)**: A 0.4 kg sphere (radius 0.05 m) rolls at 3 m/s (\( I = \frac{2}{5} m r^2 \)). Calculate the angular momentum.
-    - Options: (a) 0.06 kg·m²/s (b) 0.09 kg·m²/s (c) 0.12 kg·m²/s (d) 0.15 kg·m²/s
-95. **Problem 95 (NEET, 2020)**: A 0.1 kg disk (radius 0.1 m, \( I = \frac{1}{2} m r^2 \)) spins at 6 rad/s, catching a 0.05 kg mass at the edge. Calculate the final angular velocity.
-    - Options: (a) 3.0 rad/s (b) 3.6 rad/s (c) 4.2 rad/s (d) 4.8 rad/s
+6. A particle of mass $0.5 \, kg$ moves in a circle of radius $2 \, m$ at $v = 10 \, m/s$. Calculate the angular momentum about the center.  
+   - (a) $8 \, kg \cdot m^2/s$  
+   - (b) $9 \, kg \cdot m^2/s$  
+   - (c) $10 \, kg \cdot m^2/s$  
+   - (d) $11 \, kg \cdot m^2/s$
 
-### NEET-Style Derivation Problems
-96. **Problem 96 (NEET, 2023)**: Derive the angular momentum for a point mass in circular motion.
-97. **Problem 97 (NEET, 2022)**: Derive the total kinetic energy for a rolling sphere.
-98. **Problem 98 (NEET, 2021)**: Derive the torque equation for a pulley system.
-99. **Problem 99 (NEET, 2024)**: Derive the condition for rolling without slipping.
-100. **Problem 100 (NEET, 2020)**: Derive the conservation of angular momentum for a spinning object.
+7. A hoop of mass $2 \, kg$ and radius $0.5 \, m$ rolls down an incline at $45^\circ$ without slipping ($g = 9.8 \, m/s^2$). Calculate the acceleration of the center of mass.  
+   - (a) $3.0 \, m/s^2$  
+   - (b) $3.47 \, m/s^2$  
+   - (c) $3.8 \, m/s^2$  
+   - (d) $4.0 \, m/s^2$
 
-<!-- ## Solutions
-Find detailed solutions to all 100 problems, with step-by-step explanations and JEE/NEET strategies.
+8. A rod of $I = 0.3 \, kg \cdot m^2$ rotates at $\omega_i = 8 \, \text{rad/s}$. A torque $\tau = -3 \, N \cdot m$ acts for $2 \, s$. Calculate the final angular velocity.  
+   - (a) $2 \, \text{rad/s}$  
+   - (b) $3 \, \text{rad/s}$  
+   - (c) $4 \, \text{rad/s}$  
+   - (d) $5 \, \text{rad/s}$
 
-[View Solutions](/books/physics/rolling-torque-angular-momentum/solutions) -->
+9. A sphere rolls up an incline at $30^\circ$ with initial $v_{\text{CM}} = 6 \, m/s$ ($g = 9.8 \, m/s^2$). Calculate the distance it travels before stopping.  
+   - (a) $3.5 \, m$  
+   - (b) $4.0 \, m$  
+   - (c) $4.5 \, m$  
+   - (d) $5.0 \, m$
+
+10. A disk with $I = 0.1 \, kg \cdot m^2$ rotates at $\omega = 12 \, \text{rad/s}$. Calculate the angular momentum.  
+    - (a) $1.0 \, kg \cdot m^2/s$  
+    - (b) $1.2 \, kg \cdot m^2/s$  
+    - (c) $1.4 \, kg \cdot m^2/s$  
+    - (d) $1.6 \, kg \cdot m^2/s$
+
+11. A $1 \, kg$ mass on a $1 \, m$ rod pivoted at the center has a force $F = 6 \, N$ applied at $45^\circ$ at the end. Calculate the angular acceleration.  
+    - (a) $5.0 \, \text{rad/s}^2$  
+    - (b) $5.5 \, \text{rad/s}^2$  
+    - (c) $6.0 \, \text{rad/s}^2$  
+    - (d) $6.5 \, \text{rad/s}^2$
+
+12. A skater with $I = 6 \, kg \cdot m^2$ spins at $\omega = 3 \, \text{rad/s}$. She reduces $I$ to $3 \, kg \cdot m^2$. Calculate her new angular velocity.  
+    - (a) $5 \, \text{rad/s}$  
+    - (b) $6 \, \text{rad/s}$  
+    - (c) $7 \, \text{rad/s}$  
+    - (d) $8 \, \text{rad/s}$
+
+13. A cylinder of mass $3 \, kg$ and radius $0.2 \, m$ rolls without slipping at $v_{\text{CM}} = 5 \, m/s$. Calculate the total kinetic energy.  
+    - (a) $37.5 \, J$  
+    - (b) $40.0 \, J$  
+    - (c) $42.5 \, J$  
+    - (d) $45.0 \, J$
+
+14. A hoop rolls down an incline of height $6 \, m$ without slipping ($g = 9.8 \, m/s^2$). Calculate the speed of the center of mass at the bottom.  
+    - (a) $6.0 \, m/s$  
+    - (b) $6.5 \, m/s$  
+    - (c) $7.0 \, m/s$  
+    - (d) $7.5 \, m/s$
+
+15. A particle of mass $0.8 \, kg$ moves in a circle of radius $1.5 \, m$ at $v = 15 \, m/s$. Calculate the angular momentum about the center.  
+    - (a) $15 \, kg \cdot m^2/s$  
+    - (b) $16 \, kg \cdot m^2/s$  
+    - (c) $17 \, kg \cdot m^2/s$  
+    - (d) $18 \, kg \cdot m^2/s$
+
+16. A rod of mass $4 \, kg$ and length $1.5 \, m$ is pivoted at one end. A force $F = 20 \, N$ is applied perpendicularly at the other end. Calculate the angular acceleration.  
+    - (a) $8 \, \text{rad/s}^2$  
+    - (b) $9 \, \text{rad/s}^2$  
+    - (c) $10 \, \text{rad/s}^2$  
+    - (d) $11 \, \text{rad/s}^2$
+
+17. A disk with $I = 0.15 \, kg \cdot m^2$ rotates at $\omega_i = 10 \, \text{rad/s}$. A torque $\tau = 3 \, N \cdot m$ acts for $4 \, s$. Calculate the final angular velocity.  
+    - (a) $20 \, \text{rad/s}$  
+    - (b) $22 \, \text{rad/s}$  
+    - (c) $24 \, \text{rad/s}$  
+    - (d) $26 \, \text{rad/s}$
+
+18. A sphere rolls down an incline at $60^\circ$ without slipping ($g = 9.8 \, m/s^2$). Calculate the acceleration of the center of mass.  
+    - (a) $5.0 \, m/s^2$  
+    - (b) $5.5 \, m/s^2$  
+    - (c) $6.0 \, m/s^2$  
+    - (d) $6.5 \, m/s^2$
+
+19. A skater with $I = 8 \, kg \cdot m^2$ spins at $\omega = 2 \, \text{rad/s}$. She reduces $I$ to $4 \, kg \cdot m^2$. Calculate her new angular velocity.  
+    - (a) $3 \, \text{rad/s}$  
+    - (b) $4 \, \text{rad/s}$  
+    - (c) $5 \, \text{rad/s}$  
+    - (d) $6 \, \text{rad/s}$
+
+20. A hoop of mass $1 \, kg$ and radius $0.2 \, m$ rolls without slipping at $v_{\text{CM}} = 3 \, m/s$. Calculate the total kinetic energy.  
+    - (a) $4.0 \, J$  
+    - (b) $4.5 \, J$  
+    - (c) $5.0 \, J$  
+    - (d) $5.5 \, J$
+
+21. A particle of mass $0.6 \, kg$ moves in a circle of radius $1 \, m$ at $v = 12 \, m/s$. Calculate the angular momentum about the center.  
+    - (a) $6.0 \, kg \cdot m^2/s$  
+    - (b) $6.5 \, kg \cdot m^2/s$  
+    - (c) $7.0 \, kg \cdot m^2/s$  
+    - (d) $7.2 \, kg \cdot m^2/s$
+
+22. A rod of $I = 0.5 \, kg \cdot m^2$ rotates at $\omega_i = 4 \, \text{rad/s}$. A torque $\tau = -2 \, N \cdot m$ acts for $3 \, s$. Calculate the final angular velocity.  
+    - (a) $-2 \, \text{rad/s}$  
+    - (b) $-1 \, \text{rad/s}$  
+    - (c) $0 \, \text{rad/s}$  
+    - (d) $1 \, \text{rad/s}$
+
+23. A sphere rolls up an incline at $45^\circ$ with initial $v_{\text{CM}} = 8 \, m/s$ ($g = 9.8 \, m/s^2$). Calculate the distance it travels before stopping.  
+    - (a) $4.5 \, m$  
+    - (b) $5.0 \, m$  
+    - (c) $5.5 \, m$  
+    - (d) $6.0 \, m$
+
+24. A disk of mass $4 \, kg$ and radius $0.5 \, m$ has a torque $\tau = 10 \, N \cdot m$ applied about its center. Calculate the angular acceleration.  
+    - (a) $8 \, \text{rad/s}^2$  
+    - (b) $9 \, \text{rad/s}^2$  
+    - (c) $10 \, \text{rad/s}^2$  
+    - (d) $11 \, \text{rad/s}^2$
+
+25. A cylinder rolls down an incline of height $3 \, m$ without slipping ($g = 9.8 \, m/s^2$). Calculate the speed of the center of mass at the bottom.  
+    - (a) $5.5 \, m/s$  
+    - (b) $6.0 \, m/s$  
+    - (c) $6.5 \, m/s$  
+    - (d) $7.0 \, m/s$
+
+26. A $2 \, kg$ mass on a $1.2 \, m$ rod pivoted at the center has a force $F = 15 \, N$ applied perpendicularly at the end. Calculate the angular acceleration.  
+    - (a) $10 \, \text{rad/s}^2$  
+    - (b) $11 \, \text{rad/s}^2$  
+    - (c) $12 \, \text{rad/s}^2$  
+    - (d) $13 \, \text{rad/s}^2$
+
+27. A skater with $I = 3 \, kg \cdot m^2$ spins at $\omega = 6 \, \text{rad/s}$. She reduces $I$ to $1.5 \, kg \cdot m^2$. Calculate her new angular velocity.  
+    - (a) $10 \, \text{rad/s}$  
+    - (b) $11 \, \text{rad/s}$  
+    - (c) $12 \, \text{rad/s}$  
+    - (d) $13 \, \text{rad/s}$
+
+28. A hoop rolls down an incline at $60^\circ$ without slipping ($g = 9.8 \, m/s^2$). Calculate the acceleration of the center of mass.  
+    - (a) $3.5 \, m/s^2$  
+    - (b) $4.0 \, m/s^2$  
+    - (c) $4.24 \, m/s^2$  
+    - (d) $4.5 \, m/s^2$
+
+29. A disk with $I = 0.25 \, kg \cdot m^2$ rotates at $\omega = 15 \, \text{rad/s}$. Calculate the angular momentum.  
+    - (a) $3.0 \, kg \cdot m^2/s$  
+    - (b) $3.5 \, kg \cdot m^2/s$  
+    - (c) $3.75 \, kg \cdot m^2/s$  
+    - (d) $4.0 \, kg \cdot m^2/s$
+
+30. A sphere of mass $2 \, kg$ and radius $0.4 \, m$ rolls without slipping at $v_{\text{CM}} = 6 \, m/s$. Calculate the total kinetic energy.  
+    - (a) $36 \, J$  
+    - (b) $38 \, J$  
+    - (c) $40 \, J$  
+    - (d) $42 \, J$
+
+31. A particle of mass $1 \, kg$ moves in a circle of radius $0.5 \, m$ at $v = 20 \, m/s$. Calculate the angular momentum about the center.  
+    - (a) $8 \, kg \cdot m^2/s$  
+    - (b) $9 \, kg \cdot m^2/s$  
+    - (c) $10 \, kg \cdot m^2/s$  
+    - (d) $11 \, kg \cdot m^2/s$
+
+32. A rod of $I = 0.2 \, kg \cdot m^2$ rotates at $\omega_i = 5 \, \text{rad/s}$. A torque $\tau = 4 \, N \cdot m$ acts for $2 \, s$. Calculate the final angular velocity.  
+    - (a) $40 \, \text{rad/s}$  
+    - (b) $42 \, \text{rad/s}$  
+    - (c) $44 \, \text{rad/s}$  
+    - (d) $45 \, \text{rad/s}$
+
+33. A sphere rolls down an incline of height $7 \, m$ without slipping ($g = 9.8 \, m/s^2$). Calculate the speed of the center of mass at the bottom.  
+    - (a) $8.0 \, m/s$  
+    - (b) $8.5 \, m/s$  
+    - (c) $9.0 \, m/s$  
+    - (d) $9.5 \, m/s$
+
+34. A hoop rolls up an incline at $30^\circ$ with initial $v_{\text{CM}} = 5 \, m/s$ ($g = 9.8 \, m/s^2$). Calculate the distance it travels before stopping.  
+    - (a) $2.0 \, m$  
+    - (b) $2.5 \, m$  
+    - (c) $3.0 \, m$  
+    - (d) $3.5 \, m$
+
+35. A disk of mass $5 \, kg$ and radius $0.6 \, m$ has a torque $\tau = 12 \, N \cdot m$ applied about its center. Calculate the angular acceleration.  
+    - (a) $6 \, \text{rad/s}^2$  
+    - (b) $7 \, \text{rad/s}^2$  
+    - (c) $8 \, \text{rad/s}^2$  
+    - (d) $9 \, \text{rad/s}^2$
+
+---
+
+## Conceptual Problems
+
+36. What does torque cause in a rotating system?  
+   - (a) Linear acceleration  
+   - (b) Angular acceleration  
+   - (c) Linear displacement  
+   - (d) Angular velocity
+
+37. When is angular momentum conserved?  
+   - (a) When net external force is zero  
+   - (b) When net external torque is zero  
+   - (c) When kinetic energy is conserved  
+   - (d) When linear momentum is conserved
+
+38. What does rolling without slipping imply?  
+   - (a) $v_{\text{CM}} = R \omega$  
+   - (b) $v_{\text{CM}} \neq R \omega$  
+   - (c) $v_{\text{CM}} = 0$  
+   - (d) $\omega = 0$
+
+39. What is the unit of angular momentum?  
+   - (a) $kg \cdot m^2/s$  
+   - (b) $N \cdot m$  
+   - (c) $J$  
+   - (d) $kg \cdot m/s$
+
+40. What happens to angular velocity when moment of inertia decreases?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+41. How does friction affect rolling motion down an incline?  
+   - (a) Provides linear acceleration  
+   - (b) Provides torque for rotation  
+   - (c) Causes slipping  
+   - (d) Reduces angular velocity
+
+42. What is the physical significance of $I \omega$?  
+   - (a) Rotational kinetic energy  
+   - (b) Angular momentum  
+   - (c) Torque  
+   - (d) Moment of inertia
+
+43. What does a negative torque imply?  
+   - (a) Increases angular velocity  
+   - (b) Decreases angular velocity  
+   - (c) No change in angular velocity  
+   - (d) Increases linear velocity
+
+44. What is the dimension of torque?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+45. What happens to the speed of a rolling object compared to a sliding object down an incline?  
+   - (a) Rolling is faster  
+   - (b) Sliding is faster  
+   - (c) Both are the same  
+   - (d) Depends on the object
+
+46. What does a zero total kinetic energy in rolling indicate?  
+   - (a) Object is still rotating  
+   - (b) Object is at rest  
+   - (c) Object is sliding  
+   - (d) Object is spinning
+
+47. What is the significance of $r F \sin \theta$?  
+   - (a) Angular momentum  
+   - (b) Rotational kinetic energy  
+   - (c) Torque  
+   - (d) Moment of inertia
+
+48. What does the conservation of angular momentum imply?  
+   - (a) Constant linear velocity  
+   - (b) Constant angular velocity  
+   - (c) Constant angular momentum when $\tau_{\text{net}} = 0$  
+   - (d) Constant kinetic energy
+
+49. How does the moment of inertia affect rolling acceleration?  
+   - (a) Larger $I$ increases acceleration  
+   - (b) Larger $I$ decreases acceleration  
+   - (c) No effect  
+   - (d) Depends on the angle
+
+50. What does a zero net torque imply?  
+   - (a) No rotation  
+   - (b) Constant angular velocity  
+   - (c) No angular momentum  
+   - (d) No kinetic energy
+
+---
+
+## Derivation Problems
+
+51. Derive Newton’s second law for rotation $\tau_{\text{net}} = I \alpha$.
+
+52. Derive the conservation of angular momentum for a skater pulling in her arms.
+
+53. Derive the condition for rolling without slipping $v_{\text{CM}} = R \omega$.
+
+54. Derive the angular momentum of a particle $L = m v r \sin \theta$.
+
+55. Derive the total kinetic energy of a rolling object.
+
+56. Derive the acceleration of a cylinder rolling down an incline.
+
+57. Derive the torque due to gravity on a rod pivoted at one end.
+
+58. Derive the angular momentum of a rigid body $L = I \omega$.
+
+59. Derive the speed of a rolling object down an incline using energy conservation.
+
+60. Derive the moment of inertia of a thin hoop about its center.
+
+61. Derive the work done by a constant torque $W = \tau \theta$.
+
+62. Derive the final angular velocity using torque and angular momentum.
+
+63. Derive the distance traveled by a rolling object up an incline.
+
+64. Derive the effect of torque on angular momentum $\frac{dL}{dt} = \tau$.
+
+65. Derive the acceleration of a hoop rolling down an incline.
+
+---
+
+## NEET-style Conceptual Problems
+
+66. What is the unit of torque in SI units?  
+   - (a) $N \cdot m$  
+   - (b) $J$  
+   - (c) $kg \cdot m^2/s$  
+   - (d) $W$
+
+67. What does a zero angular momentum indicate?  
+   - (a) Object is at rest or not rotating  
+   - (b) Object is sliding  
+   - (c) Object is rolling  
+   - (d) Object has no mass
+
+68. Which quantity is conserved in rolling motion down an incline?  
+   - (a) Angular velocity  
+   - (b) Linear velocity  
+   - (c) Mechanical energy  
+   - (d) Angular acceleration
+
+69. What happens to kinetic energy when an object rolls without slipping?  
+   - (a) Only translational energy  
+   - (b) Only rotational energy  
+   - (c) Both translational and rotational energy  
+   - (d) No kinetic energy
+
+70. What is the dimension of angular momentum?  
+   - (a) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-2}]$  
+   - (d) $[\text{L} \text{T}^{-1}]$
+
+71. What does torque depend on?  
+   - (a) Force only  
+   - (b) Distance only  
+   - (c) Force, distance, and angle between them  
+   - (d) Mass of the object
+
+72. What is the role of friction in rolling motion?  
+   - (a) Causes slipping  
+   - (b) Provides torque for rotation  
+   - (c) Increases linear speed  
+   - (d) Reduces angular velocity
+
+73. What happens to angular velocity when a skater pulls in her arms?  
+   - (a) Decreases  
+   - (b) Increases  
+   - (c) Remains the same  
+   - (d) Becomes zero
+
+74. Why does a rolling object have less acceleration than a sliding object?  
+   - (a) Rotational energy reduces linear acceleration  
+   - (b) Friction increases acceleration  
+   - (c) Gravity is less for rolling  
+   - (d) Mass distribution changes
+
+75. What is the unit of moment of inertia?  
+   - (a) $kg \cdot m^2$  
+   - (b) $N \cdot m$  
+   - (c) $J$  
+   - (d) $kg \cdot m/s$
+
+76. What does a constant angular momentum imply?  
+   - (a) No net external torque  
+   - (b) Constant linear velocity  
+   - (c) Constant kinetic energy  
+   - (d) Constant potential energy
+
+77. Which motion involves both translation and rotation?  
+   - (a) Pure rotation  
+   - (b) Pure translation  
+   - (c) Rolling motion  
+   - (d) Sliding motion
+
+78. What is the direction of torque in a rotating system?  
+   - (a) Along the force  
+   - (b) Along the radius  
+   - (c) Perpendicular to the plane of $\vec{r}$ and $\vec{F}$  
+   - (d) Along the velocity
+
+79. What does a pseudo-force do in a rotating frame?  
+   - (a) Conserves angular momentum  
+   - (b) Affects rotational dynamics  
+   - (c) Provides centripetal force  
+   - (d) Reduces friction
+
+80. What is the dimension of angular velocity?  
+   - (a) $[\text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-1}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+81. What is the role of angular momentum in a spinning object?  
+   - (a) Increases linear speed  
+   - (b) Maintains rotational motion  
+   - (c) Reduces torque  
+   - (d) Increases potential energy
+
+82. What happens to total kinetic energy when a rolling object stops?  
+   - (a) Becomes zero  
+   - (b) Converts to potential energy  
+   - (c) Remains constant  
+   - (d) Increases
+
+83. Why does torque depend on the angle between force and radius?  
+   - (a) It affects linear acceleration  
+   - (b) It determines the perpendicular component  
+   - (c) It changes the mass  
+   - (d) It affects velocity
+
+84. What is the significance of $\frac{1}{2} M v_{\text{CM}}^2 + \frac{1}{2} I \omega^2$?  
+   - (a) Angular momentum  
+   - (b) Total kinetic energy of rolling  
+   - (c) Torque  
+   - (d) Potential energy
+
+85. What is the unit of angular acceleration?  
+   - (a) $\text{rad/s}^2$  
+   - (b) $N \cdot m$  
+   - (c) $J$  
+   - (d) $kg \cdot m^2/s$
+
+86. What does a zero acceleration of the center of mass indicate in rolling?  
+   - (a) Object is sliding  
+   - (b) Object is at rest or moving uniformly  
+   - (c) Object is spinning faster  
+   - (d) Object is precessing
+
+87. What is the physical significance of $\frac{dL}{dt} = \tau$?  
+   - (a) Work-energy theorem  
+   - (b) Torque changes angular momentum  
+   - (c) Angular momentum conservation  
+   - (d) Power in rotation
+
+88. Why does a hoop roll slower than a sphere down an incline?  
+   - (a) Larger moment of inertia  
+   - (b) Smaller mass  
+   - (c) Larger radius  
+   - (d) Smaller friction
+
+89. What is the dimension of moment of inertia?  
+   - (a) $[\text{M} \text{L}^2]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{M} \text{L}^2 \text{T}^{-1}]$  
+   - (d) $[\text{L} \text{T}^{-2}]$
+
+90. How does friction contribute to rolling motion?  
+   - (a) Increases linear speed  
+   - (b) Provides torque for rotation  
+   - (c) Reduces angular momentum  
+   - (d) Increases potential energy
+
+91. What is the role of conservation in a spinning rocket?  
+   - (a) Determines linear speed  
+   - (b) Maintains angular momentum  
+   - (c) Increases kinetic energy  
+   - (d) Reduces torque
+
+92. What does a zero speed of the center of mass indicate?  
+   - (a) Object is still rotating  
+   - (b) Object is at rest  
+   - (c) Object is sliding  
+   - (d) Object is precessing
+
+93. What is the physical significance of $m v r \sin \theta$?  
+   - (a) Angular momentum of a particle  
+   - (b) Rotational kinetic energy  
+   - (c) Torque  
+   - (d) Moment of inertia
+
+94. What is the dimension of linear velocity in rolling?  
+   - (a) $[\text{L} \text{T}^{-1}]$  
+   - (b) $[\text{M} \text{L} \text{T}^{-1}]$  
+   - (c) $[\text{L} \text{T}^{-2}]$  
+   - (d) $[\text{M} \text{L}^2 \text{T}^{-1}]$
+
+95. Why does moment of inertia affect angular momentum?  
+   - (a) It changes linear velocity  
+   - (b) It determines $L = I \omega$  
+   - (c) It changes torque  
+   - (d) It changes kinetic energy
+
+---
+
+## NEET-style Numerical Problems
+
+96. A rod of mass $2 \, kg$ and length $1 \, m$ is pivoted at one end. A force $F = 8 \, N$ is applied perpendicularly at the other end. What is the angular acceleration?  
+   - (a) $10 \, \text{rad/s}^2$  
+   - (b) $11 \, \text{rad/s}^2$  
+   - (c) $12 \, \text{rad/s}^2$  
+   - (d) $13 \, \text{rad/s}^2$
+
+97. A disk with $I = 0.1 \, kg \cdot m^2$ rotates at $\omega = 8 \, \text{rad/s}$. What is the angular momentum?  
+   - (a) $0.6 \, kg \cdot m^2/s$  
+   - (b) $0.7 \, kg \cdot m^2/s$  
+   - (c) $0.8 \, kg \cdot m^2/s$  
+   - (d) $0.9 \, kg \cdot m^2/s$
+
+98. A cylinder rolls down an incline of height $2 \, m$ without slipping ($g = 9.8 \, m/s^2$). What is the speed of the center of mass at the bottom?  
+   - (a) $4.5 \, m/s$  
+   - (b) $5.0 \, m/s$  
+   - (c) $5.5 \, m/s$  
+   - (d) $6.0 \, m/s$
+
+99. A skater with $I = 3 \, kg \cdot m^2$ spins at $\omega = 4 \, \text{rad/s}$. She reduces $I$ to $1 \, kg \cdot m^2$. What is her new angular velocity?  
+   - (a) $10 \, \text{rad/s}$  
+   - (b) $11 \, \text{rad/s}$  
+   - (c) $12 \, \text{rad/s}$  
+   - (d) $13 \, \text{rad/s}$
+
+100. A sphere of mass $1 \, kg$ and radius $0.2 \, m$ rolls without slipping at $v_{\text{CM}} = 3 \, m/s$. What is the total kinetic energy?  
+    - (a) $4.5 \, J$  
+    - (b) $5.0 \, J$  
+    - (c) $5.5 \, J$  
+    - (d) $6.0 \, J$
 
 ## Back to Chapter
 [Return to Rolling, Torque, and Angular Momentum Chapter](./index.md)
