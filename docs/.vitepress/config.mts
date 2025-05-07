@@ -113,43 +113,270 @@ export default defineConfig({
             if (id.includes('mathjax')) {
               return 'mathjax'
             }
-            // if (id.includes('vue') || id.includes('vitepress')) {
-            //   return 'vue'
-            // }
-            // Mechanics pages
-            if (
-              id.includes('/books/physics/measurement') ||
-              id.includes('/books/physics/motion-straight-line') ||
-              id.includes('/books/physics/vectors') ||
-              id.includes('/books/physics/motion-2d-3d') ||
-              id.includes('/books/physics/force-motion-1') ||
-              id.includes('/books/physics/force-motion-2') ||
-              id.includes('/books/physics/kinetic-energy-work') ||
-              id.includes('/books/physics/potential-energy-conservation') ||
-              id.includes('/books/physics/center-mass-momentum') ||
-              id.includes('/books/physics/rotation') ||
-              id.includes('/books/physics/rolling-torque-angular-momentum')
-            ) {
-              return 'physics-mechanics'
+            //physics v1 books
+            if (id.includes('books/physics/v1/atoms')) {
+              return 'physics-v1-atoms'
+            }
+            if (id.includes('books/physics/v1/capacitance')) {
+              return 'physics-v1-capacitance'
+            }
+            if (id.includes('books/physics/v1/center-mass-momentum')) {
+              return 'physics-v1-center-mass-momentum'
+            }
+            if (id.includes('books/physics/v1/circuits')) {
+              return 'physics-v1-circuits'
+            }
+            if (id.includes('books/physics/v1/conduction-solids')) {
+              return 'physics-v1-conduction-solids'
+            }
+            if (id.includes('books/physics/v1/coulombs-law')) {
+              return 'physics-v1-coulombs-law'
+            }
+            if (id.includes('books/physics/v1/current-resistance')) {
+              return 'physics-v1-current-resistance'
+            }
+            if (id.includes('books/physics/v1/diffraction')) {
+              return 'physics-v1-diffraction'
+            }
+            if (id.includes('books/physics/v1/electric-fields')) {
+              return 'physics-v1-electric-fields'
+            }
+            if (id.includes('books/physics/v1/electric-potential')) {
+              return 'physics-v1-electric-potential'
+            }
+            if (id.includes('books/physics/v1/electromagnetic-oscillations-ac')) {
+              return 'physics-v1-electromagnetic-oscillations-ac'
+            }
+            if (id.includes('books/physics/v1/electromagnetic-waves')) {
+              return 'physics-v1-electromagnetic-waves'
+            }
+            if (id.includes('books/physics/v1/entropy-thermodynamics')) {
+              return 'physics-v1-entropy-thermodynamics'
+            }
+            if (id.includes('books/physics/v1/equilibrium-elasticity')) {
+              return 'physics-v1-equilibrium-elasticity'
+            }
+            if (id.includes('books/physics/v1/fluids')) {
+              return 'physics-v1-fluids'
+            }
+            if (id.includes('books/physics/v1/force-motion-1')) {
+              return 'physics-v1-force-motion-1'
+            }
+            if (id.includes('books/physics/v1/force-motion-2')) {
+              return 'physics-v1-force-motion-2'
+            }
+            if (id.includes('books/physics/v1/gauss-law')) {
+              return 'physics-v1-gauss-law'
+            }
+            if (id.includes('books/physics/v1/gravitation')) {
+              return 'physics-v1-gravitation'
+            }
+            if (id.includes('books/physics/v1/images')) {
+              return 'physics-v1-images'
+            }
+            if (id.includes('books/physics/v1/induction-inductance')) {
+              return 'physics-v1-induction-inductance'
+            }
+            if (id.includes('books/physics/v1/interference')) {
+              return 'physics-v1-interference'
+            }
+            if (id.includes('books/physics/v1/kinetic-energy-work')) {
+              return 'physics-v1-kinetic-energy-work'
+            }
+            if (id.includes('books/physics/v1/kinetic-theory-gases')) {
+              return 'physics-v1-kinetic-theory-gases'
+            }
+            if (id.includes('books/physics/v1/magnetic-fields')) {
+              return 'physics-v1-magnetic-fields'
+            }
+            if (id.includes('books/physics/v1/magnetic-fields-currents')) {
+              return 'physics-v1-magnetic-fields-currents'
+            }
+            if (id.includes('books/physics/v1/matter-waves-advanced')) {
+              return 'physics-v1-matter-waves-advanced'
+            }
+            if (id.includes('books/physics/v1/maxwells-equations')) {
+              return 'physics-v1-maxwells-equations'
+            }
+            if (id.includes('books/physics/v1/measurement')) {
+              return 'physics-v1-measurement'
+            }
+            if (id.includes('books/physics/v1/motion-2d-3d')) {
+              return 'physics-v1-motion-2d-3d'
+            }
+            if (id.includes('books/physics/v1/motion-straight-line')) {
+              return 'physics-v1-motion-straight-line'
+            }
+            if (id.includes('books/physics/v1/nuclear-energy')) {
+              return 'physics-v1-nuclear-energy'
+            }
+            if (id.includes('books/physics/v1/nuclear-physics')) {
+              return 'physics-v1-nuclear-physics'
+            }
+            if (id.includes('books/physics/v1/photons-matter-waves')) {
+              return 'physics-v1-photons-matter-waves'
+            }
+            if (id.includes('books/physics/v1/potential-energy-conservation')) {
+              return 'physics-v1-potential-energy-conservation'
+            }
+            if (id.includes('books/physics/v1/quarks-leptons')) {
+              return 'physics-v1-quarks-leptons'
+            }
+            if (id.includes('books/physics/v1/relativity')) {
+              return 'physics-v1-relativity'
+            }
+            if (id.includes('books/physics/v1/rolling-torque-angular-momentum')) {
+              return 'physics-v1-rolling-torque-angular-momentum'
+            }
+            if (id.includes('books/physics/v1/rotation')) {
+              return 'physics-v1-rotation'
+            }
+            if (id.includes('books/physics/v1/thermodynamics-1')) {
+              return 'physics-v1-thermodynamics-1'
+            }
+            if (id.includes('books/physics/v1/vectors')) {
+              return 'physics-v1-vectors'
+            }
+            if (id.includes('books/physics/v1/waves-1')) {
+              return 'physics-v1-waves-1'
+            }
+            if (id.includes('books/physics/v1/waves-2')) {
+              return 'physics-v1-waves-2'
+            }
+            // Other physics pages (e.g., Thermodynamics, Waves, etc.)
+            if (id.includes('/books/physics/v1') || id.includes('/jee-neet/physics/v1')) {
+              return 'physics-v1-other'
             }
 
-            // Electromagnetism pages
-            if (
-              id.includes('/books/physics/coulombs-law') ||
-              id.includes('/books/physics/electric-fields') ||
-              id.includes('/books/physics/gauss-law') ||
-              id.includes('/books/physics/electric-potential') ||
-              id.includes('/books/physics/capacitance') ||
-              id.includes('/books/physics/current-resistance') ||
-              id.includes('/books/physics/circuits') ||
-              id.includes('/books/physics/magnetic-fields') ||
-              id.includes('/books/physics/magnetic-fields-currents') ||
-              id.includes('/books/physics/induction-inductance') ||
-              id.includes('/books/physics/electromagnetic-oscillations-ac') ||
-              id.includes('/books/physics/maxwells-equations') ||
-              id.includes('/books/physics/electromagnetic-waves')
-            ) {
-              return 'physics-electromagnetism'
+            //v0 physics book
+            if (id.includes('books/physics/atoms')) {
+              return 'physics-v0-atoms'
+            }
+            if (id.includes('books/physics/capacitance')) {
+              return 'physics-v0-capacitance'
+            }
+            if (id.includes('books/physics/center-mass-momentum')) {
+              return 'physics-v0-center-mass-momentum'
+            }
+            if (id.includes('books/physics/circuits')) {
+              return 'physics-v0-circuits'
+            }
+            if (id.includes('books/physics/conduction-solids')) {
+              return 'physics-v0-conduction-solids'
+            }
+            if (id.includes('books/physics/coulombs-law')) {
+              return 'physics-v0-coulombs-law'
+            }
+            if (id.includes('books/physics/current-resistance')) {
+              return 'physics-v0-current-resistance'
+            }
+            if (id.includes('books/physics/diffraction')) {
+              return 'physics-v0-diffraction'
+            }
+            if (id.includes('books/physics/electric-fields')) {
+              return 'physics-v0-electric-fields'
+            }
+            if (id.includes('books/physics/electric-potential')) {
+              return 'physics-v0-electric-potential'
+            }
+            if (id.includes('books/physics/electromagnetic-oscillations-ac')) {
+              return 'physics-v0-electromagnetic-oscillations-ac'
+            }
+            if (id.includes('books/physics/electromagnetic-waves')) {
+              return 'physics-v0-electromagnetic-waves'
+            }
+            if (id.includes('books/physics/entropy-thermodynamics')) {
+              return 'physics-v0-entropy-thermodynamics'
+            }
+            if (id.includes('books/physics/equilibrium-elasticity')) {
+              return 'physics-v0-equilibrium-elasticity'
+            }
+            if (id.includes('books/physics/fluids')) {
+              return 'physics-v0-fluids'
+            }
+            if (id.includes('books/physics/force-motion-1')) {
+              return 'physics-v0-force-motion-1'
+            }
+            if (id.includes('books/physics/force-motion-2')) {
+              return 'physics-v0-force-motion-2'
+            }
+            if (id.includes('books/physics/gauss-law')) {
+              return 'physics-v0-gauss-law'
+            }
+            if (id.includes('books/physics/gravitation')) {
+              return 'physics-v0-gravitation'
+            }
+            if (id.includes('books/physics/images')) {
+              return 'physics-v0-images'
+            }
+            if (id.includes('books/physics/induction-inductance')) {
+              return 'physics-v0-induction-inductance'
+            }
+            if (id.includes('books/physics/interference')) {
+              return 'physics-v0-interference'
+            }
+            if (id.includes('books/physics/kinetic-energy-work')) {
+              return 'physics-v0-kinetic-energy-work'
+            }
+            if (id.includes('books/physics/kinetic-theory-gases')) {
+              return 'physics-v0-kinetic-theory-gases'
+            }
+            if (id.includes('books/physics/magnetic-fields')) {
+              return 'physics-v0-magnetic-fields'
+            }
+            if (id.includes('books/physics/magnetic-fields-currents')) {
+              return 'physics-v0-magnetic-fields-currents'
+            }
+            if (id.includes('books/physics/matter-waves-advanced')) {
+              return 'physics-v0-matter-waves-advanced'
+            }
+            if (id.includes('books/physics/maxwells-equations')) {
+              return 'physics-v0-maxwells-equations'
+            }
+            if (id.includes('books/physics/measurement')) {
+              return 'physics-v0-measurement'
+            }
+            if (id.includes('books/physics/motion-2d-3d')) {
+              return 'physics-v0-motion-2d-3d'
+            }
+            if (id.includes('books/physics/motion-straight-line')) {
+              return 'physics-v0-motion-straight-line'
+            }
+            if (id.includes('books/physics/nuclear-energy')) {
+              return 'physics-v0-nuclear-energy'
+            }
+            if (id.includes('books/physics/nuclear-physics')) {
+              return 'physics-v0-nuclear-physics'
+            }
+            if (id.includes('books/physics/photons-matter-waves')) {
+              return 'physics-v0-photons-matter-waves'
+            }
+            if (id.includes('books/physics/potential-energy-conservation')) {
+              return 'physics-v0-potential-energy-conservation'
+            }
+            if (id.includes('books/physics/quarks-leptons')) {
+              return 'physics-v0-quarks-leptons'
+            }
+            if (id.includes('books/physics/relativity')) {
+              return 'physics-v0-relativity'  
+            }
+            if (id.includes('books/physics/rolling-torque-angular-momentum')) {
+              return 'physics-v0-rolling-torque-angular-momentum'
+            }
+            if (id.includes('books/physics/rotation')) {
+              return 'physics-v0-rotation'
+            }
+            if (id.includes('books/physics/thermodynamics-1')) {
+              return 'physics-v0-thermodynamics-1'
+            }
+            if (id.includes('books/physics/vectors')) {
+              return 'physics-v0-vectors'
+            }
+            if (id.includes('books/physics/waves-1')) {
+              return 'physics-v0-waves-1'
+            }
+            if (id.includes('books/physics/waves-2')) {
+              return 'physics-v0-waves-2' 
             }
 
             // Other physics pages (e.g., Thermodynamics, Waves, etc.)

@@ -1,3 +1,3 @@
 # Booklets
 
-[Physics (Beta)](./physics/index.md)
+[Physics (Beta)](./physics/v1/index.md)
